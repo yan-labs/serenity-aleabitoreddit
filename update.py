@@ -33,6 +33,8 @@ def write_csv(rows):
             "retweetedBy", "likes", "retweets", "replies", "quotes", "views",
             "bookmarks", "media_count", "media_urls", "link_urls",
             "quoted_id", "quoted_author", "quoted_text", "text"]
+    def csv_text(text):
+        return "\n".join(line.rstrip() for line in (text or "").replace("\r", " ").split("\n"))
     with open(os.path.join(DATA, "aleabitoreddit_tweets.csv"), "w", newline="") as f:
         w = csv.DictWriter(f, fieldnames=cols); w.writeheader()
         for t in rows:
@@ -47,8 +49,8 @@ def write_csv(rows):
                 "media_urls": " | ".join(x.get("url", "") for x in media if isinstance(x, dict)),
                 "link_urls": " | ".join(t.get("urls") or []),
                 "quoted_id": qt.get("id"), "quoted_author": (qt.get("author") or {}).get("screenName"),
-                "quoted_text": (qt.get("text") or "").replace("\n", " "),
-                "text": (t.get("text") or "").replace("\r", " ")})
+                "quoted_text": csv_text(qt.get("text")).replace("\n", " "),
+                "text": csv_text(t.get("text"))})
 
 def write_ticker_stats(rows):
     TICK = re.compile(r"\$([A-Za-z]{1,6})\b")
@@ -60,7 +62,7 @@ def write_ticker_stats(rows):
             u = m.upper(); c[u] += 1; first.setdefault(u, d); last[u] = d
     with open(os.path.join(DATA, "ticker_stats.txt"), "w") as f:
         f.write(f"Total tweets: {len(rows)}\nDistinct $tickers: {len(c)}\n\nticker  mentions  first_seen  last_seen\n")
-        for tk, n in c.most_common():
+        for tk, n in sorted(c.items(), key=lambda item: (-item[1], item[0])):
             if n >= 2:
                 f.write(f"{tk:8} {n:6}   {first[tk]}  {last[tk]}\n")
 

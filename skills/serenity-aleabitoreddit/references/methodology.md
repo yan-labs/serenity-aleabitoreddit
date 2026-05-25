@@ -223,6 +223,11 @@ dated example from the corpus. A runnable checklist is at the bottom.
 
 - **Standalone technical analysis** — "TA is snake oil without fundamentals,
   catalysts, macro." "Float and fundamentals > lines on a chart."
+- **Credentialed certainty without supply-chain fluency** — May 2026 media
+  critique: credentials or background matter less than whether the person can
+  reason correctly about CW laser nuances, valuation, InP substrate moats, and
+  crucible-processing constraints. Treat confident commentary that conflates
+  these layers as noise even when it comes from polished media voices.
 - **Insider sales as a bear signal** — explicitly "the dumbest metric" / noise.
 - **Conflating supply-chain layers** — substrate ≠ epiwafer ≠ feedstock; foundry
   ≠ module. He corrects these constantly.
