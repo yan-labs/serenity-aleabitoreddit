@@ -123,6 +123,7 @@ his views.**
 | 2026-03-27 | Win Semi | Long $4.1B MC | Outperformed during selloff |
 | 2026-03-28 | XLU/EWY | **Admitted Iran killed rate-cut pricing; positions hurt** | ⚠️ honest self-correction |
 | 2026-03-31 | RPI | Earnings beat, 58% growth (vs 14% consensus) | +44.76% on day ✅ |
+| 2026-05-26 | RPI | "Close to ~3x returns" after media "meme stock" label | Thesis vindication; used as example of retail paper-handing winners |
 | 2026-03-31 | NVDA→LITE/COHR/MRVL | $6B total optical investment | Validates photonics chain |
 
 ## 2026-04 to 05

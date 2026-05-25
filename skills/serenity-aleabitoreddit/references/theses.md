@@ -558,7 +558,10 @@ superseded this list by 2026.)
   agent orchestration ("OpenClaw/PicoClaw" bare-metal swarms bypass VM
   detection). Modeled 48-55% growth vs. 14-17% consensus; **actual 58%**;
   +44.76% on earnings (Mar 31). Defended hard against the "meme stock" label.
-  Small position. ~$1B MC.
+  May 26 update: close to ~3x returns despite media "meme stock" framing; he
+  cites it as another example of retail paper-handing after institutional bear
+  commentary, then watching his bottleneck names rise 3x-15x+. Small position.
+  ~$1B MC.
 - **IBIT / BTC / MSTR:** Long-term BTC bull; covered-call income on IBIT;
   "always a great long"; rainbow-chart "Bitcoin is Dead" zone ($66,666, Mar 29)
   = historical buy. 2028 halving thesis. ⚠️ Clarity Act flagged as a real crash
