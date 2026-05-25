@@ -1,0 +1,62 @@
+# serenity-aleabitoreddit
+
+Everything distilled from trader **Serenity
+([@aleabitoreddit](https://x.com/aleabitoreddit))** — an AI/semiconductor
+*supply-chain* analyst on X — in one self-contained repo: **his raw tweet
+archive**, a **period-by-period distillation**, and a ready-to-use **agent
+skill** that applies his analytical lens to US-stock ideas.
+
+Built from **~5,522 tweets** spanning **2025-07-02 → 2026-05-24** (the account's
+full life to date).
+
+> ⚠️ **Not financial advice. Decision-support only.** This skill never trades and
+> never places or cancels orders. Serenity's self-reported returns are unverified
+> and carry obvious survivorship/selection bias; his names are volatile
+> micro/small-caps. Use the lens to ask better questions, not to copy trades.
+
+## What's in here
+
+| Path | What it is |
+|---|---|
+| `SKILL.md` | The agent skill: who he is, his edge, the three workflows, risk framing |
+| `references/methodology.md` | His framework as ~12 named, transferable principles + a checklist for any new name |
+| `references/theses.md` | Per-ticker knowledge base, merged across all periods, grouped by sub-sector, with conviction tiers and how each evolved |
+| `references/track-record.md` | Chronological timeline of his dated calls + an honest calibration note |
+| `analysis/*.md` | The six period analyses the skill was synthesized from (provenance) |
+| `data/aleabitoreddit_tweets.json` | Full tweet archive, all fields (text, metrics, quoted tweets, media, timestamps) |
+| `data/aleabitoreddit_tweets.csv` | Same archive as a spreadsheet (id, url, time, text, likes, views, etc.) |
+| `data/ticker_stats.txt` | His `$ticker` universe by mention count + first/last seen |
+| `prep.py` | Condenses the tweet JSON into monthly chunks and recomputes the ticker stats |
+
+## Use it as a skill
+
+Drop the folder into an agent's skills directory:
+
+```bash
+# Claude Code (project-local)
+cp -r serenity-aleabitoreddit <your-project>/.agents/skills/
+ln -s ../../.agents/skills/serenity-aleabitoreddit <your-project>/.claude/skills/serenity-aleabitoreddit
+```
+
+It then triggers on questions about AI/semiconductor/optical/memory/power/
+neocloud names, supply-chain bottleneck analysis, or evaluating a stock idea.
+
+## His edge, in one line
+
+Don't buy the obvious shovel-seller (NVDA) — trace the supply chain upstream to
+the single chokepoint a hyperscaler will pay anything to keep flowing
+(optical/CPO, compound-semi substrates, memory, power), where the small market
+cap is most mispriced relative to the trillions flowing downstream.
+
+## Provenance
+
+Tweets were collected via the `agent-reach` `twitter-cli` using date-windowed
+search (full-day windows with intra-day top-up for high-volume days) to work
+around X's pagination/rate limits. Regenerate the condensed monthly chunks and
+ticker stats from the archive with `python3 prep.py`.
+
+---
+
+*This repository contains only public information about @aleabitoreddit (his
+public tweets and an analysis thereof). It is an independent research artifact
+and is not affiliated with, endorsed by, or connected to him.*
