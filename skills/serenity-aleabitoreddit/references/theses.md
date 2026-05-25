@@ -110,8 +110,9 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
 - **Key evidence:** MTSI (MACOM) $45M strategic investment + board seat + debt
   payoff (Apr 27) — "extremely positive," de-risks financially. LandMark output
   "far below customer needs" validates supply constraint.
-- **Latest stance:** Held (~246% gain from entry). De-risked by MTSI. Watch for
-  short-term convertible-note arbitrage pressure.
+- **Latest stance:** Held; May 25 update says he had hoped for more than "3x+"
+  so far, but "there's still time." De-risked by MTSI. Watch for short-term
+  convertible-note arbitrage pressure.
 
 ### POET Technologies — optical-interposer packaging for CPO
 - **Thesis:** Optical Interposer packages multiple lasers into CPO modules for
