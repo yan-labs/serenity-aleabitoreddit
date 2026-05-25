@@ -1,5 +1,533 @@
 [
   {
+    "id": "2058879435726836152",
+    "text": "$LPK turned out pretty well. https://t.co/mZlTyd4oUO",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 305,
+      "retweets": 14,
+      "replies": 51,
+      "quotes": 1,
+      "views": 48424,
+      "bookmarks": 51
+    },
+    "createdAt": "Mon May 25 11:54:44 +0000 2026",
+    "createdAtLocal": "2026-05-25 19:54",
+    "createdAtISO": "2026-05-25T11:54:44+00:00",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKb7wEaQAAfUGI.jpg",
+        "width": 1207,
+        "height": 1149
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "quotedTweet": {
+      "id": "2012961292966117410",
+      "text": "$WOLF was probably the most interesting one up there after restructuring. \n\n$LPKFF also for glass substrates and they own the laser induced deep etching at a $169m MC, so possibly most explosive 10x upside. \n\n$MTRN is probably the most stable one up there with decently high upside given it owns the mountain for ~65% of the world's Beryllium.   \n\nThere were a few others but just the fundamentals were either really bad or their bottleneck was too niche.  \n\n$LPTH's bottleneck for example spreads across both defense, AI, drones, etc.  \n\n$AXTI's bottleneck was so big and AI is such a big sector so it doesn't need to be spread across (but InP is used in a lot of other sectors too).",
+      "author": {
+        "screenName": "aleabitoreddit",
+        "name": "Serenity"
+      }
+    }
+  },
+  {
+    "id": "2058868791438884870",
+    "text": "For people trying to do valuation analysis on $SIVE.\n\nAyar, Celestial, Lightmatter, Lightelligence are probably valued probably ~$4B-15B+ today. \n\nSivers is ~$2.6B MC and they're likely upstream laser for them all. \n\nI'm not even including Poet, TFLN links like Hyperlight/Lightium, or pluggables like Jabil + other undisclosed players in valuation analysis. \n\nOr their other segments like CHIPS Act contracts or Apple/Nokia relationships. \n\nOr humanoid/physical AI segments with Aeva + others.  \n\nRetail aren't as familiar with private markets... \n\nBut these companies are all considered the frontier CPO players, and are growing valuations/scaling rapidly. \n\nSo, I'd expect $SIVE to command similar if not higher valuations given laser chokepoint premiums. Especially after they pull off M&A to TAM expand revenue. \n\nNew Blackrock/Vanguard/MSCI/NASDAQ inflow next month helps close that gap over time. \n\nBut NASDAQ listing is probably what gives Sivers a premium.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 516,
+      "retweets": 26,
+      "replies": 75,
+      "quotes": 3,
+      "views": 85855,
+      "bookmarks": 125
+    },
+    "createdAt": "Mon May 25 11:12:26 +0000 2026",
+    "createdAtLocal": "2026-05-25 19:12",
+    "createdAtISO": "2026-05-25T11:12:26+00:00",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "quotedTweet": {
+      "id": "2058841257573486771",
+      "text": "@aleabitoreddit Is it still worth investing in Sive?",
+      "author": {
+        "screenName": "Dominik56798023",
+        "name": "Dominik"
+      }
+    }
+  },
+  {
+    "id": "2058858971730256003",
+    "text": "Did you listen anon? https://t.co/q6miMwIUX7",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 435,
+      "retweets": 15,
+      "replies": 63,
+      "quotes": 1,
+      "views": 88011,
+      "bookmarks": 39
+    },
+    "createdAt": "Mon May 25 10:33:25 +0000 2026",
+    "createdAtLocal": "2026-05-25 18:33",
+    "createdAtISO": "2026-05-25T10:33:25+00:00",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKJT2YaIAAKwyP.jpg",
+        "width": 1983,
+        "height": 1489
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "quotedTweet": {
+      "id": "2031648475310616604",
+      "text": "Changed my mind about Soitec ( $SLOIF ) and took a sizable position ~43 for CPO exposure.\n\n$NVDA GTC next week biggest catalyst pushing photonics and this architecture. \n\n~1.5B euros MC. Trading at 1x book value and ~2x P/S (very depressed valuations)\n\nGenuine monopoly over substrates side for CPO (typically very premium valuations for photonics + even extra premium for monopoly status)\n\nAlgos and analysts might get confused over market share but it’s an actual monopoly over SOI substrates since they give licenses to other players like Shin Etsu for diversification sake eg. $TSM doesn’t like just 1. \n\nI don’t think institutions will wait until next year to frontrun these names like Soitec or $TSEM (and most probably haven’t even heard of these names like $AXTI yet)\n\nThis timing would be buying the likely bottom of the depressed smartphone cycle, while getting full upside of CPO mid-late 2027 + $NVDA GTC catalyst next week.\n\nI personally think it’s a 3x from here so I went long.",
+      "author": {
+        "screenName": "aleabitoreddit",
+        "name": "Serenity"
+      }
+    }
+  },
+  {
+    "id": "2058839070122688829",
+    "text": "I think I deserve my own Netflix special after $AXTI and $SIVE? https://t.co/WeD80ogRXg",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1342,
+      "retweets": 24,
+      "replies": 195,
+      "quotes": 5,
+      "views": 143766,
+      "bookmarks": 68
+    },
+    "createdAt": "Mon May 25 09:14:20 +0000 2026",
+    "createdAtLocal": "2026-05-25 17:14",
+    "createdAtISO": "2026-05-25T09:14:20+00:00",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJ3NvgbQAA_naY.jpg",
+        "width": 1208,
+        "height": 1211
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJ3NvcbMAAVAqH.jpg",
+        "width": 1187,
+        "height": 1158
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "quotedTweet": {
+      "id": "2058823038364455404",
+      "text": "我现在订阅数已经有32.5K啦！\n\n真的超级感谢大家！\n\n照这个速度下去，我简直不敢相信自己快要超过马斯克，变成X上订阅人数第的大佬了？！\n\n特别感谢中文圈小伙伴们最近的力挺。当然啦，也必须要感谢日韩圈的朋友们从开始就路支持我！ https://t.co/cpvb6KizDy",
+      "author": {
+        "screenName": "aleabitoreddit",
+        "name": "Serenity"
+      }
+    }
+  },
+  {
+    "id": "2058823038364455404",
+    "text": "我现在订阅数已经有32.5K啦！\n\n真的超级感谢大家！\n\n照这个速度下去，我简直不敢相信自己快要超过马斯克，变成X上订阅人数第的大佬了？！\n\n特别感谢中文圈小伙伴们最近的力挺。当然啦，也必须要感谢日韩圈的朋友们从开始就路支持我！ https://t.co/cpvb6KizDy",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1518,
+      "retweets": 14,
+      "replies": 257,
+      "quotes": 10,
+      "views": 237959,
+      "bookmarks": 25
+    },
+    "createdAt": "Mon May 25 08:10:38 +0000 2026",
+    "createdAtLocal": "2026-05-25 16:10",
+    "createdAtISO": "2026-05-25T08:10:38+00:00",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJoo8WbIAA0b7p.jpg",
+        "width": 623,
+        "height": 623
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJoo8VaYAAAxoS.jpg",
+        "width": 613,
+        "height": 644
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null
+  },
+  {
+    "id": "2058812818430836745",
+    "text": "Did you listen anon?\n\n$SIVE is extremely early. \n\nAnd we’re about to see a ton of institutional inflow (Blackrock, Vanguard, MSCI, NASDAQ) next week for the first time.\n\nThen, couple that with NASDAQ listing soon, with even more US institutions  entering.\n\nThis is what it’s like to be in a name like $AXTI or $LITE at the very beginning.\n\nAnd this is still at a point before major institutional capital hit the float or CPO supercycle has ramped.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1423,
+      "retweets": 85,
+      "replies": 153,
+      "quotes": 16,
+      "views": 241892,
+      "bookmarks": 276
+    },
+    "createdAt": "Mon May 25 07:30:01 +0000 2026",
+    "createdAtLocal": "2026-05-25 15:30",
+    "createdAtISO": "2026-05-25T07:30:01+00:00",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJfWEAaUAA-mCg.jpg",
+        "width": 1211,
+        "height": 1161
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "quotedTweet": {
+      "id": "2058806097436455283",
+      "text": "$SIVE is the largest beneficiary of brand new events this weekend:\n\n1. Sivers new NASDAQ index inclusion (OMX Stockholm):\n\nBoth Vanguard and Blackrock are new passive inflows.\n\nWith ~$60M+ pure buying pressure inflow, into existing float, together with MSCI next week.\n\n2. US Gov and Sweden sign agreement for joint tech collaboration.\n\n$SIVE is one of the few CHIPS act recipients, and especially in Sweden.\n\nAnd if you don’t remember, they received another $6.6M CHIPS act award last week.\n\nMaking $SIVE heavily supported + critical to the US government. \n-\n\nTLDR: New passive institutional inflow from your largest US institutions like Blackrock/Vanguard.\n\nCompounded with US government backing into $SIVE. Over the weekend. \n\nBeneficial for fundamentals (revenue/TAM from Pentagon supply chains) and inflow from Blackrock/Vanguard/MSCI/NASDAQ. \n\nExtremely bullish.",
+      "author": {
+        "screenName": "aleabitoreddit",
+        "name": "Serenity"
+      }
+    }
+  },
+  {
+    "id": "2058806097436455283",
+    "text": "$SIVE is the largest beneficiary of brand new events this weekend:\n\n1. Sivers new NASDAQ index inclusion (OMX Stockholm):\n\nBoth Vanguard and Blackrock are new passive inflows.\n\nWith ~$60M+ pure buying pressure inflow, into existing float, together with MSCI next week.\n\n2. US Gov and Sweden sign agreement for joint tech collaboration.\n\n$SIVE is one of the few CHIPS act recipients, and especially in Sweden.\n\nAnd if you don’t remember, they received another $6.6M CHIPS act award last week.\n\nMaking $SIVE heavily supported + critical to the US government. \n-\n\nTLDR: New passive institutional inflow from your largest US institutions like Blackrock/Vanguard.\n\nCompounded with US government backing into $SIVE. Over the weekend. \n\nBeneficial for fundamentals (revenue/TAM from Pentagon supply chains) and inflow from Blackrock/Vanguard/MSCI/NASDAQ. \n\nExtremely bullish.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1051,
+      "retweets": 83,
+      "replies": 94,
+      "quotes": 16,
+      "views": 325719,
+      "bookmarks": 192
+    },
+    "createdAt": "Mon May 25 07:03:19 +0000 2026",
+    "createdAtLocal": "2026-05-25 15:03",
+    "createdAtISO": "2026-05-25T07:03:19+00:00",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJY_sHaAAA_LAe.jpg",
+        "width": 787,
+        "height": 1024
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJY_sGbQAAJQZY.jpg",
+        "width": 712,
+        "height": 1024
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJY_sGaIAAvnFV.jpg",
+        "width": 1024,
+        "height": 515
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null
+  },
+  {
+    "id": "2058764325326856414",
+    "text": "几个值得重点关注的“实质性垄断”标的:\n\n- MSSCORP (6830)：在检测和 CPO 良率把控上构筑了极深的专利护城河。 \n- $SOI：主导绝缘体上硅 (SOI) 衬底市场。  \n- NGK (5333)：稳拿薄膜铌酸锂 (TFLN) 晶圆核心技术。 \n- $AXTI：把控磷化铟 (InP) 衬底等上游关键材料。\n\n像讯芯 (Shunsin) 这类公司其实很难被轻易颠覆，毕竟背靠富士康，而富士康本身就深深扎根于众多核心供应链的腹地 🏭\n\n$SIVE 的逻辑也极其相似。他们已经成功打入 (design in) 了众多顶尖 CPO 架构的设计体系，抱紧了 Ayar、Lightelligence (壁仞的供应商)、Lightmatter 以及 Celestial 等 众行业领军者的大腿 \n\n相比之下，个人认为 $HIMX (奇景光电) 或 Foci (上诠) 未来面临被踢出局 (design out) 的风险最大，很有可能会被台积电的光学部门采钰 (Visera 6789) 这类巨头直接垂直整合。不过话说回来，在未来两三年内，借助 CPO 相关的光纤阵列 (FAU) 和无源器件，他们眼前依然有 波巨大的赚钱机遇",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1231,
+      "retweets": 156,
+      "replies": 148,
+      "quotes": 14,
+      "views": 271391,
+      "bookmarks": 850
+    },
+    "createdAt": "Mon May 25 04:17:19 +0000 2026",
+    "createdAtLocal": "2026-05-25 12:17",
+    "createdAtISO": "2026-05-25T04:17:19+00:00",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "quotedTweet": {
+      "id": "2058759422667796927",
+      "text": "博主看得很透，直接穿透到了物理AI的底层供应链。\n\n不过想请教一下  @aleabitoreddit  ，随着各大厂资本支出（CapEx）的狂飙，这几个起步较小的光子和材料公司，目前谁的产能弹性和技术壁垒最不容易被后发者颠覆？尤其是在西方供应链本土化这个点上，谁的确定性最高？\n\nPS:我也在学习美股🙃",
+      "author": {
+        "screenName": "Nicole_yang88",
+        "name": "泥伏雷闯关记"
+      }
+    }
+  },
+  {
+    "id": "2058756539448713504",
+    "text": "Oh look, a new UDN article about $TSM COUPE + AI optical markets. \n\nInstitutional investors are optimistic that Taiwanese companies: \n\nFOCI (3363), and MSScorps (6830) are expected to benefit\n\nBut... that \"Institutional\" should be changed to retail investors on X?\n\nFor FOCI: \"Its FAU products have been developed in cooperation with TSMC for at least three years, and the specifications have been promoted to 1.6T,  3.2T, and the subsequent mass production schedule has become the focus  of market observation.\"\n\nFor MSS: \"cut into the silicon photonics and CPO detection analysis, the main  \"light loss detection\" technology ... and launch of the silicon photonics test  platform, lock in research and development, engineering verification,  failure analysis and a small number of diverse test applications.\"\n\nThese are still two extremely small companies... and things like MSS weren't even mentioned by GS, despite the news claims about relations. \n\nSo feels like X found this early, mainstream institutions are likely about to enter after seeing this sort of confirmation.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 439,
+      "retweets": 17,
+      "replies": 52,
+      "quotes": 5,
+      "views": 101881,
+      "bookmarks": 170
+    },
+    "createdAt": "Mon May 25 03:46:23 +0000 2026",
+    "createdAtLocal": "2026-05-25 11:46",
+    "createdAtISO": "2026-05-25T03:46:23+00:00",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIrJ0XbMAEXVWE.jpg",
+        "width": 1730,
+        "height": 1439
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIreEGa8AAsZIJ.png",
+        "width": 1786,
+        "height": 1360
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null
+  },
+  {
+    "id": "2058644487224848654",
+    "text": "Fun fact: Lot of the same companies are often used across different supply chains.\n\nOne likely example is: $SIVE as the upstream laser supplier to Boston Dynamics via: \n\nSivers -> $AEVA FMCW (CW DFB lasers) -> LG Innotek -> Boston Dynamics.\n\nI actually personally liked Aeva for 4D AI first. \n\nJust so happened to find out Sivers was their high confidence laser supplier for 4D FMCW lidar.  \n\nSo you actually get robotics exposure with photonics while the same CW lasers used for hyperscaler AI DCs. \n\nNear term revenue ramp though it's probably $SIVE supplying laser volume ramp for $NVDA self-driving car related architectures though Aeva. \n\nHumanoids are probably later in 2028? \n\nYou can always get more indirect exposure like MU with memory or $INTC with edge CPUs, but of course there's  more direct exposure out there. \n\nThink I've already covered a lot of names in the past like $VPG or Harmonic Drive. But hilariously enough CPO players like $SIVE are a core part of frontier physical AI development.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 901,
+      "retweets": 55,
+      "replies": 132,
+      "quotes": 10,
+      "views": 270354,
+      "bookmarks": 349
+    },
+    "createdAt": "Sun May 24 20:21:08 +0000 2026",
+    "createdAtLocal": "2026-05-25 04:21",
+    "createdAtISO": "2026-05-24T20:21:08+00:00",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJHCSZea8AA2tJY.jpg",
+        "width": 1904,
+        "height": 998
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "quotedTweet": {
+      "id": "2058622911427055628",
+      "text": "@aleabitoreddit Any thoughts re physical AI so far?",
+      "author": {
+        "screenName": "Dubbiosismo",
+        "name": "Marque"
+      }
+    }
+  },
+  {
+    "id": "2058618801554604040",
+    "text": "AI capex spend is expected to go to \"$3 to $4 trillion annually\" by 2030 from $NVDA Jensen Huang projections. \n\nYou're not bullish enough. \n\nAnd it might be a good idea to stay exposed + own the keys of the AI Kingdom:\n\n-> $AXTI controls the materials buildout with photonics.\n-> $SOI controls the AI buildout with silicon photonics.\n-> $SIVE controls laser chokepoints for CPO.\n-> $IQE controls Western epiwafer supply chains for photonics. \n\nAll these started off as tiny companies, yet the trillions of projected capex gradually upward to them. \n\nThere's many more in other industries as well. \n\n-> AI Capex flows to Neoclouds like $NBIS. \n-> AI Capex flows to memory like $MU and $SNDK. \n\nAnd many of the \"commodity\" materials or \"science projects\" for the past 20 years now a sudden shift in exponential TAM expansion.  \n\nWe're witnessing the next industrial revolution with Artificial Intelligence + Physical AI.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 2281,
+      "retweets": 274,
+      "replies": 237,
+      "quotes": 31,
+      "views": 358666,
+      "bookmarks": 2001
+    },
+    "createdAt": "Sun May 24 18:39:04 +0000 2026",
+    "createdAtLocal": "2026-05-25 02:39",
+    "createdAtISO": "2026-05-24T18:39:04+00:00",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGqPSDakAAwsed.png",
+        "width": 1751,
+        "height": 1369
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null
+  },
+  {
+    "id": "2058577885754163382",
+    "text": "All right chat, crowdsourcing your #1 highest conviction (10x only) stock long for the Power Semi trade.\n\nEspecially given $NVDA pushing shift to 800 VDC. \n\nStuff like $NVTS or $WOLF, but high-beta, 10x potential only.  Anywhere around the world. \n\nWhat's your pick? https://t.co/Y10KR6HLVC",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 2175,
+      "retweets": 156,
+      "replies": 489,
+      "quotes": 33,
+      "views": 638468,
+      "bookmarks": 2430
+    },
+    "createdAt": "Sun May 24 15:56:29 +0000 2026",
+    "createdAtLocal": "2026-05-24 23:56",
+    "createdAtISO": "2026-05-24T15:56:29+00:00",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGJYjcbkAAJD9S.jpg",
+        "width": 2442,
+        "height": 1775
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null
+  },
+  {
+    "id": "2058527207145029854",
+    "text": "哪里的话，应该是我谢谢你们愿意花时间看我的内容！\n\n 最近涨了这么多中文粉丝，我真的特别开心。感觉这两天差不多就涨了快三万粉？ \n\n原来 X 上的中文圈比我想象的要大得多啊！感觉以后多跟大家互动、交流交流想法，肯定会特别有意思。",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 2153,
+      "retweets": 63,
+      "replies": 348,
+      "quotes": 8,
+      "views": 457298,
+      "bookmarks": 378
+    },
+    "createdAt": "Sun May 24 12:35:06 +0000 2026",
+    "createdAtLocal": "2026-05-24 20:35",
+    "createdAtISO": "2026-05-24T12:35:06+00:00",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "quotedTweet": {
+      "id": "2058375421809549816",
+      "text": "今天刷Serenity的主页，发现她关注了我，惊讶又开心。如果你这一年关注美股半导体，尤其是 AI 产业链、光模块、硅光、存储、CPO、衬底等这些方向，大概率会刷到过她。\n\n我最开始涨粉 1000 多的一篇帖子就来自于引用她关于投资路径的观点。\n\n那篇内容对我来说挺重要的。因为在那之前，我看半导体更多还是看股票代码、看财报、看涨跌。看到她的分析之后，我第一次真正要沿着产业链往下拆，去看每一轮需求爆发时，真正卡住供给的环节在哪里；去看资金轮动方向。\n\n这套思路后来对我影响很大。我选择重仓的是存储，尤其是闪迪、三星、海力士这一条线。事后看，这个方向确实给了我很大的收益。但同时我也很清楚自己其实错过了很多其他环节的多倍增长。\n\n比如光模块、硅光、CPO、部分材料和小市值供应链公司，有些涨幅并不比存储差，甚至更夸张。\n\n非常感谢Serenity帮助我打开了投资视角。她关注的很多方向，一开始都不是市场最拥挤的主线，但后来会随着 AI CapEx 扩散，被资金重新定价。她致力于把一个还没有被充分定价的逻辑提前讲清楚，并且接受市场后续验证。\n\n我关注 Serenity 的时候，记得她好像还只有几万粉丝。现在已经 30 多万了。她的成长本身也很有代表性，在一个信息越来越噪音化的平台上，真正持续输出高密度产业链研究的人，依然会被市场看见。\n\n她最近关注我，对我来说更像一个小小的闭环。\n\n最开始我只是转达她的观点，借着那篇帖子涨了 1000 多粉，也真正开始研究半导体产业链。之后也引用过多篇内容，几个月后，我自己也在这条路上慢慢积累了一点判断，靠存储这条线赚到了一些钱，也经历了很多次波动、卖飞、回撤和复盘。\n\n投资账号的成长，和投资本身很像。\n\n一开始你只是看见别人怎么分析，后来你慢慢形成自己的框架，再后来，你开始用自己的语言把复杂的东西讲给更多人听。\n\n中间一定会错过，一定会犯错，也一定会有很多如果当时的遗憾。但只要你的认知在往前走，这些错过就不是白白错过。它们会变成下一次判断的底层素材。\n\n最后再次感谢 Serenity @aleabitoreddit 。 感谢长期免费分享高密度的产业链研究，也感谢对投资博主价值的这种定义和坚持：不靠晒账户金额制造权威感，而是靠公开 thesis、持续验证和市场结果来证明研究的有效性。\n\n我也会继续关注和跟踪她的研究，继续学习这种从信息发现、产业链拆解到市场验证的能力。希望自己以后不仅能抓住更多机会，也能把复杂的投资逻辑讲得更清楚更有价值。",
+      "author": {
+        "screenName": "LucyBuilding",
+        "name": "Lucy L."
+      }
+    }
+  },
+  {
     "id": "2058410430649774504",
     "text": "I’m not selling a single share of $SIVE.\n\nI personally think it’s a once-a-generation long given how many hyperscaler suppliers they’re already in.\n\nCoupled with GS extreme TAM expansion projections for both pluggables and CPO in the next 2 years.\n\nIf you didn’t read the $JBL fireside transcript by now validating demand/timeline.\n\nOr the fact Ayar removed Lumentum and Macom from their website as laser suppliers validating moat.\n\nOr literal CHIPS ACT funding validating technological importance.\n\nOr that management is literally doing everything right in my view, with NASDAQ listing into M&A focus, validating forward growth vision.\n\nUpside is just way too compelling at current valuations. \n\nInstitutions have barely entered yet as well… and we’re about to see tens of millions of passive, long term new inflow next month from Nasdaq, Blackrock, MSCI indexes.",
     "author": {
