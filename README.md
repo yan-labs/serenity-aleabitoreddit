@@ -21,10 +21,10 @@ full life to date).
 | Path | What it is |
 |---|---|
 | `SKILL.md` | The agent skill: who he is, his edge, the three workflows, risk framing |
-| `references/methodology.md` | His framework as ~12 named, transferable principles + a checklist for any new name |
-| `references/theses.md` | Per-ticker knowledge base, merged across all periods, grouped by sub-sector, with conviction tiers and how each evolved |
-| `references/track-record.md` | Chronological timeline of his dated calls + an honest calibration note |
-| `analysis/*.md` | The six period analyses the skill was synthesized from (provenance) |
+| `skills/serenity-aleabitoreddit/references/methodology.md` | His framework as ~12 named, transferable principles + a checklist for any new name |
+| `skills/serenity-aleabitoreddit/references/theses.md` | Per-ticker knowledge base, merged across all periods, grouped by sub-sector, with conviction tiers and how each evolved |
+| `skills/serenity-aleabitoreddit/references/track-record.md` | Chronological timeline of his dated calls + an honest calibration note |
+| `skills/serenity-aleabitoreddit/analysis/*.md` | The six period analyses the skill was synthesized from (provenance) |
 | `data/aleabitoreddit_tweets.json` | Full tweet archive, all fields (text, metrics, quoted tweets, media, timestamps) |
 | `data/aleabitoreddit_tweets.csv` | Same archive as a spreadsheet (id, url, time, text, likes, views, etc.) |
 | `data/ticker_stats.txt` | His `$ticker` universe by mention count + first/last seen |
@@ -43,7 +43,7 @@ Or drop the folder into an agent's skills directory:
 
 ```bash
 # Claude Code (project-local)
-cp -r serenity-aleabitoreddit <your-project>/.agents/skills/
+cp -r skills/serenity-aleabitoreddit <your-project>/.agents/skills/
 ln -s ../../.agents/skills/serenity-aleabitoreddit <your-project>/.claude/skills/serenity-aleabitoreddit
 ```
 

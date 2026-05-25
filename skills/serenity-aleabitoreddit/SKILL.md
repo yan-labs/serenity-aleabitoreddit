@@ -25,7 +25,7 @@ AI/semi supply chain the way he does.
 > fundamentals yourself — theses decay, and his returns are self-reported and
 > unverified.
 
-The raw tweet archive this lens was built from lives in `data/`
+The raw tweet archive this lens was built from lives at the repo root in `data/`
 (`aleabitoreddit_tweets.json` / `.csv`); the period-by-period distillation is in
 `analysis/`.
 
