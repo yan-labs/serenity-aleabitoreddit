@@ -147,6 +147,7 @@ his views.**
 | May 25 | SIVE | OMX/NASDAQ Stockholm index + MSCI passive inflow setup; BlackRock/Vanguard named as new passive buyers | Structural catalyst extended; still "extremely early" per Serenity |
 | May 25 | LPK | "Turned out pretty well" after April entry | Early validation of the glass-substrate equipment thesis |
 | May 25 | MSSCorps/FOCI | UDN article on TSM COUPE + AI optical markets named both as beneficiaries | Serenity says X/retail found the story before mainstream institutions |
+| May 24 | SIVE/AEVA | SIVE → AEVA FMCW → LG Innotek → Boston Dynamics path | Extends SIVE from datacenter CPO into physical-AI/robotics optionality |
 
 ---
 

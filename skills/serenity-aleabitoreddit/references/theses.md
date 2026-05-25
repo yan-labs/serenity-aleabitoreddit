@@ -93,8 +93,12 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   monthly. He frames the May 25 update as "extremely early" despite a ~$2.6B
   market cap because Ayar, Celestial, Lightmatter, and Lightelligence each sit
   roughly in the ~$4B-15B private-value range while SIVE is the likely upstream
-  laser supplier to all. **Highest-conviction long in the entire late corpus.**
-  High risk (Swedish small-cap, pre-volume-ramp).
+  laser supplier to all. May 24 update adds physical-AI optionality: SIVE may sit
+  upstream of Boston Dynamics via SIVE → AEVA FMCW/CW DFB lasers → LG Innotek →
+  Boston Dynamics; he sees humanoids later (~2028) but says CPO players like
+  SIVE are becoming part of frontier physical-AI development. **Highest-conviction
+  long in the entire late corpus.** High risk (Swedish small-cap,
+  pre-volume-ramp).
 
 ### IQE (IQE plc, LSE) — compound-semi epiwafer foundry
 - **Thesis:** Largest independent outsourced compound-semi epitaxial foundry
@@ -573,7 +577,10 @@ superseded this list by 2026.)
   robot, hand is most IP-sensitive). Robotics-segment orders beat ($37.8M vs
   $30M). Held; conviction higher for high-end versions.
 - **AEVA (Aeva):** FMCW 4D LiDAR for "World Models" / physical AI + a CPO
-  breakthrough. Speculative venture bet, small, entry ~$14.10.
+  breakthrough. Speculative venture bet, small, entry ~$14.10. May 24 update:
+  a likely SIVE customer path into robotics/self-driving architectures via
+  SIVE CW DFB lasers → AEVA FMCW → LG Innotek → Boston Dynamics; near-term ramp
+  may be NVDA self-driving related, with humanoids later (~2028).
 - **INFQ (Infleqtion):** First pure-play neutral-atom quantum with real NASA/DoD
   sensing revenue; "past the science-project stage" unlike IONQ/RGTI/QBTS. Small
   speculative long; "erring on the side of caution on quantum."

@@ -244,7 +244,9 @@ none of this is a buy signal on its own.
 2. **Upstream & cheap?** Is it upstream of the obvious "shovel seller," and is
    its component a small % of downstream BOM (so buyers pay through price hikes)?
 3. **Demand driver?** Is the TAM expanding on hyperscaler AI capex (the master
-   leading indicator) rather than a legacy/cyclical market?
+   leading indicator) or physical-AI/robotics capex rather than a legacy/cyclical
+   market? May 2026 framing: Jensen Huang's projected "$3-4T annually" AI capex
+   by 2030 is the top-down reason tiny upstream chokepoints can re-rate.
 4. **Contracts & counterparty?** Are there signed multi-year contracts, and is
    the tenant creditworthy (AAA hyperscaler, not a cash-burning lab)?
 5. **Real margins?** Do the GAAP margins (not cherry-picked non-GAAP) support
