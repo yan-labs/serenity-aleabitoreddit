@@ -152,6 +152,7 @@ his views.**
 | May 24 | SIVE/AEVA | SIVE → AEVA FMCW → LG Innotek → Boston Dynamics path | Extends SIVE from datacenter CPO into physical-AI/robotics optionality |
 | May 24 | NVTS/WOLF/power semis | Crowdsourced 10x candidates for NVDA-led 800 VDC power architecture shift | Active research direction; no final pick yet |
 | May 26 | RKLB/SPCX/PL + LASR/SIVE + TSLA/Unitree | "Death Star and Battle Droids" thematic map | Frontier-physical-AI narrative linking space, lasers, and robotics |
+| May 26 | SIVE/JBL | Jabil fireside chat: 1.6T LRO mass production with excess demand in 3-10 months; SIVE likely sole-source laser supplier | Adds near-term ramp evidence to the SIVE/Jabil LRO thesis |
 
 ---
 

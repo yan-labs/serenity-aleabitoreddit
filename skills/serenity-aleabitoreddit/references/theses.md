@@ -87,7 +87,10 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   Apr 27); NASDAQ Stockholm listing (Apr 15); crossed $1B MC (Apr 29); MSCI
   Small Cap inclusion (May 13); NASDAQ Stockholm/OMX index inclusion plus MSCI
   triggered ~$60-65M+ estimated passive inflows from BlackRock, Vanguard, MSCI,
-  and NASDAQ-linked buyers (May 23-25).
+  and NASDAQ-linked buyers (May 23-25). May 25 update adds Jabil fireside-chat
+  evidence: Jabil says 1.6T LRO mass production with excess demand is 3-10
+  months away; Serenity reads SIVE as the likely sole-source laser supplier for
+  that specific optical transceiver.
 - **Latest stance (May 2026):** Core position, **no exit signal**, "I don't plan
   on selling SIVE." Target "$10B in 1 year." Adding supply-chain evidence
   monthly. He frames the May 25 update as "extremely early" despite a ~$2.6B
@@ -96,8 +99,9 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   laser supplier to all. May 24 update adds physical-AI optionality: SIVE may sit
   upstream of Boston Dynamics via SIVE → AEVA FMCW/CW DFB lasers → LG Innotek →
   Boston Dynamics; he sees humanoids later (~2028) but says CPO players like
-  SIVE are becoming part of frontier physical-AI development. **Highest-conviction
-  long in the entire late corpus.** High risk (Swedish small-cap,
+  SIVE are becoming part of frontier physical-AI development. Jabil's 1.6T LRO
+  3-10 month mass-production window is the latest near-term ramp marker.
+  **Highest-conviction long in the entire late corpus.** High risk (Swedish small-cap,
   pre-volume-ramp).
 
 ### IQE (IQE plc, LSE) — compound-semi epiwafer foundry
