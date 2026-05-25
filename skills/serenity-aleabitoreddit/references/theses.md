@@ -475,9 +475,20 @@ superseded this list by 2026.)
 - **MSSCorps (6830, TYO):** Claimed monopoly on non-destructive IR inspection for
   CPO modules; customers TSM/NVDA/AAPL/AMAT/etc.; targets 90% share; uses
   litigation to block rivals (= pricing-power signal). New long (Apr 30, $1.4B
-  MC); "$5-10B MC not far-fetched."
+  MC); "$5-10B MC not far-fetched." May 25 UDN/TSM COUPE update named MSSCorps
+  as a likely AI optical-market beneficiary for light-loss detection, silicon
+  photonics test platforms, engineering verification, and failure analysis; he
+  framed this as X finding the story before mainstream institutions.
 - **Shunsin (6451, TYO):** Foxconn's optical packaging arm; backdoor into NVDA's
   CPO supply chain via Foxconn's exclusive rack-assembly role. Held; cost-avg.
+  May 25 framing: hard to displace because Foxconn is embedded across core
+  supply chains.
+- **NGK (5333, TYO):** Added to the May 25 "functional monopoly" watchlist for
+  thin-film lithium niobate (TFLN) wafer technology.
+- **FOCI (3363, TYO) / HIMX / Visera (6789, TYO):** FOCI FAU products reportedly
+  developed with TSMC for 1.6T/3.2T COUPE/CPO ramps. Serenity sees a large
+  near-term passive-component opportunity but flags FOCI and HIMX as higher
+  design-out risks if TSMC's Visera vertically integrates the optical layer.
 - **RIBER / ALRIB (Riber SA):** MBE-machine near-duopoly; supplier to MSFT Quantum
   and SiPh. ~$300M MC, "massively underdiscovered." Small patience play.
 - **TER, FORM, VIAV, ONTO, KLAC, AMAT, ASML, CAMT, KLIC, BESI** — test/equipment
