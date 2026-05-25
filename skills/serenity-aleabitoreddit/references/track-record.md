@@ -131,6 +131,7 @@ his views.**
 |---|---|---|---|
 | Apr 24 | AXTI | "1057% gains" acknowledged | **self-reported**; ⚠️ "not a buy now, do not short" |
 | Apr 24 | IQE | "246% gain"; MTSI $45M de-risks | De-risking confirmed |
+| May 25 | IQE | "Higher hopes so far than 3x+; still time" | Held; expectation remains above current multi-bagger |
 | Apr 24 | SIVE | "+600%+" | **self-reported**; core hold |
 | Apr 21 | HPS.A | DPA names transformers emergency; "go brrr" | +47% in 3 weeks ✅ |
 | Apr 27 | SIVE/MRVL | MRVL drops POET → SIVE direct (bullish for SIVE) | Confirmed via Celestial deck |
