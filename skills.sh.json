@@ -1,0 +1,11 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Markets / Trading",
+      "description": "Serenity's (@aleabitoreddit) AI & semiconductor supply-chain analytical lens for US-stock ideas. Decision-support only — NFA.",
+      "skills": ["serenity-aleabitoreddit"]
+    }
+  ]
+}
