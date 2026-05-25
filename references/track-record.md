@@ -144,6 +144,8 @@ his views.**
 | May 13 | SIVE | MSCI Small Cap inclusion (~$64.5M inflows) | Structural catalyst |
 | May 17 | BOT | **NAV-premium warning** | Cautionary |
 | May 19 | IREN | "-34% confirmed" | ⚠️ his bear thesis validated |
+| May 25 | SIVE | OMX/NASDAQ Stockholm index + MSCI passive inflow setup; BlackRock/Vanguard named as new passive buyers | Structural catalyst extended; still "extremely early" per Serenity |
+| May 25 | LPK | "Turned out pretty well" after April entry | Early validation of the glass-substrate equipment thesis |
 
 ---
 

@@ -8,7 +8,7 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
 > All prices, market caps, and percentages are Serenity's own citations from his
 > tweets — self-reported and unverified. Theses are dated; confirm current
 > reality before acting. "Latest stance" = his last known view in the corpus,
-> through ~2026-05-23.
+> through ~2026-05-25.
 
 ## Table of contents
 
@@ -85,11 +85,16 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
 - **Key evidence:** +73.78% single day after CPO cheat sheet; Jabil LRO confirmed
   at OFC; MRVL dropped POET → likely buys lasers direct from SIVE (more positive,
   Apr 27); NASDAQ Stockholm listing (Apr 15); crossed $1B MC (Apr 29); MSCI
-  Small Cap inclusion (May 13); ~$64.5M combined passive inflows (May 23).
+  Small Cap inclusion (May 13); NASDAQ Stockholm/OMX index inclusion plus MSCI
+  triggered ~$60-65M+ estimated passive inflows from BlackRock, Vanguard, MSCI,
+  and NASDAQ-linked buyers (May 23-25).
 - **Latest stance (May 2026):** Core position, **no exit signal**, "I don't plan
   on selling SIVE." Target "$10B in 1 year." Adding supply-chain evidence
-  monthly. **Highest-conviction long in the entire late corpus.** High risk
-  (Swedish small-cap, pre-volume-ramp).
+  monthly. He frames the May 25 update as "extremely early" despite a ~$2.6B
+  market cap because Ayar, Celestial, Lightmatter, and Lightelligence each sit
+  roughly in the ~$4B-15B private-value range while SIVE is the likely upstream
+  laser supplier to all. **Highest-conviction long in the entire late corpus.**
+  High risk (Swedish small-cap, pre-volume-ramp).
 
 ### IQE (IQE plc, LSE) — compound-semi epiwafer foundry
 - **Thesis:** Largest independent outsourced compound-semi epitaxial foundry
