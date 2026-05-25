@@ -1,12 +1,14 @@
 # serenity-aleabitoreddit
 
+[![skills.sh](https://skills.sh/b/yan-labs/serenity-aleabitoreddit)](https://skills.sh/yan-labs/serenity-aleabitoreddit)
+
 Everything distilled from trader **Serenity
 ([@aleabitoreddit](https://x.com/aleabitoreddit))** — an AI/semiconductor
 *supply-chain* analyst on X — in one self-contained repo: **his raw tweet
 archive**, a **period-by-period distillation**, and a ready-to-use **agent
 skill** that applies his analytical lens to US-stock ideas.
 
-Built from **~5,522 tweets** spanning **2025-07-02 → 2026-05-24** (the account's
+Built from **~5,535 tweets** spanning **2025-07-02 → 2026-05-25** (the account's
 full life to date).
 
 > ⚠️ **Not financial advice. Decision-support only.** This skill never trades and
@@ -27,10 +29,17 @@ full life to date).
 | `data/aleabitoreddit_tweets.csv` | Same archive as a spreadsheet (id, url, time, text, likes, views, etc.) |
 | `data/ticker_stats.txt` | His `$ticker` universe by mention count + first/last seen |
 | `prep.py` | Condenses the tweet JSON into monthly chunks and recomputes the ticker stats |
+| `update.py` | Pulls latest tweets, dedupes by id, and refreshes derived data for incremental updates |
 
 ## Use it as a skill
 
-Drop the folder into an agent's skills directory:
+One-command install with [skills.sh](https://skills.sh/):
+
+```bash
+npx skills add yan-labs/serenity-aleabitoreddit
+```
+
+Or drop the folder into an agent's skills directory:
 
 ```bash
 # Claude Code (project-local)
