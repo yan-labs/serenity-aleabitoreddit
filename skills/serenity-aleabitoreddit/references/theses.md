@@ -451,6 +451,11 @@ superseded this list by 2026.)
   transformers a national emergency = direct validation. +47% in 3 weeks; one of
   his top-3 favorites (with SIVE, LPK). High conviction.
 - **FLNC (Fluence):** Grid-scale storage; 2 hyperscaler deals (May 7-8); held.
+- **Power semis / 800 VDC watchlist:** May 24 update: Serenity explicitly
+  crowdsourced the highest-conviction "Power Semi trade" because NVDA is pushing
+  a shift to 800 VDC power architecture. He named NVTS and WOLF as example
+  high-beta candidates but had not yet published a final pick; treat this as an
+  active watchlist / research direction, not a settled thesis.
 - **VRT, ETN, POWL, ATKR, VICR, GEV, PWR, NRG, TLN, NEE** — grid/power roundup
   mentions.
 
