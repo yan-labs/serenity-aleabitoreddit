@@ -525,6 +525,10 @@ superseded this list by 2026.)
   "Grows into SpaceX's prior valuation from $26B." Neutron 2026 = key catalyst.
   Same "directionally right, early" model as NBIS/Avride. Acknowledged overvalued
   short-term ("SpaceX FOMO") but won't sell. High-beta, rate-sensitive.
+- **RKLB / SPCX / PL, LASR / SIVE, TSLA / Unitree thematic basket:** May 26
+  shorthand: "Death Star and Battle Droids" = space infrastructure, laser-beam
+  supply chains, and robotics as linked frontier-physical-AI markets. Treat as a
+  narrative map, not a new standalone buy signal.
 - **ASTS, AVAV, KTOS, NOC, LMT, RTX, HII, GD** — defense/space roundup.
 
 ---

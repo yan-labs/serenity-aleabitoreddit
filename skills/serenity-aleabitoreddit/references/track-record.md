@@ -151,6 +151,7 @@ his views.**
 | May 25 | MSSCorps/FOCI | UDN article on TSM COUPE + AI optical markets named both as beneficiaries | Serenity says X/retail found the story before mainstream institutions |
 | May 24 | SIVE/AEVA | SIVE → AEVA FMCW → LG Innotek → Boston Dynamics path | Extends SIVE from datacenter CPO into physical-AI/robotics optionality |
 | May 24 | NVTS/WOLF/power semis | Crowdsourced 10x candidates for NVDA-led 800 VDC power architecture shift | Active research direction; no final pick yet |
+| May 26 | RKLB/SPCX/PL + LASR/SIVE + TSLA/Unitree | "Death Star and Battle Droids" thematic map | Frontier-physical-AI narrative linking space, lasers, and robotics |
 
 ---
 
