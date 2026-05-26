@@ -14,7 +14,7 @@ description: >
 
 # Serenity Supply-Chain Lens (@aleabitoreddit)
 
-A reusable analytical lens distilled from **~5,548 tweets (2025-07 to 2026-05)**
+A reusable analytical lens distilled from **~5,556 tweets (2025-07 to 2026-05)**
 by **Serenity / [@aleabitoreddit](https://x.com/aleabitoreddit)** — an
 AI-and-semiconductor *supply-chain* analyst and trader (~332k followers,
 ex-Reddit/WSB). Use it to pressure-test US-stock ideas and to reason about the
@@ -55,10 +55,10 @@ margins vs. cherry-picked non-GAAP), **dilution/ATM as a disqualifier**, a
 tariff shocks, war). Full detail in `references/methodology.md`.
 
 **Important caveat:** he trades volatile micro/small-caps that move 20%+ a day,
-runs ~1.25–1.5x margin, and self-reports very high YTD returns (237%→477% during
-Feb 2026). Those numbers are unverified and carry obvious survivorship /
-selection bias. Treat his lens as a source of *questions to ask*, not signals to
-copy.
+runs ~1.25–1.5x margin, and self-reports very high YTD returns (237% in
+Feb 2026, later 4502.45% YTD on May 26). Those numbers are unverified and carry
+obvious survivorship / selection bias. Treat his lens as a source of *questions
+to ask*, not signals to copy.
 
 ---
 
@@ -120,8 +120,9 @@ Read progressively — pull in only what the task needs.
 
 ## Risk & disclaimer framing (state this when giving any view)
 
-- **Self-reported, unverified returns.** His 237%→477% YTD figures are his own
-  screenshots. No independent verification exists.
+- **Self-reported, unverified returns.** His YTD figures, from 237% in Feb 2026
+  to 4502.45% on May 26, are his own screenshots. No independent verification
+  exists.
 - **Survivorship / selection bias.** A public feed highlights winners. Reversed
   or wrong calls exist (see `references/track-record.md`) and get less airtime.
 - **High-volatility micro/small-caps.** Many of his names (AXTI, SIVE, IQE, AAOI)

@@ -107,7 +107,9 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   laser suppliers already valued in the tens of billions. Later the same day he
   framed the chart as Sweden transferring control of SIVE to Western / non-Swedish
   buyers, reinforcing the ownership-rotation / institutional-inflow angle rather
-  than adding a new technical catalyst.
+  than adding a new technical catalyst. In his H2 2026 theme list he ranked CPO
+  as his #1 favorite theme, citing private optical-startup funding in Silicon
+  Valley as a forward signal that public markets still misunderstand the shift.
   **Highest-conviction long in the entire late corpus.** High risk (Swedish small-cap,
   pre-volume-ramp).
 
@@ -402,7 +404,9 @@ superseded this list by 2026.)
 - **Thesis:** "The de facto semi arm of the US government for national security."
   Trump/Apple/NVDA pressure to use Intel; CHIPS Act + political mandate caps
   downside. "$234B MC vs TSM $1.5T — 7x just for waiting." "Invest in the White
-  House."
+  House." May 22 supply-chain note flagged AP Memory (6531) as qualified in
+  Intel EMIB advanced packaging; treat it as a research lead, not a full
+  standalone thesis.
 - **Tier:** High-conviction long (Jan 2026), "one of my biggest positions," from
   distressed. +29.62% in his Apr tracker.
 - **Latest stance:** Bull.
@@ -472,8 +476,11 @@ superseded this list by 2026.)
   a shift to 800 VDC power architecture. He named NVTS and WOLF as example
   high-beta candidates. May 26 update: he said his NVTS position had already
   doubled and that one crowdsourced 800 VDC long looked compelling enough for
-  further research. Treat this as an active watchlist / research direction, not a
-  settled final pick.
+  further research. The broader watchlist now includes Taiwan power semis
+  (Pan Jit, Eris Tech, Advanced Power Electronics, Inergy, Potens) and adjacent
+  power/cooling components (POWL, NVT, VICR, POWI, thermal-management names).
+  Treat this as an active watchlist / research direction, not a settled final
+  pick; he still frames CPO as more compelling than the power/cooling trade.
 - **VRT, ETN, POWL, ATKR, VICR, GEV, PWR, NRG, TLN, NEE** — grid/power roundup
   mentions.
 
@@ -496,7 +503,11 @@ superseded this list by 2026.)
   substrates (CPO co-packaging, HBM stacking). Near-monopoly, qualifying with
   most major semis. Flagged as a 10x candidate in Jan; "timing right now" (Apr 29).
 - **Tier:** "One of my favorite names" / top-3 favorite. H2 2026 first production
-  orders (not in guidance = upside surprise); 2027 mass production.
+  orders (not in guidance = upside surprise); 2027 mass production. May 19 notes
+  broadened the glass-substrate map into materials/photoresists: YC Chem was
+  described as first to supply glass-substrate photoresists, Samyang NC Chem was
+  sampling, and AI GPU / ASIC / CPO demand could create another high-end ABF
+  substrate shortage by 2027.
 
 ### Other equipment/inspection
 - **MSSCorps (6830, TYO):** Claimed monopoly on non-destructive IR inspection for
@@ -549,6 +560,11 @@ superseded this list by 2026.)
   shorthand: "Death Star and Battle Droids" = space infrastructure, laser-beam
   supply chains, and robotics as linked frontier-physical-AI markets. Treat as a
   narrative map, not a new standalone buy signal.
+- **Starlink / Kuiper PCB and OISL supply chain:** May 20 research note flagged
+  Compeq as already supplying Starlink and Amazon Kuiper, warned that downstream
+  PCB suppliers may face a "many players, limited pie" dynamic, and pointed
+  upstream to optical inter-satellite links and specialty HDI materials as the
+  more interesting bottleneck search area.
 - **ASTS, AVAV, KTOS, NOC, LMT, RTX, HII, GD** — defense/space roundup.
 
 ---
