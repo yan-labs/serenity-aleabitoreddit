@@ -58,7 +58,10 @@ dated example from the corpus. A runnable checklist is at the bottom.
   websites, BOM-percentage estimates.
 - **Apply:** Map the chain explicitly. Estimate what % of cluster BOM flows to
   the supplier — a cheap component (optical ~8-12% of a TPU BOM) means
-  hyperscalers will pay through a price hike rather than cut AI capex.
+  hyperscalers will pay through a price hike rather than cut AI capex. For
+  optical-communications theses, require the analyst to describe the whole chain
+  from upstream InP substrate through downstream optical-module manufacturers;
+  if they cannot do that from memory, treat the conviction as underbuilt.
 - **Example:** Ayar Labs quietly removed LITE and MTSI from its website partner
   section, leaving only SIVE (April 2026) — read as Sivers becoming Ayar's
   primary merchant laser supplier, before any press release.
@@ -248,27 +251,30 @@ none of this is a buy signal on its own.
    with no near-term qualified substitute and real pricing power?
 2. **Upstream & cheap?** Is it upstream of the obvious "shovel seller," and is
    its component a small % of downstream BOM (so buyers pay through price hikes)?
-3. **Demand driver?** Is the TAM expanding on hyperscaler AI capex (the master
+3. **Chain fluency?** Can you map the exact chain from raw/input layer to module
+   or finished-system maker without conflating substrate, epiwafer, foundry,
+   laser, transceiver, and module/packaging roles?
+4. **Demand driver?** Is the TAM expanding on hyperscaler AI capex (the master
    leading indicator) or physical-AI/robotics capex rather than a legacy/cyclical
    market? May 2026 framing: Jensen Huang's projected "$3-4T annually" AI capex
    by 2030 is the top-down reason tiny upstream chokepoints can re-rate.
-4. **Contracts & counterparty?** Are there signed multi-year contracts, and is
+5. **Contracts & counterparty?** Are there signed multi-year contracts, and is
    the tenant creditworthy (AAA hyperscaler, not a cash-burning lab)?
-5. **Real margins?** Do the GAAP margins (not cherry-picked non-GAAP) support
+6. **Real margins?** Do the GAAP margins (not cherry-picked non-GAAP) support
    the quality claim?
-6. **Financing quality?** Any large active ATM + SBC overhang, or worrying debt
+7. **Financing quality?** Any large active ATM + SBC overhang, or worrying debt
    interest? (Disqualifier.) Or is dilution small/strategic/debt-retiring?
-7. **Stage?** Is it pre-volume-ramp (qualification design wins) and therefore
+8. **Stage?** Is it pre-volume-ramp (qualification design wins) and therefore
    mispriced on TTM revenue, or already crowded/frontrun?
-8. **Catalyst & timing?** Is there a dated catalyst (earnings, conference, MSCI
+9. **Catalyst & timing?** Is there a dated catalyst (earnings, conference, MSCI
    inclusion, policy/EO) within a tradable window?
-9. **Market cap headroom?** Small enough (<~$3B at call for his moonshots) that
+10. **Market cap headroom?** Small enough (<~$3B at call for his moonshots) that
    institutional re-rating is still ahead?
-10. **Validation lag?** Is institutional/analyst coverage still behind the
+11. **Validation lag?** Is institutional/analyst coverage still behind the
     supply-chain evidence (an edge), or already in (priced)?
-11. **Risk & sizing fit?** How binary is it (dilution, single-customer, China
+12. **Risk & sizing fit?** How binary is it (dilution, single-customer, China
     export, restructuring)? Size accordingly; consider defined-risk options.
-12. **Macro overlay?** Does the current rate path / tariff / war regime help or
+13. **Macro overlay?** Does the current rate path / tariff / war regime help or
     hurt this specific thesis right now?
 
 Then: confirm current price and fundamentals, weight using
