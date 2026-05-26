@@ -34,12 +34,12 @@ full life to date).
 
 | Path | What it is |
 |---|---|
-| `skills/serenity-aleabitoreddit/SKILL.md` | The agent skill: who he is, his edge, the three workflows, risk framing |
-| `skills/serenity-aleabitoreddit/references/methodology.md` | His framework as ~12 named, transferable principles + a checklist for any new name |
-| `skills/serenity-aleabitoreddit/references/theses.md` | Per-ticker knowledge base, merged across all periods, grouped by sub-sector, with conviction tiers and how each evolved |
-| `skills/serenity-aleabitoreddit/references/track-record.md` | Chronological timeline of his dated calls + an honest calibration note |
-| `skills/serenity-aleabitoreddit/references/maintenance.md` | Maintenance rules for incrementally distilling new posts into the skill |
-| `skills/serenity-aleabitoreddit/analysis/*.md` | The six period analyses the skill was synthesized from (provenance) |
+| `serenity-aleabitoreddit/SKILL.md` | The agent skill: who he is, his edge, the three workflows, risk framing |
+| `serenity-aleabitoreddit/references/methodology.md` | His framework as ~12 named, transferable principles + a checklist for any new name |
+| `serenity-aleabitoreddit/references/theses.md` | Per-ticker knowledge base, merged across all periods, grouped by sub-sector, with conviction tiers and how each evolved |
+| `serenity-aleabitoreddit/references/track-record.md` | Chronological timeline of his dated calls + an honest calibration note |
+| `serenity-aleabitoreddit/references/maintenance.md` | Maintenance rules for incrementally distilling new posts into the skill |
+| `serenity-aleabitoreddit/analysis/*.md` | The six period analyses the skill was synthesized from (provenance) |
 | `data/aleabitoreddit_tweets.json` | Full tweet archive, all fields (text, metrics, quoted tweets, media, timestamps) |
 | `data/aleabitoreddit_tweets.csv` | Same archive as a spreadsheet (id, url, time, text, likes, views, etc.) |
 | `data/ticker_stats.txt` | His `$ticker` universe by mention count + first/last seen |
