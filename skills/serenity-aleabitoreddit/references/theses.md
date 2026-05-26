@@ -100,7 +100,11 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   upstream of Boston Dynamics via SIVE → AEVA FMCW/CW DFB lasers → LG Innotek →
   Boston Dynamics; he sees humanoids later (~2028) but says CPO players like
   SIVE are becoming part of frontier physical-AI development. Jabil's 1.6T LRO
-  3-10 month mass-production window is the latest near-term ramp marker.
+  3-10 month mass-production window is the latest near-term ramp marker. May 26
+  update reaffirms SIVE as his "most compelling CPO exposure" despite
+  volatility, arguing this type of pure-play opportunity may not recur until the
+  next photonics architectural shift years later; he contrasts SIVE with core
+  laser suppliers already valued in the tens of billions.
   **Highest-conviction long in the entire late corpus.** High risk (Swedish small-cap,
   pre-volume-ramp).
 
