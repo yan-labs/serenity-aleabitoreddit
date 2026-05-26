@@ -165,6 +165,7 @@ his views.**
 | May 26 | VPG | Tripled since thesis; Serenity admits ASP mistake and cut concentration on TSLA design-out risk | Useful calibration: good outcome despite flawed assumptions and position-sizing caution |
 | May 26 | (portfolio) | YTD 4502.45% claimed | **self-reported**, unverified; update calibration caveat, not a signal to copy trades |
 | May 26 | AXTI / RDDT | Reflected on being banned from WSB for AXTI posts before AXTI rose thousands of percent | Social/track-record color only; no new AXTI thesis |
+| May 26 | MU | "$MU finally hits a $1 Trillion marketcap"; compared it to the next NVDA as AI makes memory demand structural | Hypothetical/future-framed validation marker for the memory-supercycle thesis |
 
 ---
 

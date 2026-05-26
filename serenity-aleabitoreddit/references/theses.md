@@ -310,7 +310,10 @@ superseded this list by 2026.)
 - **Tier:** Strong bull, "safest memory." ~10% of disclosed portfolio.
 - **Key evidence:** 115-125% QoQ server-DRAM increase proposal; predicted 73-75%
   GM in Jan, **actual 74.9% in March earnings (validated)**.
-- **Latest stance:** Bull, held.
+- **Latest stance:** Bull, held. May 26 update: Serenity re-framed MU as "the
+  next NVDA" because AI has made memory demand structural rather than cyclical,
+  and marked a hypothetical path from ~$80 to ~$887 / ~$1T market cap as major
+  validation of the memory-supercycle thesis.
 
 ### SNDK (SanDisk / WD memory) — NAND/SSD, his personal benchmark
 - **Thesis:** NAND supercycle (AI inference SSDs, enterprise storage). Mgmt:
