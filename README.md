@@ -59,7 +59,7 @@ Or drop the folder into an agent's skills directory:
 
 ```bash
 # Claude Code (project-local)
-cp -r skills/serenity-aleabitoreddit <your-project>/.agents/skills/
+cp -r serenity-aleabitoreddit <your-project>/.agents/skills/
 ln -s ../../.agents/skills/serenity-aleabitoreddit <your-project>/.claude/skills/serenity-aleabitoreddit
 ```
 
