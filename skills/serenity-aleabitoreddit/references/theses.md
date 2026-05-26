@@ -194,6 +194,9 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   volume.
 - **Tier:** New long (Mar 27 2026, $4.1B MC). "If your stock doesn't have Win in
   its name…" (outperformed during selloffs).
+- **Latest stance:** May 26 update says Win Semi is still almost never mentioned
+  in photonics analyst reports, but Serenity expects it to show up as an
+  important bottleneck for scaling lasers next year.
 
 ### Other materials/foundry mentions
 - **AMKR** (Amorphous packaging, "Made in America," long ~$37.6 Dec 1).
@@ -496,13 +499,16 @@ superseded this list by 2026.)
 - **Shunsin (6451, TYO):** Foxconn's optical packaging arm; backdoor into NVDA's
   CPO supply chain via Foxconn's exclusive rack-assembly role. Held; cost-avg.
   May 25 framing: hard to displace because Foxconn is embedded across core
-  supply chains.
+  supply chains. May 26 update: Shunsin is "picking up steam" among his Taiwan
+  longs.
 - **NGK (5333, TYO):** Added to the May 25 "functional monopoly" watchlist for
   thin-film lithium niobate (TFLN) wafer technology.
 - **FOCI (3363, TYO) / HIMX / Visera (6789, TYO):** FOCI FAU products reportedly
   developed with TSMC for 1.6T/3.2T COUPE/CPO ramps. Serenity sees a large
   near-term passive-component opportunity but flags FOCI and HIMX as higher
   design-out risks if TSMC's Visera vertically integrates the optical layer.
+  May 26 update says FOCI and MSSCorps should start getting more attention as
+  the Taiwan photonics chain becomes visible.
 - **RIBER / ALRIB (Riber SA):** MBE-machine near-duopoly; supplier to MSFT Quantum
   and SiPh. ~$300M MC, "massively underdiscovered." Small patience play.
 - **TER, FORM, VIAV, ONTO, KLAC, AMAT, ASML, CAMT, KLIC, BESI** — test/equipment

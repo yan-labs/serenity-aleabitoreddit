@@ -153,6 +153,7 @@ his views.**
 | May 24 | NVTS/WOLF/power semis | Crowdsourced 10x candidates for NVDA-led 800 VDC power architecture shift | Active research direction; no final pick yet |
 | May 26 | RKLB/SPCX/PL + LASR/SIVE + TSLA/Unitree | "Death Star and Battle Droids" thematic map | Frontier-physical-AI narrative linking space, lasers, and robotics |
 | May 26 | SIVE/JBL | Jabil fireside chat: 1.6T LRO mass production with excess demand in 3-10 months; SIVE likely sole-source laser supplier | Adds near-term ramp evidence to the SIVE/Jabil LRO thesis |
+| May 26 | Win Semi/Shunsin/FOCI/MSSCorps | Win Semi rarely appears in analyst reports but may become a laser-scaling bottleneck next year; Shunsin picking up steam | Reinforces Taiwan photonics-chain longs beyond the obvious module names |
 
 ---
 
