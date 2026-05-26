@@ -164,6 +164,7 @@ his views.**
 | May 26 | SIVE | Chart read as Sweden transferring control of SIVE to Western / non-Swedish buyers | Ownership-rotation / institutional-flow angle, not new supply-chain evidence |
 | May 26 | VPG | Tripled since thesis; Serenity admits ASP mistake and cut concentration on TSLA design-out risk | Useful calibration: good outcome despite flawed assumptions and position-sizing caution |
 | May 26 | (portfolio) | YTD 4502.45% claimed | **self-reported**, unverified; update calibration caveat, not a signal to copy trades |
+| May 26 | AXTI / RDDT | Reflected on being banned from WSB for AXTI posts before AXTI rose thousands of percent | Social/track-record color only; no new AXTI thesis |
 
 ---
 
