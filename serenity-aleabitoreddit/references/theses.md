@@ -104,7 +104,10 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   update reaffirms SIVE as his "most compelling CPO exposure" despite
   volatility, arguing this type of pure-play opportunity may not recur until the
   next photonics architectural shift years later; he contrasts SIVE with core
-  laser suppliers already valued in the tens of billions.
+  laser suppliers already valued in the tens of billions. Later the same day he
+  framed the chart as Sweden transferring control of SIVE to Western / non-Swedish
+  buyers, reinforcing the ownership-rotation / institutional-inflow angle rather
+  than adding a new technical catalyst.
   **Highest-conviction long in the entire late corpus.** High risk (Swedish small-cap,
   pre-volume-ramp).
 
@@ -467,8 +470,10 @@ superseded this list by 2026.)
 - **Power semis / 800 VDC watchlist:** May 24 update: Serenity explicitly
   crowdsourced the highest-conviction "Power Semi trade" because NVDA is pushing
   a shift to 800 VDC power architecture. He named NVTS and WOLF as example
-  high-beta candidates but had not yet published a final pick; treat this as an
-  active watchlist / research direction, not a settled thesis.
+  high-beta candidates. May 26 update: he said his NVTS position had already
+  doubled and that one crowdsourced 800 VDC long looked compelling enough for
+  further research. Treat this as an active watchlist / research direction, not a
+  settled final pick.
 - **VRT, ETN, POWL, ATKR, VICR, GEV, PWR, NRG, TLN, NEE** — grid/power roundup
   mentions.
 
@@ -603,7 +608,10 @@ superseded this list by 2026.)
   value"; held for LTCG.
 - **VPG (Vishay Precision Group):** Tesla Optimus precision-sensor play (~$850/
   robot, hand is most IP-sensitive). Robotics-segment orders beat ($37.8M vs
-  $30M). Held; conviction higher for high-end versions.
+  $30M). Held; conviction higher for high-end versions. May 26 calibration:
+  Serenity said VPG tripled after his thesis, but explicitly noted he overestimated
+  ASP (~$750 midpoint vs. ~$150 mass production) and cut concentration because of
+  TSLA design-out risk.
 - **AEVA (Aeva):** FMCW 4D LiDAR for "World Models" / physical AI + a CPO
   breakthrough. Speculative venture bet, small, entry ~$14.10. May 24 update:
   a likely SIVE customer path into robotics/self-driving architectures via

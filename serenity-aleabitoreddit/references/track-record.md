@@ -156,6 +156,9 @@ his views.**
 | May 26 | Win Semi/Shunsin/FOCI/MSSCorps | Win Semi rarely appears in analyst reports but may become a laser-scaling bottleneck next year; Shunsin picking up steam | Reinforces Taiwan photonics-chain longs beyond the obvious module names |
 | May 26 | EWY calls | Calls up 300%+ / over 4x; IV held; Samsung/SK Hynix memory longs kept printing | Later validation of EWY vega/IV + Korean memory thesis |
 | May 26 | SIVE | "Most compelling CPO exposure" despite volatility; rare until next photonics architecture shift | Reaffirmed highest-conviction SIVE framing |
+| May 26 | NVTS / 800 VDC | NVTS position "double already"; one crowdsourced 800 VDC long looked compelling enough for more work | Track as active research, not a finalized power-semi pick |
+| May 26 | SIVE | Chart read as Sweden transferring control of SIVE to Western / non-Swedish buyers | Ownership-rotation / institutional-flow angle, not new supply-chain evidence |
+| May 26 | VPG | Tripled since thesis; Serenity admits ASP mistake and cut concentration on TSLA design-out risk | Useful calibration: good outcome despite flawed assumptions and position-sizing caution |
 
 ---
 

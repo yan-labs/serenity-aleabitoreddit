@@ -7,11 +7,35 @@ Does NOT touch git — the caller decides whether to commit/push based on NEW.
 """
 import json, csv, os, re, subprocess, tempfile
 from collections import Counter
+from datetime import datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
 
 USER = "aleabitoreddit"
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "data")
 ARCH = os.path.join(DATA, "aleabitoreddit_tweets.json")
+LOCAL_TZ = timezone(timedelta(hours=8))
+
+def parse_time(t):
+    iso = t.get("createdAtISO")
+    if iso:
+        return datetime.fromisoformat(iso.replace("Z", "+00:00"))
+    created = t.get("createdAt")
+    if created:
+        return parsedate_to_datetime(created)
+    return None
+
+def ensure_times(t):
+    dt = parse_time(t)
+    if dt and not t.get("createdAtISO"):
+        t["createdAtISO"] = dt.astimezone(timezone.utc).isoformat()
+    if dt and not t.get("createdAtLocal"):
+        t["createdAtLocal"] = dt.astimezone(LOCAL_TZ).strftime("%Y-%m-%d %H:%M")
+    return t
+
+def sort_key(t):
+    dt = parse_time(t)
+    return dt.isoformat() if dt else ""
 
 def pull(n=100):
     tmp = tempfile.mktemp(suffix=".json")
@@ -67,21 +91,24 @@ def write_ticker_stats(rows):
                 f.write(f"{tk:8} {n:6}   {first[tk]}  {last[tk]}\n")
 
 def main():
-    arch = json.load(open(ARCH))
+    raw_arch = json.load(open(ARCH))
+    arch = [ensure_times(t) for t in raw_arch]
+    normalized = arch != raw_arch
     have = {t["id"] for t in arch}
-    new = [t for t in pull() if t["id"] not in have]
-    new.sort(key=lambda t: t.get("createdAtISO", ""))
-    if new:
+    new = [ensure_times(t) for t in pull() if t["id"] not in have]
+    new.sort(key=sort_key)
+    if new or normalized:
         merged = {t["id"]: t for t in arch}
         for t in new:
             merged[t["id"]] = t
-        rows = sorted(merged.values(), key=lambda t: t.get("createdAtISO", ""), reverse=True)
+        rows = sorted(merged.values(), key=sort_key, reverse=True)
         json.dump(rows, open(ARCH, "w"), ensure_ascii=False, indent=2)
         write_csv(rows)
         write_ticker_stats(rows)
         for t in new:
-            print(f"  + {t['createdAtISO'][:16]} {t['id']} {(t.get('text') or '')[:60].replace(chr(10),' ')}")
-        print(f"TOTAL={len(rows)} NEWEST={rows[0]['createdAtISO']}")
+            print(f"  + {t.get('createdAtISO', '')[:16]} {t['id']} {(t.get('text') or '')[:60].replace(chr(10),' ')}")
+        if new:
+            print(f"TOTAL={len(rows)} NEWEST={rows[0].get('createdAtISO', '')}")
     print(f"NEW={len(new)}")
 
 if __name__ == "__main__":
