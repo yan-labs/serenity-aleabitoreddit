@@ -599,8 +599,11 @@ superseded this list by 2026.)
   buy-and-hold. (An admitted cost-average loser in 2025.)
 - **RPI (Raspberry Pi) — AI-agent hardware:** TAM expanded from education to AI
   agent orchestration ("OpenClaw/PicoClaw" bare-metal swarms bypass VM
-  detection). Modeled 48-55% growth vs. 14-17% consensus; **actual 58%**;
-  +44.76% on earnings (Mar 31). Defended hard against the "meme stock" label.
+  detection). Modeled 48-55% growth vs. 14-17% consensus; the corpus says
+  "actual 58%," but the 2026-05-27 independent recheck did **not** verify that
+  exact figure in Raspberry Pi's official FY2025 release (official revenue and
+  adjusted EBITDA were each +25%). The stock still moved +44.76% on earnings
+  (Mar 31). Defended hard against the "meme stock" label.
   May 26 update: close to ~3x returns despite media "meme stock" framing; he
   cites it as another example of retail paper-handing after institutional bear
   commentary, then watching his bottleneck names rise 3x-15x+. Small position.

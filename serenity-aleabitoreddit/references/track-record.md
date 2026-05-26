@@ -159,17 +159,35 @@ his views.**
 | May 26 | SIVE/JBL | Jabil fireside chat: 1.6T LRO mass production with excess demand in 3-10 months; SIVE likely sole-source laser supplier | Adds near-term ramp evidence to the SIVE/Jabil LRO thesis |
 | May 26 | Win Semi/Shunsin/FOCI/MSSCorps | Win Semi rarely appears in analyst reports but may become a laser-scaling bottleneck next year; Shunsin picking up steam | Reinforces Taiwan photonics-chain longs beyond the obvious module names |
 | May 26 | EWY calls | Calls up 300%+ / over 4x; IV held; Samsung/SK Hynix memory longs kept printing | Later validation of EWY vega/IV + Korean memory thesis |
+| May 26 | MU | "$MU finally hits a $1 Trillion marketcap"; compared it to the next NVDA as AI makes memory demand structural | Hypothetical/future-framed validation marker for the memory-supercycle thesis |
 | May 26 | SIVE | "Most compelling CPO exposure" despite volatility; rare until next photonics architecture shift | Reaffirmed highest-conviction SIVE framing |
 | May 26 | NVTS / 800 VDC | NVTS position "double already"; one crowdsourced 800 VDC long looked compelling enough for more work | Track as active research, not a finalized power-semi pick |
 | May 26 | SIVE | Chart read as Sweden transferring control of SIVE to Western / non-Swedish buyers | Ownership-rotation / institutional-flow angle, not new supply-chain evidence |
 | May 26 | VPG | Tripled since thesis; Serenity admits ASP mistake and cut concentration on TSLA design-out risk | Useful calibration: good outcome despite flawed assumptions and position-sizing caution |
 | May 26 | (portfolio) | YTD 4502.45% claimed | **self-reported**, unverified; update calibration caveat, not a signal to copy trades |
 | May 26 | AXTI / RDDT | Reflected on being banned from WSB for AXTI posts before AXTI rose thousands of percent | Social/track-record color only; no new AXTI thesis |
-| May 26 | MU | "$MU finally hits a $1 Trillion marketcap"; compared it to the next NVDA as AI makes memory demand structural | Hypothetical/future-framed validation marker for the memory-supercycle thesis |
 
 ---
 
 ## Calibration note: how much to weight him
+
+**Independent recheck summary (2026-05-27):**
+- True trading win rate is not independently knowable without complete broker
+  statements, option-contract history, position sizes, and full loser
+  disclosure.
+- A local adjusted-close re-score of dated, directional public calls found
+  **30/49 = 61.2%** correct 30-day direction, **20/49 = 40.8%** strict 30-day
+  +10%/-10% hits, and **29/54 = 53.7%** with a 20%+ favorable close inside
+  60 days.
+- Mature, externally checkable theses are better than mechanical copying:
+  roughly **65-75%** of mature theses were at least partly validated, and the
+  strongest AI photonics / CPO / InP / memory bottleneck subset looks closer to
+  **75-85%**. These are calibration bands, not auditable returns.
+- Recheck correction: the RPI thesis direction and stock move were good, but
+  Raspberry Pi's official FY2025 release shows revenue +25% and adjusted EBITDA
+  +25%; the corpus claim of "actual 58% growth" should not be treated as
+  independently verified. VLN and AIRO had reported fast event gains, but a
+  close-to-close public-copy proxy did not reproduce those wins.
 
 **Calls that clearly worked (as recorded in the corpus):**
 - **AXTI** — the flagship. Identified the InP bottleneck at ~$700M MC before the
@@ -183,11 +201,15 @@ his views.**
   74.9% in March: a clean, falsifiable, *correct* quantitative call.
 - **CRCL** — bought the float-unlock crash at $54; +53% in three weeks, +148% off
   the December low.
-- **RPI** — modeled 55% growth vs. 14% consensus; actual 58%. Defended against
-  the "meme stock" label and was right on the number.
+- **RPI** — directionally worked as a stock call and the March 31 earnings move
+  was strong, but the exact "actual 58%" growth claim is not independently
+  verified by the official FY2025 release (revenue and adjusted EBITDA were each
+  +25%).
 - **NBIS** — his defining multi-period hold; thesis (margins, financing,
   sum-of-parts) tracked through earnings.
-- **VLN, AIRO, HPS.A, RDDT, CRDO dip** — recorded as working.
+- **HPS.A, RDDT, CRDO dip** — recorded as working. **VLN and AIRO** should be
+  treated as event-timing claims: the corpus records fast gains, but the
+  close-to-close public-copy proxy did not reproduce them.
 - **Bearish/avoid calls that worked:** IREN (-34% after the ATM bear thesis),
   ORCL (-11%), VCX ("do not buy," -44% same day), the pre-revenue quantum avoids.
 
@@ -227,3 +249,7 @@ his views.**
    discipline) — documented in `methodology.md`. Weight the *questions he asks*
    higher than the *tickers he names*, and confirm current price/fundamentals
    before acting on anything.
+6. **Mechanical copy rate is lower than thesis quality.** A rough 30-day
+   public-copy proxy comes out near 61% directional / 41% strict-hit accuracy.
+   The higher-quality signal is concentrated in mature supply-chain bottleneck
+   theses, especially AI photonics / CPO / InP / SOI / memory.

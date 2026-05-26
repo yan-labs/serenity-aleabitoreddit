@@ -54,6 +54,17 @@ margins vs. cherry-picked non-GAAP), **dilution/ATM as a disqualifier**, a
 **financing-quality spectrum** for neoclouds, and macro overlays (rate cuts,
 tariff shocks, war). Full detail in `references/methodology.md`.
 
+**Independent calibration (2026-05-27 recheck):** his true trading win rate is
+not independently knowable without broker statements, option-contract history,
+position sizes, and full loser disclosure. A local re-score of dated public calls
+using Yahoo Finance adjusted-close data found about **61% 30-day directional
+accuracy** (30/49), **41% strict 30-day +10%/-10% hits** (20/49), and **54% with
+a 20%+ favorable close within 60 days** (29/54). Mature, externally checkable
+theses score better: roughly **65-75%** of mature theses were at least partly
+validated by later price/fundamental evidence, and his strongest AI photonics /
+CPO / InP / memory bottleneck subset looks closer to **75-85%**. Treat those as
+rough calibration bands, not a replicable trading return.
+
 **Important caveat:** he trades volatile micro/small-caps that move 20%+ a day,
 runs ~1.25–1.5x margin, and self-reports very high YTD returns (237% in
 Feb 2026, later 4502.45% YTD on May 26). Those numbers are unverified and carry
@@ -87,8 +98,9 @@ Read progressively — pull in only what the task needs.
    `references/methodology.md` — apply his principles to a fresh name.
 3. Sanity-check timeliness: his theses are dated. Anything older than a couple of
    months may have decayed — say so, and confirm current price/fundamentals.
-4. Weight his opinion using `references/track-record.md` (some calls landed hard;
-   some reversed).
+4. Weight his opinion using `references/track-record.md` and the calibration
+   bands above: his bottleneck theses deserve more weight than event trades,
+   old flipped stances, or self-reported options screenshots.
 5. Present: his view, the supply-chain read, the bull/bear case, and the risks —
    framed as analysis, never as an order to place.
 
@@ -123,6 +135,10 @@ Read progressively — pull in only what the task needs.
 - **Self-reported, unverified returns.** His YTD figures, from 237% in Feb 2026
   to 4502.45% on May 26, are his own screenshots. No independent verification
   exists.
+- **Estimated public-call calibration, not trading proof.** A 2026-05-27
+  recheck found ~61% 30-day directional accuracy on dated public calls, but only
+  ~41% strict 30-day +10%/-10% hits. Mature supply-chain theses validated better
+  than mechanical copying.
 - **Survivorship / selection bias.** A public feed highlights winners. Reversed
   or wrong calls exist (see `references/track-record.md`) and get less airtime.
 - **High-volatility micro/small-caps.** Many of his names (AXTI, SIVE, IQE, AAOI)
