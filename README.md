@@ -1,12 +1,24 @@
+<p align="center">
+  <a href="https://x.com/aleabitoreddit">
+    <img src="assets/serenity-avatar.jpg" alt="Serenity (@aleabitoreddit)" width="112" height="112">
+  </a>
+</p>
+
 # serenity-aleabitoreddit
 
 [![skills.sh](https://skills.sh/b/yan-labs/serenity-aleabitoreddit)](https://skills.sh/yan-labs/serenity-aleabitoreddit)
 
-Everything distilled from trader **Serenity
-([@aleabitoreddit](https://x.com/aleabitoreddit))** — an AI/semiconductor
-*supply-chain* analyst on X — in one self-contained repo: **his raw tweet
-archive**, a **period-by-period distillation**, and a ready-to-use **agent
-skill** that applies his analytical lens to US-stock ideas.
+Everything distilled from **Serenity
+([@aleabitoreddit](https://x.com/aleabitoreddit))** — a public X trader and
+AI/semiconductor *supply-chain* analyst known for tracing hyperscaler capex into
+upstream bottlenecks. His recurring research terrain includes optical/CPO and
+photonics, InP substrates and compound semis, memory/HBM/NAND, neocloud
+financing quality, AI power/grid demand, robotics/physical AI, and overlooked
+international supply-chain names.
+
+This repo packages his public work into one self-contained research artifact:
+**the raw tweet archive**, a **period-by-period distillation**, and a
+ready-to-use **agent skill** that applies his analytical lens to US-stock ideas.
 
 Built from **~5,545 tweets** spanning **2025-07-02 → 2026-05-26** (the account's
 full life to date).
@@ -29,6 +41,7 @@ full life to date).
 | `data/aleabitoreddit_tweets.json` | Full tweet archive, all fields (text, metrics, quoted tweets, media, timestamps) |
 | `data/aleabitoreddit_tweets.csv` | Same archive as a spreadsheet (id, url, time, text, likes, views, etc.) |
 | `data/ticker_stats.txt` | His `$ticker` universe by mention count + first/last seen |
+| `assets/serenity-avatar.jpg` | Local copy of Serenity's public X avatar used in this README |
 | `prep.py` | Condenses the tweet JSON into monthly chunks and recomputes the ticker stats |
 | `update.py` | Pulls latest tweets, dedupes by id, and refreshes derived data for incremental updates |
 
