@@ -146,6 +146,10 @@ his views.**
 | May 13 | SIVE | MSCI Small Cap inclusion (~$64.5M inflows) | Structural catalyst |
 | May 17 | BOT | **NAV-premium warning** | Cautionary |
 | May 19 | IREN | "-34% confirmed" | ⚠️ his bear thesis validated |
+| May 19 | Glass substrates | YC Chem first glass-substrate photoresist supplier; Samyang sampling; AI GPU / ASIC / CPO demand may create another high-end ABF substrate shortage by 2027 | Broadens LPK glass-substrate thesis into upstream materials |
+| May 20 | Starlink / Kuiper | Compeq has Starlink and Amazon Kuiper orders; next research layer is OISL and specialty HDI materials | Adds a LEO satellite supply-chain watchlist beyond obvious space primes |
+| May 21 | Power semis | Taiwan low-market-cap power semi names flagged for further research | Extends 800 VDC / power-semi watchlist, still not a final pick |
+| May 22 | INTC EMIB | AP Memory qualified in Intel EMIB advanced-packaging supply chain | Adds an Intel packaging-chain research lead |
 | May 25 | SIVE | OMX/NASDAQ Stockholm index + MSCI passive inflow setup; BlackRock/Vanguard named as new passive buyers | Structural catalyst extended; still "extremely early" per Serenity |
 | May 25 | LPK | "Turned out pretty well" after April entry | Early validation of the glass-substrate equipment thesis |
 | May 25 | MSSCorps/FOCI | UDN article on TSM COUPE + AI optical markets named both as beneficiaries | Serenity says X/retail found the story before mainstream institutions |
@@ -159,6 +163,7 @@ his views.**
 | May 26 | NVTS / 800 VDC | NVTS position "double already"; one crowdsourced 800 VDC long looked compelling enough for more work | Track as active research, not a finalized power-semi pick |
 | May 26 | SIVE | Chart read as Sweden transferring control of SIVE to Western / non-Swedish buyers | Ownership-rotation / institutional-flow angle, not new supply-chain evidence |
 | May 26 | VPG | Tripled since thesis; Serenity admits ASP mistake and cut concentration on TSLA design-out risk | Useful calibration: good outcome despite flawed assumptions and position-sizing caution |
+| May 26 | (portfolio) | YTD 4502.45% claimed | **self-reported**, unverified; update calibration caveat, not a signal to copy trades |
 
 ---
 
