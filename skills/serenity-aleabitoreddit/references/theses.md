@@ -328,8 +328,9 @@ superseded this list by 2026.)
   arbitrage. 2028 leaps bought at 32% IV (priced on a flat-decade average) while
   EWY is effectively 50%+ Samsung/SK Hynix; IV expanded to 44-47% in a week.
   Target IV 55-65%. ⚠️ By late March he admitted Iran killed rate-cut pricing,
-  making it "a coin flip" — macro dented this trade. (Advanced options; not for
-  copying.)
+  making it "a coin flip" — macro dented this trade. May 26 update: EWY calls
+  were up 300%+ / over 4x as IV held and Samsung/SK Hynix memory longs kept
+  working. (Advanced options; not for copying.)
 - **Towa (6315, TYO):** Functional monopoly on compression molding for HBM
   packaging (all three HBM makers are customers). ~$1.34B MC "sleeper" in the
   HBM4 capex cycle; guides 80-100% re-rating (not a 4x play).
