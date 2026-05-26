@@ -71,6 +71,7 @@ Read progressively — pull in only what the task needs.
 | `references/methodology.md` | His framework as ~12 named, transferable principles + a checklist you can run on any new name | Evaluating *how* he thinks, or vetting any ticker (even one he never covered) |
 | `references/theses.md` | Per-ticker knowledge base, merged across all periods, grouped by sub-sector, with conviction tier + how it evolved + latest stance | Looking up his actual view on a specific name |
 | `references/track-record.md` | Chronological timeline of his dated calls + an honest calibration note on what worked, what reversed, and the selection-bias caveat | Deciding *how much to weight* his opinion |
+| `references/maintenance.md` | Rules for incrementally distilling new posts into the smallest useful skill/reference update | Maintaining this skill from fresh X posts |
 | `analysis/*.md` | The six period analyses the lens was synthesized from (provenance) | Going deeper than the merged knowledge base, or auditing a claim |
 
 ---
