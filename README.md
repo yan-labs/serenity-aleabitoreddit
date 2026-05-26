@@ -1,3 +1,5 @@
+npx skills add yan-labs/serenity-aleabitoreddit
+
 <p align="center">
   <a href="https://x.com/aleabitoreddit">
     <img src="assets/serenity-avatar.jpg" alt="Serenity (@aleabitoreddit)" width="112" height="112">
@@ -32,7 +34,7 @@ full life to date).
 
 | Path | What it is |
 |---|---|
-| `SKILL.md` | The agent skill: who he is, his edge, the three workflows, risk framing |
+| `skills/serenity-aleabitoreddit/SKILL.md` | The agent skill: who he is, his edge, the three workflows, risk framing |
 | `skills/serenity-aleabitoreddit/references/methodology.md` | His framework as ~12 named, transferable principles + a checklist for any new name |
 | `skills/serenity-aleabitoreddit/references/theses.md` | Per-ticker knowledge base, merged across all periods, grouped by sub-sector, with conviction tiers and how each evolved |
 | `skills/serenity-aleabitoreddit/references/track-record.md` | Chronological timeline of his dated calls + an honest calibration note |
