@@ -114,6 +114,9 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   targeted around photonics, and he flags SIVE as Europe's leading photonics /
   laser company with prior US CHIPS Act funding and Western supply-chain
   relevance. Treat this as a policy-timing catalyst, not a confirmed allocation.
+  Later May 27 update claims short-seller bot/news disinformation campaigns
+  around SIVE; treat this as a sentiment/positioning note, not fresh technical
+  evidence.
   **Highest-conviction long in the entire late corpus.** High risk (Swedish small-cap,
   pre-volume-ramp).
 

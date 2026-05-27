@@ -169,6 +169,7 @@ his views.**
 | May 27 | SIVE / EU Chips Act 2 | EU Chips Act 2 expected to target photonics; Serenity flags SIVE as a European photonics/laser supply-chain beneficiary candidate | Policy-catalyst watch, not confirmed allocation |
 | May 27 | 800 VDC / power semis | Says he took positions in one compelling NVDA-linked power-semi name, not directly mentioned like NVTS | Confirms active exposure but still leaves the specific pick undisclosed |
 | May 27 | TSEM / AAOI / profile | Reached 400k followers and cited TSEM-to-AAOI free idea sharing as directionally right | Social / self-reported track-record color only; no new thesis |
+| May 27 | SIVE / short sellers | Claims short sellers are using bot/news disinformation campaigns around SIVE | Sentiment/positioning note only; not new supply-chain evidence |
 
 ---
 
