@@ -123,6 +123,10 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   Later May 27 update says he would not be surprised to see SIVE, SOI, and XFAB
   receive EU Chips Act 2 funding, but notes the formal announcement appears
   pushed to the next week; treat timing and allocation as unconfirmed.
+  Later May 27 update frames a broad photonics selloff as no-news volatility and
+  says he has been adding to positions because CPO/photonics remains his most
+  compelling forward theme; treat this as conviction/positioning color, not a
+  guarantee that the drawdown is finished.
   Later May 27 update claims short-seller bot/news disinformation campaigns
   around SIVE; treat this as a sentiment/positioning note, not fresh technical
   evidence.
