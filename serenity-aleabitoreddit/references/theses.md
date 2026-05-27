@@ -8,7 +8,7 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
 > All prices, market caps, and percentages are Serenity's own citations from his
 > tweets — self-reported and unverified. Theses are dated; confirm current
 > reality before acting. "Latest stance" = his last known view in the corpus,
-> through ~2026-05-25.
+> through ~2026-05-27.
 
 ## Table of contents
 
@@ -71,11 +71,12 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   6), $53M 800G order (Mar 23). Earnings confirmed positive (May 7). $250-500M
   ATM = short-term ceiling (~$100).
 - **Latest stance:** High conviction. "Could be $30B+ in a year" if it executes
-  as the largest US 1.6T laser fab. May 27 calibration note: his original
-  AAOI/$20-30 thesis assumed AMZN/MSFT were qualifying specific optical
-  transceivers for ASIC programs; he now says the demand proved more
-  interchangeable and mass-producible, while the broader LITE/AAOI/Innolight/
-  COHR/AXTI photonics basket still played out.
+  as the largest US 1.6T laser fab. May 27 calibration: he now says the original
+  AMZN/MSFT specific-optical-transceiver qualification idea was less precise
+  than he first thought; the ramp proved more interchangeable and
+  mass-producible. He treats that as a process calibration, not a thesis break,
+  because the broader LITE/AAOI/COHR/AXTI photonics bottleneck call still played
+  out.
 
 ### SIVE / SIVEF (Sivers Semiconductors) — CW/DFB merchant laser for CPO
 - **Thesis:** Primary pure-play merchant DFB/CW laser supplier for the CPO
@@ -131,6 +132,10 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   says he has been adding to positions because CPO/photonics remains his most
   compelling forward theme; treat this as conviction/positioning color, not a
   guarantee that the drawdown is finished.
+  Later May 27 update explicitly compares current CPO longs like SIVE, FOCI, and
+  Shunsin to the earlier LITE/AAOI/COHR/AXTI winners, saying current FUD feels
+  like deja vu. Treat the analogy as conviction reinforcement and pattern
+  recognition, not new customer evidence.
   Later May 27 update claims short-seller bot/news disinformation campaigns
   around SIVE; treat this as a sentiment/positioning note, not fresh technical
   evidence.
