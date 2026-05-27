@@ -120,6 +120,9 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   targeted around photonics, and he flags SIVE as Europe's leading photonics /
   laser company with prior US CHIPS Act funding and Western supply-chain
   relevance. Treat this as a policy-timing catalyst, not a confirmed allocation.
+  Later May 27 update says he would not be surprised to see SIVE, SOI, and XFAB
+  receive EU Chips Act 2 funding, but notes the formal announcement appears
+  pushed to the next week; treat timing and allocation as unconfirmed.
   Later May 27 update claims short-seller bot/news disinformation campaigns
   around SIVE; treat this as a sentiment/positioning note, not fresh technical
   evidence.
@@ -198,7 +201,9 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   acquired 6.5% of float = institutional thesis catch-up (his institutional-lag
   thesis playing out). "3x in a year" projection.
 - **Latest stance:** Held; MS accumulation validates. One of his cleanest
-  landed calls.
+  landed calls. May 27 update adds EU Chips Act 2 optionality: Serenity says he
+  would not be surprised to see SOI listed with SIVE and XFAB for funding, while
+  noting the formal announcement appears delayed to the next week.
 
 ### TSEM (Tower Semiconductor) — InP/SiPh specialty foundry ("TSM of photonics")
 - **Thesis:** InP + silicon-photonics foundry; 70% capacity booked through 2028;
@@ -511,7 +516,9 @@ superseded this list by 2026.)
   catalyst, 800 VDC power-semi exposure to Nvidia's push via NVTS + POWI, and
   silicon-photonics / CPO exposure. Treat XFAB as the current named
   800 VDC + SiPh crossover pick, while still recognizing that he frames CPO as
-  more compelling than the broader power/cooling trade.
+  more compelling than the broader power/cooling trade. Later May 27 update adds
+  that he would not be surprised to see XFAB, SIVE, and SOI receive EU Chips Act
+  2 funding, but the formal announcement appears pushed to the next week.
 - **VRT, ETN, POWL, ATKR, VICR, GEV, PWR, NRG, TLN, NEE** — grid/power roundup
   mentions.
 
