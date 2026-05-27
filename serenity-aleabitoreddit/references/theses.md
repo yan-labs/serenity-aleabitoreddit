@@ -532,6 +532,11 @@ superseded this list by 2026.)
   more compelling than the broader power/cooling trade. Later May 27 update adds
   that he would not be surprised to see XFAB, SIVE, and SOI receive EU Chips Act
   2 funding, but the formal announcement appears pushed to the next week.
+  Later May 27 update defends XFAB against "meme stock" framing: he says EU
+  CHIPS Act funding, NVDA/NOK SiPh evaluation, low ~1.28 P/B, legacy-segment
+  drag hiding high-growth verticals, and US Commerce recognition as a high-volume
+  US SiC foundry support the thesis. Treat this as a strengthened named XFAB
+  thesis, while still awaiting confirmed funding timing and revenue conversion.
 - **VRT, ETN, POWL, ATKR, VICR, GEV, PWR, NRG, TLN, NEE** — grid/power roundup
   mentions.
 

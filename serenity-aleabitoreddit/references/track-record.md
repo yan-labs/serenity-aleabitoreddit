@@ -175,6 +175,7 @@ his views.**
 | May 27 | SIVE / SOI / XFAB | Says he would not be surprised to see all three receive EU Chips Act 2 funding, but says the formal announcement appears pushed to next week | Policy-catalyst timing update; no confirmed award yet |
 | May 27 | Photonics basket | Notes a broad no-news selloff across LITE/AAOI/SIVE/SOI/AXTI/IQE and says he has been adding because CPO/photonics remains the most compelling theme | Reaffirms conviction into volatility; not proof the selloff is over |
 | May 27 | AAOI / CPO longs | Says his original AAOI/LITE/COHR/AXTI photonics thesis played out even though AMZN/MSFT optical-transceiver qualification was less specific and more mass-producible than he first thought; compares current SIVE/FOCI/Shunsin FUD to earlier photonics FUD | Useful calibration: thesis direction worked, mechanism was imperfect; current CPO analogy is conviction color, not fresh proof |
+| May 27 | XFAB / EU Chips / SiPh / power semis | Pushes back on "meme stock" framing: cites EU CHIPS Act funding, NVDA/NOK SiPh evaluation, low ~1.28 P/B, US high-volume SiC foundry status, and 800 VDC power-semi revenue ramp | Strengthens named XFAB thesis; still needs confirmed award timing and revenue proof |
 
 ---
 
