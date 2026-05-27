@@ -14,11 +14,12 @@ description: >
 
 # Serenity Supply-Chain Lens (@aleabitoreddit)
 
-A reusable analytical lens distilled from **~5,565 tweets (2025-07 to 2026-05)**
-by **Serenity / [@aleabitoreddit](https://x.com/aleabitoreddit)** — an
-AI-and-semiconductor *supply-chain* analyst and trader (~400k followers,
-ex-Reddit/WSB). Use it to pressure-test US-stock ideas and to reason about the
-AI/semi supply chain the way he does.
+A reusable analytical lens distilled from **~5,565 tweets (2025-07 to 2026-05)
+plus 4 long-form X Articles (2026-01 to 2026-05)** by **Serenity /
+[@aleabitoreddit](https://x.com/aleabitoreddit)** — an AI-and-semiconductor
+*supply-chain* analyst and trader (~400k followers, ex-Reddit/WSB). Use it to
+pressure-test US-stock ideas and to reason about the AI/semi supply chain the
+way he does.
 
 > **Decision-support lens, NOT financial advice and NOT an auto-trader.** See
 > "Risk & disclaimer framing" below. Always confirm current prices and
@@ -81,6 +82,7 @@ Read progressively — pull in only what the task needs.
 |---|---|---|
 | `references/methodology.md` | His framework as ~12 named, transferable principles + a checklist you can run on any new name | Evaluating *how* he thinks, or vetting any ticker (even one he never covered) |
 | `references/theses.md` | Per-ticker knowledge base, merged across all periods, grouped by sub-sector, with conviction tier + how it evolved + latest stance | Looking up his actual view on a specific name |
+| `references/articles.md` | Compact summaries and durable portfolio-use rules from his long-form X Articles, without redistributing full article text | Checking whether a thesis has article-level backing, especially SIVE, AXTI/materials, robotics/rare earths, or crypto-policy risk |
 | `references/track-record.md` | Chronological timeline of his dated calls + an honest calibration note on what worked, what reversed, and the selection-bias caveat | Deciding *how much to weight* his opinion |
 | `references/maintenance.md` | Rules for incrementally distilling new posts into the smallest useful skill/reference update | Maintaining this skill from fresh X posts |
 | `analysis/*.md` | The six period analyses the lens was synthesized from (provenance) | Going deeper than the merged knowledge base, or auditing a claim |
@@ -94,14 +96,17 @@ Read progressively — pull in only what the task needs.
 1. Look the ticker up in `references/theses.md`. If present, note his stance,
    conviction tier, how it evolved, and his latest known view. Flag if his view
    reversed (e.g. IREN, CRWV, POET).
-2. If he never covered it, run the **checklist** at the bottom of
+2. If the ticker or theme appears in `references/articles.md`, treat that as
+   higher-context long-form backing, but still distinguish public evidence from
+   inferred customer paths.
+3. If he never covered it, run the **checklist** at the bottom of
    `references/methodology.md` — apply his principles to a fresh name.
-3. Sanity-check timeliness: his theses are dated. Anything older than a couple of
+4. Sanity-check timeliness: his theses are dated. Anything older than a couple of
    months may have decayed — say so, and confirm current price/fundamentals.
-4. Weight his opinion using `references/track-record.md` and the calibration
+5. Weight his opinion using `references/track-record.md` and the calibration
    bands above: his bottleneck theses deserve more weight than event trades,
    old flipped stances, or self-reported options screenshots.
-5. Present: his view, the supply-chain read, the bull/bear case, and the risks —
+6. Present: his view, the supply-chain read, the bull/bear case, and the risks —
    framed as analysis, never as an order to place.
 
 ### (b) Review a portfolio or watchlist against his views
@@ -114,7 +119,10 @@ Read progressively — pull in only what the task needs.
    - **Gaps** — his high-conviction names absent from the list (e.g. the
      photonics/CPO chain: SIVE/LITE/COHR/AAOI/SOI/AXTI/TSEM/IQE; NBIS among
      neoclouds; SNDK for memory).
-3. Produce a prioritized discussion list. Keep it advisory; never generate,
+3. Check `references/articles.md` for long-form article support. Article-backed
+   signals should raise discussion priority only when they also fit the user's
+   risk budget, liquidity, and execution constraints.
+4. Produce a prioritized discussion list. Keep it advisory; never generate,
    place, or cancel a trade order.
 
 ### (c) Form a forward sector view

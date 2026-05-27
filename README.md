@@ -19,11 +19,12 @@ financing quality, AI power/grid demand, robotics/physical AI, and overlooked
 international supply-chain names.
 
 This repo packages his public work into one self-contained research artifact:
-**the raw tweet archive**, a **period-by-period distillation**, and a
-ready-to-use **agent skill** that applies his analytical lens to US-stock ideas.
+**the raw tweet archive**, **long-form article summaries**, a
+**period-by-period distillation**, and a ready-to-use **agent skill** that
+applies his analytical lens to US-stock ideas.
 
-Built from **~5,565 tweets** spanning **2025-07-02 → 2026-05-27** (the account's
-full life to date).
+Built from **~5,565 tweets** spanning **2025-07-02 → 2026-05-27** plus **4 X
+Articles** published in **2026-01 → 2026-05**.
 
 > ⚠️ **Not financial advice. Decision-support only.** This skill never trades and
 > never places or cancels orders. Serenity's self-reported returns are unverified
@@ -37,6 +38,7 @@ full life to date).
 | `serenity-aleabitoreddit/SKILL.md` | The agent skill: who he is, his edge, the three workflows, risk framing |
 | `serenity-aleabitoreddit/references/methodology.md` | His framework as ~12 named, transferable principles + a checklist for any new name |
 | `serenity-aleabitoreddit/references/theses.md` | Per-ticker knowledge base, merged across all periods, grouped by sub-sector, with conviction tiers and how each evolved |
+| `serenity-aleabitoreddit/references/articles.md` | Compact summaries and portfolio-use rules for Serenity's long-form X Articles; full article text is intentionally not stored |
 | `serenity-aleabitoreddit/references/track-record.md` | Chronological timeline of his dated calls + an honest calibration note |
 | `serenity-aleabitoreddit/references/maintenance.md` | Maintenance rules for incrementally distilling new posts into the skill |
 | `serenity-aleabitoreddit/analysis/*.md` | The six period analyses the skill was synthesized from (provenance) |
@@ -77,11 +79,13 @@ cap is most mispriced relative to the trillions flowing downstream.
 
 Tweets were collected via the `agent-reach` `twitter-cli` using date-windowed
 search (full-day windows with intra-day top-up for high-volume days) to work
-around X's pagination/rate limits. Regenerate the condensed monthly chunks and
-ticker stats from the archive with `python3 prep.py`.
+around X's pagination/rate limits. X Article bodies were fetched with
+authenticated article access and distilled into summaries only; full article text
+is not redistributed here. Regenerate the condensed monthly chunks and ticker
+stats from the archive with `python3 prep.py`.
 
 ---
 
-*This repository contains only public information about @aleabitoreddit (his
-public tweets and an analysis thereof). It is an independent research artifact
+*This repository contains only public information about @aleabitoreddit, article
+metadata, and derived analysis/summaries. It is an independent research artifact
 and is not affiliated with, endorsed by, or connected to him.*

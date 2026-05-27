@@ -31,6 +31,9 @@ The goal is to keep the skill current without turning it into a noisy transcript
    unless it materially changes a thesis or method.
 5. **Keep provenance compact.** Mention the date and the concrete signal, not a
    long quote. Preserve full text in `data/aleabitoreddit_tweets.json`.
+   For X Articles, do not commit the full article text. Store only metadata,
+   short summaries, durable thesis deltas, and portfolio-use rules in
+   `references/articles.md`.
 6. **Avoid broad rewrites.** Make focused edits grounded in the latest posts.
    Split or reorganize only when repeated maintenance pain shows the current
    reference is too crowded or ambiguous.
@@ -41,16 +44,20 @@ Before committing:
 
 1. Fetch latest posts with `xreach` and dedupe by tweet id.
 2. Refresh JSON, CSV, and ticker stats.
-3. Classify each new post:
+3. Fetch any newly visible X Article share tweets or article bodies with
+   authenticated access. Keep full article text out of the repo; summarize only
+   durable thesis deltas.
+4. Classify each new post:
    - `data-only`
    - `track-record`
    - `ticker thesis`
    - `methodology`
    - `entry-point workflow`
+   - `article summary`
    - `skip skill update`
-4. Make the smallest reference edit that captures the durable change.
-5. Verify counts in `README.md` and `SKILL.md`.
-6. Commit only when there is new data or a meaningful skill improvement.
+5. Make the smallest reference edit that captures the durable change.
+6. Verify counts in `README.md` and `SKILL.md`.
+7. Commit only when there is new data or a meaningful skill improvement.
 
 ## Commit Guidance
 

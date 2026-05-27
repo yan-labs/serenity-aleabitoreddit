@@ -91,6 +91,12 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   evidence: Jabil says 1.6T LRO mass production with excess demand is 3-10
   months away; Serenity reads SIVE as the likely sole-source laser supplier for
   that specific optical transceiver.
+- **Article support:** The May 19 X Article is the highest-context source for
+  this thesis. It formalizes public links to Jabil, POET, Ayar, O-Net/Enablence,
+  Lightium, Win Semi, and GFS; high-confidence but unconfirmed paths to Apple,
+  Aeva, and Marvell/Celestial; and likely or optionality paths into Lightmatter,
+  Lightelligence, AMD/GFS, Nokia, and defense-space networks. Treat the customer
+  map as evidence-ranking, not as fully disclosed revenue.
 - **Latest stance (May 2026):** Core position, **no exit signal**, "I don't plan
   on selling SIVE." Target "$10B in 1 year." Adding supply-chain evidence
   monthly. He frames the May 25 update as "extremely early" despite a ~$2.6B
@@ -169,6 +175,11 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   Craig-Hallum Buy, $26 PT (Jan 12); Trump EO to seize US InP assets (Jan 17);
   LITE CEO "Substrates keep me up at night" (Mar 20). Dismissed the Jan 8 Q4
   revenue miss (-29% AH) as deferred 2024 backlog.
+- **Article support:** The Jan 19 "Hidden Gold Rush" article uses AXTI/InP as a
+  model for his upstream-bottleneck method: find the small supplier whose
+  physical input can constrain a much larger AI/defense/space TAM. It reinforces
+  the method and the AXTI material-chain framing, but it is not a fresh signal to
+  ignore current valuation and volatility.
 - **Track record:** +60% in 6 weeks → +310% in 2 months → ATH $69.69 (Mar 24,
   ~4-5x) → "1057% gains" acknowledged (Apr 24).
 - **Latest stance (Apr-May 2026):** ⚠️ **Important nuance — NOT a buy at current
@@ -651,6 +662,13 @@ superseded this list by 2026.)
   Serenity said VPG tripled after his thesis, but explicitly noted he overestimated
   ASP (~$750 midpoint vs. ~$150 mass production) and cut concentration because of
   TSLA design-out risk.
+- **Robotics supply-chain / China kill-switch basket:** The Mar 15 X Article
+  argues that robotics and humanoids are constrained by rare earths, magnets,
+  specialty metals, and Western processing capacity, not just AI software. It
+  supports monitoring MP, UUUU, USAR, NEO.TSX, LYSDY, ATI, CRS, FCX, NB, MTRN,
+  LGO, BMM, VNP, TECK, ALB, EAF, ALTM, and SYR as broad hardware-stack
+  exposures. Treat this as a geopolitical/materials framework; require current
+  liquidity, valuation, and contract evidence before elevating any single name.
 - **AEVA (Aeva):** FMCW 4D LiDAR for "World Models" / physical AI + a CPO
   breakthrough. Speculative venture bet, small, entry ~$14.10. May 24 update:
   a likely SIVE customer path into robotics/self-driving architectures via
