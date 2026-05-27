@@ -1,7 +1,7 @@
 [
   {
     "id": "2059646212803051722",
-    "text": "Back when $AAOI was ~$20-30 when I went long:\n\nI thought $AMZN and $MSFT were qualifying specific optical transceivers for their ASIC programs.\n\nTurns out it’s more interchangeable/mass producible.\n\nRegardless, glad my thesis on $LITE, $AAOI, Innolight, $COHR, $AXTI played out so https://t.co/sYkMfQfHa2",
+    "text": "Back when $AAOI was ~$20-30 when I went long:\n\nI thought $AMZN and $MSFT were qualifying specific optical transceivers for their ASIC programs.\n\nTurns out it’s more interchangeable/mass producible.\n\nRegardless, glad my thesis on $LITE, $AAOI, Innolight, $COHR, $AXTI played out so well. \n\nKeep in mind: everyone on X was saying “scam management” with $AAOI back at $20-30… \n\nOr “scam company” with $AXTI at $12.\n\nFUD was pretty extreme.\n\nFeels like dejavu again… going long on the next CPO architectural shift like $SIVE or Foci? And getting the same comments.\n\nWe’ll see if my CPO longs play out the same way like Shunsin does with Innolight or $SIVE does with $LITE.\n\nEither way all of those are now up hundreds to thousands of percent.",
     "author": {
       "id": "1940360837547565056",
       "name": "Serenity",
@@ -10,14 +10,16 @@
       "verified": true
     },
     "metrics": {
-      "likes": 340,
+      "likes": 333,
       "retweets": 17,
-      "replies": 125,
+      "replies": 123,
       "quotes": 1,
-      "views": 66923,
+      "views": 63979,
       "bookmarks": 53
     },
     "createdAt": "Wed May 27 14:41:38 +0000 2026",
+    "createdAtLocal": "2026-05-27 22:41",
+    "createdAtISO": "2026-05-27T14:41:38+00:00",
     "media": [
       {
         "type": "photo",
@@ -39,14 +41,12 @@
     "score": null,
     "quotedTweet": {
       "id": "2003259964526330053",
-      "text": "$AAOI is up 24% and $LITE is 5% since my thesis today.\n\nFrom BOM analysis, LITE ($27B) is levered toward TPU Ironwood due to OCS but benefits from NVDA + all ASICs.\n\nAAOI ($2.5B), is levered toward MSFT MAIA ramp and Amazon Trainium.\n\nInP like HBM, will be a bottleneck for 2026 https://t.co/TcZ6FUXRkx",
+      "text": "$AAOI is up 24% and $LITE is 5% since my thesis today.\n\nFrom BOM analysis, LITE ($27B) is levered toward TPU Ironwood due to OCS but benefits from NVDA + all ASICs.\n\nAAOI ($2.5B), is levered toward MSFT MAIA ramp and Amazon Trainium.\n\nInP like HBM, will be a bottleneck for 2026 as they’re the foundational materials used for lasers in these deployments. \n\nSimilar to memory bottlenecks with Micron and SK Hynix, we’ll likely see attention drawn to InP fabs, such as $AAOI, which happens to be one of the sole ones in America (COHR,Macom)\n\nBut compared to $LITE that is up 362% YTD due to the success of Google’s TPU (from Meta and Anthropic purchase orders), $AAOI is only up 7% YTD.\n\nWe’re largely seeing this because there’s a lack of retail or media attention on the $AMZN Trainium or $MSFT Maia deployments, which are largely expected to ramp up in 2026-2027. \n\nHowever they’re all likely to succeed due to each hyperscaler wanting to lower costs of inference for their own cloud platform.\n\nIf we see other hyperscalers adopt OCS for optimized performance that the TPU achieved, expect $LITE to re-rate more than they have now given their monopoly in that specific segment.\n\nHowever, if we see $MSFT Maia ramp up (given $AAOI is likely developing a new architecture for them), and $AMZN Trainium ramp up ($4B warrant + purchase orders), expect $AAOI to rerate.\n\nPhotonics and InP will be the new bottleneck like memory. \n\nWe’ll likely see investments pour down stream to players like $COHR, Innolight, $LITE, and hidden levered plays on specific hyperscaler ASICs like $AAOI as a theme in 2026.\n\nThe market is currently rewarding the Google TPU supply chain but might be missing other hyperscaler ASIC ramps.",
       "author": {
         "screenName": "aleabitoreddit",
         "name": "Serenity"
       }
-    },
-    "createdAtISO": "2026-05-27T14:41:38+00:00",
-    "createdAtLocal": "2026-05-27 22:41"
+    }
   },
   {
     "id": "2059634164912226613",
