@@ -110,6 +110,10 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   than adding a new technical catalyst. In his H2 2026 theme list he ranked CPO
   as his #1 favorite theme, citing private optical-startup funding in Silicon
   Valley as a forward signal that public markets still misunderstand the shift.
+  May 27 update adds a policy-catalyst watch: EU Chips Act 2 is expected to be
+  targeted around photonics, and he flags SIVE as Europe's leading photonics /
+  laser company with prior US CHIPS Act funding and Western supply-chain
+  relevance. Treat this as a policy-timing catalyst, not a confirmed allocation.
   **Highest-conviction long in the entire late corpus.** High risk (Swedish small-cap,
   pre-volume-ramp).
 
