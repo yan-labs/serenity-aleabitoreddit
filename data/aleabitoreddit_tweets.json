@@ -1,5 +1,54 @@
 [
   {
+    "id": "2059646212803051722",
+    "text": "Back when $AAOI was ~$20-30 when I went long:\n\nI thought $AMZN and $MSFT were qualifying specific optical transceivers for their ASIC programs.\n\nTurns out it’s more interchangeable/mass producible.\n\nRegardless, glad my thesis on $LITE, $AAOI, Innolight, $COHR, $AXTI played out so https://t.co/sYkMfQfHa2",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 340,
+      "retweets": 17,
+      "replies": 125,
+      "quotes": 1,
+      "views": 66923,
+      "bookmarks": 53
+    },
+    "createdAt": "Wed May 27 14:41:38 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVVT91aoAEtozd.jpg",
+        "width": 1231,
+        "height": 1156
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVVT9xb0AA4wtg.jpg",
+        "width": 1216,
+        "height": 1156
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "quotedTweet": {
+      "id": "2003259964526330053",
+      "text": "$AAOI is up 24% and $LITE is 5% since my thesis today.\n\nFrom BOM analysis, LITE ($27B) is levered toward TPU Ironwood due to OCS but benefits from NVDA + all ASICs.\n\nAAOI ($2.5B), is levered toward MSFT MAIA ramp and Amazon Trainium.\n\nInP like HBM, will be a bottleneck for 2026 https://t.co/TcZ6FUXRkx",
+      "author": {
+        "screenName": "aleabitoreddit",
+        "name": "Serenity"
+      }
+    },
+    "createdAtISO": "2026-05-27T14:41:38+00:00",
+    "createdAtLocal": "2026-05-27 22:41"
+  },
+  {
     "id": "2059634164912226613",
     "text": "Interesting photonics selloff today on no news?\n\n$LITE down -4.95%\n$AAOI down -4.85%\n$SIVE down -14.8%\n$SOI down -5.73%\n$AXTI down -8.13%\n$IQE down -12.13%\n\nI think it’s probably the most compelling theme going forward (even more than power semis). \n\nJust tends to be very volatile on the way up. \n\nSurprised about $AAOI though given there’s some institutional notes apparently about long term $AMD or $NVDA agreements. (Rosenblatt). Maybe $600m ATM caps some near term upside.\n\n$SIVE as well, given EU Chips Act 2 is next week around photonics, and they’re listed on the blueprint. Same with MSCI/NASDAQ omx inflow next week. \n\nI’ve been personally adding to positions since I have high conviction in the photonics theme (CPO especially) given TAM expansion overall next 2 years.",
     "author": {

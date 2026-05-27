@@ -71,7 +71,11 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   6), $53M 800G order (Mar 23). Earnings confirmed positive (May 7). $250-500M
   ATM = short-term ceiling (~$100).
 - **Latest stance:** High conviction. "Could be $30B+ in a year" if it executes
-  as the largest US 1.6T laser fab.
+  as the largest US 1.6T laser fab. May 27 calibration note: his original
+  AAOI/$20-30 thesis assumed AMZN/MSFT were qualifying specific optical
+  transceivers for ASIC programs; he now says the demand proved more
+  interchangeable and mass-producible, while the broader LITE/AAOI/Innolight/
+  COHR/AXTI photonics basket still played out.
 
 ### SIVE / SIVEF (Sivers Semiconductors) — CW/DFB merchant laser for CPO
 - **Thesis:** Primary pure-play merchant DFB/CW laser supplier for the CPO

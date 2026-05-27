@@ -174,6 +174,7 @@ his views.**
 | May 27 | XFAB / 800 VDC / SiPh | Names XFAB as an "interesting long idea" he holds: photonics + power semis, ~$1.28B MC, EU Chips Act 2 catalyst, 800 VDC exposure via NVTS + POWI, silicon photonics / CPO | Converts the prior filters into a named crossover pick; still early thesis, not validation |
 | May 27 | SIVE / SOI / XFAB | Says he would not be surprised to see all three receive EU Chips Act 2 funding, but says the formal announcement appears pushed to next week | Policy-catalyst timing update; no confirmed award yet |
 | May 27 | Photonics basket | Notes a broad no-news selloff across LITE/AAOI/SIVE/SOI/AXTI/IQE and says he has been adding because CPO/photonics remains the most compelling theme | Reaffirms conviction into volatility; not proof the selloff is over |
+| May 27 | AAOI / LITE / COHR / AXTI | Reflects that his AAOI thesis at ~$20-30 got the mechanism partly wrong: transceivers were more interchangeable / mass-producible than he first thought, but the photonics basket still worked | Useful calibration: right theme, imperfect causal model |
 
 ---
 
