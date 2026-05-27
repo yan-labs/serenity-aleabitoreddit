@@ -482,8 +482,11 @@ superseded this list by 2026.)
   further research. The broader watchlist now includes Taiwan power semis
   (Pan Jit, Eris Tech, Advanced Power Electronics, Inergy, Potens) and adjacent
   power/cooling components (POWL, NVT, VICR, POWI, thermal-management names).
-  Treat this as an active watchlist / research direction, not a settled final
-  pick; he still frames CPO as more compelling than the power/cooling trade.
+  May 27 update says he has now taken positions in one compelling, NVDA-linked
+  power-semi name that is not directly mentioned like NVTS; the name remains
+  undisclosed. Treat this as an active watchlist / research direction, not a
+  settled final pick; he still frames CPO as more compelling than the
+  power/cooling trade.
 - **VRT, ETN, POWL, ATKR, VICR, GEV, PWR, NRG, TLN, NEE** — grid/power roundup
   mentions.
 

@@ -166,6 +166,7 @@ his views.**
 | May 26 | VPG | Tripled since thesis; Serenity admits ASP mistake and cut concentration on TSLA design-out risk | Useful calibration: good outcome despite flawed assumptions and position-sizing caution |
 | May 26 | (portfolio) | YTD 4502.45% claimed | **self-reported**, unverified; update calibration caveat, not a signal to copy trades |
 | May 26 | AXTI / RDDT | Reflected on being banned from WSB for AXTI posts before AXTI rose thousands of percent | Social/track-record color only; no new AXTI thesis |
+| May 27 | 800 VDC / power semis | Says he took positions in one compelling NVDA-linked power-semi name, not directly mentioned like NVTS | Confirms active exposure but still leaves the specific pick undisclosed |
 
 ---
 
