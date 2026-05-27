@@ -490,14 +490,17 @@ superseded this list by 2026.)
   (Pan Jit, Eris Tech, Advanced Power Electronics, Inergy, Potens) and adjacent
   power/cooling components (POWL, NVT, VICR, POWI, thermal-management names).
   May 27 update says he has now taken positions in one compelling, NVDA-linked
-  power-semi name that is not directly mentioned like NVTS; the name remains
-  undisclosed. A later May 27 reply gives filters for that undisclosed name:
-  not DPZ; Soitec-like; power-semi + SiPh exposure to Nvidia ecosystems;
-  photonics being evaluated through Nvidia; power-semi exposure through NVTS and
-  POWL; ~1.29 P/B; EU Chips Act grantee with US CHIPS grant ongoing; ~$1.28B
-  market cap; potential EU Chips Act Round 2 beneficiary. Treat this as an
-  active watchlist / research direction, not a settled final pick; he still
-  frames CPO as more compelling than the power/cooling trade.
+  power-semi name that is not directly mentioned like NVTS. A later May 27
+  reply gave filters for that name: not DPZ; Soitec-like; power-semi + SiPh
+  exposure to Nvidia ecosystems; photonics being evaluated through Nvidia;
+  power-semi exposure through NVTS and POWL; ~1.29 P/B; EU Chips Act grantee
+  with US CHIPS grant ongoing; ~$1.28B market cap; potential EU Chips Act Round
+  2 beneficiary. He then named **XFAB** as the interesting long idea: photonics +
+  power semis, ~$1.28B market cap, EU Chips Act 2 as a European-photonics
+  catalyst, 800 VDC power-semi exposure to Nvidia's push via NVTS + POWI, and
+  silicon-photonics / CPO exposure. Treat XFAB as the current named
+  800 VDC + SiPh crossover pick, while still recognizing that he frames CPO as
+  more compelling than the broader power/cooling trade.
 - **VRT, ETN, POWL, ATKR, VICR, GEV, PWR, NRG, TLN, NEE** — grid/power roundup
   mentions.
 

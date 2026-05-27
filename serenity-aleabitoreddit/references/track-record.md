@@ -171,6 +171,7 @@ his views.**
 | May 27 | TSEM / AAOI / profile | Reached 400k followers and cited TSEM-to-AAOI free idea sharing as directionally right | Social / self-reported track-record color only; no new thesis |
 | May 27 | SIVE / short sellers | Claims short sellers are using bot/news disinformation campaigns around SIVE | Sentiment/positioning note only; not new supply-chain evidence |
 | May 27 | Undisclosed power semi / SiPh | Says the personal position is not DPZ and is Soitec-like, with Nvidia ecosystem exposure, NVTS/POWL linkage, EU/US CHIPS grants, ~1.29 P/B, ~$1.28B MC | Provides filters but still not a named final pick |
+| May 27 | XFAB / 800 VDC / SiPh | Names XFAB as an "interesting long idea" he holds: photonics + power semis, ~$1.28B MC, EU Chips Act 2 catalyst, 800 VDC exposure via NVTS + POWI, silicon photonics / CPO | Converts the prior filters into a named crossover pick; still early thesis, not validation |
 
 ---
 
