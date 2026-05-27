@@ -22,7 +22,7 @@ This repo packages his public work into one self-contained research artifact:
 **the raw tweet archive**, a **period-by-period distillation**, and a
 ready-to-use **agent skill** that applies his analytical lens to US-stock ideas.
 
-Built from **~5,558 tweets** spanning **2025-07-02 → 2026-05-26** (the account's
+Built from **~5,559 tweets** spanning **2025-07-02 → 2026-05-27** (the account's
 full life to date).
 
 > ⚠️ **Not financial advice. Decision-support only.** This skill never trades and
