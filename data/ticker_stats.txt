@@ -1,4 +1,4 @@
-Total tweets: 5563
+Total tweets: 5564
 Distinct $tickers: 665
 
 ticker  mentions  first_seen  last_seen
@@ -402,6 +402,7 @@ DBRG          2   2025-10-30  2025-10-30
 DGDX          2   2025-11-22  2025-11-24
 DLFI          2   2025-10-08  2025-10-08
 DNUT          2   2025-07-23  2025-07-23
+DPZ           2   2026-01-03  2026-05-27
 EBAY          2   2026-02-16  2026-02-16
 ENTG          2   2026-01-24  2026-01-27
 ETORO         2   2025-07-02  2025-07-02

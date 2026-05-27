@@ -170,6 +170,7 @@ his views.**
 | May 27 | 800 VDC / power semis | Says he took positions in one compelling NVDA-linked power-semi name, not directly mentioned like NVTS | Confirms active exposure but still leaves the specific pick undisclosed |
 | May 27 | TSEM / AAOI / profile | Reached 400k followers and cited TSEM-to-AAOI free idea sharing as directionally right | Social / self-reported track-record color only; no new thesis |
 | May 27 | SIVE / short sellers | Claims short sellers are using bot/news disinformation campaigns around SIVE | Sentiment/positioning note only; not new supply-chain evidence |
+| May 27 | Undisclosed power semi / SiPh | Says the personal position is not DPZ and is Soitec-like, with Nvidia ecosystem exposure, NVTS/POWL linkage, EU/US CHIPS grants, ~1.29 P/B, ~$1.28B MC | Provides filters but still not a named final pick |
 
 ---
 

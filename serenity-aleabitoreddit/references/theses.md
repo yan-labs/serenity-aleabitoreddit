@@ -491,9 +491,13 @@ superseded this list by 2026.)
   power/cooling components (POWL, NVT, VICR, POWI, thermal-management names).
   May 27 update says he has now taken positions in one compelling, NVDA-linked
   power-semi name that is not directly mentioned like NVTS; the name remains
-  undisclosed. Treat this as an active watchlist / research direction, not a
-  settled final pick; he still frames CPO as more compelling than the
-  power/cooling trade.
+  undisclosed. A later May 27 reply gives filters for that undisclosed name:
+  not DPZ; Soitec-like; power-semi + SiPh exposure to Nvidia ecosystems;
+  photonics being evaluated through Nvidia; power-semi exposure through NVTS and
+  POWL; ~1.29 P/B; EU Chips Act grantee with US CHIPS grant ongoing; ~$1.28B
+  market cap; potential EU Chips Act Round 2 beneficiary. Treat this as an
+  active watchlist / research direction, not a settled final pick; he still
+  frames CPO as more compelling than the power/cooling trade.
 - **VRT, ETN, POWL, ATKR, VICR, GEV, PWR, NRG, TLN, NEE** — grid/power roundup
   mentions.
 
