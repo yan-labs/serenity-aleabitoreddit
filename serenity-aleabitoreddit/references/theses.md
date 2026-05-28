@@ -99,7 +99,12 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   color: Marvell highlighted scale-up interconnect as strategically important,
   said Celestial was selected by a tier-1 hyperscaler, and said scale-up optics
   revenue next year should be more than 2x the prior ~$150M outlook; Serenity
-  reads that as a volume-ramp indicator for SIVE lasers.
+  reads that as a volume-ramp indicator for SIVE lasers. Later May 28 update
+  adds Ayar/Wiwynn rack-scale commercialization color: Wiwynn cloud customers
+  include AMZN/META/MSFT and has been in talks for GOOGL TPU deployments;
+  Serenity estimates some reference architectures use roughly 512+ SuperNova
+  light sources per rack, so even modest rack deployments could be meaningful
+  for SIVE if it is the primary laser-array supplier.
 - **Article support:** The May 19 X Article is the highest-context source for
   this thesis. It formalizes public links to Jabil, POET, Ayar, O-Net/Enablence,
   Lightium, Win Semi, and GFS; high-confidence but unconfirmed paths to Apple,
@@ -143,6 +148,9 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   Later May 27 update claims short-seller bot/news disinformation campaigns
   around SIVE; treat this as a sentiment/positioning note, not fresh technical
   evidence.
+  May 28 Ayar/Wiwynn update moves the Ayar path from private-startup optionality
+  toward rack-scale commercialization potential, but Serenity explicitly says it
+  is not yet visible in revenue financials.
   **Highest-conviction long in the entire late corpus.** High risk (Swedish small-cap,
   pre-volume-ramp).
 

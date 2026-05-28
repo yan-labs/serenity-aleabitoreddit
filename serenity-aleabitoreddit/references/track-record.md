@@ -179,6 +179,7 @@ his views.**
 | May 28 | NBIS / Situational Awareness | Notes Leopold Aschenbrenner's Situational Awareness disclosed ~12.41M NBIS shares, about a 5.6% stake; Serenity says NBIS is now up ~3x since his 2025 long and again contrasts it with IREN | Institutional / AI-safety-capital validation signal; does not change execution risk or valuation sensitivity |
 | May 28 | MRVL / Celestial / SIVE | MRVL earnings: scale-up interconnect called strategically important; Celestial selected by a T1 hyperscaler; scale-up optics revenue next year now more than 2x prior ~$150M outlook; Serenity maps this to SIVE as likely laser supplier | Bullish CPO/SIVE volume-ramp read-through; MRVL remains a demand driver, not the highest-upside pure play |
 | May 28 | XFAB / media coverage / 800 VDC | Welcomes more neutral Reuters/Bloomberg coverage, while restating the structural XFAB case around 800 VDC power semis, NVDA exposure, ongoing NVDA/NOK photonics evaluations, and CHIPS Act sovereignty catalysts | Visibility/coverage update that reinforces the thesis framing; still not proof of funding allocation or revenue conversion |
+| May 28 | SIVE / Ayar / Wiwynn | Ayar-Wiwynn announcement framed as potentially material for CPO rack-scale deployments; Wiwynn cloud customers include AMZN/META/MSFT and possible GOOGL TPU discussions; Serenity estimates some racks may need 512+ SuperNova light sources | Strengthens SIVE/Ayar commercialization path; not yet revenue-recognized and depends on SIVE being the primary laser-array supplier |
 
 ---
 
