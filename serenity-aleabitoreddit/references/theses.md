@@ -705,7 +705,10 @@ superseded this list by 2026.)
   (Mar 31). Defended hard against the "meme stock" label.
   May 26 update: close to ~3x returns despite media "meme stock" framing; he
   cites it as another example of retail paper-handing after institutional bear
-  commentary, then watching his bottleneck names rise 3x-15x+. Small position.
+  commentary, then watching his bottleneck names rise 3x-15x+. May 28 update
+  again contrasts bearish European media framing with the later earnings beat
+  and uses RPI/SOI/SIVE as examples of media dismissing supply-chain theses as
+  meme-stock behavior before fundamentals catch up. Small position.
   ~$1B MC.
 - **IBIT / BTC / MSTR:** Long-term BTC bull; covered-call income on IBIT;
   "always a great long"; rainbow-chart "Bitcoin is Dead" zone ($66,666, Mar 29)
