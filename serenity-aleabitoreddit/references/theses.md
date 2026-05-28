@@ -566,7 +566,12 @@ superseded this list by 2026.)
   centers the structural case on 800 VDC power semis, Nvidia exposure, ongoing
   NVDA/NOK photonics evaluations, and CHIPS Act semiconductor-sovereignty
   catalysts. Treat media attention as thesis visibility, not as validation of
-  the revenue ramp or funding outcome.
+  the revenue ramp or funding outcome. Later May 28 update raises the market-cap
+  anchor to ~$1.5B after volatility and cites NIST filings that describe XFAB as
+  America's only high-volume SiC foundry, with US-government "critical
+  infrastructure" framing. Treat this as stronger sovereignty/foundry evidence
+  for the XFAB long, while still requiring proof of SiC/SiPh revenue conversion
+  and confirmed funding outcomes.
 - **VRT, ETN, POWL, ATKR, VICR, GEV, PWR, NRG, TLN, NEE** — grid/power roundup
   mentions.
 
