@@ -114,7 +114,7 @@ his views.**
 | 2026-03-05 | IREN | **Bear thesis published** ($6B ATM caps equity) | ⚠️ -34% by May ✅ (his bear validated) |
 | 2026-03-07 | HIMS | **Flipped to bull** (NVO dropped lawsuit) | +14-64% in Mar ✅ |
 | 2026-03-07 | NBIS | NVDA $2B strategic investment | Bullish confirmation |
-| 2026-03-11 | SOI | Long ~€43; CPO substrate monopoly; "3x in a year" | +200% by Apr 30 ✅; MS 6.5% holder |
+| 2026-03-11 | SOI | Long ~€43; CPO substrate monopoly; "3x in a year" | +200% by Apr 30 ✅; 4x+ by May 28; MS 6.5% holder |
 | 2026-03-11 | TSEM | Long; "TSM of photonics" | +63% in 2 weeks ✅ |
 | 2026-03-14 | SIVE | **First thesis ~$140M MC; #1 pick** | +165%+ from entry by Mar 23 ✅ |
 | 2026-03-21 | MU | Predicted 73-75% GM (Jan) | **Actual 74.9%** ✅ (clean validated call) |
@@ -180,6 +180,7 @@ his views.**
 | May 28 | MRVL / Celestial / SIVE | MRVL earnings: scale-up interconnect called strategically important; Celestial selected by a T1 hyperscaler; scale-up optics revenue next year now more than 2x prior ~$150M outlook; Serenity maps this to SIVE as likely laser supplier | Bullish CPO/SIVE volume-ramp read-through; MRVL remains a demand driver, not the highest-upside pure play |
 | May 28 | XFAB / media coverage / 800 VDC | Welcomes more neutral Reuters/Bloomberg coverage, while restating the structural XFAB case around 800 VDC power semis, NVDA exposure, ongoing NVDA/NOK photonics evaluations, and CHIPS Act sovereignty catalysts | Visibility/coverage update that reinforces the thesis framing; still not proof of funding allocation or revenue conversion |
 | May 28 | SIVE / Ayar / Wiwynn | Ayar-Wiwynn announcement framed as potentially material for CPO rack-scale deployments; Wiwynn cloud customers include AMZN/META/MSFT and possible GOOGL TPU discussions; Serenity estimates some racks may need 512+ SuperNova light sources | Strengthens SIVE/Ayar commercialization path; not yet revenue-recognized and depends on SIVE being the primary laser-array supplier |
+| May 28 | SOI / Soitec earnings | Says SOI is now up 4x+ since his long and +15%+ after earnings; reads company reorganization as a positive response to future photonics SOI-substrate demand | Validation of SOI thesis and forward CPO/SiPh demand framing; still dependent on multi-year demand conversion |
 
 ---
 

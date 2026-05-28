@@ -224,11 +224,15 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
 - **Tier:** Bull, monopoly position; part of core CPO basket.
 - **Key evidence:** +200% by Apr 30; "3x confirmed" (May). Morgan Stanley
   acquired 6.5% of float = institutional thesis catch-up (his institutional-lag
-  thesis playing out). "3x in a year" projection.
+  thesis playing out). May 28 update says SOI is now up 4x+ from his long and
+  +15%+ after earnings, with company reorganization framed as a response to
+  photonics SOI-substrate demand over the next two years.
 - **Latest stance:** Held; MS accumulation validates. One of his cleanest
   landed calls. May 27 update adds EU Chips Act 2 optionality: Serenity says he
   would not be surprised to see SOI listed with SIVE and XFAB for funding, while
-  noting the formal announcement appears delayed to the next week.
+  noting the formal announcement appears delayed to the next week. May 28
+  post-earnings update keeps the thesis active and emphasizes forward CPO/SiPh
+  demand rather than backward-looking earnings.
 
 ### TSEM (Tower Semiconductor) — InP/SiPh specialty foundry ("TSM of photonics")
 - **Thesis:** InP + silicon-photonics foundry; 70% capacity booked through 2028;
