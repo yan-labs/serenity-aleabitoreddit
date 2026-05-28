@@ -157,7 +157,6 @@ his views.**
 | May 24 | NVTS/WOLF/power semis | Crowdsourced 10x candidates for NVDA-led 800 VDC power architecture shift | Active research direction; no final pick yet |
 | May 26 | RKLB/SPCX/PL + LASR/SIVE + TSLA/Unitree | "Death Star and Battle Droids" thematic map | Frontier-physical-AI narrative linking space, lasers, and robotics |
 | May 26 | SIVE/JBL | Jabil fireside chat: 1.6T LRO mass production with excess demand in 3-10 months; SIVE likely sole-source laser supplier | Adds near-term ramp evidence to the SIVE/Jabil LRO thesis |
-| May 28 | NBIS / IREN | New 5.6% outside stake in NBIS; Serenity says NBIS is "miles better" than IREN and now ~3x since his 2025 long | Strengthens institutional-validation and financing-quality read; confirms NBIS remains his benchmark neocloud |
 | May 26 | Win Semi/Shunsin/FOCI/MSSCorps | Win Semi rarely appears in analyst reports but may become a laser-scaling bottleneck next year; Shunsin picking up steam | Reinforces Taiwan photonics-chain longs beyond the obvious module names |
 | May 26 | EWY calls | Calls up 300%+ / over 4x; IV held; Samsung/SK Hynix memory longs kept printing | Later validation of EWY vega/IV + Korean memory thesis |
 | May 26 | MU | "$MU finally hits a $1 Trillion marketcap"; compared it to the next NVDA as AI makes memory demand structural | Hypothetical/future-framed validation marker for the memory-supercycle thesis |
@@ -177,6 +176,7 @@ his views.**
 | May 27 | Photonics basket | Notes a broad no-news selloff across LITE/AAOI/SIVE/SOI/AXTI/IQE and says he has been adding because CPO/photonics remains the most compelling theme | Reaffirms conviction into volatility; not proof the selloff is over |
 | May 27 | AAOI / CPO longs | Says his original AAOI/LITE/COHR/AXTI photonics thesis played out even though AMZN/MSFT optical-transceiver qualification was less specific and more mass-producible than he first thought; compares current SIVE/FOCI/Shunsin FUD to earlier photonics FUD | Useful calibration: thesis direction worked, mechanism was imperfect; current CPO analogy is conviction color, not fresh proof |
 | May 27 | XFAB / EU Chips / SiPh / power semis | Pushes back on "meme stock" framing: cites EU CHIPS Act funding, NVDA/NOK SiPh evaluation, low ~1.28 P/B, US high-volume SiC foundry status, and 800 VDC power-semi revenue ramp | Strengthens named XFAB thesis; still needs confirmed award timing and revenue proof |
+| May 28 | NBIS / Situational Awareness | Notes Leopold Aschenbrenner's Situational Awareness disclosed ~12.41M NBIS shares, about a 5.6% stake; Serenity says NBIS is now up ~3x since his 2025 long and again contrasts it with IREN | Institutional / AI-safety-capital validation signal; does not change execution risk or valuation sensitivity |
 
 ---
 

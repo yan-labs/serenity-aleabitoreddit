@@ -278,9 +278,11 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
 - **Targets:** $200 base / $400 bull (1Y); "$8B ARR → $400 by Q4." Reiterated buy
   at $130, $125, and into the $70-92 selloff.
 - **Latest stance (May 2026):** Held, core, stellar earnings confirmed. Still the
-  benchmark neocloud. May 28 update flags a new 5.6% outside stake as further
-  institutional validation; he contrasts NBIS as "miles better" than IREN and
-  notes the position is ~3x since his 2025 long.
+  benchmark neocloud. May 28 update adds an institutional / AI-safety-capital
+  validation signal: Leopold Aschenbrenner's Situational Awareness disclosed
+  beneficial ownership of ~12.41M NBIS shares, about a 5.6% stake. Serenity
+  frames this as another validation of NBIS over IREN and notes NBIS is now up
+  roughly 3x since his original long.
 
 ### IREN (Iris Energy) — BTC-miner → AI datacenter / GPU cloud
 - **Thesis (early):** BTC miner pivoting to HPC; "reminds me of NBIS following
