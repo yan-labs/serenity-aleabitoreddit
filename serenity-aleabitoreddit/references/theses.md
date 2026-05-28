@@ -554,7 +554,10 @@ superseded this list by 2026.)
 - **HPS.A (Hammond Power Solutions):** Dry-transformer + switchgear bottleneck
   (~23% NA share, 2-5yr backlogs). Defense Production Act (Apr 21) named
   transformers a national emergency = direct validation. +47% in 3 weeks; one of
-  his top-3 favorites (with SIVE, LPK). High conviction.
+  his top-3 favorites (with SIVE, LPK). High conviction. May 28 update says the
+  stock is up 83.3% in close to two months; he frames transformer demand
+  visibility, backlog, and dry-transformer share as a compelling compounder, not
+  a parabolic squeeze.
 - **FLNC (Fluence):** Grid-scale storage; 2 hyperscaler deals (May 7-8); held.
 - **Power semis / 800 VDC watchlist:** May 24 update: Serenity explicitly
   crowdsourced the highest-conviction "Power Semi trade" because NVDA is pushing
