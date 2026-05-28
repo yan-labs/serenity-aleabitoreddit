@@ -8,7 +8,7 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
 > All prices, market caps, and percentages are Serenity's own citations from his
 > tweets — self-reported and unverified. Theses are dated; confirm current
 > reality before acting. "Latest stance" = his last known view in the corpus,
-> through ~2026-05-27.
+> through ~2026-05-28.
 
 ## Table of contents
 
@@ -550,6 +550,11 @@ superseded this list by 2026.)
   drag hiding high-growth verticals, and US Commerce recognition as a high-volume
   US SiC foundry support the thesis. Treat this as a strengthened named XFAB
   thesis, while still awaiting confirmed funding timing and revenue conversion.
+  May 28 update says Reuters and Bloomberg coverage was more neutral and again
+  centers the structural case on 800 VDC power semis, Nvidia exposure, ongoing
+  NVDA/NOK photonics evaluations, and CHIPS Act semiconductor-sovereignty
+  catalysts. Treat media attention as thesis visibility, not as validation of
+  the revenue ramp or funding outcome.
 - **VRT, ETN, POWL, ATKR, VICR, GEV, PWR, NRG, TLN, NEE** — grid/power roundup
   mentions.
 
