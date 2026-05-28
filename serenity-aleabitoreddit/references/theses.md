@@ -268,7 +268,7 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   No OpenAI contagion. Sum-of-parts floor.
 - **Tier:** ⭐ **S-tier, highest single-name conviction** for most of the corpus.
   Largest disclosed position (>$2M by Oct 2025). #1 most-mentioned ticker overall
-  (678 mentions).
+  (680 mentions).
 - **Tier evolution:** Built $0→$750K+ (Sep 2025) → >$2M (Oct) → held through the
   full Dec selloff ($140→$79, "trading like a distressed asset") and ATM
   overhang → "clear winner" among neoclouds (Mar 2026). Conviction never broke.
@@ -278,7 +278,9 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
 - **Targets:** $200 base / $400 bull (1Y); "$8B ARR → $400 by Q4." Reiterated buy
   at $130, $125, and into the $70-92 selloff.
 - **Latest stance (May 2026):** Held, core, stellar earnings confirmed. Still the
-  benchmark neocloud.
+  benchmark neocloud. May 28 update flags a new 5.6% outside stake as further
+  institutional validation; he contrasts NBIS as "miles better" than IREN and
+  notes the position is ~3x since his 2025 long.
 
 ### IREN (Iris Energy) — BTC-miner → AI datacenter / GPU cloud
 - **Thesis (early):** BTC miner pivoting to HPC; "reminds me of NBIS following

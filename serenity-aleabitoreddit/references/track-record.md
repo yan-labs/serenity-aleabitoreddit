@@ -157,6 +157,7 @@ his views.**
 | May 24 | NVTS/WOLF/power semis | Crowdsourced 10x candidates for NVDA-led 800 VDC power architecture shift | Active research direction; no final pick yet |
 | May 26 | RKLB/SPCX/PL + LASR/SIVE + TSLA/Unitree | "Death Star and Battle Droids" thematic map | Frontier-physical-AI narrative linking space, lasers, and robotics |
 | May 26 | SIVE/JBL | Jabil fireside chat: 1.6T LRO mass production with excess demand in 3-10 months; SIVE likely sole-source laser supplier | Adds near-term ramp evidence to the SIVE/Jabil LRO thesis |
+| May 28 | NBIS / IREN | New 5.6% outside stake in NBIS; Serenity says NBIS is "miles better" than IREN and now ~3x since his 2025 long | Strengthens institutional-validation and financing-quality read; confirms NBIS remains his benchmark neocloud |
 | May 26 | Win Semi/Shunsin/FOCI/MSSCorps | Win Semi rarely appears in analyst reports but may become a laser-scaling bottleneck next year; Shunsin picking up steam | Reinforces Taiwan photonics-chain longs beyond the obvious module names |
 | May 26 | EWY calls | Calls up 300%+ / over 4x; IV held; Samsung/SK Hynix memory longs kept printing | Later validation of EWY vega/IV + Korean memory thesis |
 | May 26 | MU | "$MU finally hits a $1 Trillion marketcap"; compared it to the next NVDA as AI makes memory demand structural | Hypothetical/future-framed validation marker for the memory-supercycle thesis |
