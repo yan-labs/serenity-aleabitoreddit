@@ -69,14 +69,19 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
 - **Key evidence:** Feb 27 guidance: $378M/month transceiver revenue target by
   mid-2027 = ~$4.35B ARR, 900%+ growth, sold out, ~40% GM. $200M 1.6T order (Mar
   6), $53M 800G order (Mar 23). Earnings confirmed positive (May 7). $250-500M
-  ATM = short-term ceiling (~$100).
+  ATM = short-term ceiling (~$100); later May 28 framing notes a $600M ATM as a
+  short-term overhang.
 - **Latest stance:** High conviction. "Could be $30B+ in a year" if it executes
   as the largest US 1.6T laser fab. May 27 calibration: he now says the original
   AMZN/MSFT specific-optical-transceiver qualification idea was less precise
   than he first thought; the ramp proved more interchangeable and
   mass-producible. He treats that as a process calibration, not a thesis break,
   because the broader LITE/AAOI/COHR/AXTI photonics bottleneck call still played
-  out.
+  out. May 28 update says he is even more bullish at ~$13B market cap than at
+  $2B/$6B because of recent laser bottlenecks, possible long-term supply
+  agreements with NVDA or AMD, and a projected $471M H1 2027 ramp; he calls it
+  his favorite US-based photonics long stock that he owns. Treat as a high-
+  conviction reaffirmation, not an automatic entry signal.
 
 ### SIVE / SIVEF (Sivers Semiconductors) — CW/DFB merchant laser for CPO
 - **Thesis:** Primary pure-play merchant DFB/CW laser supplier for the CPO
