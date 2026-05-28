@@ -177,6 +177,7 @@ his views.**
 | May 27 | AAOI / CPO longs | Says his original AAOI/LITE/COHR/AXTI photonics thesis played out even though AMZN/MSFT optical-transceiver qualification was less specific and more mass-producible than he first thought; compares current SIVE/FOCI/Shunsin FUD to earlier photonics FUD | Useful calibration: thesis direction worked, mechanism was imperfect; current CPO analogy is conviction color, not fresh proof |
 | May 27 | XFAB / EU Chips / SiPh / power semis | Pushes back on "meme stock" framing: cites EU CHIPS Act funding, NVDA/NOK SiPh evaluation, low ~1.28 P/B, US high-volume SiC foundry status, and 800 VDC power-semi revenue ramp | Strengthens named XFAB thesis; still needs confirmed award timing and revenue proof |
 | May 28 | NBIS / Situational Awareness | Notes Leopold Aschenbrenner's Situational Awareness disclosed ~12.41M NBIS shares, about a 5.6% stake; Serenity says NBIS is now up ~3x since his 2025 long and again contrasts it with IREN | Institutional / AI-safety-capital validation signal; does not change execution risk or valuation sensitivity |
+| May 28 | MRVL / Celestial / SIVE | MRVL earnings: scale-up interconnect called strategically important; Celestial selected by a T1 hyperscaler; scale-up optics revenue next year now more than 2x prior ~$150M outlook; Serenity maps this to SIVE as likely laser supplier | Bullish CPO/SIVE volume-ramp read-through; MRVL remains a demand driver, not the highest-upside pure play |
 
 ---
 

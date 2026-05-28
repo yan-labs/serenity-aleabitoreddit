@@ -95,7 +95,11 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   and NASDAQ-linked buyers (May 23-25). May 25 update adds Jabil fireside-chat
   evidence: Jabil says 1.6T LRO mass production with excess demand is 3-10
   months away; Serenity reads SIVE as the likely sole-source laser supplier for
-  that specific optical transceiver.
+  that specific optical transceiver. May 28 update adds MRVL/Celestial earnings
+  color: Marvell highlighted scale-up interconnect as strategically important,
+  said Celestial was selected by a tier-1 hyperscaler, and said scale-up optics
+  revenue next year should be more than 2x the prior ~$150M outlook; Serenity
+  reads that as a volume-ramp indicator for SIVE lasers.
 - **Article support:** The May 19 X Article is the highest-context source for
   this thesis. It formalizes public links to Jabil, POET, Ayar, O-Net/Enablence,
   Lightium, Win Semi, and GFS; high-confidence but unconfirmed paths to Apple,
@@ -423,7 +427,12 @@ superseded this list by 2026.)
   lasers direct from SIVE (Apr) — read mainly as a demand signal for SIVE.
 - **Tier:** Bull long-term but "not a primary pick." Buy on oversold dips. Cramer
   "all in MRVL" (Mar 31) → inverse signal, "Sorry MRVL holders."
-- **Latest stance:** Long-term bull; monitored as the SIVE demand driver.
+- **Latest stance:** Long-term bull; monitored as the SIVE demand driver. May 28
+  earnings read-through: Celestial selected by a tier-1 hyperscaler, likely AMZN
+  in Serenity's OSINT view; scale-up optics revenue next year guided to more
+  than 2x the prior ~$150M outlook; Marvell is pushing Celestial toward high-
+  volume manufacturing. Treat the read mainly as bullish CPO / SIVE-volume
+  confirmation rather than a new MRVL-first call.
 
 ### AVGO (Broadcom) — hyperscaler ASIC / TPU ecosystem
 - **Thesis:** Co-designs GOOGL TPU ASICs; $73B AI backlog = "minimum contractual
