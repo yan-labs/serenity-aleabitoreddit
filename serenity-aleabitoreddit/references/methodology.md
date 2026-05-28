@@ -215,7 +215,8 @@ dated example from the corpus. A runnable checklist is at the bottom.
   to zero (e.g. China export-ban risk).
 - **Signal:** "Fundamentally de-risked" (Mag7 counterparty + locked take-or-pay
   contract) = top tier and bigger size; execution/dilution/binary risk = small
-  size or defined-risk options.
+  size or defined-risk options. Explicit "no position" or "for fun" idea posts
+  sit below owned thesis posts and should be used mainly to study his process.
 - **Apply:** Size to conviction *and* to how binary the outcome is. He repeatedly
   warns: these names move 20%+ a day, "build conviction yourself before you
   enter," "don't have high concentration in small caps." Holds for LTCG when
@@ -276,7 +277,10 @@ none of this is a buy signal on its own.
     supply-chain evidence (an edge), or already in (priced)?
 12. **Risk & sizing fit?** How binary is it (dilution, single-customer, China
     export, restructuring)? Size accordingly; consider defined-risk options.
-13. **Macro overlay?** Does the current rate path / tariff / war regime help or
+13. **Disclosure weight?** Did he say he owns it, sized it, avoided it, or has no
+    position? Treat no-position / exploratory posts as lower-conviction process
+    examples.
+14. **Macro overlay?** Does the current rate path / tariff / war regime help or
     hurt this specific thesis right now?
 
 Then: confirm current price and fundamentals, weight using

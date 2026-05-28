@@ -159,3 +159,6 @@ Read progressively — pull in only what the task needs.
   your own ideas. It is explicitly NOT auto-trading, NOT a recommendation to
   buy/sell, and NOT financial advice. Every order is the reader's own manual,
   confirmed decision.
+- **No-position idea posts carry lower weight.** If he frames a stock comment as
+  exploratory, for fun, or explicitly says he has no position, treat it as a
+  process example rather than a high-conviction call.
