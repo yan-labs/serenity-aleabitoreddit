@@ -1,5 +1,41 @@
 [
   {
+    "id": "2059956246539874485",
+    "text": "超赞的文章!\n\n看看大家怎么看待我的过往经历真的挺好玩的\n\n最近我一直在努力多跟对供应链和AI感兴趣的小伙伴们互动\n\n所以只要是想了解我思考逻辑的朋友，我都会尽量去关注",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 128,
+      "retweets": 6,
+      "replies": 32,
+      "quotes": 0,
+      "views": 17490,
+      "bookmarks": 35
+    },
+    "createdAt": "Thu May 28 11:13:35 +0000 2026",
+    "createdAtLocal": "2026-05-28 19:13",
+    "createdAtISO": "2026-05-28T11:13:35+00:00",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "quotedTweet": {
+      "id": "2059886422249680924",
+      "text": "白毛股神 Serenity 火遍全网，到处是她的传说，但是没人讲清楚她是谁\n\n这个人非常神秘，被称为半导体的供应链之神，年内回报率 4502%\n\n我梳理了她所有推文和留言，整理了目前最全面的介绍\n\n最重要的是 @aleabitoreddit  选股思路和供应链方法论全解析👇🧵",
+      "author": {
+        "screenName": "0xKevin00",
+        "name": "0xkevin (🖤 , 💙)"
+      }
+    }
+  },
+  {
     "id": "2059939664082186246",
     "text": "Ayar’s announcement today with Wiwynn is potentially very material for $SIVE regarding CPO -> rack scale deployments.\n\nAs Wiwynn cloud clients include $AMZN, $META, $MSFT. \n\nAnd they’ve been in talks for $GOOGL TPU deployments. \n\nI think just for some reference architectures it’s around 512+ supernova light sourc a rack.\n\nSo if $SIVE is the primary laser array supplier (which we expect, given Macom + Lumentum was removed from Ayar’s site).\n\nEven modest rack deployments would be very meaningful for revenue.\n\nThis is just rack scale commercialization potential right now from $SIVE / Ayar / Wiwynn, which won’t show up in revenue financials yet.",
     "author": {
