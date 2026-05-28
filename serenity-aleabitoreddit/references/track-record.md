@@ -184,6 +184,7 @@ his views.**
 | May 28 | SIVE / Ayar / Wiwynn | Ayar-Wiwynn announcement framed as potentially material for CPO rack-scale deployments; Wiwynn cloud customers include AMZN/META/MSFT and possible GOOGL TPU discussions; Serenity estimates some racks may need 512+ SuperNova light sources | Strengthens SIVE/Ayar commercialization path; not yet revenue-recognized and depends on SIVE being the primary laser-array supplier |
 | May 28 | SOI / Soitec earnings | Says SOI is now up 4x+ since his long and +15%+ after earnings; reads company reorganization as a positive response to future photonics SOI-substrate demand | Validation of SOI thesis and forward CPO/SiPh demand framing; still dependent on multi-year demand conversion |
 | May 28 | Profile / distribution | Says the account reached 450k followers and 40k subscribers, about 7k subscribers from #1 on X | Social-distribution context only; supports public-research reach, not a stock thesis |
+| May 28 | SIVE / thesis reaffirmation | Reaffirms SIVE as his most compelling CPO/photonics exposure; says he has not sold, plans more ownership/M&A support, and lists Ayar, Wiwynn, Jabil, O-Net, All.Space/York, POET, Apple, Lightmatter/Lightelligence, MRVL/Celestial, Lightium, AMD/GFS, Win Semi, Nasdaq, MSCI/OMX, and M&A board signals | Highest-conviction reaffirmation and consolidated pre-earnings evidence map; still forward-looking and dependent on 2027/H2 volume ramps |
 
 ---
 

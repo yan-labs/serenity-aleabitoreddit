@@ -104,7 +104,13 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   include AMZN/META/MSFT and has been in talks for GOOGL TPU deployments;
   Serenity estimates some reference architectures use roughly 512+ SuperNova
   light sources per rack, so even modest rack deployments could be meaningful
-  for SIVE if it is the primary laser-array supplier.
+  for SIVE if it is the primary laser-array supplier. Later May 28 update
+  restates SIVE as his most compelling CPO/photonics exposure and bundles the
+  bull evidence into a pre-earnings map: Ayar/AlChip/Amazon, Wiwynn rack-scale
+  CPO, Jabil 1.6T LRO, O-Net ELS, All.Space/York/defense, CHIPS Act, POET H2
+  ramp, Apple consumer-device laser path, Lightmatter/Lightelligence, MRVL/
+  Celestial, Lightium/TFLN, AMD/GFS, Ayar supplier-page removals, Win Semi
+  capacity, Nasdaq listing, MSCI/OMX passive buyers, and M&A/board changes.
 - **Article support:** The May 19 X Article is the highest-context source for
   this thesis. It formalizes public links to Jabil, POET, Ayar, O-Net/Enablence,
   Lightium, Win Semi, and GFS; high-confidence but unconfirmed paths to Apple,
@@ -151,6 +157,11 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   May 28 Ayar/Wiwynn update moves the Ayar path from private-startup optionality
   toward rack-scale commercialization potential, but Serenity explicitly says it
   is not yet visible in revenue financials.
+  Later May 28 update explicitly says he has not sold and does not plan to sell
+  shares; he says he wants more ownership and may support M&A prospects. His
+  forward checklist is TAM expansion across optical engines/ELS/pluggables,
+  volume-ramp expectations, Nasdaq listing liquidity, and new CPO/pluggables
+  customer signals, not backward-looking quarterly revenue.
   **Highest-conviction long in the entire late corpus.** High risk (Swedish small-cap,
   pre-volume-ramp).
 
