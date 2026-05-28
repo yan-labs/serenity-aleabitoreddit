@@ -14,10 +14,10 @@ description: >
 
 # Serenity Supply-Chain Lens (@aleabitoreddit)
 
-A reusable analytical lens distilled from **~5,579 tweets (2025-07 to 2026-05)
+A reusable analytical lens distilled from **~5,580 tweets (2025-07 to 2026-05)
 plus 4 long-form X Articles (2026-01 to 2026-05)** by **Serenity /
 [@aleabitoreddit](https://x.com/aleabitoreddit)** — an AI-and-semiconductor
-*supply-chain* analyst and trader (~400k followers, ex-Reddit/WSB). Use it to
+*supply-chain* analyst and trader (~450k followers, ~40k subscribers, ex-Reddit/WSB). Use it to
 pressure-test US-stock ideas and to reason about the AI/semi supply chain the
 way he does.
 
