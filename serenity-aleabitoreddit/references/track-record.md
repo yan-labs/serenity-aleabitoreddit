@@ -159,6 +159,7 @@ his views.**
 | May 26 | SIVE/JBL | Jabil fireside chat: 1.6T LRO mass production with excess demand in 3-10 months; SIVE likely sole-source laser supplier | Adds near-term ramp evidence to the SIVE/Jabil LRO thesis |
 | May 26 | Win Semi/Shunsin/FOCI/MSSCorps | Win Semi rarely appears in analyst reports but may become a laser-scaling bottleneck next year; Shunsin picking up steam | Reinforces Taiwan photonics-chain longs beyond the obvious module names |
 | May 26 | EWY calls | Calls up 300%+ / over 4x; IV held; Samsung/SK Hynix memory longs kept printing | Later validation of EWY vega/IV + Korean memory thesis |
+| May 28 | EWY calls | 2028 leaps up 428%+ / 5.2x in three months as IV rose and Samsung / SK Hynix appreciated | Stronger validation of EWY vega/IV + Korean memory thesis; leveraged options, not a simple equity signal |
 | May 26 | MU | "$MU finally hits a $1 Trillion marketcap"; compared it to the next NVDA as AI makes memory demand structural | Hypothetical/future-framed validation marker for the memory-supercycle thesis |
 | May 26 | SIVE | "Most compelling CPO exposure" despite volatility; rare until next photonics architecture shift | Reaffirmed highest-conviction SIVE framing |
 | May 26 | NVTS / 800 VDC | NVTS position "double already"; one crowdsourced 800 VDC long looked compelling enough for more work | Track as active research, not a finalized power-semi pick |

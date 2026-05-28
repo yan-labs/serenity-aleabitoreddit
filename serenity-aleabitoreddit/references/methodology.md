@@ -209,8 +209,10 @@ dated example from the corpus. A runnable checklist is at the bottom.
 - **Example:** EWY 2028 leaps bought at 32% IV (priced on a decade of flat
   Korean returns) while EWY is effectively 50%+ Samsung/SK Hynix; IV expanded to
   44-47% in a week. May 26 update: EWY calls were up 300%+ / over 4x, with IV
-  holding and Samsung/SK Hynix memory exposure still printing. XLU OTM 2-year
-  leaps at 14-16% IV on the AI-power thesis.
+  holding and Samsung/SK Hynix memory exposure still printing. May 28 update:
+  EWY 2028 leaps were up 428%+ / 5.2x in three months as IV rose and underlying
+  Samsung / SK Hynix memory assets appreciated. XLU OTM 2-year leaps at 14-16%
+  IV on the AI-power thesis.
   **High-risk, advanced — note this is leveraged options, not appropriate to
   copy without understanding the structure.**
 

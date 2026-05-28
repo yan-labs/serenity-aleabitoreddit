@@ -412,7 +412,9 @@ superseded this list by 2026.)
   Target IV 55-65%. ⚠️ By late March he admitted Iran killed rate-cut pricing,
   making it "a coin flip" — macro dented this trade. May 26 update: EWY calls
   were up 300%+ / over 4x as IV held and Samsung/SK Hynix memory longs kept
-  working. (Advanced options; not for copying.)
+  working. May 28 update: 2028 leaps were up 428%+ / 5.2x in three months as
+  IV rose and underlying Samsung / SK Hynix memory assets appreciated.
+  (Advanced options; not for copying.)
 - **Towa (6315, TYO):** Functional monopoly on compression molding for HBM
   packaging (all three HBM makers are customers). ~$1.34B MC "sleeper" in the
   HBM4 capex cycle; guides 80-100% re-rating (not a 4x play).
