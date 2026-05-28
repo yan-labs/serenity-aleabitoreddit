@@ -237,7 +237,10 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   acquired 6.5% of float = institutional thesis catch-up (his institutional-lag
   thesis playing out). May 28 update says SOI is now up 4x+ from his long and
   +15%+ after earnings, with company reorganization framed as a response to
-  photonics SOI-substrate demand over the next two years.
+  photonics SOI-substrate demand over the next two years. Later May 28 update
+  says European outlets called SOI overvalued / speculative near EUR44, while it
+  is now +342% since that level; use as media-framing validation, not fresh
+  supply-chain evidence.
 - **Latest stance:** Held; MS accumulation validates. One of his cleanest
   landed calls. May 27 update adds EU Chips Act 2 optionality: Serenity says he
   would not be surprised to see SOI listed with SIVE and XFAB for funding, while

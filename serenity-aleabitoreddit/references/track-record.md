@@ -187,6 +187,7 @@ his views.**
 | May 28 | Profile / distribution | Says the account reached 450k followers and 40k subscribers, about 7k subscribers from #1 on X | Social-distribution context only; supports public-research reach, not a stock thesis |
 | May 28 | SIVE / thesis reaffirmation | Reaffirms SIVE as his most compelling CPO/photonics exposure; says he has not sold, plans more ownership/M&A support, and lists Ayar, Wiwynn, Jabil, O-Net, All.Space/York, POET, Apple, Lightmatter/Lightelligence, MRVL/Celestial, Lightium, AMD/GFS, Win Semi, Nasdaq, MSCI/OMX, and M&A board signals | Highest-conviction reaffirmation and consolidated pre-earnings evidence map; still forward-looking and dependent on 2027/H2 volume ramps |
 | May 28 | European capital / ficonTEC | Argues European media should welcome capital inflows that keep critical companies funded, citing ficonTEC as a strategic chokepoint sold abroad from lack of funding despite relevance to US hyperscaler supply chains | Methodology/policy framing for European supply-chain names; not a fresh ticker-specific buy signal |
+| May 28 | SOI / European media framing | Says European outlets called SOI overvalued / speculative near EUR44 and that SOI is now up 342% since then | Track-record/media-bias validation for SOI; no new position or catalyst signal |
 
 ---
 
