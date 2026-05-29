@@ -14,6 +14,21 @@ description: >
 
 # Serenity Supply-Chain Lens (@aleabitoreddit)
 
+> **⚠️ STEP 0 — ALWAYS REFRESH BEFORE USE. This skill goes stale within ~30 minutes.**
+> Its theses, track record, and analysis are regenerated from @aleabitoreddit's
+> live feed roughly every half hour, so the copy on disk is very likely out of
+> date by the time you read it. **Before** reading any `references/*.md` /
+> `analysis/*.md` file or giving any view, pull the latest version first:
+>
+> ```bash
+> skills update serenity-aleabitoreddit -y    # auto-detects project vs global scope
+> ```
+>
+> Then read the refreshed reference files and proceed. Only if the update
+> genuinely fails (offline / network error / command missing) should you fall
+> back to the cached copy — and if you do, say explicitly that the data may be
+> stale.
+
 A reusable analytical lens distilled from **~5,593 tweets (2025-07 to 2026-05)
 plus 4 long-form X Articles (2026-01 to 2026-05)** by **Serenity /
 [@aleabitoreddit](https://x.com/aleabitoreddit)** — an AI-and-semiconductor
