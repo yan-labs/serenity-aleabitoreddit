@@ -166,7 +166,11 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   shares; he says he wants more ownership and may support M&A prospects. His
   forward checklist is TAM expansion across optical engines/ELS/pluggables,
   volume-ramp expectations, Nasdaq listing liquidity, and new CPO/pluggables
-  customer signals, not backward-looking quarterly revenue.
+  customer signals, not backward-looking quarterly revenue. May 29 earnings
+  framing sharpens that rule: judge SIVE on forward growth and opportunity-
+  pipeline expansion, not 2025 pre-development contract revenue or last-quarter
+  results, because optical qualification-cycle names do not show the ramp in
+  current revenue until volume production starts.
   **Highest-conviction long in the entire late corpus.** High risk (Swedish small-cap,
   pre-volume-ramp).
 

@@ -122,7 +122,10 @@ dated example from the corpus. A runnable checklist is at the bottom.
   Celestial at $50m because of no CPO revenue in 2025."
 - **Example:** SIVE, AEHR, LPK, AXTI all entered pre-ramp on qualification
   evidence. "Nobody cares about current earnings unless there's something
-  extremely bad" (April 30, re: LPK miss).
+  extremely bad" (April 30, re: LPK miss). For SIVE's May 2026 earnings, he
+  says the only thing that matters is forward growth: pre-development contract
+  revenue and last-quarter results are weak signals for qualification-cycle
+  optical suppliers unless they reveal a major flaw.
 
 ## 7. Dilution / ATM calendar as a disqualifier
 
