@@ -170,7 +170,10 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   framing sharpens that rule: judge SIVE on forward growth and opportunity-
   pipeline expansion, not 2025 pre-development contract revenue or last-quarter
   results, because optical qualification-cycle names do not show the ramp in
-  current revenue until volume production starts.
+  current revenue until volume production starts. A follow-up post frames 77%
+  pipeline growth in the first three months as the clearest CPO-supercycle
+  inflection signal so far, but keep treating it as pipeline until it converts
+  into signed volume revenue.
   **Highest-conviction long in the entire late corpus.** High risk (Swedish small-cap,
   pre-volume-ramp).
 
