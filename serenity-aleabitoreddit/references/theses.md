@@ -173,7 +173,10 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   current revenue until volume production starts. A follow-up post frames 77%
   pipeline growth in the first three months as the clearest CPO-supercycle
   inflection signal so far, but keep treating it as pipeline until it converts
-  into signed volume revenue.
+  into signed volume revenue. Later May 29 transcript notes add two higher-
+  quality earnings signals: management says demand is far above supply, and
+  points to future gross margins around 60%; use these as pricing-power and
+  scarcity evidence, while still checking actual volume conversion.
   **Highest-conviction long in the entire late corpus.** High risk (Swedish small-cap,
   pre-volume-ramp).
 
