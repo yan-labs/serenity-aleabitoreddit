@@ -23,7 +23,7 @@ This repo packages his public work into one self-contained research artifact:
 **period-by-period distillation**, and a ready-to-use **agent skill** that
 applies his analytical lens to US-stock ideas.
 
-Built from **~5,593 tweets** spanning **2025-07-02 → 2026-05-29** plus **4 X
+Built from **~5,602 tweets** spanning **2025-07-02 → 2026-05-29** plus **4 X
 Articles** published in **2026-01 → 2026-05**.
 
 > ⚠️ **Not financial advice. Decision-support only.** This skill never trades and
@@ -77,7 +77,8 @@ cap is most mispriced relative to the trillions flowing downstream.
 
 ## Provenance
 
-Tweets were collected via the `agent-reach` `twitter-cli` using date-windowed
+Tweets were collected via `agent-reach` Twitter/X tooling (`twitter-cli`
+historically, `xreach` for current incremental updates) using date-windowed
 search (full-day windows with intra-day top-up for high-volume days) to work
 around X's pagination/rate limits. X Article bodies were fetched with
 authenticated article access and distilled into summaries only; full article text

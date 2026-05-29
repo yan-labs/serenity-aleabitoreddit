@@ -8,7 +8,7 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
 > All prices, market caps, and percentages are Serenity's own citations from his
 > tweets — self-reported and unverified. Theses are dated; confirm current
 > reality before acting. "Latest stance" = his last known view in the corpus,
-> through ~2026-05-28.
+> through ~2026-05-29.
 
 ## Table of contents
 

@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """Incremental archive updater: pull latest tweets, merge (dedupe), refresh CSV + ticker_stats.
 
-Requires twitter-cli authenticated (env TWITTER_AUTH_TOKEN + TWITTER_CT0 on headless hosts).
+Requires xreach authenticated via Agent Reach cookies/browser profile.
 Run from the repo root: `python3 update.py`. Prints a final `NEW=<n>` line; exits 0.
 Does NOT touch git — the caller decides whether to commit/push based on NEW.
 """
-import json, csv, os, re, subprocess, tempfile
+import json, csv, os, re, subprocess
 from collections import Counter
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
@@ -37,20 +37,76 @@ def sort_key(t):
     dt = parse_time(t)
     return dt.isoformat() if dt else ""
 
-def pull(n=100):
-    tmp = tempfile.mktemp(suffix=".json")
+def xreach_json(args, timeout=180):
     try:
-        subprocess.run(["twitter", "user-posts", USER, "-n", str(n), "-o", tmp],
-                       capture_output=True, text=True, timeout=180)
-        if os.path.exists(tmp):
-            data = json.load(open(tmp))
-            return [t for t in data if t.get("author", {}).get("screenName", "").lower() == USER]
+        p = subprocess.run(["xreach", *args, "--json"], capture_output=True, text=True, timeout=timeout)
+        if p.returncode != 0:
+            print(f"PULL_ERROR {' '.join(args)}: {(p.stderr or p.stdout).strip()}")
+            return []
+        data = json.loads(p.stdout)
     except Exception as e:
-        print(f"PULL_ERROR {e}")
-    finally:
-        if os.path.exists(tmp):
-            os.remove(tmp)
-    return []
+        print(f"PULL_ERROR {' '.join(args)}: {e}")
+        return []
+    if isinstance(data, dict):
+        return data.get("items") or data.get("tweets") or data.get("results") or data.get("data") or []
+    return data if isinstance(data, list) else []
+
+def normalize_xreach(t):
+    if t.get("author", {}).get("screenName", "").lower() == USER:
+        return t
+    user = t.get("user") or {}
+    out = {
+        "id": str(t.get("id")),
+        "text": t.get("text") or "",
+        "author": {
+            "id": user.get("restId") or user.get("id"),
+            "name": user.get("name") or "Serenity",
+            "screenName": user.get("screenName") or USER,
+            "profileImageUrl": user.get("profileImageUrl"),
+            "verified": user.get("isBlueVerified"),
+        },
+        "metrics": {
+            "likes": t.get("likeCount"),
+            "retweets": t.get("retweetCount"),
+            "replies": t.get("replyCount"),
+            "quotes": t.get("quoteCount"),
+            "views": t.get("viewCount"),
+            "bookmarks": t.get("bookmarkCount"),
+        },
+        "createdAt": t.get("createdAt"),
+        "media": t.get("media") or [],
+        "urls": t.get("urls") or [],
+        "isRetweet": t.get("isRetweet"),
+        "retweetedBy": None,
+        "lang": t.get("lang"),
+        "score": t.get("score"),
+    }
+    for key in ("isQuote", "isReply", "inReplyToTweetId", "inReplyToUserId", "conversationId"):
+        if key in t:
+            out[key] = t.get(key)
+    if t.get("quotedTweet"):
+        out["quotedTweet"] = t.get("quotedTweet")
+    return ensure_times(out)
+
+def pull(n=100, since=None):
+    raw = xreach_json(["tweets", f"@{USER}", "-n", str(n)])
+    if since:
+        raw.extend(xreach_json([
+            "search", f"from:{USER} since:{since}", "--type", "latest",
+            "-n", str(n), "--all", "--max-pages", "3"
+        ], timeout=240))
+    rows, seen = [], set()
+    for t in raw:
+        if not isinstance(t, dict) or not t.get("id"):
+            continue
+        row = normalize_xreach(t)
+        if row.get("author", {}).get("screenName", "").lower() != USER:
+            continue
+        if row["id"] in seen:
+            continue
+        seen.add(row["id"])
+        rows.append(row)
+    return rows
 
 def write_csv(rows):
     cols = ["id", "url", "createdAtISO", "createdAtLocal", "lang", "isRetweet",
@@ -95,7 +151,9 @@ def main():
     arch = [ensure_times(t) for t in raw_arch]
     normalized = arch != raw_arch
     have = {t["id"] for t in arch}
-    new = [ensure_times(t) for t in pull() if t["id"] not in have]
+    newest = max((parse_time(t) for t in arch if parse_time(t)), default=None)
+    since = newest.astimezone(timezone.utc).date().isoformat() if newest else None
+    new = [ensure_times(t) for t in pull(since=since) if t["id"] not in have]
     new.sort(key=sort_key)
     if new or normalized:
         merged = {t["id"]: t for t in arch}
