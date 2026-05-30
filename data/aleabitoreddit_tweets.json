@@ -1,5 +1,109 @@
 [
   {
+    "id": "2060631883978092892",
+    "text": "@KLismont Wow! I’m happy a Belgian newspaper talked positively about me.\n\nThey deserve a lot of praise for objective commentary.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 7,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "views": 349,
+      "bookmarks": 0
+    },
+    "createdAt": "Sat May 30 07:58:20 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2060630537656537130",
+    "inReplyToUserId": "73357461",
+    "conversationId": "2060628856445501924",
+    "createdAtISO": "2026-05-30T07:58:20+00:00",
+    "createdAtLocal": "2026-05-30 15:58"
+  },
+  {
+    "id": "2060628856445501924",
+    "text": "Yep, I now have: Half a Million followers!\n\nThank you everyone. \n\nI think this virality validates how refreshing people find it…\n\nWhen someone posts compelling ideas and research for free.\n\nEspecially while focusing on substance instead of a focus on selling you expensive https://t.co/UbypbJOeSe",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 349,
+      "retweets": 7,
+      "replies": 72,
+      "quotes": 1,
+      "views": 20300,
+      "bookmarks": 10
+    },
+    "createdAt": "Sat May 30 07:46:18 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjTBXxa8AAYQ8I.jpg",
+        "width": 892,
+        "height": 348
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2060628856445501924",
+    "createdAtISO": "2026-05-30T07:46:18+00:00",
+    "createdAtLocal": "2026-05-30 15:46"
+  },
+  {
+    "id": "2060620385230762038",
+    "text": "@softmaxedx Yeah, the 0-10 ghost/TP nunu mains have been calling Jabil/Ayar/Apple/Celestial laser supplier a memestock since 1000% ago.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 30,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0,
+      "views": 3210,
+      "bookmarks": 1
+    },
+    "createdAt": "Sat May 30 07:12:38 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2060618246512943607",
+    "inReplyToUserId": "71297057",
+    "conversationId": "2060615296357196178",
+    "createdAtISO": "2026-05-30T07:12:38+00:00",
+    "createdAtLocal": "2026-05-30 15:12"
+  },
+  {
     "id": "2060615296357196178",
     "text": "&gt; markets went from doubting $SIVE customers ($150m MC)\n\nTurns out it’s likely companies eg. $JBL, Ayar, $AAPL, Defense Primes, $MRVL celestial. \n\n&gt; to doubting their execution ($600m mc)\n\nTurns out you skip the capex if you go with Win Semi\n\n&gt; to doubting what share they get vs",
     "author": {
