@@ -8,7 +8,7 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
 > All prices, market caps, and percentages are Serenity's own citations from his
 > tweets — self-reported and unverified. Theses are dated; confirm current
 > reality before acting. "Latest stance" = his last known view in the corpus,
-> through ~2026-05-29.
+> through ~2026-05-30.
 
 ## Table of contents
 
@@ -82,6 +82,10 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   agreements with NVDA or AMD, and a projected $471M H1 2027 ramp; he calls it
   his favorite US-based photonics long stock that he owns. Treat as a high-
   conviction reaffirmation, not an automatic entry signal.
+  May 30 update keeps AAOI in his current best risk/reward group at roughly
+  $12B market cap, mainly on H1 2027 capacity-ramp revenue projections; a later
+  reply floated a random one-year $70B market-cap target. Treat as aggressive
+  forward valuation color, not execution proof.
 
 ### SIVE / SIVEF (Sivers Semiconductors) — CW/DFB merchant laser for CPO
 - **Thesis:** Primary pure-play merchant DFB/CW laser supplier for the CPO
@@ -176,7 +180,11 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   into signed volume revenue. Later May 29 transcript notes add two higher-
   quality earnings signals: management says demand is far above supply, and
   points to future gross margins around 60%; use these as pricing-power and
-  scarcity evidence, while still checking actual volume conversion.
+  scarcity evidence, while still checking actual volume conversion. May 30
+  update keeps SIVE in his current best risk/reward group at roughly $2B market
+  cap; in the same conversation he floated a random one-year $30B market-cap
+  prediction. Treat this as conviction/valuation color, lower evidentiary
+  weight than customer/foundry signals.
   **Highest-conviction long in the entire late corpus.** High risk (Swedish small-cap,
   pre-volume-ramp).
 
@@ -240,7 +248,9 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   levels ($5B+ MC), but "do NOT short it."** Holds his large legacy gain; warns
   shorts that weaponized price hikes could cascade through the Western
   hyperscaler ecosystem. PT historically ~$150; "$20B+ if it weaponizes the
-  monopoly." Used calls > shares due to China export tail risk.
+  monopoly." Used calls > shares due to China export tail risk. May 30 update
+  says prior answers like AXTI had already 10x'd, so his current best
+  risk/reward lineup moved elsewhere.
 
 ### SOI / SLOIF (Soitec) — CPO-grade SOI substrate monopoly
 - **Thesis:** "Absolute monopoly" on CPO-grade silicon-on-insulator wafers (Shin-
@@ -646,7 +656,8 @@ superseded this list by 2026.)
   CPO supply chain via Foxconn's exclusive rack-assembly role. Held; cost-avg.
   May 25 framing: hard to displace because Foxconn is embedded across core
   supply chains. May 26 update: Shunsin is "picking up steam" among his Taiwan
-  longs.
+  longs. May 30 update places Shunsin in his current best risk/reward group at
+  roughly $2B market cap, with a random one-year $10B market-cap prediction.
 - **NGK (5333, TYO):** Added to the May 25 "functional monopoly" watchlist for
   thin-film lithium niobate (TFLN) wafer technology.
 - **FOCI (3363, TYO) / HIMX / Visera (6789, TYO):** FOCI FAU products reportedly
@@ -654,7 +665,9 @@ superseded this list by 2026.)
   near-term passive-component opportunity but flags FOCI and HIMX as higher
   design-out risks if TSMC's Visera vertically integrates the optical layer.
   May 26 update says FOCI and MSSCorps should start getting more attention as
-  the Taiwan photonics chain becomes visible.
+  the Taiwan photonics chain becomes visible. May 30 update places FOCI in his
+  current best risk/reward group at roughly $2.8B market cap, with a random
+  one-year $15B market-cap prediction; keep the prior Visera design-out caveat.
 - **RIBER / ALRIB (Riber SA):** MBE-machine near-duopoly; supplier to MSFT Quantum
   and SiPh. ~$300M MC, "massively underdiscovered." Small patience play.
 - **TER, FORM, VIAV, ONTO, KLAC, AMAT, ASML, CAMT, KLIC, BESI** — test/equipment

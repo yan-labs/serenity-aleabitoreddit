@@ -192,6 +192,7 @@ his views.**
 | May 28 | European capital / ficonTEC | Argues European media should welcome capital inflows that keep critical companies funded, citing ficonTEC as a strategic chokepoint sold abroad from lack of funding despite relevance to US hyperscaler supply chains | Methodology/policy framing for European supply-chain names; not a fresh ticker-specific buy signal |
 | May 28 | SOI / European media framing | Says European outlets called SOI overvalued / speculative near EUR44 and that SOI is now up 342% since then | Track-record/media-bias validation for SOI; no new position or catalyst signal |
 | May 29 | SIVE / earnings framing | Says the only thing to watch in SIVE earnings is forward growth, not 2025 pre-development contract revenue or last-quarter results; cites 77% opportunity-pipeline growth in the first three months, demand above supply, and future ~60% gross-margin commentary as the relevant CPO-inflection signals | Reusable qualification-cycle rule for optical suppliers; still requires pipeline conversion into signed volume revenue |
+| May 30 | AAOI / SIVE / FOCI / Shunsin | Names these as his current best risk/reward group after AXTI already 10x'd; later gives random one-year market-cap predictions of AAOI $70B, SIVE $30B, FOCI $15B, Shunsin $10B | Forward-looking conviction/valuation targets only; benchmark later against execution and market-cap reality, not as current proof |
 
 ---
 
