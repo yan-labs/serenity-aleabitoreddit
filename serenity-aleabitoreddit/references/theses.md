@@ -474,6 +474,10 @@ superseded this list by 2026.)
   bottlenecks.
 - **Stance:** Structurally bullish, "hold," rarely a direct featured long. "I
   prefer to own the supply-chain bottlenecks upstream."
+- **May 30 supply-chain basket:** Recast Jensen Huang's "you're so rich now"
+  toast as an "NVDA ETF" of upstream partners: TSMC/TSM, Micron/MU, Delta
+  Electronics, and Amphenol/APH. Use this as another map of where NVDA capex
+  wealth propagates, not as a new direct-NVDA entry signal.
 
 ### TSM (TSMC) — the foundry backbone, "safest compounder"
 - **Thesis:** Pure monopoly on advanced manufacturing; "you cannot build God
