@@ -1,5 +1,148 @@
 [
   {
+    "id": "2060842543756296294",
+    "text": "@Investmnt_Eagle Not a surprise they’re the highest rated financial newspaper.\n\nReporting quality is better than every mainstream institution I’ve seen so far.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 15,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "views": 979,
+      "bookmarks": 4
+    },
+    "createdAt": "Sat May 30 21:55:25 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2060841675795070992",
+    "inReplyToUserId": "1824524559308963840",
+    "conversationId": "2060837455881031876",
+    "createdAtISO": "2026-05-30T21:55:25+00:00",
+    "createdAtLocal": "2026-05-31 05:55"
+  },
+  {
+    "id": "2060839806582829059",
+    "text": "@talethdabm89 The research firm got their glass core substrate timelines off.\n\nH2 2026 should be production start (SKC Absolics), not 2028. And TAM figures seems off toward 2040, so thought it was better not to cite it. \n\nEven though it’s not full value chain like $LPK and GCS in specific https://t.co/ixjeKpe3YH",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 30,
+      "retweets": 1,
+      "replies": 12,
+      "quotes": 0,
+      "views": 2145,
+      "bookmarks": 11
+    },
+    "createdAt": "Sat May 30 21:44:33 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2060837633345888302",
+    "inReplyToUserId": "1926284881086070784",
+    "conversationId": "2060837455881031876",
+    "createdAtISO": "2026-05-30T21:44:33+00:00",
+    "createdAtLocal": "2026-05-31 05:44"
+  },
+  {
+    "id": "2060838086951759965",
+    "text": "@Maxgntx Thanks! This was the source if you want to support their work:\n\nhttps://t.co/eA6XIkqMPz",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 8,
+      "retweets": 0,
+      "replies": 5,
+      "quotes": 0,
+      "views": 2044,
+      "bookmarks": 0
+    },
+    "createdAt": "Sat May 30 21:37:43 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2060837701205528766",
+    "inReplyToUserId": "2042007033122017281",
+    "conversationId": "2060837455881031876",
+    "createdAtISO": "2026-05-30T21:37:43+00:00",
+    "createdAtLocal": "2026-05-31 05:37"
+  },
+  {
+    "id": "2060837455881031876",
+    "text": "Very grateful for the objective coverage in De Tijd!\n\nIt’s cool to see my work in Belgium's top newspaper.\n\nAlso very refreshing to see a journalist cover $AAOI, $XFAB, $MRVL Celestial, and the nuances behind my supply chain thesis in CPO + Photonics.\n\nTy KLismont for the photo. https://t.co/1GdLxJHAsN",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 334,
+      "retweets": 15,
+      "replies": 60,
+      "quotes": 1,
+      "views": 39602,
+      "bookmarks": 46
+    },
+    "createdAt": "Sat May 30 21:35:12 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJmQvZzbgAA4dIV.jpg",
+        "width": 971,
+        "height": 1295
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJmQvZzaQAAIg5b.jpg",
+        "width": 1219,
+        "height": 1588
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2060837455881031876",
+    "createdAtISO": "2026-05-30T21:35:12+00:00",
+    "createdAtLocal": "2026-05-31 05:35"
+  },
+  {
     "id": "2060833534814867479",
     "text": "The “You’re So Rich Now” $NVDA ETF.\n\nThese were just some of the supply chain partners Jensen made a toast to with that comment:\n\nTSMC (https://t.co/ihVngJn3CV / TSM) - $1.95T  \nMicron (MU) - $1.10T  \nDelta (https://t.co/nxy6qVoi97) - $202.28B  \nAmphenol ( $APH )- $183.00B https://t.co/khJTATSxIl",
     "author": {

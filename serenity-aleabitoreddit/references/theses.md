@@ -660,7 +660,10 @@ superseded this list by 2026.)
   sampling, and AI GPU / ASIC / CPO demand could create another high-end ABF
   substrate shortage by 2027. May 30 GNC/SEMI projection color reinforced the
   long-term ramp with 67.2% forecast compound growth from 2028, but Serenity
-  again pulled the timing forward to H2 2026 start / H1 2027 ramp.
+  again pulled the timing forward to H2 2026 start / H1 2027 ramp, specifically
+  citing SKC Absolics as the H2 2026 production-start marker. He also cautioned
+  that the research firm's 2040 TAM figures looked off and that the report was
+  not a full value-chain map like LPK / GCS.
 
 ### Other equipment/inspection
 - **MSSCorps (6830, TYO):** Claimed monopoly on non-destructive IR inspection for
