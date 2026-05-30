@@ -1,4 +1,4 @@
-Total tweets: 5619
+Total tweets: 5621
 Distinct $tickers: 666
 
 ticker  mentions  first_seen  last_seen

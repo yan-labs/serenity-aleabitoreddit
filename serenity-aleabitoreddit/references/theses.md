@@ -670,6 +670,12 @@ superseded this list by 2026.)
   supply chains. May 26 update: Shunsin is "picking up steam" among his Taiwan
   longs. May 30 update places Shunsin in his current best risk/reward group at
   roughly $2B market cap, with a random one-year $10B market-cap prediction.
+  Later May 30 Foxconn shareholder-meeting color adds a timing marker: CPO
+  switch products expected to begin in Q3, 10K units in 2026, and faster growth
+  next year, with Foxconn aiming to be #1 globally. Serenity identifies Shunsin
+  as the advanced-optical subsidiary and prefers it over parent Foxconn for
+  pure-play, high-beta exposure; still treat the link as a thesis marker until
+  it converts into named revenue or capacity disclosure.
 - **NGK (5333, TYO):** Added to the May 25 "functional monopoly" watchlist for
   thin-film lithium niobate (TFLN) wafer technology.
 - **FOCI (3363, TYO) / HIMX / Visera (6789, TYO):** FOCI FAU products reportedly

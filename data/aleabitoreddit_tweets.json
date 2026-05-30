@@ -1,5 +1,76 @@
 [
   {
+    "id": "2060689072985932241",
+    "text": "@GabrielNeo9 Not really, you want purer play, high beta exposure to their optical division. \n\nFoxconn as a whole is way too big. You’re comparing a $123B company to a $2B company, then seeing which doubles faster",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 26,
+      "retweets": 1,
+      "replies": 7,
+      "quotes": 0,
+      "views": 2302,
+      "bookmarks": 1
+    },
+    "createdAt": "Sat May 30 11:45:35 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2060686084183646575",
+    "inReplyToUserId": "1247932233576407040",
+    "conversationId": "2060685584365150508",
+    "createdAtISO": "2026-05-30T11:45:35+00:00",
+    "createdAtLocal": "2026-05-30 19:45"
+  },
+  {
+    "id": "2060685584365150508",
+    "text": "Per Foxconn shareholder meeting:\n\nCPO switch products expected to begin Q3. 10K units 2026, explosive grow to next year.\n\nAims/expected to be #1 globally. \n\nAnyone remember which Foxconn subsidiary handles their advanced optical work?\n\ncough.. cough.. Shunsin (6451).\n\nLot of https://t.co/kO55eyS2LJ",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 331,
+      "retweets": 17,
+      "replies": 55,
+      "quotes": 2,
+      "views": 29529,
+      "bookmarks": 128
+    },
+    "createdAt": "Sat May 30 11:31:43 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkGnOvbgAA8lrj.jpg",
+        "width": 1260,
+        "height": 749
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2060685584365150508",
+    "createdAtISO": "2026-05-30T11:31:43+00:00",
+    "createdAtLocal": "2026-05-30 19:31"
+  },
+  {
     "id": "2060633424151679287",
     "text": "@VJNCapital When I first joined it was primarily folks trying to sell expensive community paywalls or TAs. \n\nEveryone crowded around the same large stock $PYPL or $UNH investing if they had public thesis. Or hype names like $HIMS.\n\nLarge part of my popularity was focusing on critical",
     "author": {

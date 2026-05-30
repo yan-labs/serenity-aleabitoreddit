@@ -29,10 +29,10 @@ description: >
 > back to the cached copy — and if you do, say explicitly that the data may be
 > stale.
 
-A reusable analytical lens distilled from **5,619 tweets (2025-07 to 2026-05)
+A reusable analytical lens distilled from **5,621 tweets (2025-07 to 2026-05)
 plus 4 long-form X Articles (2026-01 to 2026-05)** by **Serenity /
 [@aleabitoreddit](https://x.com/aleabitoreddit)** — an AI-and-semiconductor
-*supply-chain* analyst and trader (~450k followers, ~40k subscribers, ex-Reddit/WSB). Use it to
+*supply-chain* analyst and trader (~500k followers, ~40k subscribers, ex-Reddit/WSB). Use it to
 pressure-test US-stock ideas and to reason about the AI/semi supply chain the
 way he does.
 
