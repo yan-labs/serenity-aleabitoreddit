@@ -1,5 +1,76 @@
 [
   {
+    "id": "2060599005172924420",
+    "text": "@onlyonexhj $JBL acquired part of $INTC optical transceiver division, which is how they’re able to do what they’re doing with $SIVE.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 15,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0,
+      "views": 1679,
+      "bookmarks": 1
+    },
+    "createdAt": "Sat May 30 05:47:41 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2060597977920811056",
+    "inReplyToUserId": "1881945875658014720",
+    "conversationId": "2060597940461486513",
+    "createdAtISO": "2026-05-30T05:47:41+00:00",
+    "createdAtLocal": "2026-05-30 13:47"
+  },
+  {
+    "id": "2060597940461486513",
+    "text": "Had some more time go through $SIVE earnings transcript, it’s very bullish:\n\n- $JBL pluggable partnership led to more optical transceiver requests for $SIVE  \n\nSo maybe Innolight/Eoptolink and other large players are my guess. \n\n- More laser capacity on top of Win Semi with more https://t.co/ZaptyNiSv1",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 197,
+      "retweets": 19,
+      "replies": 58,
+      "quotes": 1,
+      "views": 15486,
+      "bookmarks": 55
+    },
+    "createdAt": "Sat May 30 05:43:27 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJi25yTbcAAlOQJ.jpg",
+        "width": 1260,
+        "height": 625
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2060597940461486513",
+    "createdAtISO": "2026-05-30T05:43:27+00:00",
+    "createdAtLocal": "2026-05-30 13:43"
+  },
+  {
     "id": "2060578117320904884",
     "text": "I still find it funny how all the software bros are happy about a 10-15% recovery with $CRM to $FIG.\n\nAfter getting wiped 25-60% of their portfolio.\n\nMeanwhile all the AI names from $SNDK to $AAOI are casually up 200-1000%.",
     "author": {

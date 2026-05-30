@@ -104,8 +104,13 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   and NASDAQ-linked buyers (May 23-25). May 25 update adds Jabil fireside-chat
   evidence: Jabil says 1.6T LRO mass production with excess demand is 3-10
   months away; Serenity reads SIVE as the likely sole-source laser supplier for
-  that specific optical transceiver. May 28 update adds MRVL/Celestial earnings
-  color: Marvell highlighted scale-up interconnect as strategically important,
+  that specific optical transceiver. May 30 transcript follow-up adds that the
+  $JBL pluggable partnership generated additional optical-transceiver requests
+  for SIVE; he links Jabil's capability to its acquisition of part of INTC's
+  optical-transceiver division, while Innolight/Eoptolink remains his
+  speculative guess rather than a disclosed customer. May 28 update adds
+  MRVL/Celestial earnings color: Marvell highlighted scale-up interconnect as
+  strategically important,
   said Celestial was selected by a tier-1 hyperscaler, and said scale-up optics
   revenue next year should be more than 2x the prior ~$150M outlook; Serenity
   reads that as a volume-ramp indicator for SIVE lasers. Later May 28 update
@@ -181,10 +186,13 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   quality earnings signals: management says demand is far above supply, and
   points to future gross margins around 60%; use these as pricing-power and
   scarcity evidence, while still checking actual volume conversion. May 30
-  update keeps SIVE in his current best risk/reward group at roughly $2B market
-  cap; in the same conversation he floated a random one-year $30B market-cap
-  prediction. Treat this as conviction/valuation color, lower evidentiary
-  weight than customer/foundry signals.
+  follow-up moves the Jabil/LRO path from single-customer color toward a broader
+  pluggable-demand watchlist: track whether extra requests convert into named
+  customers, capacity awards beyond Win Semi, or signed volume. May 30 update
+  keeps SIVE in his current best risk/reward group at roughly $2B market cap; in
+  the same conversation he floated a random one-year $30B market-cap prediction.
+  Treat this as conviction/valuation color, lower evidentiary weight than
+  customer/foundry signals.
   **Highest-conviction long in the entire late corpus.** High risk (Swedish small-cap,
   pre-volume-ramp).
 
