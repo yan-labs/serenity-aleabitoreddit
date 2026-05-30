@@ -1,5 +1,88 @@
 [
   {
+    "id": "2060807341554241594",
+    "text": "@Projekt_Power It seems to be triggering a gamma/short squeeze by accident… hard to predict when the stupid frenzy stops though https://t.co/uFKqbi440X",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 46,
+      "retweets": 0,
+      "replies": 22,
+      "quotes": 1,
+      "views": 6003,
+      "bookmarks": 3
+    },
+    "createdAt": "Sat May 30 19:35:32 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2060806725637386475",
+    "inReplyToUserId": "1752166998740787200",
+    "conversationId": "2060806434963763294",
+    "createdAtISO": "2026-05-30T19:35:32+00:00",
+    "createdAtLocal": "2026-05-31 03:35"
+  },
+  {
+    "id": "2060806434963763294",
+    "text": "Everyone is out there making life changing returns on $RDDT.\n\nFully leveraged on the wrong $SPCE (Virgin Galactic) ticker.\n\nInstead of $SPCX, which is yet to launch. \n\nI guess this just goes to show how much retail demand there is for SpaceX’s IPO. https://t.co/AzcpV5fZ3P",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 416,
+      "retweets": 11,
+      "replies": 123,
+      "quotes": 2,
+      "views": 49716,
+      "bookmarks": 96
+    },
+    "createdAt": "Sat May 30 19:31:56 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJl0h0UaAAEsvfJ.jpg",
+        "width": 1202,
+        "height": 1111
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJl0h0UbIAAd64q.jpg",
+        "width": 1260,
+        "height": 1161
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJl0h0TaAAAVlqG.jpg",
+        "width": 1217,
+        "height": 819
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2060806434963763294",
+    "createdAtISO": "2026-05-30T19:31:56+00:00",
+    "createdAtLocal": "2026-05-31 03:31"
+  },
+  {
     "id": "2060755595515547753",
     "text": "Hot take: Given $MSFT laptops/PCs are now likely using $NVDA hardware. \n\nThey might have a shot of taking down $AAPL.\n\nOnly if Windows OS UI weren’t a flaming pile of garbage compared to how clean Apple OS is.\n\nYou would think a $3T company would know better UI design by now? https://t.co/OvysxCN21i",
     "author": {
