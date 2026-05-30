@@ -1,5 +1,135 @@
 [
   {
+    "id": "2060858244151804191",
+    "text": "@florinmunt8927 That’s literally fabricated news by short sellers",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 38,
+      "retweets": 2,
+      "replies": 6,
+      "quotes": 0,
+      "views": 2054,
+      "bookmarks": 0
+    },
+    "createdAt": "Sat May 30 22:57:48 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2060856563334631689",
+    "inReplyToUserId": "1994524913622028296",
+    "conversationId": "2060855976513941567",
+    "createdAtISO": "2026-05-30T22:57:48+00:00",
+    "createdAtLocal": "2026-05-31 06:57"
+  },
+  {
+    "id": "2060857962290409908",
+    "text": "@_king142 No clue, just floating out my opinion into the public.\n\nBut I’m extremely, extremely impressed with $SIVE management so far. And I think they’re heading down the right path with NASDAQ dual listing soon.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 47,
+      "retweets": 0,
+      "replies": 5,
+      "quotes": 0,
+      "views": 2169,
+      "bookmarks": 3
+    },
+    "createdAt": "Sat May 30 22:56:41 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2060856479469748695",
+    "inReplyToUserId": "2040625065620844544",
+    "conversationId": "2060855976513941567",
+    "createdAtISO": "2026-05-30T22:56:41+00:00",
+    "createdAtLocal": "2026-05-31 06:56"
+  },
+  {
+    "id": "2060857487834878280",
+    "text": "@Noamneo_ $SIVE is an extremely singular case just because of major US presence already from customers, cap table, CHIPS acts, and others.\n\nStaying primarily in Sweden with a local market that tries to hinder their growth, isn’t ideal.\n\nI wouldn’t say the same redomestication is the right",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 31,
+      "retweets": 0,
+      "replies": 6,
+      "quotes": 0,
+      "views": 2183,
+      "bookmarks": 3
+    },
+    "createdAt": "Sat May 30 22:54:48 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2060856137222586576",
+    "inReplyToUserId": "1774497436758687744",
+    "conversationId": "2060855976513941567",
+    "createdAtISO": "2026-05-30T22:54:48+00:00",
+    "createdAtLocal": "2026-05-31 06:54"
+  },
+  {
+    "id": "2060855976513941567",
+    "text": "I think $SIVE should just become a full American company, and use NASDAQ listing as the first step. \n\n&gt; US cap table / large ownership + US CHIPS act support already\n\n&gt; larger valuation premiums + M&amp;A opportunities.\n\n&gt; local Swedish media blatant disinformation from underwater",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 435,
+      "retweets": 26,
+      "replies": 76,
+      "quotes": 1,
+      "views": 22679,
+      "bookmarks": 46
+    },
+    "createdAt": "Sat May 30 22:48:48 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2060855976513941567",
+    "createdAtISO": "2026-05-30T22:48:48+00:00",
+    "createdAtLocal": "2026-05-31 06:48"
+  },
+  {
     "id": "2060842543756296294",
     "text": "@Investmnt_Eagle Not a surprise they’re the highest rated financial newspaper.\n\nReporting quality is better than every mainstream institution I’ve seen so far.",
     "author": {

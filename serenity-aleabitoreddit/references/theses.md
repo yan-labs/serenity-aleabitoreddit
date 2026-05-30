@@ -196,7 +196,14 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   profitability/breakeven wording vs. actual revenue projections, and possible
   Nasdaq-listing-funded IP acquisition to expand down the ELS/engine/pluggable
   stack. Treat all of this as conviction/process color until it becomes named
-  awards, capacity allocation, or signed volume revenue.
+  awards, capacity allocation, or signed volume revenue. Later May 30
+  corporate-action view: Serenity thinks SIVE should use its coming Nasdaq dual
+  listing as a first step toward becoming a full American company, because its
+  customer base, cap table / large ownership, and CHIPS Act support are already
+  US-heavy while the Swedish market/media may constrain valuation, M&A, and
+  growth. He says this redomestication logic is specific to SIVE's unusual setup,
+  not a generic rule for every Swedish company; treat it as a stance/catalyst to
+  monitor, not a board decision.
   **Highest-conviction long in the entire late corpus.** High risk (Swedish small-cap,
   pre-volume-ramp).
 
