@@ -191,8 +191,12 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   customers, capacity awards beyond Win Semi, or signed volume. May 30 update
   keeps SIVE in his current best risk/reward group at roughly $2B market cap; in
   the same conversation he floated a random one-year $30B market-cap prediction.
-  Treat this as conviction/valuation color, lower evidentiary weight than
-  customer/foundry signals.
+  Later May 30 replies add a diligence checklist around Jabil/Ayar scale flowing
+  back to Sivers, Win Semi scaling and private-placement-funded expansion, 2027
+  profitability/breakeven wording vs. actual revenue projections, and possible
+  Nasdaq-listing-funded IP acquisition to expand down the ELS/engine/pluggable
+  stack. Treat all of this as conviction/process color until it becomes named
+  awards, capacity allocation, or signed volume revenue.
   **Highest-conviction long in the entire late corpus.** High risk (Swedish small-cap,
   pre-volume-ramp).
 
