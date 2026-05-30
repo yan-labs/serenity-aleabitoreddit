@@ -654,7 +654,9 @@ superseded this list by 2026.)
   broadened the glass-substrate map into materials/photoresists: YC Chem was
   described as first to supply glass-substrate photoresists, Samyang NC Chem was
   sampling, and AI GPU / ASIC / CPO demand could create another high-end ABF
-  substrate shortage by 2027.
+  substrate shortage by 2027. May 30 GNC/SEMI projection color reinforced the
+  long-term ramp with 67.2% forecast compound growth from 2028, but Serenity
+  again pulled the timing forward to H2 2026 start / H1 2027 ramp.
 
 ### Other equipment/inspection
 - **MSSCorps (6830, TYO):** Claimed monopoly on non-destructive IR inspection for

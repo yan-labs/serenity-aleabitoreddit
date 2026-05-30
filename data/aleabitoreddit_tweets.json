@@ -1,5 +1,147 @@
 [
   {
+    "id": "2060737673502110207",
+    "text": "What an unholy ramp for glass core substrates… (GNC/SEMI projections)\n\nFrom 2028 onward with 67.2% forecasted compound growth.\n\nDon’t really agree with the chart though, since it should be H2 2026 (start) / H1 2027 (ramp up) rather than 2028?\n\nBut regardless overall trend for https://t.co/pRfmrZRRGY",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 96,
+      "retweets": 6,
+      "replies": 33,
+      "quotes": 0,
+      "views": 4925,
+      "bookmarks": 28
+    },
+    "createdAt": "Sat May 30 14:58:42 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJk1_ZsaoAAJwg_.jpg",
+        "width": 1260,
+        "height": 753
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2060737673502110207",
+    "createdAtISO": "2026-05-30T14:58:42+00:00",
+    "createdAtLocal": "2026-05-30 22:58"
+  },
+  {
+    "id": "2060728400625774932",
+    "text": "@pacoaquino Por supuesto! \n\nEn Tijuana, porque yo jugué en un equipo mexicano.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 11,
+      "retweets": 0,
+      "replies": 6,
+      "quotes": 0,
+      "views": 2263,
+      "bookmarks": 0
+    },
+    "createdAt": "Sat May 30 14:21:51 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "es",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2060725569449336898",
+    "inReplyToUserId": "40383470",
+    "conversationId": "2060724057633599982",
+    "createdAtISO": "2026-05-30T14:21:51+00:00",
+    "createdAtLocal": "2026-05-30 22:21"
+  },
+  {
+    "id": "2060726678964600901",
+    "text": "@jayskywalker16 Muchas gracias. Ha pasado mucho tiempo sin practicar español porque ahora vivo en Japón.\n\nPero, puedo hablar “donde esta la bibloteca”",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 25,
+      "retweets": 0,
+      "replies": 8,
+      "quotes": 1,
+      "views": 2617,
+      "bookmarks": 0
+    },
+    "createdAt": "Sat May 30 14:15:01 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "es",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2060724564540141949",
+    "inReplyToUserId": "1461507546905288711",
+    "conversationId": "2060724057633599982",
+    "createdAtISO": "2026-05-30T14:15:01+00:00",
+    "createdAtLocal": "2026-05-30 22:15"
+  },
+  {
+    "id": "2060724057633599982",
+    "text": "Yo no sé cuántas personas hablan español en X...\n\n¿Es verdad este post?\n\nHablo un poco porque jugué fútbol en Mexico por dos o tres años\n\nVoy a publicar un thesis sobre CPO o $AAOI en español si hay muchas personas que leer mi post jaja\n\nLo siento, mi español es malo https://t.co/qjckIzoVz6",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 495,
+      "retweets": 4,
+      "replies": 187,
+      "quotes": 3,
+      "views": 44287,
+      "bookmarks": 10
+    },
+    "createdAt": "Sat May 30 14:04:36 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkpm65bUAEWFYE.jpg",
+        "width": 1260,
+        "height": 413
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "es",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2060724057633599982",
+    "createdAtISO": "2026-05-30T14:04:36+00:00",
+    "createdAtLocal": "2026-05-30 22:04"
+  },
+  {
     "id": "2060689072985932241",
     "text": "@GabrielNeo9 Not really, you want purer play, high beta exposure to their optical division. \n\nFoxconn as a whole is way too big. You’re comparing a $123B company to a $2B company, then seeing which doubles faster",
     "author": {
