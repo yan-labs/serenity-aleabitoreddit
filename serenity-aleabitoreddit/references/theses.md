@@ -202,8 +202,10 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
   customer base, cap table / large ownership, and CHIPS Act support are already
   US-heavy while the Swedish market/media may constrain valuation, M&A, and
   growth. He says this redomestication logic is specific to SIVE's unusual setup,
-  not a generic rule for every Swedish company; treat it as a stance/catalyst to
-  monitor, not a board decision.
+  not a generic rule for every Swedish company; he also says SIVE management had
+  long wanted a Nasdaq listing, that he trusts management enough not to become
+  activist, and that shorts spun the timing into disinformation. Treat it as a
+  stance/catalyst to monitor, not a board decision.
   **Highest-conviction long in the entire late corpus.** High risk (Swedish small-cap,
   pre-volume-ramp).
 

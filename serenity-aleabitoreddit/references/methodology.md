@@ -249,6 +249,9 @@ dated example from the corpus. A runnable checklist is at the bottom.
 - **Conflating supply-chain layers** — substrate ≠ epiwafer ≠ feedstock; foundry
   ≠ module. He corrects these constantly.
 - **Reddit/X sentiment** — "IGNORE the sentiment since it's usually wrong."
+- **Replying to disinformation campaigns** — May 30 SIVE follow-up: when an
+  account spreads apparent disinformation, report it for spam and block it;
+  replying only adds engagement.
 - **Chasing the already-frontrun event** — buying oil/defense at ATHs *after* a
   war headline instead of pre-positioning.
 - **Cult/financial-engineering valuations** — PLTR ("large part of profit is
