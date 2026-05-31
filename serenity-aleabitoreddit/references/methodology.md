@@ -48,6 +48,10 @@ dated example from the corpus. A runnable checklist is at the bottom.
   may be needed to keep companies alive and scaling for hyperscaler supply
   chains. May 28 example: ficonTEC framed as a critical chokepoint lost to
   foreign/China-linked ownership because Europe underfunded it.
+- **Architecture-transition overlay:** Treat bottleneck hunting as partly a
+  judgment call on the next technical architecture shift. May 31 example:
+  Serenity said the InP/optical long worked because he acted before consensus
+  accepted that optical interconnect would replace copper for AI scale-out.
 - **Example:** AXTI (2025-12-26) — "the entire AI industry will likely be
   bottlenecked by AXTI ($700M)…" framing InP substrate control as the chokepoint
   for $15T+ of hyperscaler value. ("Strait of $AXTI" analogy to Strait of
