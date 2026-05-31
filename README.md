@@ -1,4 +1,6 @@
+```bash
 npx skills add yan-labs/serenity-aleabitoreddit
+```
 
 <p align="center">
   <a href="https://x.com/aleabitoreddit">
