@@ -672,7 +672,8 @@ superseded this list by 2026.)
   again pulled the timing forward to H2 2026 start / H1 2027 ramp, specifically
   citing SKC Absolics as the H2 2026 production-start marker. He also cautioned
   that the research firm's 2040 TAM figures looked off and that the report was
-  not a full value-chain map like LPK / GCS.
+  not a full value-chain map like LPK / GCS. May 31 reply says the LPK stance is
+  unchanged and the gating item remains the volume ramp starting.
 
 ### Other equipment/inspection
 - **MSSCorps (6830, TYO):** Claimed monopoly on non-destructive IR inspection for
