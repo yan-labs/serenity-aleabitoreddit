@@ -1,5 +1,109 @@
 [
   {
+    "id": "2061246318761386491",
+    "text": "@GabrielNeo9 This is red phosphorus for InP substrates",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 3,
+      "retweets": 0,
+      "replies": 5,
+      "quotes": 0,
+      "views": 1297,
+      "bookmarks": 0
+    },
+    "createdAt": "Mon Jun 01 00:39:53 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2061246025227211214",
+    "inReplyToUserId": "1247932233576407040",
+    "conversationId": "2061245108427935752",
+    "createdAtISO": "2026-06-01T00:39:53+00:00",
+    "createdAtLocal": "2026-06-01 08:39"
+  },
+  {
+    "id": "2061246006612934970",
+    "text": "@Panda_GPT 順調そうで何より！最初は少し値動きが荒かったけど、今こうして急上昇してくれて嬉しいよ。",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 8,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0,
+      "views": 1232,
+      "bookmarks": 0
+    },
+    "createdAt": "Mon Jun 01 00:38:38 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "ja",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2061245463039500442",
+    "inReplyToUserId": "1799785186286280704",
+    "conversationId": "2061245108427935752",
+    "createdAtISO": "2026-06-01T00:38:38+00:00",
+    "createdAtLocal": "2026-06-01 08:38"
+  },
+  {
+    "id": "2061245108427935752",
+    "text": "私の(4092)赤リンの投資シナリオ、誰か覚えてる？\n\nほぼ100%上がってるよ！ https://t.co/J5Db900gl2",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 148,
+      "retweets": 1,
+      "replies": 53,
+      "quotes": 2,
+      "views": 34616,
+      "bookmarks": 20
+    },
+    "createdAt": "Mon Jun 01 00:35:04 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJsDEDJaEAA41i1.jpg",
+        "width": 1260,
+        "height": 1320
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "ja",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2061245108427935752",
+    "createdAtISO": "2026-06-01T00:35:04+00:00",
+    "createdAtLocal": "2026-06-01 08:35"
+  },
+  {
     "id": "2061233888454988260",
     "text": "Can’t believe $ARM went straight from $134 to $354 when I took positions.\n\nThe ~$15B annual revenue coming from these cool name AI CPUs seemed a bit insane at the time.\n\nAt Computex, looks like $NVDA is unveiling new ARM based processors too.\n\nCounterpoint them shows them https://t.co/47B0u9OWkq",
     "author": {

@@ -18,6 +18,7 @@ his views.**
 - [2026-02](#2026-02)
 - [2026-03](#2026-03)
 - [2026-04 to 05](#2026-04-to-05)
+- [2026-06](#2026-06)
 - [Calibration note: how much to weight him](#calibration-note-how-much-to-weight-him)
 
 ---
@@ -198,6 +199,12 @@ his views.**
 | May 30 | Foxconn / Shunsin | Foxconn shareholder-meeting color: CPO switch products expected to begin in Q3, 10K units in 2026, faster growth next year, and a #1 global ambition; Serenity identifies Shunsin as the advanced-optical subsidiary and prefers it to parent Foxconn for pure-play high beta | Adds a timing marker and supply-chain link for Shunsin; still needs named revenue, capacity, or customer disclosure |
 | May 30 | Glass-core substrates | GNC/SEMI projection showed 67.2% forecast compound growth from 2028 onward; Serenity thinks the start/ramp timing is closer to H2 2026 / H1 2027, later citing SKC Absolics as the H2 2026 production-start marker and cautioning that the report was not a full value-chain map like LPK / GCS | Reinforces LPK glass-core-substrate thesis timing; projection is industry color, not direct revenue validation |
 | May 30 | De Tijd / public coverage | Belgian financial newspaper De Tijd covered Serenity's AAOI, XFAB, MRVL Celestial, CPO, and photonics supply-chain theses; he praised the coverage as objective and higher quality than mainstream institutions he has seen | Thesis visibility and media-calibration update, not independent validation of the underlying supply-chain claims |
+
+## 2026-06
+
+| Date | Ticker | Call | Outcome |
+|---|---|---|---|
+| Jun 1 | 4092.T / red phosphorus | Says an earlier 4092 red-phosphorus investment scenario is now nearly +100%; follow-up identifies the material as red phosphorus for InP substrates | Validation of the upstream InP-input hunt; original entry/date is not yet in this corpus, so treat as self-reported track-record color rather than a fresh buy signal |
 
 ---
 

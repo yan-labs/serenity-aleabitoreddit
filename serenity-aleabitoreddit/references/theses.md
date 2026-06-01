@@ -2,13 +2,13 @@
 
 Each ticker merged across all six period-analyses into one entry: sector/role,
 his thesis, conviction tier and how it EVOLVED (with dates), key evidence, and
-his latest known stance (as of May 2026). **Stance reversals are flagged with
+his latest known stance (as of June 2026). **Stance reversals are flagged with
 ⚠️.** Organized by sub-sector.
 
 > All prices, market caps, and percentages are Serenity's own citations from his
 > tweets — self-reported and unverified. Theses are dated; confirm current
 > reality before acting. "Latest stance" = his last known view in the corpus,
-> through ~2026-05-30.
+> through ~2026-06-01.
 
 ## Table of contents
 
@@ -324,6 +324,11 @@ his latest known stance (as of May 2026). **Stance reversals are flagged with
 - **GFS** (GlobalFoundries — SiPh foundry for AMD CPO; listed SIVE/LITE as public
   laser sources). **GLW (Corning), LWLG, MTRN, WOLF, ASX, UMC** — peripheral
   supply-chain mentions, not deep theses.
+- **4092.T / red phosphorus (Japan)** — June 1 post says his prior 4092
+  red-phosphorus investment scenario had nearly doubled; follow-up clarifies the
+  material is red phosphorus for InP substrates. Treat as another upstream input
+  watch tied to the AXTI/InP bottleneck map, not a fresh entry signal because the
+  original call date and entry are not yet captured in this corpus.
 
 ---
 
