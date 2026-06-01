@@ -545,7 +545,8 @@ superseded this list by 2026.)
 - **Thesis:** AI inference shifts CPU:GPU ratio from 1:8 → 1:1; ARM licenses the
   ISA for inference CPUs. "AGI CPU adds ~$15B annual revenue (5x current)."
 - **Tier:** New bull (Mar 24, entry $139); momentum long in CPU-bottleneck basket;
-  +45% in a month.
+  later referenced a ~$134 to $354 run after taking positions and noted NVDA
+  unveiling ARM-based processors at Computex.
 
 ### AMD — GPU #2
 - **Thesis:** MI300X ramp real but NVDA's CUDA moat underappreciated by bulls.
