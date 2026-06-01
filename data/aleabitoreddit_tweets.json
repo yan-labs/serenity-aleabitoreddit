@@ -1,5 +1,115 @@
 [
   {
+    "id": "2061442981102764171",
+    "text": "$NVDA, Siemens, and $FLNC develop reference power architectures for Vera Rubin N72.\n\nThis comes at the time FLNC has 2 likely hyperscaler deals coming up. \n\nJust in case why you’re wondering it’s up 36%. https://t.co/8f4gAhJeTE",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 356,
+      "retweets": 14,
+      "replies": 71,
+      "quotes": 3,
+      "views": 45976,
+      "bookmarks": 68
+    },
+    "createdAt": "Mon Jun 01 13:41:21 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJu3dpfaAAAoV7q.jpg",
+        "width": 1231,
+        "height": 1158
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJu3dpeacAADHVs.jpg",
+        "width": 1211,
+        "height": 710
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2061442981102764171",
+    "createdAtISO": "2026-06-01T13:41:21+00:00",
+    "createdAtLocal": "2026-06-01 21:41"
+  },
+  {
+    "id": "2061437102504681793",
+    "text": "@blackwalletfr If I stop calling trash, trash.\n\nThat doesn’t change what it is, when you’re looking at the $IREN infinite ATM dilution machine.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 31,
+      "retweets": 0,
+      "replies": 3,
+      "quotes": 0,
+      "views": 3381,
+      "bookmarks": 1
+    },
+    "createdAt": "Mon Jun 01 13:17:59 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2061433434359189860",
+    "inReplyToUserId": "4846049542",
+    "conversationId": "2061425895307608561",
+    "createdAtISO": "2026-06-01T13:17:59+00:00",
+    "createdAtLocal": "2026-06-01 21:17"
+  },
+  {
+    "id": "2061433715063136612",
+    "text": "@soulbiri1 Yeah rough December/Jan but I think Weebius learned Rasengan and powered up.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 20,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "views": 2541,
+      "bookmarks": 0
+    },
+    "createdAt": "Mon Jun 01 13:04:31 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2061426874405003275",
+    "inReplyToUserId": "1966602777263800320",
+    "conversationId": "2061425895307608561",
+    "createdAtISO": "2026-06-01T13:04:31+00:00",
+    "createdAtLocal": "2026-06-01 21:04"
+  },
+  {
     "id": "2061432577786052893",
     "text": "@luckybibiw1p I think $NBIS has the power of Plot Armor no Jutsu",
     "author": {

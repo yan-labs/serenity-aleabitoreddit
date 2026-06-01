@@ -642,6 +642,10 @@ superseded this list by 2026.)
   visibility, backlog, and dry-transformer share as a compelling compounder, not
   a parabolic squeeze.
 - **FLNC (Fluence):** Grid-scale storage; 2 hyperscaler deals (May 7-8); held.
+  June 1 update adds NVDA/Siemens/FLNC reference power architecture work for
+  Vera Rubin N72, which Serenity links to the likely hyperscaler-deal setup and
+  a 36% stock move. Treat this as a power-architecture catalyst/watch item until
+  the hyperscaler contracts are named and booked.
 - **Power semis / 800 VDC watchlist:** May 24 update: Serenity explicitly
   crowdsourced the highest-conviction "Power Semi trade" because NVDA is pushing
   a shift to 800 VDC power architecture. He named NVTS and WOLF as example
