@@ -400,7 +400,10 @@ his latest known stance (as of June 2026). **Stance reversals are flagged with
   post-MSFT / post-Q4 prediction that Nebius could reach a $100B market cap; he
   says it is currently around $60B and "getting close." Treat that as
   self-reported target progress / valuation color, not proof the remaining gap
-  will close.
+  will close. Later June 1 update says Macron announced an €8B NBIS investment
+  to build AI cloud infrastructure in France; treat this as an EU sovereign-AI /
+  regional-capex catalyst to verify against official releases and future backlog,
+  power, and water constraints.
 
 ### IREN (Iris Energy) — BTC-miner → AI datacenter / GPU cloud
 - **Thesis (early):** BTC miner pivoting to HPC; "reminds me of NBIS following
