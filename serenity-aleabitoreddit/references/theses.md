@@ -706,8 +706,10 @@ superseded this list by 2026.)
   switch products expected to begin in Q3, 10K units in 2026, and faster growth
   next year, with Foxconn aiming to be #1 globally. Serenity identifies Shunsin
   as the advanced-optical subsidiary and prefers it over parent Foxconn for
-  pure-play, high-beta exposure; still treat the link as a thesis marker until
-  it converts into named revenue or capacity disclosure.
+  pure-play, high-beta exposure. June 1 update says Shunsin was up 39.96% after
+  roughly a month and a half, below his own higher expectations; still treat the
+  link as a thesis marker until it converts into named revenue or capacity
+  disclosure.
 - **NGK (5333, TYO):** Added to the May 25 "functional monopoly" watchlist for
   thin-film lithium niobate (TFLN) wafer technology.
 - **FOCI (3363, TYO) / HIMX / Visera (6789, TYO):** FOCI FAU products reportedly
