@@ -587,7 +587,9 @@ superseded this list by 2026.)
   ISA for inference CPUs. "AGI CPU adds ~$15B annual revenue (5x current)."
 - **Tier:** New bull (Mar 24, entry $139); momentum long in CPU-bottleneck basket;
   later referenced a ~$134 to $354 run after taking positions and noted NVDA
-  unveiling ARM-based processors at Computex.
+  unveiling ARM-based processors at Computex. June 1 update extends the run to
+  ~$413 from ~$134 in about 2.5 months; Serenity says he still used shares rather
+  than options despite the missed leverage.
 
 ### AMD — GPU #2
 - **Thesis:** MI300X ramp real but NVDA's CUDA moat underappreciated by bulls.

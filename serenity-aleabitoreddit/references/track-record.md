@@ -120,7 +120,7 @@ his views.**
 | 2026-03-14 | SIVE | **First thesis ~$140M MC; #1 pick** | +165%+ from entry by Mar 23 ✅ |
 | 2026-03-21 | MU | Predicted 73-75% GM (Jan) | **Actual 74.9%** ✅ (clean validated call) |
 | 2026-03-24 | VCX | **Warning: "do not buy" (~20x NAV)** | -44% same day; $425→$110 in 4 days ✅ |
-| 2026-03-24 | ARM | Long ~$139; CPU bottleneck | +45% in a month; May 31 later referenced ~$134 to $354 after taking positions and NVDA ARM-based processors at Computex ✅ |
+| 2026-03-24 | ARM | Long ~$139; CPU bottleneck | +45% in a month; May 31 referenced ~$134 to $354 after taking positions and NVDA ARM-based processors at Computex; June 1 update extends the move to ~$413 from ~$134 in ~2.5 months, roughly 3x unlevered ✅ |
 | 2026-03-27 | Win Semi | Long $4.1B MC | Outperformed during selloff |
 | 2026-03-28 | XLU/EWY | **Admitted Iran killed rate-cut pricing; positions hurt** | ⚠️ honest self-correction |
 | 2026-03-31 | RPI | Earnings beat, 58% growth (vs 14% consensus) | +44.76% on day ✅ |
