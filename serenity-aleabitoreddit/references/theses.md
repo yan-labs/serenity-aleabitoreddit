@@ -247,7 +247,9 @@ his latest known stance (as of June 2026). **Stance reversals are flagged with
   payoff (Apr 27) — "extremely positive," de-risks financially. LandMark output
   "far below customer needs" validates supply constraint.
 - **Latest stance:** Held; May 25 update says he had hoped for more than "3x+"
-  so far, but "there's still time." De-risked by MTSI. Watch for short-term
+  so far, but "there's still time." June 1 update says IQE was the only green
+  European stock in his basket that day and had moved to ~54 from his ~12-13
+  entry four months earlier. De-risked by MTSI; watch for short-term
   convertible-note arbitrage pressure.
 
 ### POET Technologies — optical-interposer packaging for CPO
@@ -496,7 +498,9 @@ superseded this list by 2026.)
   making it "a coin flip" — macro dented this trade. May 26 update: EWY calls
   were up 300%+ / over 4x as IV held and Samsung/SK Hynix memory longs kept
   working. May 28 update: 2028 leaps were up 428%+ / 5.2x in three months as
-  IV rose and underlying Samsung / SK Hynix memory assets appreciated.
+  IV rose and underlying Samsung / SK Hynix memory assets appreciated. June 1
+  update says the EWY LEAPS were up 485%, from both IV expansion and directional
+  memory longs, after many holders had sold during Iran-volatility doomposting.
   (Advanced options; not for copying.)
 - **Towa (6315, TYO):** Functional monopoly on compression molding for HBM
   packaging (all three HBM makers are customers). ~$1.34B MC "sleeper" in the
