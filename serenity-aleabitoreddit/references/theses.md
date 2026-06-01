@@ -94,6 +94,9 @@ his latest known stance (as of June 2026). **Stance reversals are flagged with
   structure note says AAOI and SIVE were being algorithmically pulled around by
   LITE performance despite individual fundamentals improving; for AAOI he cites
   AMD / NVDA discussions as the kind of name-specific evidence algorithms ignore.
+  Later June 1 update says AAOI was +20.1% that day, repeats the "next SNDK"
+  framing, and puts the likely massive photonics-player inflection around H1
+  entering H2 2027 while calling H2 2026 "a tad early."
 
 ### SIVE / SIVEF (Sivers Semiconductors) — CW/DFB merchant laser for CPO
 - **Thesis:** Primary pure-play merchant DFB/CW laser supplier for the CPO
@@ -646,7 +649,8 @@ superseded this list by 2026.)
   his top-3 favorites (with SIVE, LPK). High conviction. May 28 update says the
   stock is up 83.3% in close to two months; he frames transformer demand
   visibility, backlog, and dry-transformer share as a compelling compounder, not
-  a parabolic squeeze.
+  a parabolic squeeze. June 1 reply reiterates HPS.A as his Canadian transformer-
+  bottleneck long and says US production-policy support likely benefits Hammond.
 - **FLNC (Fluence):** Grid-scale storage; 2 hyperscaler deals (May 7-8); held.
   June 1 update adds NVDA/Siemens/FLNC reference power architecture work for
   Vera Rubin N72, which Serenity links to the likely hyperscaler-deal setup and
