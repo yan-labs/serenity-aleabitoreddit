@@ -215,6 +215,14 @@ his latest known stance (as of June 2026). **Stance reversals are flagged with
   and make Sivers more likely to become a US company. A follow-up says a return
   to much lower valuation levels looks unlikely because the JBL pluggable ramp
   and additional optical-transceiver customer requests are already underway.
+  Later June 1 update calls pluggable optical transceivers SIVE's biggest TAM
+  expansion / revenue driver that the market has not noticed; he says Sivers is
+  actively working with new pluggable optical-transceiver companies after the
+  Jabil 1.6T LRO work showed a defensible laser moat. In replies, he says
+  Innolight is possible because few large pluggable players do not vertically
+  integrate lasers like LITE/COHR, but SIVE's plural wording implies more than
+  one potential player. Keep this as a customer-pipeline watchlist until names,
+  qualifications, or volume orders are disclosed.
   Treat this as ownership/corporate-action conviction plus demand-pipeline
   color, not a board decision or named customer award.
   **Highest-conviction long in the entire late corpus.** High risk (Swedish small-cap,
