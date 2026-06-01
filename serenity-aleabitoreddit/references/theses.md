@@ -390,7 +390,12 @@ his latest known stance (as of June 2026). **Stance reversals are flagged with
   validation signal: Leopold Aschenbrenner's Situational Awareness disclosed
   beneficial ownership of ~12.41M NBIS shares, about a 5.6% stake. Serenity
   frames this as another validation of NBIS over IREN and notes NBIS is now up
-  roughly 3x since his original long.
+  roughly 3x since his original long. June 1 update says NBIS has outperformed
+  both the market and the neocloud basket (IREN/CIFR), and revisits his
+  post-MSFT / post-Q4 prediction that Nebius could reach a $100B market cap; he
+  says it is currently around $60B and "getting close." Treat that as
+  self-reported target progress / valuation color, not proof the remaining gap
+  will close.
 
 ### IREN (Iris Energy) — BTC-miner → AI datacenter / GPU cloud
 - **Thesis (early):** BTC miner pivoting to HPC; "reminds me of NBIS following

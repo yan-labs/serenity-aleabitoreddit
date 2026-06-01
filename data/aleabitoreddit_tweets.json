@@ -1,5 +1,76 @@
 [
   {
+    "id": "2061432577786052893",
+    "text": "@luckybibiw1p I think $NBIS has the power of Plot Armor no Jutsu",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 5,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "views": 429,
+      "bookmarks": 0
+    },
+    "createdAt": "Mon Jun 01 13:00:00 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2061427208586224052",
+    "inReplyToUserId": "1988501060143783936",
+    "conversationId": "2061425895307608561",
+    "createdAtISO": "2026-06-01T13:00:00+00:00",
+    "createdAtLocal": "2026-06-01 21:00"
+  },
+  {
+    "id": "2061425895307608561",
+    "text": "$NBIS has anime plot armor!\n\nHappy to hear Weebius has been outperforming the market and Neocloud basket ( $IREN / $CIFR ).\n\nLast year post MSFT earnings, I gave a prediction after Q4 earnings, Nebius would reach a $100B MC.\n\nWe’re currently sitting at $60B MC, getting close! https://t.co/e96TirkJT8",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 205,
+      "retweets": 9,
+      "replies": 67,
+      "quotes": 0,
+      "views": 49027,
+      "bookmarks": 16
+    },
+    "createdAt": "Mon Jun 01 12:33:27 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJun7F8aEAALWRy.jpg",
+        "width": 1233,
+        "height": 1199
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2061425895307608561",
+    "createdAtISO": "2026-06-01T12:33:27+00:00",
+    "createdAtLocal": "2026-06-01 20:33"
+  },
+  {
     "id": "2061401720643887163",
     "text": "@TheWizardofYYZ @ethics3606 Nothing. Just sentiment shifts after a good looking guy who runs a hedge fund sold $LITE positions.",
     "author": {

@@ -212,6 +212,7 @@ his views.**
 | Jun 1 | SIVE / pluggable optical transceivers | Calls pluggable optical transceivers the biggest unpriced TAM/revenue expansion for SIVE; says Sivers is actively working with new pluggable transceiver companies after Jabil 1.6T LRO, with Innolight possible but not confirmed and multiple players implied | Strengthens SIVE demand-pipeline watch; still needs named customer qualification, capacity award, or volume order evidence |
 | Jun 1 | AAOI / SIVE / LITE photonics selloff | Says the current photonics weakness is a "follow the leader" algorithmic selloff where AAOI/SIVE are tied to LITE performance even as individual fundamentals improve; cites AAOI AMD/NVDA discussions and SIVE pipeline growth as examples | Market-structure explanation for volatility, not proof of a bottom; still requires company-specific execution evidence |
 | Jun 1 | SIVE / CPO TAM | Repeats that SIVE should be judged on future optical volume ramp, not current pre-development revenue; frames CPO as $0 to ~$81B TAM over the next 18 months and overall photonics as a 10x TAM expansion | Aggressive forward TAM/model color; not company guidance or confirmed revenue |
+| Jun 1 | NBIS | Says NBIS has outperformed the market and neocloud basket (IREN/CIFR); revisits his post-MSFT / post-Q4 prediction that Nebius could reach $100B market cap and says it is currently around $60B | Target-progress / validation color for the core NBIS thesis; still self-reported and valuation-sensitive |
 
 ---
 
