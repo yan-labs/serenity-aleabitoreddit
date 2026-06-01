@@ -1,5 +1,115 @@
 [
   {
+    "id": "2061367688719646793",
+    "text": "@159Adir52550 This cultural battle is just normal volatility to embrace and laugh at, since this is how the remainder of Sweden loses control.\n\nI actually tried to help Swedish retail about how special $SIVE was but “tall poppy syndrome” is probably ingrained culturally for most at this point.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 32,
+      "retweets": 1,
+      "replies": 4,
+      "quotes": 0,
+      "views": 1794,
+      "bookmarks": 1
+    },
+    "createdAt": "Mon Jun 01 08:42:10 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2061365784668938635",
+    "inReplyToUserId": "1710960331609018368",
+    "conversationId": "2061365325741101442",
+    "createdAtISO": "2026-06-01T08:42:10+00:00",
+    "createdAtLocal": "2026-06-01 16:42"
+  },
+  {
+    "id": "2061366747652051064",
+    "text": "@Path21Mil I’d probably consider launching a fund to just buy out $SIVE if it reached those levels lol. \n\nDon’t think it’s possible to go there again, given $JBL pluggable ramp and more optical transceiver customers underway. \n\nAlso not sure who they’re analyzing for, Swedish folks don’t",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 55,
+      "retweets": 4,
+      "replies": 10,
+      "quotes": 1,
+      "views": 3209,
+      "bookmarks": 3
+    },
+    "createdAt": "Mon Jun 01 08:38:25 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2061365673922793936",
+    "inReplyToUserId": "2043897699259314176",
+    "conversationId": "2061365325741101442",
+    "createdAtISO": "2026-06-01T08:38:25+00:00",
+    "createdAtLocal": "2026-06-01 16:38"
+  },
+  {
+    "id": "2061365325741101442",
+    "text": "It’s actually just a cultural thing in Sweden to dislike anything special or growth related. \n\nThey’re telling everyone to “give up on markets”\n\nDon’t take it to heart, just something to laugh at and welcome.\n\nSince it shifts control to US funds + likely makes Sivers a US company https://t.co/nTjLEyAKVD",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 284,
+      "retweets": 23,
+      "replies": 84,
+      "quotes": 4,
+      "views": 49055,
+      "bookmarks": 25
+    },
+    "createdAt": "Mon Jun 01 08:32:46 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtw1MHasAApHD-.jpg",
+        "width": 971,
+        "height": 1295
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtw1MFboAAcCzd.jpg",
+        "width": 1206,
+        "height": 932
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2061365325741101442",
+    "createdAtISO": "2026-06-01T08:32:46+00:00",
+    "createdAtLocal": "2026-06-01 16:32"
+  },
+  {
     "id": "2061353640812515790",
     "text": "@MatteoDeDycker From what I’ve seen, cyclical slump 2025. $XFAB was already dragged down, since it’s close to P/B value and lower than actual cost of asset replacement value from personal est.\n\nFor Melexis, it’s also a guess we’re near the bottom of automotive cycle for legacy drag kinda like https://t.co/qDjspQB3yd",
     "author": {

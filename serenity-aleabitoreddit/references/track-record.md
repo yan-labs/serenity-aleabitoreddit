@@ -208,6 +208,7 @@ his views.**
 | Jun 1 | 4092.T / red phosphorus | Says an earlier 4092 red-phosphorus investment scenario is now nearly +100%; follow-up identifies the material as red phosphorus for InP substrates | Validation of the upstream InP-input hunt; original entry/date is not yet in this corpus, so treat as self-reported track-record color rather than a fresh buy signal |
 | Jun 1 | Shunsin (6451) | Says Shunsin is only up 39.96% after roughly a month and a half, despite his higher expectations for Taiwanese optical stocks | Public performance checkpoint for the Foxconn/CPO optical-packaging thesis; still self-reported and not new supply-chain proof |
 | Jun 1 | XFAB / 800 VDC / Melexis | Mobile "shower thoughts" restate XFAB as a Western foundry beneficiary of NVDA's 800 VDC push, fabless/fab-lite demand for GaN/SiC capacity, low P/B / replacement-value framing, and a possible automotive-cycle bottom for Melexis/legacy drag | Strengthens valuation/cycle framing for the XFAB long; still needs confirmed SiC/SiPh revenue conversion, funding, or customer evidence |
+| Jun 1 | SIVE / Sweden-to-US ownership | Says Swedish anti-growth/tall-poppy skepticism should be treated as normal volatility that shifts control to US funds and likely makes Sivers a US company; says a collapse back to much lower levels looks unlikely given JBL pluggable ramp and more optical-transceiver customer requests underway | Reinforces the SIVE redomestication / ownership-rotation thesis and demand-pipeline watch; still not a confirmed board action or named customer award |
 
 ---
 

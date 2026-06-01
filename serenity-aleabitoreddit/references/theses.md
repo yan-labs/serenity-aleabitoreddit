@@ -209,8 +209,14 @@ his latest known stance (as of June 2026). **Stance reversals are flagged with
   growth. He says this redomestication logic is specific to SIVE's unusual setup,
   not a generic rule for every Swedish company; he also says SIVE management had
   long wanted a Nasdaq listing, that he trusts management enough not to become
-  activist, and that shorts spun the timing into disinformation. Treat it as a
-  stance/catalyst to monitor, not a board decision.
+  activist, and that shorts spun the timing into disinformation. June 1 replies
+  extend the same view: Swedish skepticism toward growth/special situations is
+  treated as normal volatility that may shift remaining control toward US funds
+  and make Sivers more likely to become a US company. A follow-up says a return
+  to much lower valuation levels looks unlikely because the JBL pluggable ramp
+  and additional optical-transceiver customer requests are already underway.
+  Treat this as ownership/corporate-action conviction plus demand-pipeline
+  color, not a board decision or named customer award.
   **Highest-conviction long in the entire late corpus.** High risk (Swedish small-cap,
   pre-volume-ramp).
 
