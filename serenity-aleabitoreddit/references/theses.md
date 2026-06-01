@@ -90,7 +90,10 @@ his latest known stance (as of June 2026). **Stance reversals are flagged with
   entry around $28 and higher-conviction post-earnings entry around ~$70, and
   says a ~$12B market cap would not look like much premium if AAOI reaches
   ~$5.7B ARR entering H2 2027. Treat the $5.7B ARR framing as his forward model,
-  not company guidance until independently verified.
+  not company guidance until independently verified. Later June 1 market-
+  structure note says AAOI and SIVE were being algorithmically pulled around by
+  LITE performance despite individual fundamentals improving; for AAOI he cites
+  AMD / NVDA discussions as the kind of name-specific evidence algorithms ignore.
 
 ### SIVE / SIVEF (Sivers Semiconductors) — CW/DFB merchant laser for CPO
 - **Thesis:** Primary pure-play merchant DFB/CW laser supplier for the CPO
@@ -222,7 +225,12 @@ his latest known stance (as of June 2026). **Stance reversals are flagged with
   Innolight is possible because few large pluggable players do not vertically
   integrate lasers like LITE/COHR, but SIVE's plural wording implies more than
   one potential player. Keep this as a customer-pipeline watchlist until names,
-  qualifications, or volume orders are disclosed.
+  qualifications, or volume orders are disclosed. Later June 1 replies restate
+  the forward-growth lens: do not confuse current pre-development revenue with
+  future optical volume ramp; he points again to total forward revenue pipeline
+  growth of 77% in a quarter. He also frames CPO as going from $0 to roughly
+  $81B TAM over the next 18 months and the broader photonics sector as a 10x TAM
+  expansion. Treat those as aggressive sector/model assumptions, not guidance.
   Treat this as ownership/corporate-action conviction plus demand-pipeline
   color, not a board decision or named customer award.
   **Highest-conviction long in the entire late corpus.** High risk (Swedish small-cap,
