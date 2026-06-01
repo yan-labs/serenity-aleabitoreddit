@@ -1,5 +1,133 @@
 [
   {
+    "id": "2061265938612465817",
+    "text": "At $NVDA GTC/Computex in Taipei:\n\nI think we’ll hear about the next AI bottleneck.\n\nThat’s owned by a .6 P/B potato farming company in Japan, with a 180 year history.\n\nTheir owner cooks those potatoes in night markets for 160 yen a piece.\n\nBut that same potato farming equipment",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 101,
+      "retweets": 3,
+      "replies": 54,
+      "quotes": 1,
+      "views": 8682,
+      "bookmarks": 22
+    },
+    "createdAt": "Mon Jun 01 01:57:50 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2061265938612465817",
+    "createdAtISO": "2026-06-01T01:57:50+00:00",
+    "createdAtLocal": "2026-06-01 09:57"
+  },
+  {
+    "id": "2061255077546094659",
+    "text": "@jpm7019 It’s not getting much premiums if $AAOI hits $5.7B ARR entering h2 2027 if it’s $12B now. \n\nIt’s backed by underlying fundamentals. \n\nA lot of the premiums on space sector or quantum though would likely disappear in that event since they don’t have the same revenue figures.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 33,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0,
+      "views": 4338,
+      "bookmarks": 4
+    },
+    "createdAt": "Mon Jun 01 01:14:41 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2061253095124865272",
+    "inReplyToUserId": "37891627",
+    "conversationId": "2061252644195504239",
+    "createdAtISO": "2026-06-01T01:14:41+00:00",
+    "createdAtLocal": "2026-06-01 09:14"
+  },
+  {
+    "id": "2061254438791286784",
+    "text": "@michaelsikand Yep agreed, i think just in general if your stock isn’t called $MSFT or a big Software name.\n\nYou would need to calculate your own fwd P/E ratios with hypergrowth names like $AAOI or $SNDK.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 52,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "views": 5876,
+      "bookmarks": 1
+    },
+    "createdAt": "Mon Jun 01 01:12:09 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2061253504107491546",
+    "inReplyToUserId": "3007206859",
+    "conversationId": "2061252644195504239",
+    "createdAtISO": "2026-06-01T01:12:09+00:00",
+    "createdAtLocal": "2026-06-01 09:12"
+  },
+  {
+    "id": "2061252644195504239",
+    "text": "$AAOI is actually my favorite photonics exposure in the US market right now.\n\nI went long last year with low sizing at $28, back when I guessed they were qualifying with $AMZN and $MSFT.\n\nHigh conviction post earnings at ~$70, when they announced 1.6T and other volume orders with",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 582,
+      "retweets": 30,
+      "replies": 153,
+      "quotes": 7,
+      "views": 84550,
+      "bookmarks": 224
+    },
+    "createdAt": "Mon Jun 01 01:05:01 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2061252644195504239",
+    "createdAtISO": "2026-06-01T01:05:01+00:00",
+    "createdAtLocal": "2026-06-01 09:05"
+  },
+  {
     "id": "2061246318761386491",
     "text": "@GabrielNeo9 This is red phosphorus for InP substrates",
     "author": {

@@ -204,6 +204,7 @@ his views.**
 
 | Date | Ticker | Call | Outcome |
 |---|---|---|---|
+| Jun 1 | AAOI | Reiterates AAOI as his favorite US photonics exposure; cites low-sizing entry around $28, higher-conviction post-earnings entry around ~$70, and a forward case where ~$12B market cap is not much premium if AAOI reaches ~$5.7B ARR entering H2 2027 | High-conviction reaffirmation plus forward-model color; $5.7B ARR is his model, not independently verified company guidance |
 | Jun 1 | 4092.T / red phosphorus | Says an earlier 4092 red-phosphorus investment scenario is now nearly +100%; follow-up identifies the material as red phosphorus for InP substrates | Validation of the upstream InP-input hunt; original entry/date is not yet in this corpus, so treat as self-reported track-record color rather than a fresh buy signal |
 
 ---

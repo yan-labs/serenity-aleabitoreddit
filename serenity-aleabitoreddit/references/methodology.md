@@ -85,7 +85,10 @@ dated example from the corpus. A runnable checklist is at the bottom.
   current revenue, against a market cap that hasn't re-rated.
 - **Apply:** Compare contracted forward revenue to market cap. If a 300%+ ARR
   contract only moved the stock 45%, the dilution to fund it was "already priced
-  in" — the post-announcement dip is the entry.
+  in" — the post-announcement dip is the entry. For hypergrowth hardware names,
+  do not rely on generic screeners or stale online forward-P/E fields; June 1
+  AAOI/SNDK replies emphasize calculating your own forward earnings/ARR from the
+  ramp assumptions and call transcripts.
 - **Example:** NBIS after the $17B MSFT contract (2025-09): "before $50 NBIS was
   speculation… now it's pure scaling," projecting $5-6B 2026 revenue at ~70%
   margins vs. ~$24-26B market cap.

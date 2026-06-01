@@ -85,7 +85,12 @@ his latest known stance (as of June 2026). **Stance reversals are flagged with
   May 30 update keeps AAOI in his current best risk/reward group at roughly
   $12B market cap, mainly on H1 2027 capacity-ramp revenue projections; a later
   reply floated a random one-year $70B market-cap target. Treat as aggressive
-  forward valuation color, not execution proof.
+  forward valuation color, not execution proof. June 1 update reiterates AAOI
+  as his favorite US-market photonics exposure, recalls initial low-sizing
+  entry around $28 and higher-conviction post-earnings entry around ~$70, and
+  says a ~$12B market cap would not look like much premium if AAOI reaches
+  ~$5.7B ARR entering H2 2027. Treat the $5.7B ARR framing as his forward model,
+  not company guidance until independently verified.
 
 ### SIVE / SIVEF (Sivers Semiconductors) — CW/DFB merchant laser for CPO
 - **Thesis:** Primary pure-play merchant DFB/CW laser supplier for the CPO
