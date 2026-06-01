@@ -651,7 +651,13 @@ superseded this list by 2026.)
   America's only high-volume SiC foundry, with US-government "critical
   infrastructure" framing. Treat this as stronger sovereignty/foundry evidence
   for the XFAB long, while still requiring proof of SiC/SiPh revenue conversion
-  and confirmed funding outcomes.
+  and confirmed funding outcomes. June 1 update restates the train of thought:
+  NVDA's 800 VDC push should send work toward GaN/SiC and power-semi foundries,
+  fabless/fab-lite winners like NVTS need foundry capacity, and Western supply
+  chains are preferred over Asia. A follow-up frames XFAB as already dragged
+  down near P/B and below his personal replacement-value estimate, with a
+  possible 2025 automotive-cycle bottom also affecting Melexis/legacy drag.
+  Treat this as valuation/cycle framing, not confirmed revenue evidence.
 - **VRT, ETN, POWL, ATKR, VICR, GEV, PWR, NRG, TLN, NEE** — grid/power roundup
   mentions.
 
