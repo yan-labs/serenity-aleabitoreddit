@@ -693,7 +693,9 @@ superseded this list by 2026.)
   MC); "$5-10B MC not far-fetched." May 25 UDN/TSM COUPE update named MSSCorps
   as a likely AI optical-market beneficiary for light-loss detection, silicon
   photonics test platforms, engineering verification, and failure analysis; he
-  framed this as X finding the story before mainstream institutions.
+  framed this as X finding the story before mainstream institutions. June 1
+  reply reiterates MSSCorps as a de facto monopoly over CPO inspection needed
+  for yields, while noting the timing caveat that CPO has not scaled up yet.
 - **Shunsin (6451, TYO):** Foxconn's optical packaging arm; backdoor into NVDA's
   CPO supply chain via Foxconn's exclusive rack-assembly role. Held; cost-avg.
   May 25 framing: hard to displace because Foxconn is embedded across core
