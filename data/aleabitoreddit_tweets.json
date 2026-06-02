@@ -1,5 +1,102 @@
 [
   {
+    "id": "2061807009692102715",
+    "text": "@0xMonney These are just random thoughts I have, don’t feel pressured to take any action.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 17,
+      "retweets": 0,
+      "replies": 4,
+      "quotes": 0,
+      "views": 1177,
+      "bookmarks": 0
+    },
+    "createdAt": "Tue Jun 02 13:47:52 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2061800216693452810",
+    "inReplyToUserId": "1523348515941924865",
+    "conversationId": "2061799291681956348",
+    "createdAtISO": "2026-06-02T13:47:52+00:00",
+    "createdAtLocal": "2026-06-02 21:47"
+  },
+  {
+    "id": "2061806782226604188",
+    "text": "@StocksAREnuts Yeah I’m up like 250% on $SOI, I’m surprised markets missed the at one…\n\nAlso quite surprised about $XFAB valuations given they seem to be leading Europe’s photonics supply chain development…",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 21,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0,
+      "views": 1968,
+      "bookmarks": 1
+    },
+    "createdAt": "Tue Jun 02 13:46:58 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2061800713181610137",
+    "inReplyToUserId": "1717258761029451777",
+    "conversationId": "2061799291681956348",
+    "createdAtISO": "2026-06-02T13:46:58+00:00",
+    "createdAtLocal": "2026-06-02 21:46"
+  },
+  {
+    "id": "2061799291681956348",
+    "text": "Tbh $XFAB lowkey reminds me of early $TSEM.\n\nJust sub &lt;$2B MC.\n\nYou basically never find a company with $NVDA and $NOK actively validating your pre-commercial silicon photonics foundry… (photonixFAB)\n\nWhile getting CHIPS act/Gov grants to subsidize capex.\n\nWhile leading the",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 583,
+      "retweets": 39,
+      "replies": 165,
+      "quotes": 10,
+      "views": 68189,
+      "bookmarks": 176
+    },
+    "createdAt": "Tue Jun 02 13:17:12 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2061799291681956348",
+    "createdAtISO": "2026-06-02T13:17:12+00:00",
+    "createdAtLocal": "2026-06-02 21:17"
+  },
+  {
     "id": "2061769121134788656",
     "text": "@softmaxedx Thanks! Really nice of you to say. \n\nYeah I’ve gotten a lot of mean comments even back at 8 SEK but best way to make them look silly is just having success with your thesis.",
     "author": {

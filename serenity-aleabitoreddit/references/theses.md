@@ -8,7 +8,7 @@ his latest known stance (as of June 2026). **Stance reversals are flagged with
 > All prices, market caps, and percentages are Serenity's own citations from his
 > tweets — self-reported and unverified. Theses are dated; confirm current
 > reality before acting. "Latest stance" = his last known view in the corpus,
-> through ~2026-06-01.
+> through ~2026-06-02.
 
 ## Table of contents
 
@@ -732,7 +732,11 @@ superseded this list by 2026.)
   chains are preferred over Asia. A follow-up frames XFAB as already dragged
   down near P/B and below his personal replacement-value estimate, with a
   possible 2025 automotive-cycle bottom also affecting Melexis/legacy drag.
-  Treat this as valuation/cycle framing, not confirmed revenue evidence.
+  June 2 update compares XFAB to early TSEM: sub-$2B market cap, NVDA/NOK
+  validation of the pre-commercial photonixFAB silicon-photonics foundry,
+  public CHIPS/grant capex subsidy, and a claim that it is leading European
+  photonics supply-chain development. Treat this as stronger analogy/validation
+  framing, not yet proof of SiPh revenue conversion.
 - **VRT, ETN, POWL, ATKR, VICR, GEV, PWR, NRG, TLN, NEE** — grid/power roundup
   mentions.
 
