@@ -588,7 +588,10 @@ superseded this list by 2026.)
   Huang reportedly framing MRVL as a potential next $1T company while Serenity
   says he has positions in Marvell and asks how much faith to place in Jensen's
   5x call; treat this as public CEO-endorsement / valuation-framework color, not
-  company guidance or proof that MRVL is now his highest-upside pick.
+  company guidance or proof that MRVL is now his highest-upside pick. Follow-up
+  after the move says MRVL rose ~35% and that he should have trusted Jensen more;
+  increase calibration weight on Jensen/NVDA endorsement reactions, but still
+  separate price-action validation from volume revenue conversion.
 
 ### AVGO (Broadcom) — hyperscaler ASIC / TPU ecosystem
 - **Thesis:** Co-designs GOOGL TPU ASICs; $73B AI backlog = "minimum contractual
