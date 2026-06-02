@@ -136,6 +136,12 @@ his latest known stance (as of June 2026). **Stance reversals are flagged with
   ramp, Apple consumer-device laser path, Lightmatter/Lightelligence, MRVL/
   Celestial, Lightium/TFLN, AMD/GFS, Ayar supplier-page removals, Win Semi
   capacity, Nasdaq listing, MSCI/OMX passive buyers, and M&A/board changes.
+  June 2 follow-up quotes Sivers laser arrays being integrated into reference
+  designs built on GFS's silicon-photonics platform; Serenity calls this
+  structurally massive because AVGO, MRVL, NVDA, or anyone else routing CPO work
+  through GFS silicon photonics could encounter SIVE as the default embedded
+  laser-array reference. Treat it as a strong platform-reference catalyst, still
+  requiring named design wins, allocation, or revenue proof.
 - **Article support:** The May 19 X Article is the highest-context source for
   this thesis. It formalizes public links to Jabil, POET, Ayar, O-Net/Enablence,
   Lightium, Win Semi, and GFS; high-confidence but unconfirmed paths to Apple,
@@ -359,7 +365,10 @@ his latest known stance (as of June 2026). **Stance reversals are flagged with
 ### Other materials/foundry mentions
 - **AMKR** (Amorphous packaging, "Made in America," long ~$37.6 Dec 1).
 - **GFS** (GlobalFoundries — SiPh foundry for AMD CPO; listed SIVE/LITE as public
-  laser sources). **GLW (Corning), LWLG, MTRN, WOLF, ASX, UMC** — peripheral
+  laser sources; June 2 update says SIVE laser arrays are integrated into GFS
+  silicon-photonics reference designs, potentially making SIVE a default
+  reference path for AVGO/MRVL/NVDA-style customers using GFS SiPh). **GLW
+  (Corning), LWLG, MTRN, WOLF, ASX, UMC** — peripheral
   supply-chain mentions, not deep theses.
 - **4092.T / red phosphorus (Japan)** — June 1 post says his prior 4092
   red-phosphorus investment scenario had nearly doubled; follow-up clarifies the

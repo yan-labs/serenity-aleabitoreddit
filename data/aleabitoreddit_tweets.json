@@ -1,5 +1,71 @@
 [
   {
+    "id": "2061695297315876875",
+    "text": "@wangxindian @StormDirac I’m not sure people realize the gravity of this news with $GFS yet. \n\nIt’s probably more fundamentally groundbreaking than $SIVE + $JBL.\n\nAs $AVGO, $MRVL, $NVDA or anyone who goes through GFS silicon photonics has $SIVE embedded in the reference as default.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 75,
+      "retweets": 9,
+      "replies": 5,
+      "quotes": 2,
+      "views": 3069,
+      "bookmarks": 15
+    },
+    "createdAt": "Tue Jun 02 06:23:57 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2061693359962615920",
+    "inReplyToUserId": "1854170129044815872",
+    "conversationId": "2061684778919776673",
+    "createdAtISO": "2026-06-02T06:23:57+00:00",
+    "createdAtLocal": "2026-06-02 14:23"
+  },
+  {
+    "id": "2061691323242148281",
+    "text": "@StormDirac “Sivers Semiconductors’ laser arrays will be integrated into reference designs built on GF’s silicon photonics platform.”\n\nWoah that’s structurally massive news with $SIVE and $GFS.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 255,
+      "retweets": 18,
+      "replies": 16,
+      "quotes": 0,
+      "views": 11271,
+      "bookmarks": 17
+    },
+    "createdAt": "Tue Jun 02 06:08:10 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2061684778919776673",
+    "inReplyToUserId": "208500614",
+    "conversationId": "2061684778919776673",
+    "createdAtISO": "2026-06-02T06:08:10+00:00",
+    "createdAtLocal": "2026-06-02 14:08"
+  },
+  {
     "id": "2061672966321234100",
     "text": "@lilpeterlynch I’m sorry I have a life",
     "author": {
