@@ -616,8 +616,10 @@ superseded this list by 2026.)
   Realized $101K on calls (Jul 2025). Capex $175-185B confirmed = "$1T over 10
   years" = the primary photonics-chain signal. "Barbell" long. June 1 posts
   frame any ~$80B AI-capex financing need as another demand signal for the
-  upstream ecosystem from LITE to AVGO/MediaTek, TSM, and MU; he also maps GOOGL
-  colo exposure through Fluidstack/CIFR/WULF rather than NBIS.
+  upstream ecosystem from LITE to AVGO/MediaTek, TSM, and MU; a follow-up cites
+  roughly $74B FCF versus ~$185B annual projected capex as the reason an external
+  raise may be necessary but not necessarily bad. He also maps GOOGL colo
+  exposure through Fluidstack/CIFR/WULF rather than NBIS.
 - **MSFT:** Azure AI growth = demand confirmation; mostly macro framing. $350 (Mar
   28) = "pricing in April tariff/liquidity shock."
 - **META:** Capex anchor ($60-65B 2025) that justifies the neocloud thesis.

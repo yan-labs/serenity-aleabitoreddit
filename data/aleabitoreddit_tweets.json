@@ -1,5 +1,38 @@
 [
   {
+    "id": "2061599466201956758",
+    "text": "@mktoperative I mean if your FCF is ~$74B and your annual projected capex is $185B. \n\nAt some point you’re probably forced to raise. Don’t really see it as a terrible thing, just an observation.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 49,
+      "retweets": 0,
+      "replies": 3,
+      "quotes": 0,
+      "views": 6068,
+      "bookmarks": 1
+    },
+    "createdAt": "Tue Jun 02 00:03:10 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2061596824746471560",
+    "inReplyToUserId": "448077183",
+    "conversationId": "2061596599588114444",
+    "createdAtISO": "2026-06-02T00:03:10+00:00",
+    "createdAtLocal": "2026-06-02 08:03"
+  },
+  {
     "id": "2061597746449248759",
     "text": "@JonahK44 $NBIS is $META and $MSFT.\n\n$GOOGL has done a lot of Fluidstack deals with $CIFR to $WULF for more Colo. my guess is to plug in a lot more of their TPUS",
     "author": {
