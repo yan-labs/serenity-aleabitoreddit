@@ -570,7 +570,11 @@ superseded this list by 2026.)
   in Serenity's OSINT view; scale-up optics revenue next year guided to more
   than 2x the prior ~$150M outlook; Marvell is pushing Celestial toward high-
   volume manufacturing. Treat the read mainly as bullish CPO / SIVE-volume
-  confirmation rather than a new MRVL-first call.
+  confirmation rather than a new MRVL-first call. June 2 update adds Jensen
+  Huang reportedly framing MRVL as a potential next $1T company while Serenity
+  says he has positions in Marvell and asks how much faith to place in Jensen's
+  5x call; treat this as public CEO-endorsement / valuation-framework color, not
+  company guidance or proof that MRVL is now his highest-upside pick.
 
 ### AVGO (Broadcom) — hyperscaler ASIC / TPU ecosystem
 - **Thesis:** Co-designs GOOGL TPU ASICs; $73B AI backlog = "minimum contractual

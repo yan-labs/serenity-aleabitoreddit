@@ -1,5 +1,82 @@
 [
   {
+    "id": "2061672966321234100",
+    "text": "@lilpeterlynch I’m sorry I have a life",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 48,
+      "retweets": 0,
+      "replies": 4,
+      "quotes": 0,
+      "views": 2246,
+      "bookmarks": 0
+    },
+    "createdAt": "Tue Jun 02 04:55:13 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2061672014197166268",
+    "inReplyToUserId": "823043396872716290",
+    "conversationId": "2061671824388403368",
+    "createdAtISO": "2026-06-02T04:55:13+00:00",
+    "createdAtLocal": "2026-06-02 12:55"
+  },
+  {
+    "id": "2061671824388403368",
+    "text": "$NVDA Jensen Huang:\n\n“ $MRVL the next $1T company ladies and gentlemen “.\n\nMarvell is currently trading at $191B.\n\nI have positions in Marvell… but how much faith do we have in Jensen for the 5x? https://t.co/II4DTZ5Z9D",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 255,
+      "retweets": 15,
+      "replies": 44,
+      "quotes": 5,
+      "views": 20482,
+      "bookmarks": 54
+    },
+    "createdAt": "Tue Jun 02 04:50:41 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJyHmGfbQAAEdCH.jpg",
+        "width": 1260,
+        "height": 1761
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJyHmGcacAAj_H2.jpg",
+        "width": 761,
+        "height": 704
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2061671824388403368",
+    "createdAtISO": "2026-06-02T04:50:41+00:00",
+    "createdAtLocal": "2026-06-02 12:50"
+  },
+  {
     "id": "2061630175738282210",
     "text": "@IamRamenPanda @AsiaFinance @GlobalMoney 谢谢！我会将更多名单移交给监管机构，以审查是否存在犯罪行为。",
     "author": {
