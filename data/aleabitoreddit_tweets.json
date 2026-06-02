@@ -1,5 +1,88 @@
 [
   {
+    "id": "2061629320704283015",
+    "text": "@ocloudyoda I mean i don’t think a random individual has history of running marketing campaigns for Asian crypto projects… \n\nThen use all of those same accounts with AI to post negative comments out of the blue this week.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 4,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "views": 100,
+      "bookmarks": 0
+    },
+    "createdAt": "Tue Jun 02 02:01:47 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2061625638939967735",
+    "inReplyToUserId": "1111167728",
+    "conversationId": "2061624122560692587",
+    "createdAtISO": "2026-06-02T02:01:47+00:00",
+    "createdAtLocal": "2026-06-02 10:01"
+  },
+  {
+    "id": "2061624122560692587",
+    "text": "Just a heads up, I've uncovered a bot farm with dozens of accounts used to spread disinformation about $SIVE in the past few days.\n\nThis illegal campaign likely stems geographically from Asia. \n\nAs these accounts were used to do marketing for the same Asian projects like Alchemy https://t.co/xjRyZWJwV9",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 224,
+      "retweets": 12,
+      "replies": 67,
+      "quotes": 3,
+      "views": 15785,
+      "bookmarks": 14
+    },
+    "createdAt": "Tue Jun 02 01:41:08 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxbFBiaMAA94s5.jpg",
+        "width": 1207,
+        "height": 784
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxbLDObgAARmJm.jpg",
+        "width": 1231,
+        "height": 714
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxbQTaa8AAHDEw.jpg",
+        "width": 1111,
+        "height": 305
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2061624122560692587",
+    "createdAtISO": "2026-06-02T01:41:08+00:00",
+    "createdAtLocal": "2026-06-02 09:41"
+  },
+  {
     "id": "2061599466201956758",
     "text": "@mktoperative I mean if your FCF is ~$74B and your annual projected capex is $185B. \n\nAt some point you’re probably forced to raise. Don’t really see it as a terrible thing, just an observation.",
     "author": {

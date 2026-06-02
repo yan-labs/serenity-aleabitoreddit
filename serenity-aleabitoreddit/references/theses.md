@@ -178,7 +178,10 @@ his latest known stance (as of June 2026). **Stance reversals are flagged with
   recognition, not new customer evidence.
   Later May 27 update claims short-seller bot/news disinformation campaigns
   around SIVE; treat this as a sentiment/positioning note, not fresh technical
-  evidence.
+  evidence. June 2 follow-up says he uncovered dozens of accounts posting
+  negative SIVE comments that had previously marketed Asian crypto projects;
+  keep this as an information-quality / volatility risk, not as proof of either
+  fundamentals or customer demand.
   May 28 Ayar/Wiwynn update moves the Ayar path from private-startup optionality
   toward rack-scale commercialization potential, but Serenity explicitly says it
   is not yet visible in revenue financials.
