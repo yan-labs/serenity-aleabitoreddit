@@ -141,7 +141,12 @@ his latest known stance (as of June 2026). **Stance reversals are flagged with
   structurally massive because AVGO, MRVL, NVDA, or anyone else routing CPO work
   through GFS silicon photonics could encounter SIVE as the default embedded
   laser-array reference. Treat it as a strong platform-reference catalyst, still
-  requiring named design wins, allocation, or revenue proof.
+  requiring named design wins, allocation, or revenue proof. Later June 2 update
+  compares SIVE's setup to LITE's first optical wave from roughly $3B to $75B in
+  two years, with SIVE potentially following from about $3B via CPO, pluggables,
+  and CW lasers; he cites the GFS SiPh reference-laser news and a +54% same-day
+  move as only one step. Treat as high-conviction analogy plus price-validation
+  color, not proof that the full LITE-style rerating will occur.
 - **Article support:** The May 19 X Article is the highest-context source for
   this thesis. It formalizes public links to Jabil, POET, Ayar, O-Net/Enablence,
   Lightium, Win Semi, and GFS; high-confidence but unconfirmed paths to Apple,
