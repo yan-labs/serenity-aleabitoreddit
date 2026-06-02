@@ -591,7 +591,9 @@ superseded this list by 2026.)
   company guidance or proof that MRVL is now his highest-upside pick. Follow-up
   after the move says MRVL rose ~35% and that he should have trusted Jensen more;
   increase calibration weight on Jensen/NVDA endorsement reactions, but still
-  separate price-action validation from volume revenue conversion.
+  separate price-action validation from volume revenue conversion. The next
+  reply adds a short-term overextension caveat after a comment-driven move while
+  keeping the $1T / roughly 4x Jensen path as a long-horizon belief case.
 
 ### AVGO (Broadcom) — hyperscaler ASIC / TPU ecosystem
 - **Thesis:** Co-designs GOOGL TPU ASICs; $73B AI backlog = "minimum contractual
