@@ -1,10 +1,10 @@
-Total tweets: 5706
+Total tweets: 5707
 Distinct $tickers: 667
 
 ticker  mentions  first_seen  last_seen
 NBIS        686   2025-07-21  2026-06-01
 AXTI        540   2025-12-22  2026-05-31
-SIVE        537   2025-12-23  2026-06-02
+SIVE        538   2025-12-23  2026-06-02
 LITE        506   2025-10-25  2026-06-01
 NVDA        496   2025-07-28  2026-06-02
 IREN        440   2025-08-31  2026-06-01
