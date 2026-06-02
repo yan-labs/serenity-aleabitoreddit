@@ -1,5 +1,76 @@
 [
   {
+    "id": "2061597746449248759",
+    "text": "@JonahK44 $NBIS is $META and $MSFT.\n\n$GOOGL has done a lot of Fluidstack deals with $CIFR to $WULF for more Colo. my guess is to plug in a lot more of their TPUS",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 12,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "views": 1303,
+      "bookmarks": 1
+    },
+    "createdAt": "Mon Jun 01 23:56:20 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2061597160190128140",
+    "inReplyToUserId": "1927518614422163456",
+    "conversationId": "2061596599588114444",
+    "createdAtISO": "2026-06-01T23:56:20+00:00",
+    "createdAtLocal": "2026-06-02 07:56"
+  },
+  {
+    "id": "2061596599588114444",
+    "text": "I never thought I’d see the day where $GOOGL needs to raise $80b for AI capex…\n\nThen Warren Buffet’s $BRK.A is funding the hyperscaler AI buildout. \n\n- $40B ATM, $30B offerings, Berkshire $10B\n\nUpstream ecosystem from $LITE to $AVGO to Mediatek to $TSM to $MU should go brrr. https://t.co/CxvctNZyMC",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 206,
+      "retweets": 19,
+      "replies": 40,
+      "quotes": 2,
+      "views": 15366,
+      "bookmarks": 43
+    },
+    "createdAt": "Mon Jun 01 23:51:46 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxDLW6bMAAP6fs.jpg",
+        "width": 1260,
+        "height": 805
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2061596599588114444",
+    "createdAtISO": "2026-06-01T23:51:46+00:00",
+    "createdAtLocal": "2026-06-02 07:51"
+  },
+  {
     "id": "2061545299055882675",
     "text": "Macron announces that $NBIS invests €8B to build out AI Cloud Infrastructure in France. \n\nThis was my favorite comment: \n\n“What about the Water” https://t.co/nlTb37BgE3",
     "author": {

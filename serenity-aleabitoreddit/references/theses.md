@@ -403,7 +403,10 @@ his latest known stance (as of June 2026). **Stance reversals are flagged with
   will close. Later June 1 update says Macron announced an €8B NBIS investment
   to build AI cloud infrastructure in France; treat this as an EU sovereign-AI /
   regional-capex catalyst to verify against official releases and future backlog,
-  power, and water constraints.
+  power, and water constraints. A later June 1 reply clarifies his customer map:
+  he treats NBIS as primarily META + MSFT-backed, while GOOGL routes more through
+  Fluidstack/CIFR/WULF colo capacity; do not over-attribute GOOGL TPU demand to
+  NBIS without a direct customer disclosure.
 
 ### IREN (Iris Energy) — BTC-miner → AI datacenter / GPU cloud
 - **Thesis (early):** BTC miner pivoting to HPC; "reminds me of NBIS following
@@ -443,13 +446,18 @@ his latest known stance (as of June 2026). **Stance reversals are flagged with
   maintained A-tier / "Strong Buy" (Jan); called the ORCL-contagion drop
   ($24→$14) a buying opportunity.
 - **Latest stance:** A-tier; "safest neocloud" framing persists. Held as
-  diversifier.
+  diversifier. June 1 follow-up says GOOGL has done multiple Fluidstack deals
+  with CIFR/WULF for more colo capacity, which Serenity guesses may support more
+  TPU deployments; keep this as a GOOGL/Fluidstack exposure watch until contracts
+  or customer disclosures make the workload explicit.
 
 ### WULF (TeraWulf) — BTC miner with HPC optionality
 - **Thesis:** Good power assets, early HPC transition, but bare-metal (margin
   ceiling below NBIS). A-tier in his Nov tier list. HUT $7B/15-yr Anthropic deal
   (via Fluidstack, GOOGL-backstopped) cited as sector-positive. Monitored, no
-  large disclosed trade.
+  large disclosed trade. June 1 update groups WULF with CIFR as a Fluidstack /
+  GOOGL colo-capacity route, possibly for TPU deployment; verify workload and
+  customer economics before treating it as a TPU revenue thesis.
 
 ### Tier list snapshot (Nov 2025)
 `NBIS = S; CIFR/WULF/IREN = A; GLXY/CORZ = B; APLD/CLSK = C; WLAC/DGDX/WYFI = D;
@@ -606,7 +614,10 @@ superseded this list by 2026.)
 ### GOOGL / MSFT / META / AMZN / ORCL — hyperscalers
 - **GOOGL:** Reliable value+growth anchor; AI capex beneficiary; big buybacks.
   Realized $101K on calls (Jul 2025). Capex $175-185B confirmed = "$1T over 10
-  years" = the primary photonics-chain signal. "Barbell" long.
+  years" = the primary photonics-chain signal. "Barbell" long. June 1 posts
+  frame any ~$80B AI-capex financing need as another demand signal for the
+  upstream ecosystem from LITE to AVGO/MediaTek, TSM, and MU; he also maps GOOGL
+  colo exposure through Fluidstack/CIFR/WULF rather than NBIS.
 - **MSFT:** Azure AI growth = demand confirmation; mostly macro framing. $350 (Mar
   28) = "pricing in April tariff/liquidity shock."
 - **META:** Capex anchor ($60-65B 2025) that justifies the neocloud thesis.
