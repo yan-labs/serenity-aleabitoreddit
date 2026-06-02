@@ -761,7 +761,9 @@ superseded this list by 2026.)
 - **Tier evolution:** Speculative moonshot (Jan-Feb) → "almost triples" after he
   goes long; now a $22B+ company → ⚠️ **trimmed conviction near-term** (Apr 25:
   "near-term somewhat priced in, long-term very early; only one customer in
-  volume ramp"). Held.
+  volume ramp"). Held. Latest update says AEHR has reached roughly ~$3.5B market
+  cap and remains a wait-for-volume-orders name alongside LPK and similar
+  pre-ramp players, with no fresh catalyst beyond order conversion.
 
 ### LPK / LPKFF (LPKF Laser & Electronics) — glass-core-substrate equipment
 - **Thesis:** Owns LIDE (Laser-Induced Deep Etching) — the equipment chokepoint
