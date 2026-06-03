@@ -187,7 +187,14 @@ his latest known stance (as of June 2026). **Stance reversals are flagged with
   relevance. Treat this as a policy-timing catalyst, not a confirmed allocation.
   Later May 27 update says he would not be surprised to see SIVE, SOI, and XFAB
   receive EU Chips Act 2 funding, but notes the formal announcement appears
-  pushed to the next week; treat timing and allocation as unconfirmed.
+  pushed to the next week; treat timing and allocation as unconfirmed. June 3
+  Tech Sovereignty Package / Chips Act 2.0 update makes the policy watch more
+  concrete: Serenity says the Industry Policy Blueprint highlights SIVE and
+  XFAB, and that 30-500M funding / revenue incentives are intended to bridge
+  pre-volume photonics players into HVM. The European Commission
+  implementation-dialogue page confirms the Chips Act blueprint process, while
+  the specific SIVE/XFAB policy-fit and allocation read remains Serenity's
+  interpretation until final package terms or awards are published.
   Later May 27 update frames a broad photonics selloff as no-news volatility and
   says he has been adding to positions because CPO/photonics remains his most
   compelling forward theme; treat this as conviction/positioning color, not a
@@ -347,9 +354,11 @@ his latest known stance (as of June 2026). **Stance reversals are flagged with
 - **Latest stance:** Held; MS accumulation validates. One of his cleanest
   landed calls. May 27 update adds EU Chips Act 2 optionality: Serenity says he
   would not be surprised to see SOI listed with SIVE and XFAB for funding, while
-  noting the formal announcement appears delayed to the next week. May 28
-  post-earnings update keeps the thesis active and emphasizes forward CPO/SiPh
-  demand rather than backward-looking earnings.
+  noting the formal announcement appears delayed to the next week. June 3 reply
+  sharpens the distinction: he says SOI and NOK are already more established,
+  while SIVE/XFAB map better to the 30-500M pre-HVM bridge-funding / revenue-
+  incentive policy design. May 28 post-earnings update keeps the thesis active
+  and emphasizes forward CPO/SiPh demand rather than backward-looking earnings.
 
 ### TSEM (Tower Semiconductor) — InP/SiPh specialty foundry ("TSM of photonics")
 - **Thesis:** InP + silicon-photonics foundry; 70% capacity booked through 2028;
@@ -758,7 +767,13 @@ superseded this list by 2026.)
   validation of the pre-commercial photonixFAB silicon-photonics foundry,
   public CHIPS/grant capex subsidy, and a claim that it is leading European
   photonics supply-chain development. Treat this as stronger analogy/validation
-  framing, not yet proof of SiPh revenue conversion.
+  framing, not yet proof of SiPh revenue conversion. June 3 EU Tech Sovereignty
+  Package update makes the policy-catalyst watch more specific: Serenity says
+  the Industry Policy Blueprint highlights XFAB and SIVE, and that proposed
+  30-500M funding / revenue incentives should bridge pre-volume players to HVM.
+  The European Commission implementation-dialogue page verifies the blueprint
+  process; actual award terms, customer commitments, and SiPh/SiC revenue
+  conversion remain the validation hurdles.
 - **VRT, ETN, POWL, ATKR, VICR, GEV, PWR, NRG, TLN, NEE** — grid/power roundup
   mentions.
 

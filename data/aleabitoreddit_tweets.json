@@ -1,5 +1,109 @@
 [
   {
+    "id": "2062047699730616393",
+    "text": "@ConfusedNDazzed There's actually even bigger news for $SIVE today than the EU CHIPS Act policy framework announcements.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 33,
+      "retweets": 0,
+      "replies": 5,
+      "quotes": 0,
+      "views": 1777,
+      "bookmarks": 4
+    },
+    "createdAt": "Wed Jun 03 05:44:17 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2062046154960040413",
+    "inReplyToUserId": "788207632599220224",
+    "conversationId": "2062045895500419101",
+    "createdAtISO": "2026-06-03T05:44:17+00:00",
+    "createdAtLocal": "2026-06-03 13:44"
+  },
+  {
+    "id": "2062047308825681943",
+    "text": "@aphexinvests So $SOI and $NOK are already more established. \n\nI looked into it deeper, and the proposals were focused around 30-500M funding and revenue incentives, to bridge the pre-volume production players to HVM. \n\n$SIVE / $XFAB map to policy incentives better, but wouldn't be surprised",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 15,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0,
+      "views": 2286,
+      "bookmarks": 3
+    },
+    "createdAt": "Wed Jun 03 05:42:44 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2062046579997962743",
+    "inReplyToUserId": "1979682662336925696",
+    "conversationId": "2062045895500419101",
+    "createdAtISO": "2026-06-03T05:42:44+00:00",
+    "createdAtLocal": "2026-06-03 13:42"
+  },
+  {
+    "id": "2062045895500419101",
+    "text": "Europe is releasing its Tech Sovereignty Package, today June 3rd. \n\nThis includes, CHIPS ACT 2.0, which is expected to prioritize photonics. \n\nBoth $XFAB and $SIVE are highlighted in the Industry Policy Blueprints, which guides EU legislation.\n\nThis proposes sovereign backing https://t.co/WWBlo5o1tL",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 346,
+      "retweets": 34,
+      "replies": 43,
+      "quotes": 6,
+      "views": 24434,
+      "bookmarks": 56
+    },
+    "createdAt": "Wed Jun 03 05:37:07 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3ZJhgbUAAX3Ez.jpg",
+        "width": 1191,
+        "height": 1242
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2062045895500419101",
+    "createdAtISO": "2026-06-03T05:37:07+00:00",
+    "createdAtLocal": "2026-06-03 13:37"
+  },
+  {
     "id": "2062017487378764286",
     "text": "@AyarLabs @nvidia Congrats! Great news for Ayar.",
     "author": {
