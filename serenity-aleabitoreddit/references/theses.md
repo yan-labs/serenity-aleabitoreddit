@@ -154,8 +154,11 @@ his latest known stance (as of June 2026). **Stance reversals are flagged with
   adds a fresh NVDA/NVLink Fusion catalyst lead: Serenity calls it big news if
   SIVE is the laser supplier to the NVDA NVLink Fusion ecosystem and compares
   the setup to Marvell's market-cap reaction after joining a few months earlier.
-  Treat this as a high-conviction lead until the specific source, customer path,
-  and volume economics are independently confirmed.
+  A later June 3 root post upgrades his wording to "effective upstream laser
+  chokepoint" for the NVDA NVLink Fusion CPO ecosystem and says the company's
+  lasers are now in NVIDIA optical-infrastructure supply chains. Treat this as
+  a high-conviction Serenity lead until the specific source, customer path, and
+  volume economics are independently confirmed.
 - **Article support:** The May 19 X Article is the highest-context source for
   this thesis. It formalizes public links to Jabil, POET, Ayar, O-Net/Enablence,
   Lightium, Win Semi, and GFS; high-confidence but unconfirmed paths to Apple,

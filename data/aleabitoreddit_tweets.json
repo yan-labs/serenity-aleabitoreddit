@@ -1,5 +1,69 @@
 [
   {
+    "id": "2062064540075123050",
+    "text": "Wow… new extremely transformative news got released today.\n\nMaking a certain photonics company:\n\nThe effective upstream laser chokepoint for $NVDA NVLink fusion CPO ecosystem.\n\nWith their lasers now in Nvidia’s optical infrastructure supply chains.\n\nCan anyone guess the name?",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 45,
+      "retweets": 2,
+      "replies": 7,
+      "quotes": 0,
+      "views": null,
+      "bookmarks": 2
+    },
+    "createdAt": "Wed Jun 03 06:51:12 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2062064540075123050",
+    "createdAtISO": "2026-06-03T06:51:12+00:00",
+    "createdAtLocal": "2026-06-03 14:51"
+  },
+  {
+    "id": "2062059271060349423",
+    "text": "@LLTHTRS I did all my DD on memory earlier this year. \n\nI’m just letting my thesis get validated like my $EWY longs which are up 480%.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 25,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0,
+      "views": 2057,
+      "bookmarks": 1
+    },
+    "createdAt": "Wed Jun 03 06:30:16 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2062057129763061772",
+    "inReplyToUserId": "1808186954174885888",
+    "conversationId": "2062045895500419101",
+    "createdAtISO": "2026-06-03T06:30:16+00:00",
+    "createdAtLocal": "2026-06-03 14:30"
+  },
+  {
     "id": "2062047699730616393",
     "text": "@ConfusedNDazzed There's actually even bigger news for $SIVE today than the EU CHIPS Act policy framework announcements.",
     "author": {
