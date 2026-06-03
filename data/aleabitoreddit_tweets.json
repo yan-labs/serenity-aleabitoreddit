@@ -1,5 +1,38 @@
 [
   {
+    "id": "2062017487378764286",
+    "text": "@AyarLabs @nvidia Congrats! Great news for Ayar.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 17,
+      "retweets": 1,
+      "replies": 2,
+      "quotes": 0,
+      "views": 1386,
+      "bookmarks": 0
+    },
+    "createdAt": "Wed Jun 03 03:44:14 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2061961552060621256",
+    "inReplyToUserId": "3219677252",
+    "conversationId": "2061961552060621256",
+    "createdAtISO": "2026-06-03T03:44:14+00:00",
+    "createdAtLocal": "2026-06-03 11:44"
+  },
+  {
     "id": "2062003661157625911",
     "text": "@joestar1402 Eh next 3-4 years for physical AI buildout to start scaling? Then give it 10 years for majority displacement. \n\nSelf driving cars are going to displace a lot of taxi/uber drivers.\n\nHumanoids/robotics replacing a lot of factory or manual work.\n\nAnd so on… speciality jobs will",
     "author": {
