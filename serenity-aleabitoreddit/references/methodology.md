@@ -283,7 +283,10 @@ none of this is a buy signal on its own.
 4. **Demand driver?** Is the TAM expanding on hyperscaler AI capex (the master
    leading indicator) or physical-AI/robotics capex rather than a legacy/cyclical
    market? May 2026 framing: Jensen Huang's projected "$3-4T annually" AI capex
-   by 2030 is the top-down reason tiny upstream chokepoints can re-rate.
+   by 2030 is the top-down reason tiny upstream chokepoints can re-rate. June 3
+   physical-AI framing: Serenity expects the buildout to start scaling over the
+   next 3-4 years, with broader labor displacement on a roughly 10-year horizon;
+   use this as a long-cycle demand screen, not as a near-term ticker signal.
 5. **Contracts & counterparty?** Are there signed multi-year contracts, and is
    the tenant creditworthy (AAA hyperscaler, not a cash-burning lab)?
 6. **Real margins?** Do the GAAP margins (not cherry-picked non-GAAP) support
