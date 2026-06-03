@@ -1,5 +1,104 @@
 [
   {
+    "id": "2061960469884346736",
+    "text": "@RockyKh49376975 Probably just Xintech (3374) which is kinda the unknown $TSM COUPE supplier.\n\nThey happen to be owned by TSMC too.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 23,
+      "retweets": 1,
+      "replies": 4,
+      "quotes": 0,
+      "views": 3841,
+      "bookmarks": 7
+    },
+    "createdAt": "Tue Jun 02 23:57:40 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2061959251275505769",
+    "inReplyToUserId": "1493798739558891524",
+    "conversationId": "2061958857132585076",
+    "createdAtISO": "2026-06-02T23:57:40+00:00",
+    "createdAtLocal": "2026-06-03 07:57"
+  },
+  {
+    "id": "2061960118049411534",
+    "text": "@DeauDeuxsau Just H1 2027 should be glass core substrate volume orders with $LPK, kinda no news aside from waiting on that to happen.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 33,
+      "retweets": 1,
+      "replies": 2,
+      "quotes": 0,
+      "views": 4550,
+      "bookmarks": 2
+    },
+    "createdAt": "Tue Jun 02 23:56:16 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2061959383622279286",
+    "inReplyToUserId": "2043014939934162944",
+    "conversationId": "2061958857132585076",
+    "createdAtISO": "2026-06-02T23:56:16+00:00",
+    "createdAtLocal": "2026-06-03 07:56"
+  },
+  {
+    "id": "2061959646265614502",
+    "text": "@MattLay Honestly extremely surprised by those two, not going up another 50% yet.\n\nI think it’s because nothing CPO has scaled up yet so it’s not reflected in their balance sheets.\n\nBut I have pretty high conviction in Foci, MSScorp is a lottery ticket for inspection monopoly.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 42,
+      "retweets": 0,
+      "replies": 9,
+      "quotes": 1,
+      "views": 5071,
+      "bookmarks": 6
+    },
+    "createdAt": "Tue Jun 02 23:54:23 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2061959248893108332",
+    "inReplyToUserId": "1858791391142572032",
+    "conversationId": "2061958857132585076",
+    "createdAtISO": "2026-06-02T23:54:23+00:00",
+    "createdAtLocal": "2026-06-03 07:54"
+  },
+  {
     "id": "2061958857132585076",
     "text": "Good times with $AEHR, it’s now ~$3.5B MC.\n\nHaven’t mentioned it as much since there’s nothing too new. \n\nJust waiting on volume orders for these types of players like $LPK, and others. https://t.co/W8k0ce3RSE",
     "author": {

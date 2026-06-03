@@ -93,7 +93,11 @@ his latest known stance (as of June 2026). **Stance reversals are flagged with
   not company guidance until independently verified. Later June 1 market-
   structure note says AAOI and SIVE were being algorithmically pulled around by
   LITE performance despite individual fundamentals improving; for AAOI he cites
-  AMD / NVDA discussions as the kind of name-specific evidence algorithms ignore.
+  AMD / NVDA discussions as the kind of name-specific evidence algorithms
+  ignore. June 2 reply adds that some CPO-related names are not yet reflecting
+  the thesis in balance sheets because CPO has not scaled, says he has high
+  conviction in FOCI as a related player, and frames MSSCorps as a lottery ticket
+  around inspection-monopoly optionality.
   Later June 1 update says AAOI was +20.1% that day, repeats the "next SNDK"
   framing, and puts the likely massive photonics-player inflection around H1
   entering H2 2027 while calling H2 2026 "a tad early."
@@ -781,7 +785,9 @@ superseded this list by 2026.)
   citing SKC Absolics as the H2 2026 production-start marker. He also cautioned
   that the research firm's 2040 TAM figures looked off and that the report was
   not a full value-chain map like LPK / GCS. May 31 reply says the LPK stance is
-  unchanged and the gating item remains the volume ramp starting.
+  unchanged and the gating item remains the volume ramp starting. June 2 reply
+  clarifies that the expected catalyst is H1 2027 glass-core-substrate volume
+  orders for LPK, with little new to do before that order conversion appears.
 
 ### Other equipment/inspection
 - **MSSCorps (6830, TYO):** Claimed monopoly on non-destructive IR inspection for
@@ -793,6 +799,8 @@ superseded this list by 2026.)
   framed this as X finding the story before mainstream institutions. June 1
   reply reiterates MSSCorps as a de facto monopoly over CPO inspection needed
   for yields, while noting the timing caveat that CPO has not scaled up yet.
+  June 2 reply still treats it as a lottery ticket for inspection-monopoly
+  upside rather than a confirmed volume-ramp winner.
 - **Shunsin (6451, TYO):** Foxconn's optical packaging arm; backdoor into NVDA's
   CPO supply chain via Foxconn's exclusive rack-assembly role. Held; cost-avg.
   May 25 framing: hard to displace because Foxconn is embedded across core
@@ -817,6 +825,8 @@ superseded this list by 2026.)
   the Taiwan photonics chain becomes visible. May 30 update places FOCI in his
   current best risk/reward group at roughly $2.8B market cap, with a random
   one-year $15B market-cap prediction; keep the prior Visera design-out caveat.
+  June 2 reply adds Xintech (3374), which TSMC owns, as the likely unknown TSM
+  COUPE supplier.
 - **RIBER / ALRIB (Riber SA):** MBE-machine near-duopoly; supplier to MSFT Quantum
   and SiPh. ~$300M MC, "massively underdiscovered." Small patience play.
 - **TER, FORM, VIAV, ONTO, KLAC, AMAT, ASML, CAMT, KLIC, BESI** — test/equipment
