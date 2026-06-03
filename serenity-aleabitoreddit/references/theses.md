@@ -150,7 +150,12 @@ his latest known stance (as of June 2026). **Stance reversals are flagged with
   two years, with SIVE potentially following from about $3B via CPO, pluggables,
   and CW lasers; he cites the GFS SiPh reference-laser news and a +54% same-day
   move as only one step. Treat as high-conviction analogy plus price-validation
-  color, not proof that the full LITE-style rerating will occur.
+  color, not proof that the full LITE-style rerating will occur. June 3 reply
+  adds a fresh NVDA/NVLink Fusion catalyst lead: Serenity calls it big news if
+  SIVE is the laser supplier to the NVDA NVLink Fusion ecosystem and compares
+  the setup to Marvell's market-cap reaction after joining a few months earlier.
+  Treat this as a high-conviction lead until the specific source, customer path,
+  and volume economics are independently confirmed.
 - **Article support:** The May 19 X Article is the highest-context source for
   this thesis. It formalizes public links to Jabil, POET, Ayar, O-Net/Enablence,
   Lightium, Win Semi, and GFS; high-confidence but unconfirmed paths to Apple,
@@ -369,7 +374,10 @@ his latest known stance (as of June 2026). **Stance reversals are flagged with
   its name…" (outperformed during selloffs).
 - **Latest stance:** May 26 update says Win Semi is still almost never mentioned
   in photonics analyst reports, but Serenity expects it to show up as an
-  important bottleneck for scaling lasers next year.
+  important bottleneck for scaling lasers next year. June 3 reply sharpens this:
+  he says Win Semi will probably become a major laser bottleneck, is still absent
+  from many optical supply-chain reports, and is a high-confidence next-year
+  bottleneck candidate.
 
 ### Other materials/foundry mentions
 - **AMKR** (Amorphous packaging, "Made in America," long ~$37.6 Dec 1).
@@ -800,7 +808,8 @@ superseded this list by 2026.)
   reply reiterates MSSCorps as a de facto monopoly over CPO inspection needed
   for yields, while noting the timing caveat that CPO has not scaled up yet.
   June 2 reply still treats it as a lottery ticket for inspection-monopoly
-  upside rather than a confirmed volume-ramp winner.
+  upside rather than a confirmed volume-ramp winner. June 3 Taiwan-CPO update
+  names MSSCorps as one of the lagging longs he is waiting on to catch up.
 - **Shunsin (6451, TYO):** Foxconn's optical packaging arm; backdoor into NVDA's
   CPO supply chain via Foxconn's exclusive rack-assembly role. Held; cost-avg.
   May 25 framing: hard to displace because Foxconn is embedded across core
@@ -814,7 +823,8 @@ superseded this list by 2026.)
   pure-play, high-beta exposure. June 1 update says Shunsin was up 39.96% after
   roughly a month and a half, below his own higher expectations; still treat the
   link as a thesis marker until it converts into named revenue or capacity
-  disclosure.
+  disclosure. June 3 update says Shunsin was among the Taiwan CPO longs starting
+  to take off, with an approximately +10% day.
 - **NGK (5333, TYO):** Added to the May 25 "functional monopoly" watchlist for
   thin-film lithium niobate (TFLN) wafer technology.
 - **FOCI (3363, TYO) / HIMX / Visera (6789, TYO):** FOCI FAU products reportedly
@@ -825,8 +835,12 @@ superseded this list by 2026.)
   the Taiwan photonics chain becomes visible. May 30 update places FOCI in his
   current best risk/reward group at roughly $2.8B market cap, with a random
   one-year $15B market-cap prediction; keep the prior Visera design-out caveat.
-  June 2 reply adds Xintech (3374), which TSMC owns, as the likely unknown TSM
-  COUPE supplier.
+  June 2 reply adds Xintec (3374), which TSMC owns, as the likely unknown TSM
+  COUPE supplier. June 3 update says FOCI and Xintec were both up about +10% as
+  Taiwan CPO longs started to rerate.
+- **Nextronics:** Named on June 3 as one of the Taiwan CPO longs Serenity is
+  waiting on to catch up; no durable supplier-role detail yet, so keep as a
+  watchlist placeholder until more evidence appears.
 - **RIBER / ALRIB (Riber SA):** MBE-machine near-duopoly; supplier to MSFT Quantum
   and SiPh. ~$300M MC, "massively underdiscovered." Small patience play.
 - **TER, FORM, VIAV, ONTO, KLAC, AMAT, ASML, CAMT, KLIC, BESI** — test/equipment
