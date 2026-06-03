@@ -194,10 +194,16 @@ his latest known stance (as of June 2026). **Stance reversals are flagged with
   Tech Sovereignty Package / Chips Act 2.0 update makes the policy watch more
   concrete: Serenity says the Industry Policy Blueprint highlights SIVE and
   XFAB, and that 30-500M funding / revenue incentives are intended to bridge
-  pre-volume photonics players into HVM. The European Commission
-  implementation-dialogue page confirms the Chips Act blueprint process, while
-  the specific SIVE/XFAB policy-fit and allocation read remains Serenity's
-  interpretation until final package terms or awards are published.
+  pre-volume photonics players into HVM. A later June 3 thread says the
+  proposal now explicitly adds photonics and photonic integrated circuits to
+  Chips for Europe Initiative 2.0, which he reads as a structural multi-month
+  tailwind for EU photonics players rather than a one-day spike. He also frames
+  Europe as unlikely to win the broad AI race but increasingly forced to defend
+  niche monopoly chokepoints and sovereign supply-chain resilience, with SIVE
+  and SOI called out as examples. The European Commission implementation-
+  dialogue page confirms the Chips Act blueprint process, while the specific
+  SIVE/XFAB policy-fit and allocation read remains Serenity's interpretation
+  until final package terms or awards are published.
   Later May 27 update frames a broad photonics selloff as no-news volatility and
   says he has been adding to positions because CPO/photonics remains his most
   compelling forward theme; treat this as conviction/positioning color, not a
@@ -774,9 +780,13 @@ superseded this list by 2026.)
   Package update makes the policy-catalyst watch more specific: Serenity says
   the Industry Policy Blueprint highlights XFAB and SIVE, and that proposed
   30-500M funding / revenue incentives should bridge pre-volume players to HVM.
-  The European Commission implementation-dialogue page verifies the blueprint
-  process; actual award terms, customer commitments, and SiPh/SiC revenue
-  conversion remain the validation hurdles.
+  Later June 3 posts add that photonics/PICs are now explicitly inside the
+  Chips for Europe Initiative 2.0 framework, that XFAB was mentioned in some
+  related reports, and that the policy effect should be treated as a structural
+  framework tailwind first rather than a guaranteed one-day spike. The European
+  Commission implementation-dialogue page verifies the blueprint process; actual
+  award terms, customer commitments, and SiPh/SiC revenue conversion remain the
+  validation hurdles.
 - **VRT, ETN, POWL, ATKR, VICR, GEV, PWR, NRG, TLN, NEE** — grid/power roundup
   mentions.
 

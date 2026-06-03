@@ -1,5 +1,686 @@
 [
   {
+    "id": "2062182760765415617",
+    "text": "@spring_grandpa It's a structural long term tailwind for EU photonic players since its a regulatory framework.\n\nNow that photonics is a new critical part of gov policy. \n\nNot a massive one-day spike, would need to wait maybe a few months for individual companies to get namedropped for that.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 80,
+      "retweets": 3,
+      "replies": 4,
+      "quotes": 0,
+      "views": 8788,
+      "bookmarks": 4
+    },
+    "createdAt": "Wed Jun 03 14:40:58 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2062178786909811102",
+    "inReplyToUserId": "1961817906041462784",
+    "conversationId": "2062176094162428410",
+    "createdAtISO": "2026-06-03T14:40:58+00:00",
+    "createdAtLocal": "2026-06-03 22:40"
+  },
+  {
+    "id": "2062181552201912434",
+    "text": "@baxur100 Yeah, I saw Quantum namedropped, alongside photonics/AI.\n\nPersonally I think quantum sector is still a bit far out, Foxconn said commercialization was 2030. \n\nSo even if quantum players get funding, I'm personally not too focused on that area aside from maybe Riber that dip in https://t.co/TATnouUHrr",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 61,
+      "retweets": 2,
+      "replies": 5,
+      "quotes": 0,
+      "views": 7406,
+      "bookmarks": 11
+    },
+    "createdAt": "Wed Jun 03 14:36:10 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2062177849725817320",
+    "inReplyToUserId": "1593918035945029632",
+    "conversationId": "2062176094162428410",
+    "createdAtISO": "2026-06-03T14:36:10+00:00",
+    "createdAtLocal": "2026-06-03 22:36"
+  },
+  {
+    "id": "2062180757850968491",
+    "text": "@BilalElmou89932 Europe has no chance of competing with the US regarding the AI race.\n\nBut what they can do is strengthen their niche monopolies/chokepoints, and sovereign supply chain resilience.  \n\nI think they're starting to realize how critical players like $SOI and $SIVE are to Europe tho.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 139,
+      "retweets": 6,
+      "replies": 8,
+      "quotes": 0,
+      "views": 10948,
+      "bookmarks": 12
+    },
+    "createdAt": "Wed Jun 03 14:33:00 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2062176206959604011",
+    "inReplyToUserId": "1717296176121200640",
+    "conversationId": "2062176094162428410",
+    "createdAtISO": "2026-06-03T14:33:00+00:00",
+    "createdAtLocal": "2026-06-03 22:33"
+  },
+  {
+    "id": "2062176094162428410",
+    "text": "EU CHIPS Act 2.0 proposal is now released. \n\nGreat news: Photonics is now confirmed to be the new structural addition to EU policy. \n\nThis is thematically bullish for the EU photonics sector. \n\nThematically:\n\n- \"This new component of the Chips for Europe Initiative supports the https://t.co/BAqp80WDAV",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1064,
+      "retweets": 83,
+      "replies": 154,
+      "quotes": 9,
+      "views": 147535,
+      "bookmarks": 263
+    },
+    "createdAt": "Wed Jun 03 14:14:28 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5Frx9aUAA9ua0.jpg",
+        "width": 1972,
+        "height": 388
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5F-yVasAAe8lM.jpg",
+        "width": 2065,
+        "height": 1121
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5O3PQbQAAykXs.jpg",
+        "width": 1715,
+        "height": 650
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5PBszaYAAO6Mm.jpg",
+        "width": 1487,
+        "height": 1277
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2062176094162428410",
+    "createdAtISO": "2026-06-03T14:14:28+00:00",
+    "createdAtLocal": "2026-06-03 22:14"
+  },
+  {
+    "id": "2062155740660588710",
+    "text": "@laadred No, its because CHIPS ACT 2 was just published now and photonics was added. \n\n\"photonics and photonic integrated circuits to the reinforced Chips for Europe Initiative 2.0\"\n\n$XFAB is mentioned in some reports. The documents are too long still going through everything now. https://t.co/oFTWd0SXT8",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 173,
+      "retweets": 5,
+      "replies": 17,
+      "quotes": 1,
+      "views": 19990,
+      "bookmarks": 11
+    },
+    "createdAt": "Wed Jun 03 12:53:36 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2062152764038295892",
+    "inReplyToUserId": "1502961655730380805",
+    "conversationId": "2062139870613745890",
+    "createdAtISO": "2026-06-03T12:53:36+00:00",
+    "createdAtLocal": "2026-06-03 20:53"
+  },
+  {
+    "id": "2062149169767395809",
+    "text": "@KayEffGeee $XFAB suddenly rose 7%, I wonder if there was any mention there. I'll go through transcripts now.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 98,
+      "retweets": 2,
+      "replies": 10,
+      "quotes": 0,
+      "views": 17788,
+      "bookmarks": 1
+    },
+    "createdAt": "Wed Jun 03 12:27:29 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2062145802043363749",
+    "inReplyToUserId": "1142700499486904321",
+    "conversationId": "2062139870613745890",
+    "createdAtISO": "2026-06-03T12:27:29+00:00",
+    "createdAtLocal": "2026-06-03 20:27"
+  },
+  {
+    "id": "2062139870613745890",
+    "text": "The difference between NASDAQ and EU listing:\n\n$POET: $2.4B MC\n-&gt; Packages Sivers lasers\n-&gt; One $50m pre-production contract for warrants\n\n&gt; $XFAB: $1.7B MC\n-&gt;SiC/GaN/MEMS/Silicon Photonics Foundry backed with EU CHIPS ACT, US CHIPS ACT PMT\n-&gt; Below replacement P/B value\n-&gt;",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1113,
+      "retweets": 84,
+      "replies": 137,
+      "quotes": 17,
+      "views": 252526,
+      "bookmarks": 372
+    },
+    "createdAt": "Wed Jun 03 11:50:32 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2062139870613745890",
+    "createdAtISO": "2026-06-03T11:50:32+00:00",
+    "createdAtLocal": "2026-06-03 19:50"
+  },
+  {
+    "id": "2062127364482720087",
+    "text": "Wow, only 1K more subscribers until I  overtake Elon Musk!\n\nRight now I’m at 46K. Elon is at 47K.\n\nThen I’ll hold the crown of the #1 most subscribed to person on the entire X platform?\n\nWhat a fun timeline. https://t.co/sG5xJe9bMY",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1880,
+      "retweets": 40,
+      "replies": 282,
+      "quotes": 19,
+      "views": 210828,
+      "bookmarks": 22
+    },
+    "createdAt": "Wed Jun 03 11:00:50 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4l6FFbUAAUw-w.jpg",
+        "width": 724,
+        "height": 643
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4l6FBakAAizT9.jpg",
+        "width": 808,
+        "height": 840
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2062127364482720087",
+    "createdAtISO": "2026-06-03T11:00:50+00:00",
+    "createdAtLocal": "2026-06-03 19:00"
+  },
+  {
+    "id": "2062123017002774840",
+    "text": "@EestiRadar Glad $NBIS turned out well, that drawdown after blowout earnings was pretty brutal.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 53,
+      "retweets": 0,
+      "replies": 3,
+      "quotes": 0,
+      "views": 8638,
+      "bookmarks": 0
+    },
+    "createdAt": "Wed Jun 03 10:43:34 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2062117891793658246",
+    "inReplyToUserId": "1937113784658890753",
+    "conversationId": "2062116398210703462",
+    "createdAtISO": "2026-06-03T10:43:34+00:00",
+    "createdAtLocal": "2026-06-03 18:43"
+  },
+  {
+    "id": "2062122602672636043",
+    "text": "@WEB3_furture Great article! I actually didn't expect $NVDA to partner and take a stake in $MRVL this year. \n\nBut I expected Marvell to be a compelling idea anyway from their upcoming ASIC/connectivity revenue opportunites.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 314,
+      "retweets": 9,
+      "replies": 9,
+      "quotes": 0,
+      "views": 42432,
+      "bookmarks": 24
+    },
+    "createdAt": "Wed Jun 03 10:41:55 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2061862503475237091",
+    "inReplyToUserId": "1801542875764924416",
+    "conversationId": "2061862503475237091",
+    "createdAtISO": "2026-06-03T10:41:55+00:00",
+    "createdAtLocal": "2026-06-03 18:41"
+  },
+  {
+    "id": "2062119438552572283",
+    "text": "@BKCY314 Financing structure is much different, $CRWV is getting eaten alive by debt interest.\n\n$IREN has little equity appreciation from excessive ATMs.\n\n$NBIS is just right, and have sum of parts from its subsidiaries from Avride + ownership of Clickhouse\n\nhttps://t.co/FkGn0XWrdV",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 73,
+      "retweets": 3,
+      "replies": 5,
+      "quotes": 1,
+      "views": 25021,
+      "bookmarks": 21
+    },
+    "createdAt": "Wed Jun 03 10:29:21 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": true,
+    "inReplyToTweetId": "2062117505548550611",
+    "inReplyToUserId": "1518549120989888513",
+    "conversationId": "2062116398210703462",
+    "createdAtISO": "2026-06-03T10:29:21+00:00",
+    "createdAtLocal": "2026-06-03 18:29"
+  },
+  {
+    "id": "2062116398210703462",
+    "text": "Fun to see my highest conviction Neocloud pick in $NBIS age well.\n\nI wrote a thesis last year on the Neocloud sector becoming a major theme.\n\nAnd then picked the King.\n\n-&gt; Nebius is #1 out of the entire sector from $IREN to $CRWV.\n\n$84 -&gt; $260.\n\nThesis validated by markets. https://t.co/RGOt3GSNjW",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1551,
+      "retweets": 103,
+      "replies": 175,
+      "quotes": 10,
+      "views": 373954,
+      "bookmarks": 152
+    },
+    "createdAt": "Wed Jun 03 10:17:16 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4b7taaIAA66SY.jpg",
+        "width": 1207,
+        "height": 1132
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2062116398210703462",
+    "createdAtISO": "2026-06-03T10:17:16+00:00",
+    "createdAtLocal": "2026-06-03 18:17"
+  },
+  {
+    "id": "2062086341291356317",
+    "text": "@Jayden11129225 There's active short sellers probably doubling down on $SIVE. I'd expect them to get wrecked over time. \n\nEspecially on more announcements.\n\nOne more surprise $JBL type announcement with someone like Innolight would be interesting. \n\nSince Sivers is co-developing/qualifying with",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 234,
+      "retweets": 13,
+      "replies": 13,
+      "quotes": 2,
+      "views": 24784,
+      "bookmarks": 8
+    },
+    "createdAt": "Wed Jun 03 08:17:50 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2062085105695535171",
+    "inReplyToUserId": "1730972291167850496",
+    "conversationId": "2062079425475473595",
+    "createdAtISO": "2026-06-03T08:17:50+00:00",
+    "createdAtLocal": "2026-06-03 16:17"
+  },
+  {
+    "id": "2062084925445284078",
+    "text": "@siflower That's $NVDA directly. I'm talking about the ASIC/merchant NVLink CPO ecosystem partners. \n\nWhere $SIVE looks like they're the supplier to everyone.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 104,
+      "retweets": 4,
+      "replies": 3,
+      "quotes": 0,
+      "views": 11203,
+      "bookmarks": 11
+    },
+    "createdAt": "Wed Jun 03 08:12:12 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2062082450986058106",
+    "inReplyToUserId": "15566681",
+    "conversationId": "2062079425475473595",
+    "createdAtISO": "2026-06-03T08:12:12+00:00",
+    "createdAtLocal": "2026-06-03 16:12"
+  },
+  {
+    "id": "2062083680093258006",
+    "text": "@Uri62223094 its supply chain confirmation, I knew $NVDA was an investor in Ayar, so Id assume they wanted some strategic collaboration like NVlink ecosystem.\n\n$AMD also invested in Ayar, so $AMD going with $GFS for CPO also kinda put 1+1 together with $SIVE through Ayar. \n\nMediatek and $INTC",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 197,
+      "retweets": 12,
+      "replies": 10,
+      "quotes": 1,
+      "views": 19274,
+      "bookmarks": 42
+    },
+    "createdAt": "Wed Jun 03 08:07:15 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2062081189675200809",
+    "inReplyToUserId": "1414203322018369547",
+    "conversationId": "2062079425475473595",
+    "createdAtISO": "2026-06-03T08:07:15+00:00",
+    "createdAtLocal": "2026-06-03 16:07"
+  },
+  {
+    "id": "2062082082265076045",
+    "text": "@OGCapital25 @Chi_w_wong It's expected Celestial and Lightmatter try and multi source. \n\nBut maybe for gen-1 my guess is a lot sole source / primary source with $SIVE for the $NVDA CPO NVlink ecosystem. \n\nNvidia has their own program with $LITE and $COHR.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 84,
+      "retweets": 3,
+      "replies": 2,
+      "quotes": 0,
+      "views": 8046,
+      "bookmarks": 5
+    },
+    "createdAt": "Wed Jun 03 08:00:54 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2062081291114434916",
+    "inReplyToUserId": "1941976123505528832",
+    "conversationId": "2062079425475473595",
+    "createdAtISO": "2026-06-03T08:00:54+00:00",
+    "createdAtLocal": "2026-06-03 16:00"
+  },
+  {
+    "id": "2062081644631372075",
+    "text": "@MindQuest42 If $SIVE were trading at $6-8B valuations today, I wouldn't be surprised.\n\nThat being said, its still on a Swedish exchange, but NASDAQ listing should close the gap.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 196,
+      "retweets": 8,
+      "replies": 11,
+      "quotes": 0,
+      "views": 21128,
+      "bookmarks": 20
+    },
+    "createdAt": "Wed Jun 03 07:59:10 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2062079927764259086",
+    "inReplyToUserId": "1273219850991661056",
+    "conversationId": "2062079425475473595",
+    "createdAtISO": "2026-06-03T07:59:10+00:00",
+    "createdAtLocal": "2026-06-03 15:59"
+  },
+  {
+    "id": "2062080378882658330",
+    "text": "@Chi_w_wong $NVDA CPO ecosystem = $MRVL, Lightmatter, Ayar (joined today)\n\n$SIVE 100% confirmed laser supplier to Ayar. \n\n$SIVE high confidence laser supplier to Marvell Celestial, Lightmatter. \n\nNvidia, Marvell, Lightmatter, Ayar all use $GFS, which Sivers is reference laser. \n\nSivers =",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 236,
+      "retweets": 15,
+      "replies": 12,
+      "quotes": 3,
+      "views": 26942,
+      "bookmarks": 58
+    },
+    "createdAt": "Wed Jun 03 07:54:08 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2062079722998141019",
+    "inReplyToUserId": "1553524056443568128",
+    "conversationId": "2062079425475473595",
+    "createdAtISO": "2026-06-03T07:54:08+00:00",
+    "createdAtLocal": "2026-06-03 15:54"
+  },
+  {
+    "id": "2062079425475473595",
+    "text": "GUESS WHAT ANON?\n\nAfter today’s new news with Ayar joining Nvidia NVLink fusion.\n\n$SIVE is now the laser source for likely:\n\nThe entire Nvidia’s NVLink CPO listed supply chain ecosystem partners.\n\nFrom Marvell Celestial, Lightmatter, and now Ayar today (the three listed in NVLink https://t.co/DAlXSOpMYH",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1902,
+      "retweets": 153,
+      "replies": 171,
+      "quotes": 27,
+      "views": 438710,
+      "bookmarks": 383
+    },
+    "createdAt": "Wed Jun 03 07:50:21 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ35-cUbUAAe0XH.jpg",
+        "width": 949,
+        "height": 801
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ35-9EbkAApUfp.jpg",
+        "width": 1302,
+        "height": 1058
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ36ASBaMAAgEKJ.jpg",
+        "width": 1112,
+        "height": 680
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2062079425475473595",
+    "createdAtISO": "2026-06-03T07:50:21+00:00",
+    "createdAtLocal": "2026-06-03 15:50"
+  },
+  {
     "id": "2062064540075123050",
     "text": "Wow… new extremely transformative news got released today.\n\nMaking a certain photonics company:\n\nThe effective upstream laser chokepoint for $NVDA NVLink fusion CPO ecosystem.\n\nWith their lasers now in Nvidia’s optical infrastructure supply chains.\n\nCan anyone guess the name?",
     "author": {
