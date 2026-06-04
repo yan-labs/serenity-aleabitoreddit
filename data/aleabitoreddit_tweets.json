@@ -1,5 +1,109 @@
 [
   {
+    "id": "2062522784811712862",
+    "text": "@ChizaramNelo Not saying it’s anything related to this firm, but just found it peculiar there’s 10 media hit pieces a day and bot farms telling people to sell.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 34,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0,
+      "views": 1943,
+      "bookmarks": 0
+    },
+    "createdAt": "Thu Jun 04 13:12:06 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2062521147858522317",
+    "inReplyToUserId": "2008708144227090432",
+    "conversationId": "2062520852537917649",
+    "createdAtISO": "2026-06-04T13:12:06+00:00",
+    "createdAtLocal": "2026-06-04 21:12"
+  },
+  {
+    "id": "2062521681902698571",
+    "text": "@ProbablyGeorge1 Lack of technical depth. Lot of fund managers I’ve talked to have no clue what they’re doing",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 67,
+      "retweets": 0,
+      "replies": 5,
+      "quotes": 0,
+      "views": 2645,
+      "bookmarks": 2
+    },
+    "createdAt": "Thu Jun 04 13:07:43 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2062521199465525568",
+    "inReplyToUserId": "1364751517215989761",
+    "conversationId": "2062520852537917649",
+    "createdAtISO": "2026-06-04T13:07:43+00:00",
+    "createdAtLocal": "2026-06-04 21:07"
+  },
+  {
+    "id": "2062520852537917649",
+    "text": "Found this news funny about a new Swedish Hedge fund:\n\nOrigo’s fund has lost substantial money shorting $SIVE.\n\n“The loss is one of the biggest this year\"\n\nMany of these Swedish hedge funds are now heavily underwater.\n\nJust as an accidental byproduct of $SIVE being a core part of https://t.co/gD1vMQvQV5",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 481,
+      "retweets": 29,
+      "replies": 82,
+      "quotes": 6,
+      "views": 65345,
+      "bookmarks": 22
+    },
+    "createdAt": "Thu Jun 04 13:04:25 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-Lx9aacAAXUOk.jpg",
+        "width": 1188,
+        "height": 880
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2062520852537917649",
+    "createdAtISO": "2026-06-04T13:04:25+00:00",
+    "createdAtLocal": "2026-06-04 21:04"
+  },
+  {
     "id": "2062473434312188030",
     "text": "@EnHeng456 It’s looks like a normal correction across the board to me? Overall long term trend directionally is in tact.",
     "author": {
