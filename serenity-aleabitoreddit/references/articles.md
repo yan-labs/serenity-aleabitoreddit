@@ -70,6 +70,23 @@ LPTH/germanium are used as model cases. The useful workflow is:
 4. Prefer the smallest public company with the hardest-to-replicate chokepoint,
    then size for volatility and dilution risk.
 
+Repeated framing worth carrying forward:
+
+- He treats this as a "bottleneck cliff" rather than a generic AI-beta trade:
+  once a niche material becomes mandatory for AI, defense, or space, the market
+  can stop valuing the supplier like a commodity producer and start valuing it
+  like a constrained monopoly.
+- He explicitly looks for a four-part setup: US onshoring/policy support, China
+  export controls, geopolitical disruption, and a new-technology ramp that
+  consumes formerly niche materials.
+- He cares about inventory-allocation game theory, not only end-demand growth:
+  if hyperscalers or defense primes race to pre-buy scarce inputs, price and
+  bargaining power can rerate faster than unit volumes.
+- His research list mixes raw materials, specialty processing, and obscure
+  enabling tools. The pattern is to search not just for miners, but also for
+  processors, deposition, thermal, masking, vacuum, and radiation-hard supply
+  points that sit upstream of future bottlenecks.
+
 Portfolio interpretation: this article reinforces AXTI and the broader
 critical-materials watchlist, but it is a method article, not a fresh buy signal
 for every ticker mentioned.
@@ -88,6 +105,24 @@ The article supports monitoring Western or ex-China exposure across:
   TECK.
 - Battery, graphite, and electrode materials: ALB, EAF, ALTM, SYR.
 
+More specific durable takeaways from the article:
+
+- He breaks the robotics bill of materials into three buckets that recur in his
+  later writing: magnet metals for frameless torque motors, structural
+  metallurgy for reducers/roller screws, and compute-perception-power materials
+  for semis, LiDAR, radios, and batteries.
+- The thesis is not just "rare earths good." His actual claim is that the West
+  needs rebuild capacity across mining, separation, alloying/metallization, and
+  finished magnet manufacturing; he treats midstream processing as the harder
+  chokepoint than simply owning ore.
+- He treats US robotics leaders as brain-heavy but body-dependent: software and
+  model leadership can still be bottlenecked if the physical actuator and magnet
+  stack remains China-anchored.
+- He frames gallium, germanium, graphite, copper, and lithium as part of the
+  same robotics sovereignty problem, not separate verticals. In practice, that
+  means he reads robotics through a broader critical-materials basket rather
+  than a single "humanoid pure-play" ticker.
+
 Portfolio interpretation: this supports keeping small critical-material and
 rare-earth exposure on the watchlist, but the thesis is broad and geopolitical.
 It should not outrank higher-specificity CPO/laser evidence without current
@@ -99,6 +134,23 @@ The February article is a crypto-market-structure critique. It is not relevant
 to the default AI/semi/CPO portfolio unless the user is evaluating BTC,
 stablecoin yield, crypto exchanges, crypto treasuries, or crypto legislation
 beta.
+
+Its durable policy lens is:
+
+- A stablecoin-yield ban is treated as a direct attack on crypto-native cash
+  parking and exchange liquidity, not a neutral consumer-protection rule.
+- A 1:1 reserve regime is framed as structurally excluding algorithmic or
+  crypto-collateralized stablecoins, which in his view pushes liquidity and
+  collateral demand back into the banking system.
+- Bank-issued tokenized deposits are treated as a regulatory carve-out that lets
+  banks compete with stablecoins under softer rules.
+- Custody, on-off-ramps, and settlement windows are the real chokepoints. He
+  reads any bank-only control there as bearish for crypto-native business models
+  even if the headline says "market structure clarity."
+
+Portfolio interpretation: when this lens is relevant, it is mainly a filter for
+liquidity, treasury, and custody risk in crypto equities or tokens. Treat it as
+Serenity's policy framing, not as a verified legal memo.
 
 ## Maintenance Rule
 
