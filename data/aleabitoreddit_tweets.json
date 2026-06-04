@@ -1,5 +1,104 @@
 [
   {
+    "id": "2062336688337363353",
+    "text": "@lousyjets No, people are misinterpreting $AVGO CEO comments. \n\nDemand is insatiable in general, but hyperscalers don't want to be bottlenecked, so it's inevitable $GOOGL and others multi-source.\n\nBroadcom's bottom line keeps increasing, but because the pie keeps increasing, Mediatek,",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 38,
+      "retweets": 1,
+      "replies": 5,
+      "quotes": 0,
+      "views": 4648,
+      "bookmarks": 9
+    },
+    "createdAt": "Thu Jun 04 00:52:37 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2062335032060977450",
+    "inReplyToUserId": "525854410",
+    "conversationId": "2062322546809381094",
+    "createdAtISO": "2026-06-04T00:52:37+00:00",
+    "createdAtLocal": "2026-06-04 08:52"
+  },
+  {
+    "id": "2062335606085370337",
+    "text": "@madridraptor $QCOM was Bytedance and maybe $AMZN if i remember correctly, not $GOOGL TPU. \n\nI'm really not a fan of how much exposure Qualcomm has to China though. But they made some really important photonics acqusitions like Alphawave (similar to what marvell did with celestial)... for",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 17,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0,
+      "views": 3137,
+      "bookmarks": 4
+    },
+    "createdAt": "Thu Jun 04 00:48:19 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2062327456606957611",
+    "inReplyToUserId": "38306190",
+    "conversationId": "2062322546809381094",
+    "createdAtISO": "2026-06-04T00:48:19+00:00",
+    "createdAtLocal": "2026-06-04 08:48"
+  },
+  {
+    "id": "2062333495780020566",
+    "text": "@TheRealTP I don't own MediaTek, but I expect them to heavily outperform next two years. https://t.co/TbKNbOZLH2",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 25,
+      "retweets": 1,
+      "replies": 4,
+      "quotes": 0,
+      "views": 4362,
+      "bookmarks": 6
+    },
+    "createdAt": "Thu Jun 04 00:39:56 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2062324521961652499",
+    "inReplyToUserId": "1940596611908096000",
+    "conversationId": "2062322546809381094",
+    "createdAtISO": "2026-06-04T00:39:56+00:00",
+    "createdAtLocal": "2026-06-04 08:39"
+  },
+  {
     "id": "2062322546809381094",
     "text": "Just some random notes about $AVGO earnings transcript \n\n- Revenue target reiterated ($100B+ 2027, pretty sure markets wanted that to be raised this earning, hence the drop)\n\nRemember $NVDA Jensen comments about $MRVL $1T company around networking/connectivity/interconnects? \n\n- https://t.co/JRiucvNnqc",
     "author": {
