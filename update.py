@@ -5,7 +5,7 @@ Requires xreach authenticated via Agent Reach cookies/browser profile.
 Run from the repo root: `python3 update.py`. Prints a final `NEW=<n>` line; exits 0.
 Does NOT touch git — the caller decides whether to commit/push based on NEW.
 """
-import json, csv, os, re, subprocess
+import json, csv, os, re, shutil, subprocess
 from collections import Counter
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
@@ -37,19 +37,37 @@ def sort_key(t):
     dt = parse_time(t)
     return dt.isoformat() if dt else ""
 
+def parse_tool_json(stdout):
+    data = json.loads(stdout)
+    if isinstance(data, dict):
+        return data.get("items") or data.get("tweets") or data.get("results") or data.get("data") or []
+    return data if isinstance(data, list) else []
+
 def xreach_json(args, timeout=180):
+    if not shutil.which("xreach"):
+        return []
     try:
         p = subprocess.run(["xreach", *args, "--json"], capture_output=True, text=True, timeout=timeout)
         if p.returncode != 0:
             print(f"PULL_ERROR {' '.join(args)}: {(p.stderr or p.stdout).strip()}")
             return []
-        data = json.loads(p.stdout)
+        return parse_tool_json(p.stdout)
     except Exception as e:
         print(f"PULL_ERROR {' '.join(args)}: {e}")
         return []
-    if isinstance(data, dict):
-        return data.get("items") or data.get("tweets") or data.get("results") or data.get("data") or []
-    return data if isinstance(data, list) else []
+
+def twitter_json(args, timeout=180):
+    if not shutil.which("twitter"):
+        return []
+    try:
+        p = subprocess.run(["twitter", *args, "--json"], capture_output=True, text=True, timeout=timeout)
+        if p.returncode != 0:
+            print(f"PULL_ERROR twitter {' '.join(args)}: {(p.stderr or p.stdout).strip()}")
+            return []
+        return parse_tool_json(p.stdout)
+    except Exception as e:
+        print(f"PULL_ERROR twitter {' '.join(args)}: {e}")
+        return []
 
 def normalize_xreach(t):
     if t.get("author", {}).get("screenName", "").lower() == USER:
@@ -95,6 +113,13 @@ def pull(n=100, since=None):
             "search", f"from:{USER} since:{since}", "--type", "latest",
             "-n", str(n), "--all", "--max-pages", "3"
         ], timeout=240))
+    if not raw:
+        raw = twitter_json(["user-posts", f"@{USER}", "-n", str(n)])
+        if since:
+            raw.extend(twitter_json([
+                "search", "--from", USER, "--since", since, "--type", "latest",
+                "-n", str(n)
+            ], timeout=240))
     rows, seen = [], set()
     for t in raw:
         if not isinstance(t, dict) or not t.get("id"):
