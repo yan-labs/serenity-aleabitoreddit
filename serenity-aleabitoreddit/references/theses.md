@@ -212,6 +212,11 @@ his latest known stance (as of June 2026). **Stance reversals are flagged with
   Shunsin to the earlier LITE/AAOI/COHR/AXTI winners, saying current FUD feels
   like deja vu. Treat the analogy as conviction reinforcement and pattern
   recognition, not new customer evidence.
+  June 4 replies refine the moat framing: Serenity says SIVE should not be read
+  as a literal monopoly, but as a technically dominant bottleneck across ASIC /
+  merchant CPO route architectures, while still leaving room for novel 1.6T
+  pluggable designs to adopt SIVE lasers. That narrows the wording risk around
+  "monopoly" without weakening the bottleneck thesis.
   Later May 27 update claims short-seller bot/news disinformation campaigns
   around SIVE; treat this as a sentiment/positioning note, not fresh technical
   evidence. June 2 follow-up says he uncovered dozens of accounts posting
