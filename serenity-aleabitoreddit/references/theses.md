@@ -990,6 +990,16 @@ superseded this list by 2026.)
   LGO, BMM, VNP, TECK, ALB, EAF, ALTM, and SYR as broad hardware-stack
   exposures. Treat this as a geopolitical/materials framework; require current
   liquidity, valuation, and contract evidence before elevating any single name.
+- **LeaderDrive / 绿的谐波 (688017.SS):** June 5 Chinese-reader note says this is
+  his favorite China-listed humanoid-robotics name. The durable claim is not
+  just generic robot enthusiasm, but that LeaderDrive has already entered the
+  supply chains of all major humanoid-robot developers he is tracking, with
+  business spanning harmonic reducers, humanoid rotary-joint reducers, linear
+  actuators, motors/joints, and other core components. Treat this as an early
+  China humanoid-supply-chain favorite with explicit customer-breadth framing,
+  but still self-reported and inaccessible to many non-China accounts, so it is
+  more useful as supply-chain mapping context than as a universally actionable
+  public-equity idea.
 - **AEVA (Aeva):** FMCW 4D LiDAR for "World Models" / physical AI + a CPO
   breakthrough. Speculative venture bet, small, entry ~$14.10. May 24 update:
   a likely SIVE customer path into robotics/self-driving architectures via

@@ -1,5 +1,121 @@
 [
   {
+    "id": "2062729921756278804",
+    "text": "@Tang8vrb 抱歉，我会去研究更多大家都能买到的股票！我只是想分享一下我最喜欢的一只。",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 91,
+      "retweets": 0,
+      "replies": 35,
+      "quotes": 2,
+      "views": 8617,
+      "bookmarks": 1
+    },
+    "createdAt": "Fri Jun 05 02:55:11 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2062728308467638430",
+    "inReplyToUserId": "1992092619032428544",
+    "conversationId": "2062723902728802341",
+    "createdAtISO": "2026-06-05T02:55:11+00:00",
+    "createdAtLocal": "2026-06-05 10:55"
+  },
+  {
+    "id": "2062724802159522032",
+    "text": "@solsniper330 绿的谐波（688017）打入了所有主流人形机器人开发商的供应链，所以我非常看好这家公司，哪怕我并没有它的持仓 https://t.co/NgDq3Bm6Ya",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 40,
+      "retweets": 4,
+      "replies": 9,
+      "quotes": 0,
+      "views": 11447,
+      "bookmarks": 7
+    },
+    "createdAt": "Fri Jun 05 02:34:51 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2062724250100998453",
+    "inReplyToUserId": "1845667529043369984",
+    "conversationId": "2062723902728802341",
+    "createdAtISO": "2026-06-05T02:34:51+00:00",
+    "createdAtLocal": "2026-06-05 10:34"
+  },
+  {
+    "id": "2062723902728802341",
+    "text": "专门写给我的中文读者：\n\n绿的谐波（LeaderDrive，688017，577.3亿人民币）是我在布局人形机器人赛道时最青睐的中国上市标的。\n\n他们的业务涵盖：\n\n谐波减速器（据称占有超过60%的国内市场份额，以及1800多家全球客户）\n\n人形机器人旋转关节减速器\n\n直线执行器\n\n电机/关节，以及许多其他核心零部件。 https://t.co/pXFr21BZOd",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 766,
+      "retweets": 82,
+      "replies": 293,
+      "quotes": 68,
+      "views": 96209,
+      "bookmarks": 318
+    },
+    "createdAt": "Fri Jun 05 02:31:16 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBCo8Na8AARO4Y.jpg",
+        "width": 1109,
+        "height": 1115
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBBuNdaMAAemna.jpg",
+        "width": 1428,
+        "height": 1000
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBBuNcbkAAF_75.jpg",
+        "width": 1462,
+        "height": 1052
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2062723902728802341",
+    "createdAtISO": "2026-06-05T02:31:16+00:00",
+    "createdAtLocal": "2026-06-05 10:31"
+  },
+  {
     "id": "2062698410743148811",
     "text": "@_king142 Both at once",
     "author": {
