@@ -880,7 +880,13 @@ superseded this list by 2026.)
   one-year $15B market-cap prediction; keep the prior Visera design-out caveat.
   June 2 reply adds Xintec (3374), which TSMC owns, as the likely unknown TSM
   COUPE supplier. June 3 update says FOCI and Xintec were both up about +10% as
-  Taiwan CPO longs started to rerate.
+  Taiwan CPO longs started to rerate. A later June 5 post calls Xintec itself
+  an interesting idea at roughly $2.18B market cap, frames it more explicitly
+  as a TSMC packaging/test subsidiary, and points to TSM COUPE mass production
+  starting this half into H2 2026 plus management language about aggressively
+  pursuing CPO opportunities with Xintec. Treat that as a sharper timing and
+  corporate-linkage update, not yet as proof of named customer volume or
+  completed revenue conversion.
 - **Nextronics:** Named on June 3 as one of the Taiwan CPO longs Serenity is
   waiting on to catch up; no durable supplier-role detail yet, so keep as a
   watchlist placeholder until more evidence appears.
