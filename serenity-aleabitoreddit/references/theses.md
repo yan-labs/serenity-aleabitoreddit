@@ -999,7 +999,11 @@ superseded this list by 2026.)
   China humanoid-supply-chain favorite with explicit customer-breadth framing,
   but still self-reported and inaccessible to many non-China accounts, so it is
   more useful as supply-chain mapping context than as a universally actionable
-  public-equity idea.
+  public-equity idea. A same-day English reply adds two more durable hooks:
+  Serenity says LeaderDrive is a material percentage of every humanoid that gets
+  developed, and frames AGIBot, Unitree, and Figure volume ramps as the next
+  scale markers to watch. Treat those as demand-scaling hooks, not as verified
+  company disclosures.
 - **AEVA (Aeva):** FMCW 4D LiDAR for "World Models" / physical AI + a CPO
   breakthrough. Speculative venture bet, small, entry ~$14.10. May 24 update:
   a likely SIVE customer path into robotics/self-driving architectures via
