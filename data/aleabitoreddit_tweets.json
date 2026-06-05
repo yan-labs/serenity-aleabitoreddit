@@ -1,5 +1,193 @@
 [
   {
+    "id": "2062909474248212843",
+    "text": "@Ailisatlx @zGwmby \"Eric Andersson chose to end his employment during the month of May.\" \n\nThe founding co-manager of that hedge fund quitting is probably a big sign their firms is going under from $SIVE going up.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 37,
+      "retweets": 2,
+      "replies": 1,
+      "quotes": 0,
+      "views": 1958,
+      "bookmarks": 1
+    },
+    "createdAt": "Fri Jun 05 14:48:40 +0000 2026",
+    "createdAtLocal": "2026-06-05 22:48",
+    "createdAtISO": "2026-06-05T14:48:40+00:00",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null
+  },
+  {
+    "id": "2062908138484109418",
+    "text": "@zGwmby At this rate their firm is going under being YTD -31.02% from $SIVE. https://t.co/oqh6g6fWjj",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 57,
+      "retweets": 6,
+      "replies": 2,
+      "quotes": 0,
+      "views": 4842,
+      "bookmarks": 3
+    },
+    "createdAt": "Fri Jun 05 14:43:21 +0000 2026",
+    "createdAtLocal": "2026-06-05 22:43",
+    "createdAtISO": "2026-06-05T14:43:21+00:00",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDr9EGb0AAdWoJ.png",
+        "width": 772,
+        "height": 739
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDr9Eia0AAgSax.png",
+        "width": 370,
+        "height": 230
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null
+  },
+  {
+    "id": "2062906565850747194",
+    "text": "$SIVE is #1, $AAOI is #2 used wrong wording above. \n\nGenerally a fan of:\n- $SIVE (CPO lasers)\n- $AAOI (End-to-End pluggable/cpo)\n- Foci (FAU +passive components $TSM COUPE / $NVDA)\n- Shunsin (Packaging/Test)\n- Win Semi (foundry)\n- $TSEM (foundry)\n- $SOI (silicon photonics)\n- Nextronics (CPO connector / cage thermal module)\n\nAnd a few others.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 144,
+      "retweets": 12,
+      "replies": 16,
+      "quotes": 2,
+      "views": 5181,
+      "bookmarks": 72
+    },
+    "createdAt": "Fri Jun 05 14:37:06 +0000 2026",
+    "createdAtLocal": "2026-06-05 22:37",
+    "createdAtISO": "2026-06-05T14:37:06+00:00",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null
+  },
+  {
+    "id": "2062905469006696714",
+    "text": "@awodias No, $AAOI is primarily pluggable exposure. But they have large exposure to CPO too, hence why I included the word photonics. \n\nSecond favorite pure play CPO exposure would be FOCI for me.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 69,
+      "retweets": 2,
+      "replies": 4,
+      "quotes": 0,
+      "views": 6644,
+      "bookmarks": 12
+    },
+    "createdAt": "Fri Jun 05 14:32:45 +0000 2026",
+    "createdAtLocal": "2026-06-05 22:32",
+    "createdAtISO": "2026-06-05T14:32:45+00:00",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null
+  },
+  {
+    "id": "2062904689730175177",
+    "text": "H1 2027 all the 1.6T pluggable players like $JBL. \n\nMaybe Innolight/Eoptolink and other pluggable players are added too. We'll find out soon since $SIVE said there were undisclosed pluggable players they're working with. \n\nH2 2027 for all the main CPO scale up applications from $NVDA NVLink CPO ecosystem players like Ayar.\n\nMarkets are forward looking ~8M in advance usually.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 86,
+      "retweets": 2,
+      "replies": 3,
+      "quotes": 0,
+      "views": 6112,
+      "bookmarks": 13
+    },
+    "createdAt": "Fri Jun 05 14:29:39 +0000 2026",
+    "createdAtLocal": "2026-06-05 22:29",
+    "createdAtISO": "2026-06-05T14:29:39+00:00",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null
+  },
+  {
+    "id": "2062903639300309302",
+    "text": "$SIVE is my favorite CPO / photonics stock after AAOI. \n\nPartly because it's Swedish and you have entertainment from comedians over there. \n\nToday a new non-technical hedge fund called Protean Funds (likely shorting), went on air. \n\nTo said $SIVE CPO applications are imaginary. \n\nRight after $GFS just made $SIVE their reference laser. \n\n(Just for some context to newer readers: Lot of people in Sweden can only look at past 12 month revenue, and don't understand concepts of forward growth)\n\nAlso because they don't understand that no CPO application has scaled up yet at all.\n\nSo Swedish hedge funds keep going short (with many of their hedge funds like Colosseum / Origo heavily underwater). \n\nBut... for the technical readers... from H2 2026 to 2028, it goes from near $0 to $91B TAM in 1 1/2 years. (we're entering H2 now). \n\nOverall TAM hits $141B (which is also 10x+ or so in 1 1/2 years)... and $SIVE has scaled into pluggable market with $JBL + other unnamed pluggable players with that too. \n\nProbably not going to end well for the local Swedish firms, shorting right before the largest inflection points ever hits for $SIVE. \n\nJust a matter of time before volume ramps.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 761,
+      "retweets": 60,
+      "replies": 209,
+      "quotes": 6,
+      "views": 75184,
+      "bookmarks": 119
+    },
+    "createdAt": "Fri Jun 05 14:25:29 +0000 2026",
+    "createdAtLocal": "2026-06-05 22:25",
+    "createdAtISO": "2026-06-05T14:25:29+00:00",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDkXj2bEAABTrc.jpg",
+        "width": 1577,
+        "height": 440
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null
+  },
+  {
     "id": "2062889800663965794",
     "text": "@dong7da7 I used to draw silly things on charts like Pokemon on charts to joke about how people do TAs. \n\nBecause most of the time, technical analysis doesn’t actually mean anything, since fundamentals are the most important!\n\nThat Charizard photo was my $GOOGL callout back at $156.",
     "author": {
