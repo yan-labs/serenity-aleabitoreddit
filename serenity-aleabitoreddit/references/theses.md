@@ -105,7 +105,12 @@ his latest known stance (as of June 2026). **Stance reversals are flagged with
   or triple if execution holds, citing persistent 800G / 1.6T optical-
   transceiver demand. Treat this as another high-conviction reaffirmation of
   the demand-and-execution case, not as independent proof that the upside path
-  will be realized.
+  will be realized. A later June 5 reply goes further and calls AAOI his
+  current favorite US long, says he personally keeps averaging on dips around
+  $150-$170, and links that confidence to JBL's 1.6T LRO mass-production path
+  with SIVE around H1 2027. Treat that as a stronger position-management and
+  timing update, not as new company guidance or proof that the JBL / SIVE
+  timing bridge is locked in.
 
 ### SIVE / SIVEF (Sivers Semiconductors) — CW/DFB merchant laser for CPO
 - **Thesis:** Primary pure-play merchant DFB/CW laser supplier for the CPO
