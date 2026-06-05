@@ -100,7 +100,12 @@ his latest known stance (as of June 2026). **Stance reversals are flagged with
   around inspection-monopoly optionality.
   Later June 1 update says AAOI was +20.1% that day, repeats the "next SNDK"
   framing, and puts the likely massive photonics-player inflection around H1
-  entering H2 2027 while calling H2 2026 "a tad early."
+  entering H2 2027 while calling H2 2026 "a tad early." June 5 follow-up says
+  he has been averaging up since roughly $28 and that AAOI could still double
+  or triple if execution holds, citing persistent 800G / 1.6T optical-
+  transceiver demand. Treat this as another high-conviction reaffirmation of
+  the demand-and-execution case, not as independent proof that the upside path
+  will be realized.
 
 ### SIVE / SIVEF (Sivers Semiconductors) — CW/DFB merchant laser for CPO
 - **Thesis:** Primary pure-play merchant DFB/CW laser supplier for the CPO

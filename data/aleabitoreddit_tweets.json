@@ -1,5 +1,76 @@
 [
   {
+    "id": "2062698410743148811",
+    "text": "@_king142 Both at once",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 22,
+      "retweets": 0,
+      "replies": 3,
+      "quotes": 0,
+      "views": 3946,
+      "bookmarks": 1
+    },
+    "createdAt": "Fri Jun 05 00:49:58 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2062698001815278024",
+    "inReplyToUserId": "2040625065620844544",
+    "conversationId": "2062697638500462639",
+    "createdAtISO": "2026-06-05T00:49:58+00:00",
+    "createdAtLocal": "2026-06-05 08:49"
+  },
+  {
+    "id": "2062697638500462639",
+    "text": "$AAOI is one of the names I keep averaging up on since $28.\n\nJust from random shower thoughts… I feel like it’s just imminent to double or triple if they execute? \n\nThere’s just too much demand for 800g/1.6T optical transceivers… \n\nThen this company is targeting the largest https://t.co/E3E6HtlHSp",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 548,
+      "retweets": 36,
+      "replies": 77,
+      "quotes": 5,
+      "views": 45020,
+      "bookmarks": 179
+    },
+    "createdAt": "Fri Jun 05 00:46:54 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKAskW0bsAAt7Mh.jpg",
+        "width": 1211,
+        "height": 1201
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2062697638500462639",
+    "createdAtISO": "2026-06-05T00:46:54+00:00",
+    "createdAtLocal": "2026-06-05 08:46"
+  },
+  {
     "id": "2062686651940483414",
     "text": "Anthropic: “Urges Global Pause in AI Development”\n\nTranslation: “please let us take the lead, stop building!”\n\nRegardless, statements like this encourage every Country to start investing in AI.\n\nImplications are profound from fields of medicine, math, and basically everything. https://t.co/9tfXq99Pc8",
     "author": {
