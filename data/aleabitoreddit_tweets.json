@@ -1,5 +1,38 @@
 [
   {
+    "id": "2063195928773939213",
+    "text": "@rosyprosperity This was after Friday’s market drop https://t.co/ZDYbm4ai2u",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 42,
+      "retweets": 1,
+      "replies": 11,
+      "quotes": 1,
+      "views": 3177,
+      "bookmarks": 1
+    },
+    "createdAt": "Sat Jun 06 09:46:56 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2063187007174488482",
+    "inReplyToUserId": "1727995009528451072",
+    "conversationId": "2063178421497221604",
+    "createdAtISO": "2026-06-06T09:46:56+00:00",
+    "createdAtLocal": "2026-06-06 17:46"
+  },
+  {
     "id": "2063189989308104918",
     "text": "@HetAlperen Good correction thanks on that specific investment.",
     "author": {
