@@ -1,5 +1,115 @@
 [
   {
+    "id": "2063123362919161969",
+    "text": "@yumimiya4 President Trump thinks we’re going higher. \n\nMaybe it’s a secret buy signal before midterms https://t.co/EYDFL2Zihd",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 54,
+      "retweets": 2,
+      "replies": 7,
+      "quotes": 0,
+      "views": 4245,
+      "bookmarks": 5
+    },
+    "createdAt": "Sat Jun 06 04:58:35 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2063119322239963388",
+    "inReplyToUserId": "1280594565632675840",
+    "conversationId": "2063118835105014006",
+    "createdAtISO": "2026-06-06T04:58:35+00:00",
+    "createdAtLocal": "2026-06-06 12:58"
+  },
+  {
+    "id": "2063122742950633516",
+    "text": "@Jornka329996 &gt; posts an idea about a 2027 silicon photonics foundry evaluted by $NOK and $NVDA last week\n&gt; sells on macro drop few days after\n&gt; complain",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 91,
+      "retweets": 1,
+      "replies": 5,
+      "quotes": 0,
+      "views": 5196,
+      "bookmarks": 2
+    },
+    "createdAt": "Sat Jun 06 04:56:07 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2063119223019184297",
+    "inReplyToUserId": "1653035755495628801",
+    "conversationId": "2063118835105014006",
+    "createdAtISO": "2026-06-06T04:56:07+00:00",
+    "createdAtLocal": "2026-06-06 12:56"
+  },
+  {
+    "id": "2063118835105014006",
+    "text": "How are all you regards on $RDDT down -99% after 2 red days? \n\nIs it that hard just to hold indiviudal stocks like $AAOI or $MRVL that are already high-beta?\n\nYou can be right directionally, but wrong on short-term timing. \n\nOne extra week or month makes a huge difference. https://t.co/UrbqiRIIta",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 346,
+      "retweets": 7,
+      "replies": 97,
+      "quotes": 3,
+      "views": 61659,
+      "bookmarks": 59
+    },
+    "createdAt": "Sat Jun 06 04:40:35 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKGrowna4AAMv-M.jpg",
+        "width": 1211,
+        "height": 1627
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKGrowlasAAAvZ-.jpg",
+        "width": 1223,
+        "height": 1561
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2063118835105014006",
+    "createdAtISO": "2026-06-06T04:40:35+00:00",
+    "createdAtLocal": "2026-06-06 12:40"
+  },
+  {
     "id": "2063077375315996948",
     "text": "真是让我受宠若惊，围绕着我的 X（推特）帖子居然建立起了一个完整的微型经济圈？\n\n-&gt; 追踪我做多股票的网站\n-&gt; Github 项目\n-&gt; 新闻媒体\n-&gt; 用 AI 直接搬运我内容的 X 大 V (网红)\n-&gt; 迷因币/土狗币（我不支持，但你们开心就好）\n-&gt; 帖子倒卖者",
     "author": {
