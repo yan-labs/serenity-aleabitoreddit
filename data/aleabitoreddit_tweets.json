@@ -1,5 +1,115 @@
 [
   {
+    "id": "2063052485275898101",
+    "text": "@fodacyjosh It’s either JP Morgan’s own asset management or hedge funds. \n\nEither way, it’s all primarily all US institutional buying and whenever it was went from .4% to 5%+ in a month.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 10,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0,
+      "views": 1107,
+      "bookmarks": 4
+    },
+    "createdAt": "Sat Jun 06 00:16:56 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2063050384067735759",
+    "inReplyToUserId": "172802720",
+    "conversationId": "2063048067432239598",
+    "createdAtISO": "2026-06-06T00:16:56+00:00",
+    "createdAtLocal": "2026-06-06 08:16"
+  },
+  {
+    "id": "2063049577625006168",
+    "text": "@SEONHYE1101 Yes in the sense that US institutions are trying to buy up $SIVE.\n\nNo in the sense that I’m not sure how JP Morgan to buy 5%+ of $SIVE as a company. \n\nMaybe enough retail investors capitulated and transferred their shares to institutions.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 44,
+      "retweets": 2,
+      "replies": 6,
+      "quotes": 0,
+      "views": 3495,
+      "bookmarks": 4
+    },
+    "createdAt": "Sat Jun 06 00:05:23 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2063048391245127804",
+    "inReplyToUserId": "1983170645153460225",
+    "conversationId": "2063048067432239598",
+    "createdAtISO": "2026-06-06T00:05:23+00:00",
+    "createdAtLocal": "2026-06-06 08:05"
+  },
+  {
+    "id": "2063048067432239598",
+    "text": "Sigh. \n\nI keep telling retail + Swedish Hedge Funds how important $SIVE is to CPO, but people don’t listen.\n\nEnough retail holders got shaken off, and \nnow JP Morgan managed to buy up a massive stake in Sivers (purely institutional).\n\nJP Morgan went from .4% ownership last month https://t.co/7f3sYuoSmk",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 409,
+      "retweets": 18,
+      "replies": 148,
+      "quotes": 4,
+      "views": 52977,
+      "bookmarks": 62
+    },
+    "createdAt": "Fri Jun 05 23:59:23 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKFrSAVbcAAe8yv.jpg",
+        "width": 1023,
+        "height": 761
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKFrSAZbEAAiNcI.jpg",
+        "width": 1260,
+        "height": 422
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2063048067432239598",
+    "createdAtISO": "2026-06-05T23:59:23+00:00",
+    "createdAtLocal": "2026-06-06 07:59"
+  },
+  {
     "id": "2062935078561624292",
     "text": "@darkseidzz hmm, i prefer all your upstream chokepoints over $NVDA long term since those will be re-rated the most (nvidia already largest company in the world)\n\npretty sure hyperscaler ASICs would eventually siphon off $NVDA demand like $GOOGL TPU, $AMZN trainium programs. wouldn't be too",
     "author": {

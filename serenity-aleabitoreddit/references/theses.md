@@ -277,6 +277,14 @@ his latest known stance (as of June 2026). **Stance reversals are flagged with
   and make Sivers more likely to become a US company. A follow-up says a return
   to much lower valuation levels looks unlikely because the JBL pluggable ramp
   and additional optical-transceiver customer requests are already underway.
+  June 6 follow-up sharpens the institutional-flow angle again: Serenity says
+  JP Morgan moved from roughly 0.4% ownership to 5%+ within about a month,
+  reads that as primarily US institutional accumulation rather than retail, and
+  argues enough weak hands capitulated to transfer the stock into stronger
+  holders. Treat that as a meaningful large-holder / ownership-rotation update,
+  but keep end-beneficial-holder attribution cautious until filing details make
+  clear whether the stake sits with asset management, hedge funds, custody, or
+  another JP Morgan-controlled bucket.
   Later June 1 update calls pluggable optical transceivers SIVE's biggest TAM
   expansion / revenue driver that the market has not noticed; he says Sivers is
   actively working with new pluggable optical-transceiver companies after the
