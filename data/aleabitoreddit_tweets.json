@@ -71,6 +71,69 @@
     "createdAtLocal": "2026-06-07 10:07"
   },
   {
+    "id": "2063436251085316266",
+    "text": "@troyofsparta Nope, just doing research in the area. Unless I find something super super compelling, I’m just staying in my existing positions",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 52,
+      "retweets": 0,
+      "replies": 7,
+      "quotes": 0,
+      "views": 5430,
+      "bookmarks": 1
+    },
+    "createdAt": "Sun Jun 07 01:41:53 +0000 2026",
+    "createdAtLocal": "2026-06-07 09:41",
+    "createdAtISO": "2026-06-07T01:41:53+00:00",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null
+  },
+  {
+    "id": "2063434493911081202",
+    "text": "Looks like HBF (memory) wars are kicking off:\n\n- Hanmi Semiconductor (first mover)\n- Hanwha Semiconductor (first mover)\n-ASMPT (entry)\n- K&amp;S (entry)\n\nFlagged in reports, with Hanmi leading.\n\n“TC bonders are expected to benefit immediately” if people wanna research that segment. https://t.co/so1qyyBG2d",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 237,
+      "retweets": 12,
+      "replies": 39,
+      "quotes": 2,
+      "views": 23118,
+      "bookmarks": 101
+    },
+    "createdAt": "Sun Jun 07 01:34:54 +0000 2026",
+    "createdAtLocal": "2026-06-07 09:34",
+    "createdAtISO": "2026-06-07T01:34:54+00:00",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLKu_nacAAG3hS.jpg",
+        "width": 1207,
+        "height": 1031
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null
+  },
+  {
     "id": "2063277648273621285",
     "text": "@dessa27092001 I'm surprised the entire robotics industry rose multiple percent last Friday! \n\nSome article called Sina Money said a lot of ETFs went up 3%-5.4%. https://t.co/cPJeUsEDok",
     "author": {
