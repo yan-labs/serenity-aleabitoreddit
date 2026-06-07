@@ -1,5 +1,76 @@
 [
   {
+    "id": "2063445323008331872",
+    "text": "@vipmoaa $TSM is probably one of the better names to do that for. \n\nProbably better RoI than your depreciating car",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 17,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0,
+      "views": 1399,
+      "bookmarks": 1
+    },
+    "createdAt": "Sun Jun 07 02:17:56 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2063444465520693306",
+    "inReplyToUserId": "1931900245602140160",
+    "conversationId": "2063442668844167613",
+    "createdAtISO": "2026-06-07T02:17:56+00:00",
+    "createdAtLocal": "2026-06-07 10:17"
+  },
+  {
+    "id": "2063442668844167613",
+    "text": "Just very helpful timelines reiterated around glass substrate (source: Trendforce):\n\n- SKC Absolics (011790) H2 2026 (first mover x $AMAT) - $AMD customers\n\n- Samsung electromechanics h2 2027 (009150) x Sumitomo Chem (4005) - Apple / $AVGO / hyperscalers \n\nIdk about $INTC 2030 https://t.co/zI7nD2YQpa",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 180,
+      "retweets": 17,
+      "replies": 60,
+      "quotes": 3,
+      "views": 24274,
+      "bookmarks": 96
+    },
+    "createdAt": "Sun Jun 07 02:07:23 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLSK0-a0AAgWf_.jpg",
+        "width": 1080,
+        "height": 979
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2063442668844167613",
+    "createdAtISO": "2026-06-07T02:07:23+00:00",
+    "createdAtLocal": "2026-06-07 10:07"
+  },
+  {
     "id": "2063277648273621285",
     "text": "@dessa27092001 I'm surprised the entire robotics industry rose multiple percent last Friday! \n\nSome article called Sina Money said a lot of ETFs went up 3%-5.4%. https://t.co/cPJeUsEDok",
     "author": {
