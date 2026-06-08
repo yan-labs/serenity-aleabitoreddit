@@ -57,7 +57,8 @@ Before committing:
    - `skip skill update`
 5. Make the smallest reference edit that captures the durable change.
 6. Verify counts in `README.md` and `SKILL.md`.
-7. Commit only when there is new data or a meaningful skill improvement.
+7. Run `python3 check_repo.py` to catch archive/reference consistency issues.
+8. Commit only when there is new data or a meaningful skill improvement.
 
 ## Commit Guidance
 
