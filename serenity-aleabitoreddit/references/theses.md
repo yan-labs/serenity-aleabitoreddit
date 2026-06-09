@@ -28,7 +28,7 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 - **Post**: [2064237083510952402](https://x.com/aleabitoreddit/status/2064237083510952402) — 2026-06-09T06:44:07Z
 - **Key quote**: "$JBL seems highkey compelling long idea at $38B...markets have not priced in their 1.6T LRO pluggable transceiver business yet...especially if it's 'how much can you make' with $SIVE as the bottleneck H1 2027...Prob H1 2027 is when everyone starts realizing. Maybe 40% re-rating seems plausible?"
 - **Thesis type**: Pluggable transceiver / AI DC supply-chain play (adjacent to $SIVE photonics thesis)
-- **Caveat**: Serenity explicitly states no current position; forward research idea, not an active call.
+- **Caveat**: Serenity explicitly states no current position; forward research idea, not an active call. June 9 AI mid-cap list confirms no position held (holdings limited to NBIS/TSEM/AAOI).
 
 ---
 
@@ -59,3 +59,48 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 - **Post**: [2063984786918854663](https://x.com/aleabitoreddit/status/2063984786918854663) — 2026-06-08T14:01:34Z
 - **Key quote**: "Still think this US list from $MRVL to $ARM to $INTC was goated. Just as a recap if new followers were wondering what US equities I like."
 - **Thesis type**: High-conviction US equity list (semiconductor/tech)
+
+---
+
+## $NBIS (Nebius Group) — Last updated: 2026-06-09T11:52:27Z
+
+- **View**: Bullish / High Conviction (current disclosed holding)
+- **Latest signal**: Confirmed as active financial interest in a June 9 AI mid-cap exposure list; one of only three tickers Serenity explicitly names as a current holding (alongside $TSEM and $AAOI). The broader AI $10-100B bucket is described as having "compelling ROI" relative to $ARM and $MRVL, which "ran quite a bit." NBIS has been Serenity's defining multi-period position since Sep 2025.
+- **Post**: [2064314680521507114](https://x.com/aleabitoreddit/status/2064314680521507114) — 2026-06-09T11:52:27Z
+- **Key quote**: "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above) ... Still feels like many of these have room to go."
+- **Thesis type**: Neocloud AI infrastructure (high-margin GPU cloud, Clickhouse/Avride/Toloka sum-of-parts); current disclosed holding
+- **Prior signals**: Long from Sep 2025 (~$750K→$2M+); NVDA $2B strategic investment (Mar 2026); Q3/Q4 blowout earnings; France €8B AI cloud deal (Jun 1 2026); ~$60B market cap milestone; Leopold Aschenbrenner 5.6% stake; consistent outperformer vs IREN/CIFR neocloud peers
+
+---
+
+## $TSEM (Tower Semiconductor) — Last updated: 2026-06-09T11:52:27Z
+
+- **View**: Bullish (current disclosed holding; "TSM of photonics" thesis)
+- **Latest signal**: Confirmed active holding in June 9 AI mid-cap list alongside NBIS and AAOI. Positioned within the AI supply-chain mid-cap bucket ($10-100B) framed as having compelling ROI. Tower is the only pure-play specialty analog foundry with volume silicon-photonics / CPO-track capability outside TSMC.
+- **Post**: [2064314680521507114](https://x.com/aleabitoreddit/status/2064314680521507114) — 2026-06-09T11:52:27Z
+- **Key quote**: "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above)"
+- **Thesis type**: Specialty/analog foundry; AI photonics / CPO supply-chain; current disclosed holding
+- **Prior signals**: Long Mar 11 2026; +63% in 2 weeks self-reported; reaffirmed alongside AAOI and SIVE as preferred photonics-cluster exposure; May 27 milestone cited TSEM-to-AAOI free-idea sharing as directionally right
+
+---
+
+## $AAOI (Applied Optoelectronics) — Last updated: 2026-06-09T11:52:27Z
+
+- **View**: Bullish / High Conviction (current disclosed holding; US photonics favorite)
+- **Latest signal**: Confirmed holding in June 9 AI mid-cap list as one of three explicit positions. As of June 5, described as "current favorite US long" with accumulation since ~$28 and continued adding at $150-$170. Forward case: ~$12B MC is modest premium if AAOI reaches ~$5.7B ARR entering H2 2027 on 800G/1.6T optical-transceiver demand ramp.
+- **Post**: [2064314680521507114](https://x.com/aleabitoreddit/status/2064314680521507114) — 2026-06-09T11:52:27Z
+- **Key quote**: "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above) ... Still feels like many of these have room to go."
+- **Thesis type**: US optical transceiver / laser-fab (InP-based); 800G/1.6T demand; JBL/1.6T LRO ramp partner; current disclosed holding
+- **Prior signals**: Formal long Dec 2025; tripled Feb 2026; "favorite US long" Jun 5 2026; averaging up since ~$28 through $150-$170; AMD/NVDA optical discussions ongoing; projected $471M H1 2027 ramp; $600M ATM noted as short-term overhang
+
+---
+
+## Mid-cap AI Exposure Watchlist — Last updated: 2026-06-09T11:52:27Z
+
+- **View**: Speculative research / watchlist — **no position held** in any of these
+- **Tickers**: $ASX (ASE Technology), $VICR (Vicor), $GFS (GlobalFoundries), AlChip (private), $FN (Fabrinet), Furukawa Electric, $CLS (Celestica), $NOK (Nokia), $AMKR (Amkor), $LITE (Lumentum), $COHR (Coherent)
+- **Note**: $JBL (Jabil) also appears on this list — see dedicated $JBL entry above.
+- **Latest signal**: Serenity listed these as AI exposure names in the $10-100B market-cap range with "compelling ROI right now compared to indexes or $ARM to $MRVL that ran quite a bit." No position held in any of these; only NBIS/TSEM/AAOI confirmed as current holdings. The group is framed as "smaller ideas to chase outsized returns." NOK is notable as a silicon-photonics foundry partner (NVDA/NOK photonixFAB evaluation already an XFAB-thesis reference point).
+- **Post**: [2064314680521507114](https://x.com/aleabitoreddit/status/2064314680521507114) — 2026-06-09T11:52:27Z
+- **Key quote**: "So basically, AI exposure trading in the $10-100B range. Likely have compelling ROI right now compared to indexes or $ARM to $MRVL that ran quite a bit? (Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above) I mention a lot of smaller ideas, but that's just to chase outsized returns. Still feels like many of these have room to go."
+- **Thesis type**: AI supply-chain / photonics / advanced packaging / infrastructure mid-cap research list; no current position
