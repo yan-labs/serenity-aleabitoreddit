@@ -10,14 +10,14 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ---
 
-## $SIVE — Last updated: 2026-06-09T07:21:45Z
+## $SIVE — Last updated: 2026-06-09T14:57:11Z
 
 - **View**: Bullish (space/defense catalyst + institutional float-squeeze)
 - **Latest signal**: Major catalyst confirmed — Sivers won an $8.2M production order for Ka-Band Beamforming ICs powering Space LEO/multi-orbit satellite communication via allspace. Key strategic implication: allspace was acquired by defense prime $YSS, positioning Sivers as a Tier-1 defense-prime supply-chain chokepoint — analogous to $MRVL's design-win with Celestial Semiconductor. Typically triggers follow-on volume contracts beyond the initial order size. Photonics volume ramp from Jabil and other pluggable makers also expected H1 2027. Prior catalyst: JP Morgan disclosed 5.25%+ stake — thin retail float constrains institutional accumulation.
 - **Post**: [2064246556690469123](https://x.com/aleabitoreddit/status/2064246556690469123) — 2026-06-09T07:21:45Z
 - **Key quote**: "A massive catalyst arrived today with $SIVE: Sivers announced $8.2M volume orders starting for Space applications (allspace)...Sivers now powers a larger defense prime in $YSS following their allspace acquisition...typically leads to more follow-up orders + volume contracts...expecting more volume ramps to be coming soon as well from their photonics side (looking at you Jabil + other pluggable makers)"
 - **Thesis type**: Space/defense supply-chain chokepoint + institutional float squeeze (ahead of SpaceX IPO)
-- **Prior signal**: JP Morgan 5.25%+ stake disclosure [2063951279278391414](https://x.com/aleabitoreddit/status/2063951279278391414) — 2026-06-08T11:48:25Z
+- **Prior signals**: JP Morgan 5.25%+ stake disclosure [2063951279278391414](https://x.com/aleabitoreddit/status/2063951279278391414) — 2026-06-08T11:48:25Z; Jun 9 14:57 volatility reaffirmation: "photonics from $AAOI to $LITE or $SIVE are not disappearing anytime soon… just extremely volatile" [2064361170270933269](https://x.com/aleabitoreddit/status/2064361170270933269) — 2026-06-09T14:57:11Z
 
 ---
 
@@ -84,14 +84,14 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ---
 
-## $AAOI (Applied Optoelectronics) — Last updated: 2026-06-09T11:52:27Z
+## $AAOI (Applied Optoelectronics) — Last updated: 2026-06-09T14:57:11Z
 
 - **View**: Bullish / High Conviction (current disclosed holding; US photonics favorite)
 - **Latest signal**: Confirmed holding in June 9 AI mid-cap list as one of three explicit positions. As of June 5, described as "current favorite US long" with accumulation since ~$28 and continued adding at $150-$170. Forward case: ~$12B MC is modest premium if AAOI reaches ~$5.7B ARR entering H2 2027 on 800G/1.6T optical-transceiver demand ramp.
 - **Post**: [2064314680521507114](https://x.com/aleabitoreddit/status/2064314680521507114) — 2026-06-09T11:52:27Z
 - **Key quote**: "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above) ... Still feels like many of these have room to go."
 - **Thesis type**: US optical transceiver / laser-fab (InP-based); 800G/1.6T demand; JBL/1.6T LRO ramp partner; current disclosed holding
-- **Prior signals**: Formal long Dec 2025; tripled Feb 2026; "favorite US long" Jun 5 2026; averaging up since ~$28 through $150-$170; AMD/NVDA optical discussions ongoing; projected $471M H1 2027 ramp; $600M ATM noted as short-term overhang
+- **Prior signals**: Formal long Dec 2025; tripled Feb 2026; "favorite US long" Jun 5 2026; averaging up since ~$28 through $150-$170; AMD/NVDA optical discussions ongoing; projected $471M H1 2027 ramp; $600M ATM noted as short-term overhang; Jun 9 14:57 volatility reaffirmation: "photonics from $AAOI to $LITE or $SIVE are not disappearing anytime soon… just extremely volatile" [2064361170270933269](https://x.com/aleabitoreddit/status/2064361170270933269) — 2026-06-09T14:57:11Z
 
 ---
 
