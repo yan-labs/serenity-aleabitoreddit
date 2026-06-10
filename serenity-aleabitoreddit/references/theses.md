@@ -95,14 +95,14 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ---
 
-## $NVDA (NVIDIA Corp) — Last updated: 2026-06-10T03:43:40Z
+## $NVDA (NVIDIA Corp) — Last updated: 2026-06-10T05:11:38Z
 
-- **View**: Bullish (CPO scale-out on track; no delays; NVDA Networking SVP Gilad "VERY enthusiastic")
-- **Latest signal**: NVDA Networking SVP Gilad confirmed at Computex (Tae Kim / Computex coverage): "the most exciting stuff is co-packaged optics" — explicitly zero delay in H2 CPO delivery schedule; CPO switch entering mass production and ramping customer deliveries H2 2026 as planned. Serenity: "I'm extremely bullish on CPO alongside Nvidia." Further refutation of the analyst report that caused the temporary selloff — same analyst that incorrectly claimed $MU had no HBM4 Rubin share (causing a selloff), after which Micron entered mass production and tripled. Serenity frames this as a buying opportunity for those not fooled by the false report.
-- **Post**: [2064554061253451815](https://x.com/aleabitoreddit/status/2064554061253451815) — 2026-06-10T03:43:40Z
-- **Key quote**: "the most exciting stuff is co-packaged optics. There is no delay in H2 CPO product delivery schedule. CPO switch will enter mass production and begin ramping up customer deliveries as planned in the second half of 2026 … I'm extremely bullish on CPO alongside Nvidia."
-- **Thesis type**: AI data center / CPO optical networking supply-chain; Foxconn optical switch ramp beneficiary
-- **Prior signals**: SVP "We're going to ramp up CPO second half of this year"; Foxconn optical switches shipped early to NVDA [2064521404859719681](https://x.com/aleabitoreddit/status/2064521404859719681) — 2026-06-10T01:33:54Z; LITE management separately confirmed no Scale-Up CPO delays, Serenity joint synthesis tweet [2064565558432190724](https://x.com/aleabitoreddit/status/2064565558432190724) — 2026-06-10T04:29:21Z ("both are incredibly bullish on TAM and opportunities")
+- **View**: Bullish (CPO timeline confirmed; market sell-off on analyst skepticism framed as buying opportunity)
+- **Latest signal**: Serenity's "TLDR of today" post sarcastically captured the full arc — NVDA pushed 800V DC + CPO, an analyst said it couldn't be done in time, the market sold off, then Nvidia and Lumentum executives reaffirmed "Bullish on CPO, timelines accelerating." The "???" framing signals high conviction that the sell-off was irrational noise.
+- **Post**: [2064576200211861981](https://x.com/aleabitoreddit/status/2064576200211861981) — 2026-06-10T05:11:38Z
+- **Key quote**: "Nvidia and Lumentum executives after: Bullish on CPO, timelines accelerating. ???"
+- **Thesis type**: AI data center / CPO optical networking supply-chain; buy-the-dip on false analyst report
+- **Prior signals**: NVDA Networking SVP Gilad confirmed H2 CPO mass-production ramp — "the most exciting stuff is co-packaged optics. There is no delay in H2 CPO product delivery schedule" [2064554061253451815](https://x.com/aleabitoreddit/status/2064554061253451815) — 2026-06-10T03:43:40Z; Joint NVDA+LITE synthesis — "both are incredibly bullish on TAM and opportunities" [2064565558432190724](https://x.com/aleabitoreddit/status/2064565558432190724) — 2026-06-10T04:29:21Z; Foxconn optical switches shipped early to NVDA [2064521404859719681](https://x.com/aleabitoreddit/status/2064521404859719681) — 2026-06-10T01:33:54Z
 
 ---
 
@@ -113,7 +113,7 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 - **Post**: [2064565558432190724](https://x.com/aleabitoreddit/status/2064565558432190724) — 2026-06-10T04:29:21Z
 - **Key quote**: "No delays, as this aligns with previous timelines shared … both [NVDA and LITE] are incredibly bullish on TAM and opportunities."
 - **Thesis type**: CPO Scale-Up optical components; AI data center next-gen interconnect supply-chain
-- **Prior signals**: Initial LITE Mizuho confirmation [2064521404859719681](https://x.com/aleabitoreddit/status/2064521404859719681) — 2026-06-10T01:33:54Z ("The company expects to start shipping Scale-Up optical products in the second half of 2027, with formal volume ramp-up in 2028"); Mid-cap AI Watchlist (no position) Jun 9; photonics volatility reaffirmation Jun 9 14:57 [2064361170270933269](https://x.com/aleabitoreddit/status/2064361170270933269) — "photonics from $AAOI to $LITE or $SIVE are not disappearing anytime soon"
+- **Prior signals**: TLDR summary reaffirm — "Nvidia and Lumentum executives after: Bullish on CPO, timelines accelerating" [2064576200211861981](https://x.com/aleabitoreddit/status/2064576200211861981) — 2026-06-10T05:11:38Z; Initial LITE Mizuho confirmation [2064521404859719681](https://x.com/aleabitoreddit/status/2064521404859719681) — 2026-06-10T01:33:54Z ("The company expects to start shipping Scale-Up optical products in the second half of 2027, with formal volume ramp-up in 2028"); Mid-cap AI Watchlist (no position) Jun 9; photonics volatility reaffirmation Jun 9 14:57 [2064361170270933269](https://x.com/aleabitoreddit/status/2064361170270933269) — "photonics from $AAOI to $LITE or $SIVE are not disappearing anytime soon"
 
 ---
 
