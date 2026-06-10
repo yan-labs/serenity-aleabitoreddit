@@ -95,14 +95,14 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ---
 
-## $NVDA (NVIDIA Corp) — Last updated: 2026-06-10T05:11:38Z
+## $NVDA (NVIDIA Corp) — Last updated: 2026-06-10T10:47:56Z
 
-- **View**: Bullish (CPO timeline confirmed; market sell-off on analyst skepticism framed as buying opportunity)
-- **Latest signal**: Serenity's "TLDR of today" post sarcastically captured the full arc — NVDA pushed 800V DC + CPO, an analyst said it couldn't be done in time, the market sold off, then Nvidia and Lumentum executives reaffirmed "Bullish on CPO, timelines accelerating." The "???" framing signals high conviction that the sell-off was irrational noise.
-- **Post**: [2064576200211861981](https://x.com/aleabitoreddit/status/2064576200211861981) — 2026-06-10T05:11:38Z
-- **Key quote**: "Nvidia and Lumentum executives after: Bullish on CPO, timelines accelerating. ???"
-- **Thesis type**: AI data center / CPO optical networking supply-chain; buy-the-dip on false analyst report
-- **Prior signals**: NVDA Networking SVP Gilad confirmed H2 CPO mass-production ramp — "the most exciting stuff is co-packaged optics. There is no delay in H2 CPO product delivery schedule" [2064554061253451815](https://x.com/aleabitoreddit/status/2064554061253451815) — 2026-06-10T03:43:40Z; Joint NVDA+LITE synthesis — "both are incredibly bullish on TAM and opportunities" [2064565558432190724](https://x.com/aleabitoreddit/status/2064565558432190724) — 2026-06-10T04:29:21Z; Foxconn optical switches shipped early to NVDA [2064521404859719681](https://x.com/aleabitoreddit/status/2064521404859719681) — 2026-06-10T01:33:54Z
+- **View**: Bullish (CPO/800V timeline confirmed; SemiAnalysis pushback report independently refuted by both Nvidia and Morgan Stanley; sell-off framed as buying opportunity)
+- **Latest signal**: Morgan Stanley explicitly contradicted the SemiAnalysis 800V DC pushback report, stating their own Computex supply-chain checks run "contrary to our own checks at Computex." Nvidia separately denied the pushback reports. Serenity called the resulting CPO/800V sell-off "the dumbest selloff I've seen," drawing a direct analogy to the prior MU/HBM4-no-share false report that caused a sell-off before Micron entered mass production and delivered triple-digit returns. Two independent sources (Nvidia + Morgan Stanley) now refute the SemiAnalysis 800V narrative, with Serenity framing this as a clear buying opportunity.
+- **Post**: [2064660831405805648](https://x.com/aleabitoreddit/status/2064660831405805648) — 2026-06-10T10:47:56Z
+- **Key quote**: "Morgan Stanley: $NVDA has denied the reports 800V DC has been pushed back. Recent SemiAnalysis reports run contrary to our own checks at Computex. Bro this has gotta be the dumbest CPO/800V selloff I've seen."
+- **Thesis type**: AI data center / CPO optical networking supply-chain; buy-the-dip on false analyst report (SemiAnalysis pattern now corroborated by sell-side)
+- **Prior signals**: TLDR NVDA+LITE "Bullish on CPO, timelines accelerating" [2064576200211861981](https://x.com/aleabitoreddit/status/2064576200211861981) — 2026-06-10T05:11:38Z; NVDA Networking SVP Gilad confirmed H2 CPO mass-production ramp [2064554061253451815](https://x.com/aleabitoreddit/status/2064554061253451815) — 2026-06-10T03:43:40Z; Joint NVDA+LITE synthesis [2064565558432190724](https://x.com/aleabitoreddit/status/2064565558432190724) — 2026-06-10T04:29:21Z; Foxconn optical switches shipped early to NVDA [2064521404859719681](https://x.com/aleabitoreddit/status/2064521404859719681) — 2026-06-10T01:33:54Z
 
 ---
 
@@ -117,13 +117,14 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ---
 
-## $MU (Micron Technology) — Last updated: 2026-06-10T01:33:54Z
+## $MU (Micron Technology) — Last updated: 2026-06-10T10:47:56Z
 
-- **View**: Bullish (HBM4 Rubin share vindicated; buy-the-dip on false analyst negative reports)
-- **Latest signal**: Serenity cited a prior episode where an analyst firm incorrectly claimed $MU had no HBM4 Rubin share — a false report that caused a selloff — after which Micron entered mass production delivering a "triple digit return." The current implication: "people going long on temporary bridge architectures from this incorrect report won't be too happy. Appreciate the buying opportunity though." Signals conviction to buy $MU when incorrectly sold down on wrong analyst narratives.
-- **Post**: [2064521404859719681](https://x.com/aleabitoreddit/status/2064521404859719681) — 2026-06-10T01:33:54Z
-- **Key quote**: "...analyst firm that said $MU had no share of HBM4 Rubin (causing a selloff). Where micron went out shortly later to into enter mass production. (Triple digit return shortly after) … Appreciate the buying opportunity though."
-- **Thesis type**: HBM4 AI memory / Rubin-generation supply-chain; contrarian long on false analyst negative reports
+- **View**: Bullish (HBM4 Rubin share vindicated; buy-the-dip on false analyst negative reports; pattern re-invoked and further corroborated for NVDA CPO/800V episode)
+- **Latest signal**: Serenity drew an explicit analogy between the current SemiAnalysis 800V DC pushback on NVDA and the prior false analyst claim that $MU had no HBM4 Rubin share. Morgan Stanley has now also independently contradicted the SemiAnalysis NVDA 800V report ("contrary to our own checks at Computex"). The MU/SemiAnalysis pattern — false negative analyst report → sell-off → company enters mass production → triple-digit returns for buyers of the dip — is being re-invoked as the established template. The implication: "people going long on temporary bridge architectures from this incorrect report won't be too happy. Appreciate the buying opportunity though."
+- **Post**: [2064660831405805648](https://x.com/aleabitoreddit/status/2064660831405805648) — 2026-06-10T10:47:56Z
+- **Key quote**: "Bro this has gotta be the dumbest CPO/800V selloff I've seen. Since the selloff from their claim $MU had 0 share of Nvidia HBM4"
+- **Thesis type**: HBM4 AI memory / Rubin-generation supply-chain; contrarian long on false analyst negative reports; cross-ticker pattern validation with NVDA CPO/800V thesis
+- **Prior signals**: Original MU/HBM4 buy-the-dip pattern documented [2064521404859719681](https://x.com/aleabitoreddit/status/2064521404859719681) — 2026-06-10T01:33:54Z; "MU finally hits $1 Trillion marketcap" memory-supercycle reaffirm — 2026-05-26
 
 ---
 
