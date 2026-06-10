@@ -10,14 +10,14 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ---
 
-## $SIVE — Last updated: 2026-06-10T07:20:22Z
+## $SIVE — Last updated: 2026-06-10T13:44:57Z
 
 - **View**: Bullish (space/defense catalyst + multi-institution floor-building)
 - **Latest signal**: New institutional validation wave — BlackRock entered $SIVE as passive owners following index listing; Fidelity Research starting direct positions. Pattern mirrors JP Morgan's earlier entry (small positions → acquired ~5.25% of company). Serenity interprets this as "US institutions validated Sivers's position in photonics and are trying to accumulate positions." Three major US institutions (JPM, BlackRock, Fidelity) now building positions in a thinly floated name = ongoing float squeeze dynamic reinforced.
 - **Post**: [2064608597343125931](https://x.com/aleabitoreddit/status/2064608597343125931) — 2026-06-10T07:20:22Z
 - **Key quote**: "This looks like US institutions validated Sivers's position in photonics and are trying to accumulate positions."
 - **Thesis type**: Space/defense supply-chain chokepoint + multi-institution float squeeze (BlackRock+Fidelity+JPM accumulation pattern; ahead of SpaceX IPO)
-- **Prior signals**: Jun 9 07:21 $8.2M production order for Ka-Band Beamforming ICs (allspace/YSS defense chain), "typically leads to more follow-up orders + volume contracts" [2064246556690469123](https://x.com/aleabitoreddit/status/2064246556690469123) — 2026-06-09T07:21:45Z; Jun 9 14:57 volatility reaffirmation: "photonics from $AAOI to $LITE or $SIVE are not disappearing anytime soon… just extremely volatile" [2064361170270933269](https://x.com/aleabitoreddit/status/2064361170270933269) — 2026-06-09T14:57:11Z; JP Morgan 5.25%+ stake disclosure [2063951279278391414](https://x.com/aleabitoreddit/status/2063951279278391414) — 2026-06-08T11:48:25Z
+- **Prior signals**: Jun 10 13:44 recovery reaffirmation: 'optical players from $LITE to $AAOI and $SIVE are slightly recovering as they should. The initial selloff was just stupid.' [[2064705380933074945]](https://x.com/aleabitoreddit/status/2064705380933074945) — 2026-06-10T13:44:57Z; Jun 9 07:21 $8.2M production order for Ka-Band Beamforming ICs (allspace/YSS defense chain), "typically leads to more follow-up orders + volume contracts" [2064246556690469123](https://x.com/aleabitoreddit/status/2064246556690469123) — 2026-06-09T07:21:45Z; Jun 9 14:57 volatility reaffirmation: "photonics from $AAOI to $LITE or $SIVE are not disappearing anytime soon… just extremely volatile" [2064361170270933269](https://x.com/aleabitoreddit/status/2064361170270933269) — 2026-06-09T14:57:11Z; JP Morgan 5.25%+ stake disclosure [2063951279278391414](https://x.com/aleabitoreddit/status/2063951279278391414) — 2026-06-08T11:48:25Z
 
 ---
 
@@ -84,14 +84,14 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ---
 
-## $AAOI (Applied Optoelectronics) — Last updated: 2026-06-09T14:57:11Z
+## $AAOI (Applied Optoelectronics) — Last updated: 2026-06-10T13:44:57Z
 
 - **View**: Bullish / High Conviction (current disclosed holding; US photonics favorite)
 - **Latest signal**: Confirmed holding in June 9 AI mid-cap list as one of three explicit positions. As of June 5, described as "current favorite US long" with accumulation since ~$28 and continued adding at $150-$170. Forward case: ~$12B MC is modest premium if AAOI reaches ~$5.7B ARR entering H2 2027 on 800G/1.6T optical-transceiver demand ramp.
 - **Post**: [2064314680521507114](https://x.com/aleabitoreddit/status/2064314680521507114) — 2026-06-09T11:52:27Z
 - **Key quote**: "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above) ... Still feels like many of these have room to go."
 - **Thesis type**: US optical transceiver / laser-fab (InP-based); 800G/1.6T demand; JBL/1.6T LRO ramp partner; current disclosed holding
-- **Prior signals**: Formal long Dec 2025; tripled Feb 2026; "favorite US long" Jun 5 2026; averaging up since ~$28 through $150-$170; AMD/NVDA optical discussions ongoing; projected $471M H1 2027 ramp; $600M ATM noted as short-term overhang; Jun 9 14:57 volatility reaffirmation: "photonics from $AAOI to $LITE or $SIVE are not disappearing anytime soon… just extremely volatile" [2064361170270933269](https://x.com/aleabitoreddit/status/2064361170270933269) — 2026-06-09T14:57:11Z
+- **Prior signals**: Jun 10 13:44 recovery reaffirmation: 'optical players from $LITE to $AAOI and $SIVE are slightly recovering as they should. The initial selloff was just stupid.' [[2064705380933074945]](https://x.com/aleabitoreddit/status/2064705380933074945) — 2026-06-10T13:44:57Z; Formal long Dec 2025; tripled Feb 2026; "favorite US long" Jun 5 2026; averaging up since ~$28 through $150-$170; AMD/NVDA optical discussions ongoing; projected $471M H1 2027 ramp; $600M ATM noted as short-term overhang; Jun 9 14:57 volatility reaffirmation: "photonics from $AAOI to $LITE or $SIVE are not disappearing anytime soon… just extremely volatile" [2064361170270933269](https://x.com/aleabitoreddit/status/2064361170270933269) — 2026-06-09T14:57:11Z
 
 ---
 
@@ -106,14 +106,14 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ---
 
-## $LITE (Lumentum Holdings) — Last updated: 2026-06-10T04:29:21Z
+## $LITE (Lumentum Holdings) — Last updated: 2026-06-10T13:44:57Z
 
 - **View**: Bullish (CPO Scale-Up optical confirmed H2 2027; volume ramp 2028; joint NVDA+LITE timeline corroboration)
 - **Latest signal**: Serenity published a joint LITE+NVDA confirmation summary: LITE management at Mizuho Technology Conference reaffirmed CPO Scale-Up optical shipping H2 2027, formal ramp 2028 — "no delays, as this aligns with previous timelines shared." Coupled with the NVDA SVP scale-out confirmation (H2 2026 CPO mass production ramp): "The leading companies in Nvidia and Lumentum probably know their own timelines better than incorrect analyst reports telling them no. And both are incredibly bullish on TAM and opportunities."
 - **Post**: [2064565558432190724](https://x.com/aleabitoreddit/status/2064565558432190724) — 2026-06-10T04:29:21Z
 - **Key quote**: "No delays, as this aligns with previous timelines shared … both [NVDA and LITE] are incredibly bullish on TAM and opportunities."
 - **Thesis type**: CPO Scale-Up optical components; AI data center next-gen interconnect supply-chain
-- **Prior signals**: TLDR summary reaffirm — "Nvidia and Lumentum executives after: Bullish on CPO, timelines accelerating" [2064576200211861981](https://x.com/aleabitoreddit/status/2064576200211861981) — 2026-06-10T05:11:38Z; Initial LITE Mizuho confirmation [2064521404859719681](https://x.com/aleabitoreddit/status/2064521404859719681) — 2026-06-10T01:33:54Z ("The company expects to start shipping Scale-Up optical products in the second half of 2027, with formal volume ramp-up in 2028"); Mid-cap AI Watchlist (no position) Jun 9; photonics volatility reaffirmation Jun 9 14:57 [2064361170270933269](https://x.com/aleabitoreddit/status/2064361170270933269) — "photonics from $AAOI to $LITE or $SIVE are not disappearing anytime soon"
+- **Prior signals**: Jun 10 13:44 recovery reaffirmation: 'optical players from $LITE to $AAOI and $SIVE are slightly recovering as they should. The initial selloff was just stupid.' [[2064705380933074945]](https://x.com/aleabitoreddit/status/2064705380933074945) — 2026-06-10T13:44:57Z; TLDR summary reaffirm — "Nvidia and Lumentum executives after: Bullish on CPO, timelines accelerating" [2064576200211861981](https://x.com/aleabitoreddit/status/2064576200211861981) — 2026-06-10T05:11:38Z; Initial LITE Mizuho confirmation [2064521404859719681](https://x.com/aleabitoreddit/status/2064521404859719681) — 2026-06-10T01:33:54Z ("The company expects to start shipping Scale-Up optical products in the second half of 2027, with formal volume ramp-up in 2028"); Mid-cap AI Watchlist (no position) Jun 9; photonics volatility reaffirmation Jun 9 14:57 [2064361170270933269](https://x.com/aleabitoreddit/status/2064361170270933269) — "photonics from $AAOI to $LITE or $SIVE are not disappearing anytime soon"
 
 ---
 
