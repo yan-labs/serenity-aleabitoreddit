@@ -95,13 +95,14 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ---
 
-## $NVDA (NVIDIA Corp) — Last updated: 2026-06-10T01:33:54Z
+## $NVDA (NVIDIA Corp) — Last updated: 2026-06-10T03:43:40Z
 
-- **View**: Bullish (CPO optical scale-out on track; NVDA networking ahead of schedule)
-- **Latest signal**: Serenity cited NVDA SVP of networking confirming "We're going to ramp up CPO second half of this year" with no delay indications, alongside Foxconn data showing optical switches shipped early to NVDA. Framed as vindication of industry projections over a conflicting negative analyst report (which incorrectly called $MU's HBM4 share). CPO scale-out H2 2026 on track; CPO scale-up H2 2027 with main growth 2028.
-- **Post**: [2064521404859719681](https://x.com/aleabitoreddit/status/2064521404859719681) — 2026-06-10T01:33:54Z
-- **Key quote**: "SVP $NVDA networking: 'We're going to ramp up CPO second half of this year'. No delay indications. I'm gonna go ahead and trust industry projections."
+- **View**: Bullish (CPO scale-out on track; no delays; NVDA Networking SVP Gilad "VERY enthusiastic")
+- **Latest signal**: NVDA Networking SVP Gilad confirmed at Computex (Tae Kim / Computex coverage): "the most exciting stuff is co-packaged optics" — explicitly zero delay in H2 CPO delivery schedule; CPO switch entering mass production and ramping customer deliveries H2 2026 as planned. Serenity: "I'm extremely bullish on CPO alongside Nvidia." Further refutation of the analyst report that caused the temporary selloff — same analyst that incorrectly claimed $MU had no HBM4 Rubin share (causing a selloff), after which Micron entered mass production and tripled. Serenity frames this as a buying opportunity for those not fooled by the false report.
+- **Post**: [2064554061253451815](https://x.com/aleabitoreddit/status/2064554061253451815) — 2026-06-10T03:43:40Z
+- **Key quote**: "the most exciting stuff is co-packaged optics. There is no delay in H2 CPO product delivery schedule. CPO switch will enter mass production and begin ramping up customer deliveries as planned in the second half of 2026 … I'm extremely bullish on CPO alongside Nvidia."
 - **Thesis type**: AI data center / CPO optical networking supply-chain; Foxconn optical switch ramp beneficiary
+- **Prior signals**: SVP "We're going to ramp up CPO second half of this year"; Foxconn optical switches shipped early to NVDA [2064521404859719681](https://x.com/aleabitoreddit/status/2064521404859719681) — 2026-06-10T01:33:54Z
 
 ---
 
