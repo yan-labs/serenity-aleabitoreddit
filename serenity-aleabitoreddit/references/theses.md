@@ -10,14 +10,14 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ---
 
-## $SIVE — Last updated: 2026-06-09T14:57:11Z
+## $SIVE — Last updated: 2026-06-10T07:20:22Z
 
-- **View**: Bullish (space/defense catalyst + institutional float-squeeze)
-- **Latest signal**: Major catalyst confirmed — Sivers won an $8.2M production order for Ka-Band Beamforming ICs powering Space LEO/multi-orbit satellite communication via allspace. Key strategic implication: allspace was acquired by defense prime $YSS, positioning Sivers as a Tier-1 defense-prime supply-chain chokepoint — analogous to $MRVL's design-win with Celestial Semiconductor. Typically triggers follow-on volume contracts beyond the initial order size. Photonics volume ramp from Jabil and other pluggable makers also expected H1 2027. Prior catalyst: JP Morgan disclosed 5.25%+ stake — thin retail float constrains institutional accumulation.
-- **Post**: [2064246556690469123](https://x.com/aleabitoreddit/status/2064246556690469123) — 2026-06-09T07:21:45Z
-- **Key quote**: "A massive catalyst arrived today with $SIVE: Sivers announced $8.2M volume orders starting for Space applications (allspace)...Sivers now powers a larger defense prime in $YSS following their allspace acquisition...typically leads to more follow-up orders + volume contracts...expecting more volume ramps to be coming soon as well from their photonics side (looking at you Jabil + other pluggable makers)"
-- **Thesis type**: Space/defense supply-chain chokepoint + institutional float squeeze (ahead of SpaceX IPO)
-- **Prior signals**: JP Morgan 5.25%+ stake disclosure [2063951279278391414](https://x.com/aleabitoreddit/status/2063951279278391414) — 2026-06-08T11:48:25Z; Jun 9 14:57 volatility reaffirmation: "photonics from $AAOI to $LITE or $SIVE are not disappearing anytime soon… just extremely volatile" [2064361170270933269](https://x.com/aleabitoreddit/status/2064361170270933269) — 2026-06-09T14:57:11Z
+- **View**: Bullish (space/defense catalyst + multi-institution floor-building)
+- **Latest signal**: New institutional validation wave — BlackRock entered $SIVE as passive owners following index listing; Fidelity Research starting direct positions. Pattern mirrors JP Morgan's earlier entry (small positions → acquired ~5.25% of company). Serenity interprets this as "US institutions validated Sivers's position in photonics and are trying to accumulate positions." Three major US institutions (JPM, BlackRock, Fidelity) now building positions in a thinly floated name = ongoing float squeeze dynamic reinforced.
+- **Post**: [2064608597343125931](https://x.com/aleabitoreddit/status/2064608597343125931) — 2026-06-10T07:20:22Z
+- **Key quote**: "This looks like US institutions validated Sivers's position in photonics and are trying to accumulate positions."
+- **Thesis type**: Space/defense supply-chain chokepoint + multi-institution float squeeze (BlackRock+Fidelity+JPM accumulation pattern; ahead of SpaceX IPO)
+- **Prior signals**: Jun 9 07:21 $8.2M production order for Ka-Band Beamforming ICs (allspace/YSS defense chain), "typically leads to more follow-up orders + volume contracts" [2064246556690469123](https://x.com/aleabitoreddit/status/2064246556690469123) — 2026-06-09T07:21:45Z; Jun 9 14:57 volatility reaffirmation: "photonics from $AAOI to $LITE or $SIVE are not disappearing anytime soon… just extremely volatile" [2064361170270933269](https://x.com/aleabitoreddit/status/2064361170270933269) — 2026-06-09T14:57:11Z; JP Morgan 5.25%+ stake disclosure [2063951279278391414](https://x.com/aleabitoreddit/status/2063951279278391414) — 2026-06-08T11:48:25Z
 
 ---
 
