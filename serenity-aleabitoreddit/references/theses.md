@@ -95,12 +95,43 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ---
 
+## $NVDA (NVIDIA Corp) — Last updated: 2026-06-10T01:33:54Z
+
+- **View**: Bullish (CPO optical scale-out on track; NVDA networking ahead of schedule)
+- **Latest signal**: Serenity cited NVDA SVP of networking confirming "We're going to ramp up CPO second half of this year" with no delay indications, alongside Foxconn data showing optical switches shipped early to NVDA. Framed as vindication of industry projections over a conflicting negative analyst report (which incorrectly called $MU's HBM4 share). CPO scale-out H2 2026 on track; CPO scale-up H2 2027 with main growth 2028.
+- **Post**: [2064521404859719681](https://x.com/aleabitoreddit/status/2064521404859719681) — 2026-06-10T01:33:54Z
+- **Key quote**: "SVP $NVDA networking: 'We're going to ramp up CPO second half of this year'. No delay indications. I'm gonna go ahead and trust industry projections."
+- **Thesis type**: AI data center / CPO optical networking supply-chain; Foxconn optical switch ramp beneficiary
+
+---
+
+## $LITE (Lumentum Holdings) — Last updated: 2026-06-10T01:33:54Z
+
+- **View**: Bullish (CPO Scale-Up optical confirmed H2 2027; volume ramp 2028; promoted from watchlist)
+- **Latest signal**: At Mizuho Technology Conference, LITE confirmed Scale-Up optical products shipping H2 2027 with formal volume ramp-up in 2028. Serenity endorses these industry timelines over conflicting analyst reports. Promoted from Mid-cap AI Watchlist to dedicated thesis entry on this confirmation. Scale-out CPO (H2 2026 onward) and scale-up CPO (H2 2027 → main growth 2028) both reiterated.
+- **Post**: [2064521404859719681](https://x.com/aleabitoreddit/status/2064521404859719681) — 2026-06-10T01:33:54Z
+- **Key quote**: "'The company expects to start shipping Scale-Up optical products in the second half of 2027, with formal volume ramp-up in 2028' … I'm gonna go ahead and trust industry projections."
+- **Thesis type**: CPO Scale-Up optical components; AI data center next-gen interconnect supply-chain
+- **Prior signals**: Mid-cap AI Watchlist (no position) Jun 9; photonics volatility reaffirmation Jun 9 14:57 [2064361170270933269](https://x.com/aleabitoreddit/status/2064361170270933269) — "photonics from $AAOI to $LITE or $SIVE are not disappearing anytime soon"
+
+---
+
+## $MU (Micron Technology) — Last updated: 2026-06-10T01:33:54Z
+
+- **View**: Bullish (HBM4 Rubin share vindicated; buy-the-dip on false analyst negative reports)
+- **Latest signal**: Serenity cited a prior episode where an analyst firm incorrectly claimed $MU had no HBM4 Rubin share — a false report that caused a selloff — after which Micron entered mass production delivering a "triple digit return." The current implication: "people going long on temporary bridge architectures from this incorrect report won't be too happy. Appreciate the buying opportunity though." Signals conviction to buy $MU when incorrectly sold down on wrong analyst narratives.
+- **Post**: [2064521404859719681](https://x.com/aleabitoreddit/status/2064521404859719681) — 2026-06-10T01:33:54Z
+- **Key quote**: "...analyst firm that said $MU had no share of HBM4 Rubin (causing a selloff). Where micron went out shortly later to into enter mass production. (Triple digit return shortly after) … Appreciate the buying opportunity though."
+- **Thesis type**: HBM4 AI memory / Rubin-generation supply-chain; contrarian long on false analyst negative reports
+
+---
+
 ## Mid-cap AI Exposure Watchlist — Last updated: 2026-06-09T11:52:27Z
 
 - **View**: Speculative research / watchlist — **no position held** in any of these
-- **Tickers**: $ASX (ASE Technology), $VICR (Vicor), $GFS (GlobalFoundries), AlChip (private), $FN (Fabrinet), Furukawa Electric, $CLS (Celestica), $NOK (Nokia), $AMKR (Amkor), $LITE (Lumentum), $COHR (Coherent)
+- **Tickers**: $ASX (ASE Technology), $VICR (Vicor), $GFS (GlobalFoundries), AlChip (private), $FN (Fabrinet), Furukawa Electric, $CLS (Celestica), $NOK (Nokia), $AMKR (Amkor), $LITE → see dedicated thesis entry above, $COHR (Coherent)
 - **Note**: $JBL (Jabil) also appears on this list — see dedicated $JBL entry above.
-- **Latest signal**: Serenity listed these as AI exposure names in the $10-100B market-cap range with "compelling ROI right now compared to indexes or $ARM to $MRVL that ran quite a bit." No position held in any of these; only NBIS/TSEM/AAOI confirmed as current holdings. The group is framed as "smaller ideas to chase outsized returns." NOK is notable as a silicon-photonics foundry partner (NVDA/NOK photonixFAB evaluation already an XFAB-thesis reference point).
+- **Latest signal**: Serenity listed these as AI exposure names in the $10-100B market-cap range with "compelling ROI right now compared to indexes or $ARM to $MRVL that ran quite a bit." No position held in any of these; only NBIS/TSEM/AAOI confirmed as current holdings. The group is framed as "smaller ideas to chase outsized returns." NOK is notable as a silicon-photonics foundry partner (NVDA/NOK photonixFAB evaluation already an XFAB-thesis reference point). Note: $LITE has been promoted to a dedicated thesis entry (see above) based on Jun 10 CPO timeline confirmation.
 - **Post**: [2064314680521507114](https://x.com/aleabitoreddit/status/2064314680521507114) — 2026-06-09T11:52:27Z
 - **Key quote**: "So basically, AI exposure trading in the $10-100B range. Likely have compelling ROI right now compared to indexes or $ARM to $MRVL that ran quite a bit? (Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above) I mention a lot of smaller ideas, but that's just to chase outsized returns. Still feels like many of these have room to go."
 - **Thesis type**: AI supply-chain / photonics / advanced packaging / infrastructure mid-cap research list; no current position
