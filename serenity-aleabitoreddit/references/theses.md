@@ -102,18 +102,18 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 - **Post**: [2064554061253451815](https://x.com/aleabitoreddit/status/2064554061253451815) — 2026-06-10T03:43:40Z
 - **Key quote**: "the most exciting stuff is co-packaged optics. There is no delay in H2 CPO product delivery schedule. CPO switch will enter mass production and begin ramping up customer deliveries as planned in the second half of 2026 … I'm extremely bullish on CPO alongside Nvidia."
 - **Thesis type**: AI data center / CPO optical networking supply-chain; Foxconn optical switch ramp beneficiary
-- **Prior signals**: SVP "We're going to ramp up CPO second half of this year"; Foxconn optical switches shipped early to NVDA [2064521404859719681](https://x.com/aleabitoreddit/status/2064521404859719681) — 2026-06-10T01:33:54Z
+- **Prior signals**: SVP "We're going to ramp up CPO second half of this year"; Foxconn optical switches shipped early to NVDA [2064521404859719681](https://x.com/aleabitoreddit/status/2064521404859719681) — 2026-06-10T01:33:54Z; LITE management separately confirmed no Scale-Up CPO delays, Serenity joint synthesis tweet [2064565558432190724](https://x.com/aleabitoreddit/status/2064565558432190724) — 2026-06-10T04:29:21Z ("both are incredibly bullish on TAM and opportunities")
 
 ---
 
-## $LITE (Lumentum Holdings) — Last updated: 2026-06-10T01:33:54Z
+## $LITE (Lumentum Holdings) — Last updated: 2026-06-10T04:29:21Z
 
-- **View**: Bullish (CPO Scale-Up optical confirmed H2 2027; volume ramp 2028; promoted from watchlist)
-- **Latest signal**: At Mizuho Technology Conference, LITE confirmed Scale-Up optical products shipping H2 2027 with formal volume ramp-up in 2028. Serenity endorses these industry timelines over conflicting analyst reports. Promoted from Mid-cap AI Watchlist to dedicated thesis entry on this confirmation. Scale-out CPO (H2 2026 onward) and scale-up CPO (H2 2027 → main growth 2028) both reiterated.
-- **Post**: [2064521404859719681](https://x.com/aleabitoreddit/status/2064521404859719681) — 2026-06-10T01:33:54Z
-- **Key quote**: "'The company expects to start shipping Scale-Up optical products in the second half of 2027, with formal volume ramp-up in 2028' … I'm gonna go ahead and trust industry projections."
+- **View**: Bullish (CPO Scale-Up optical confirmed H2 2027; volume ramp 2028; joint NVDA+LITE timeline corroboration)
+- **Latest signal**: Serenity published a joint LITE+NVDA confirmation summary: LITE management at Mizuho Technology Conference reaffirmed CPO Scale-Up optical shipping H2 2027, formal ramp 2028 — "no delays, as this aligns with previous timelines shared." Coupled with the NVDA SVP scale-out confirmation (H2 2026 CPO mass production ramp): "The leading companies in Nvidia and Lumentum probably know their own timelines better than incorrect analyst reports telling them no. And both are incredibly bullish on TAM and opportunities."
+- **Post**: [2064565558432190724](https://x.com/aleabitoreddit/status/2064565558432190724) — 2026-06-10T04:29:21Z
+- **Key quote**: "No delays, as this aligns with previous timelines shared … both [NVDA and LITE] are incredibly bullish on TAM and opportunities."
 - **Thesis type**: CPO Scale-Up optical components; AI data center next-gen interconnect supply-chain
-- **Prior signals**: Mid-cap AI Watchlist (no position) Jun 9; photonics volatility reaffirmation Jun 9 14:57 [2064361170270933269](https://x.com/aleabitoreddit/status/2064361170270933269) — "photonics from $AAOI to $LITE or $SIVE are not disappearing anytime soon"
+- **Prior signals**: Initial LITE Mizuho confirmation [2064521404859719681](https://x.com/aleabitoreddit/status/2064521404859719681) — 2026-06-10T01:33:54Z ("The company expects to start shipping Scale-Up optical products in the second half of 2027, with formal volume ramp-up in 2028"); Mid-cap AI Watchlist (no position) Jun 9; photonics volatility reaffirmation Jun 9 14:57 [2064361170270933269](https://x.com/aleabitoreddit/status/2064361170270933269) — "photonics from $AAOI to $LITE or $SIVE are not disappearing anytime soon"
 
 ---
 
