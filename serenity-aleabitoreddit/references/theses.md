@@ -84,14 +84,14 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ---
 
-## $AAOI (Applied Optoelectronics) — Last updated: 2026-06-10T13:44:57Z
+## $AAOI (Applied Optoelectronics) — Last updated: 2026-06-11T03:18:16Z
 
 - **View**: Bullish / High Conviction (current disclosed holding; US photonics favorite)
 - **Latest signal**: Confirmed holding in June 9 AI mid-cap list as one of three explicit positions. As of June 5, described as "current favorite US long" with accumulation since ~$28 and continued adding at $150-$170. Forward case: ~$12B MC is modest premium if AAOI reaches ~$5.7B ARR entering H2 2027 on 800G/1.6T optical-transceiver demand ramp.
 - **Post**: [2064314680521507114](https://x.com/aleabitoreddit/status/2064314680521507114) — 2026-06-09T11:52:27Z
 - **Key quote**: "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above) ... Still feels like many of these have room to go."
 - **Thesis type**: US optical transceiver / laser-fab (InP-based); 800G/1.6T demand; JBL/1.6T LRO ramp partner; current disclosed holding
-- **Prior signals**: Jun 10 13:44 recovery reaffirmation: 'optical players from $LITE to $AAOI and $SIVE are slightly recovering as they should. The initial selloff was just stupid.' [[2064705380933074945]](https://x.com/aleabitoreddit/status/2064705380933074945) — 2026-06-10T13:44:57Z; Formal long Dec 2025; tripled Feb 2026; "favorite US long" Jun 5 2026; averaging up since ~$28 through $150-$170; AMD/NVDA optical discussions ongoing; projected $471M H1 2027 ramp; $600M ATM noted as short-term overhang; Jun 9 14:57 volatility reaffirmation: "photonics from $AAOI to $LITE or $SIVE are not disappearing anytime soon… just extremely volatile" [2064361170270933269](https://x.com/aleabitoreddit/status/2064361170270933269) — 2026-06-09T14:57:11Z
+- **Prior signals**: Jun 11 03:18 CPO-drawback portfolio acknowledgment: mentions $AAOI alongside Foci/Shunsin/$SOI as CPO positions experiencing 'disappointing week' despite YTD self-reported +3,612.10%; reaffirms thesis — '如果 Alpha 足够强，不管宏观大环境如何，这些股票都应该继续涨才对' (if Alpha is strong enough, these should keep rising regardless of macro); framed as a learning process about how markets price different themes/supply-chain segments [[2064910057767309551]](https://x.com/aleabitoreddit/status/2064910057767309551) — 2026-06-11T03:18:16Z; Jun 10 13:44 recovery reaffirmation: 'optical players from $LITE to $AAOI and $SIVE are slightly recovering as they should. The initial selloff was just stupid.' [[2064705380933074945]](https://x.com/aleabitoreddit/status/2064705380933074945) — 2026-06-10T13:44:57Z; Formal long Dec 2025; tripled Feb 2026; "favorite US long" Jun 5 2026; averaging up since ~$28 through $150-$170; AMD/NVDA optical discussions ongoing; projected $471M H1 2027 ramp; $600M ATM noted as short-term overhang; Jun 9 14:57 volatility reaffirmation: "photonics from $AAOI to $LITE or $SIVE are not disappearing anytime soon… just extremely volatile" [2064361170270933269](https://x.com/aleabitoreddit/status/2064361170270933269) — 2026-06-09T14:57:11Z
 
 ---
 
@@ -128,14 +128,14 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ---
 
-## Foci (3363) — Last updated: 2026-06-11T01:38:21Z
+## Foci (3363) — Last updated: 2026-06-11T03:18:16Z
 
 - **View**: Bullish (expected NVDA/TSM optical bottleneck; contrarian — negative sellside = institutional accumulation signal)
 - **Latest signal**: Serenity stated "I expect Foci (3363) to be a bottleneck for both $NVDA and $TSM optical programs" while noting that "firms implying you to sell that at $2.5B valuations alongside $HIMX." Frames current negative sell-side pressure as a buy signal, using the analogy of SIVE, NBIS, and RKLB institutional-accumulation cycles: "if you see negative sellside reports or an uncanny wave of negative news, it's a good signal they need liquidity." $2.5B valuation is presented as undervaluing the optical-bottleneck potential.
 - **Post**: [2064884912667439129](https://x.com/aleabitoreddit/status/2064884912667439129) — 2026-06-11T01:38:21Z
 - **Key quote**: "I expect Foci (3363) to be a bottleneck for both $NVDA and $TSM optical programs and now there's firms implying you to sell that at $2.5B valuations alongside $HIMX."
 - **Thesis type**: Optical networking / CPO supply-chain bottleneck (NVDA + TSM ecosystem); institutional-accumulation pattern play
-- **Prior signals**: Jun 3 Taiwan CPO longs day: Foci +~10% alongside Shunsin/Xintec; May 25 MSSCorps/FOCI named in UDN article on TSM COUPE + AI optical markets; May 30 one-year MC prediction: "FOCI $15B" (alongside AAOI $70B, SIVE $30B, Shunsin $10B); Jun 3 named as part of Taiwan CPO best risk/reward group (with SIVE, AAOI, Shunsin)
+- **Prior signals**: Jun 11 03:18 CPO-cluster drawback acknowledgment: mentions Foci alongside Shunsin/$SOI/$AAOI as CPO positions with 'disappointing week'; reaffirms conviction that these should keep rising 'if Alpha is strong enough' regardless of macro [[2064910057767309551]](https://x.com/aleabitoreddit/status/2064910057767309551) — 2026-06-11T03:18:16Z; Jun 3 Taiwan CPO longs day: Foci +~10% alongside Shunsin/Xintec; May 25 MSSCorps/FOCI named in UDN article on TSM COUPE + AI optical markets; May 30 one-year MC prediction: "FOCI $15B" (alongside AAOI $70B, SIVE $30B, Shunsin $10B); Jun 3 named as part of Taiwan CPO best risk/reward group (with SIVE, AAOI, Shunsin)
 
 ---
 
