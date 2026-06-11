@@ -139,6 +139,17 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ---
 
+## $AXTI (American Xtal Technology) — Last updated: 2026-06-11T05:27:12Z
+
+- **View**: Not a buy now (post-thesis-peak); InP monopoly thesis validated by Reuters / mainstream media; monitor for future re-entry
+- **Latest signal**: Reuters report confirms China's control over InP threatens the AI DC buildout; Serenity frames AXTI as the prescient supply-chain call: "Who could have guessed $AXTI would have been a major point of failure?" This is thesis validation, *not* a new buy signal. Position from Dec 2025 at ~$700M MC delivered 1,057%+ gains by Apr 24 2026; Serenity explicitly stated "not a buy now, do not short" at 1,057%+ level. Reuters confirmation means the InP bottleneck thesis is now acknowledged by mainstream financial media — typically a late-cycle validation, not a fresh entry.
+- **Post**: [2064942505553170886](https://x.com/aleabitoreddit/status/2064942505553170886) — 2026-06-11T05:27:12Z
+- **Key quote**: "Who could have guessed $AXTI would have been a major point of failure?"
+- **Thesis type**: InP compound semiconductor substrate (US-based monopoly); AI DC supply-chain bottleneck confirmed by Reuters; indirect read-through for InP-dependent names ($AAOI, $SIVE, $JBL ecosystem)
+- **Prior signals**: Dec 26 2025 flagship thesis ~$700M MC (5.47M views); Jan 6 2026 China export ban +14%; Jan 8 -29.54% AH miss held; Feb 25 +310% in 2 months; Mar 2 ~4x from entry; Apr 24 "1057% gains – not a buy now, do not short"; Jun 11 Reuters InP/China mainstream validation
+
+---
+
 ## Mid-cap AI Exposure Watchlist — Last updated: 2026-06-09T11:52:27Z
 
 - **View**: Speculative research / watchlist — **no position held** in any of these
