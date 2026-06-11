@@ -32,13 +32,14 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ---
 
-## $MRVL (Marvell Technology) — Last updated: 2026-06-08T14:01:34Z
+## $MRVL (Marvell Technology) — Last updated: 2026-06-11T18:19:06Z
 
 - **View**: Bullish (top US equity pick)
 - **Latest signal**: Serenity reaffirmed $MRVL as part of a curated US equities "goated" list — a high-conviction selection of preferred US names shared as a recap for new followers. Positioned alongside $ARM and $INTC as core US semiconductor/tech holdings.
 - **Post**: [2063984786918854663](https://x.com/aleabitoreddit/status/2063984786918854663) — 2026-06-08T14:01:34Z
 - **Key quote**: "Still think this US list from $MRVL to $ARM to $INTC was goated. Just as a recap if new followers were wondering what US equities I like."
 - **Thesis type**: High-conviction US equity list (semiconductor/tech)
+- **Prior signals**: Jun 11 18:19 Iran ceasefire macro observation: $MRVL named alongside $SNDK and $LITE as rising on Trump's cancellation of Iran strikes — "Just in case you're wondering why indexes + individual names like $SNDK to $MRVL to $LITE are green now. Trump just cancelled attacks on Iran. This market is so volatile." Not a new buy call; contextual de-escalation catalyst note. [[2065136761077158061]](https://x.com/aleabitoreddit/status/2065136761077158061) — 2026-06-11T18:19:06Z
 
 ---
 
@@ -107,14 +108,14 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ---
 
-## $LITE (Lumentum Holdings) — Last updated: 2026-06-10T13:44:57Z
+## $LITE (Lumentum Holdings) — Last updated: 2026-06-11T18:19:06Z
 
 - **View**: Bullish (CPO Scale-Up optical confirmed H2 2027; volume ramp 2028; joint NVDA+LITE timeline corroboration)
 - **Latest signal**: Serenity published a joint LITE+NVDA confirmation summary: LITE management at Mizuho Technology Conference reaffirmed CPO Scale-Up optical shipping H2 2027, formal ramp 2028 — "no delays, as this aligns with previous timelines shared." Coupled with the NVDA SVP scale-out confirmation (H2 2026 CPO mass production ramp): "The leading companies in Nvidia and Lumentum probably know their own timelines better than incorrect analyst reports telling them no. And both are incredibly bullish on TAM and opportunities."
 - **Post**: [2064565558432190724](https://x.com/aleabitoreddit/status/2064565558432190724) — 2026-06-10T04:29:21Z
 - **Key quote**: "No delays, as this aligns with previous timelines shared … both [NVDA and LITE] are incredibly bullish on TAM and opportunities."
 - **Thesis type**: CPO Scale-Up optical components; AI data center next-gen interconnect supply-chain
-- **Prior signals**: Jun 10 13:44 recovery reaffirmation: 'optical players from $LITE to $AAOI and $SIVE are slightly recovering as they should. The initial selloff was just stupid.' [[2064705380933074945]](https://x.com/aleabitoreddit/status/2064705380933074945) — 2026-06-10T13:44:57Z; TLDR summary reaffirm — "Nvidia and Lumentum executives after: Bullish on CPO, timelines accelerating" [2064576200211861981](https://x.com/aleabitoreddit/status/2064576200211861981) — 2026-06-10T05:11:38Z; Initial LITE Mizuho confirmation [2064521404859719681](https://x.com/aleabitoreddit/status/2064521404859719681) — 2026-06-10T01:33:54Z ("The company expects to start shipping Scale-Up optical products in the second half of 2027, with formal volume ramp-up in 2028"); Mid-cap AI Watchlist (no position) Jun 9; photonics volatility reaffirmation Jun 9 14:57 [2064361170270933269](https://x.com/aleabitoreddit/status/2064361170270933269) — "photonics from $AAOI to $LITE or $SIVE are not disappearing anytime soon"
+- **Prior signals**: Jun 11 18:19 Iran ceasefire macro tailwind: $LITE named alongside $SNDK and $MRVL as rising on Trump's cancellation of Iran strikes — "Trump just cancelled attacks on Iran. This market is so volatile." Not a new thesis update; contextual de-escalation catalyst note. [[2065136761077158061]](https://x.com/aleabitoreddit/status/2065136761077158061) — 2026-06-11T18:19:06Z; Jun 10 13:44 recovery reaffirmation: 'optical players from $LITE to $AAOI and $SIVE are slightly recovering as they should. The initial selloff was just stupid.' [[2064705380933074945]](https://x.com/aleabitoreddit/status/2064705380933074945) — 2026-06-10T13:44:57Z; TLDR summary reaffirm — "Nvidia and Lumentum executives after: Bullish on CPO, timelines accelerating" [2064576200211861981](https://x.com/aleabitoreddit/status/2064576200211861981) — 2026-06-10T05:11:38Z; Initial LITE Mizuho confirmation [2064521404859719681](https://x.com/aleabitoreddit/status/2064521404859719681) — 2026-06-10T01:33:54Z ("The company expects to start shipping Scale-Up optical products in the second half of 2027, with formal volume ramp-up in 2028"); Mid-cap AI Watchlist (no position) Jun 9; photonics volatility reaffirmation Jun 9 14:57 [2064361170270933269](https://x.com/aleabitoreddit/status/2064361170270933269) — "photonics from $AAOI to $LITE or $SIVE are not disappearing anytime soon"
 
 ---
 
@@ -239,3 +240,14 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 - **Key quote**: "New Anthropic news looks like a potential tailwind for the Neocloud colo sector. Such as $WULF, $CIFR, $WYFI, $HUT and others (not named yet)."
 - **Thesis type**: Neocloud data-center colocation; Anthropic demand-expansion catalyst
 - **Caveat**: Observational/research note; no position disclosed
+
+---
+
+## $SNDK (Sandisk Corp) — Last updated: 2026-06-11T18:19:06Z
+
+- **View**: Macro observational (Iran ceasefire de-escalation tailwind; no independent buy/sell signal)
+- **Latest signal**: Serenity named $SNDK alongside $MRVL and $LITE as stocks rising due to Trump's cancellation of Iran strikes: "Just in case you're wondering why indexes + individual names like $SNDK to $MRVL to $LITE are green now. Trump just cancelled attacks on Iran. This market is so volatile." This is a market-context observation, not a primary thesis or position announcement.
+- **Post**: [2065136761077158061](https://x.com/aleabitoreddit/status/2065136761077158061) — 2026-06-11T18:19:06Z
+- **Key quote**: "Just in case you're wondering why indexes + individual names like $SNDK to $MRVL to $LITE are green now. Trump just cancelled attacks on Iran."
+- **Thesis type**: Geopolitical macro observation (Iran de-escalation tailwind); semiconductor/storage sector (Sandisk Corp); no independent investment thesis
+- **Caveat**: Passing contextual mention only; Serenity did not express an independent fundamental view on SNDK; no position disclosed; movement attributed entirely to Trump/Iran geopolitical catalyst
