@@ -195,3 +195,47 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 - **Thesis type**: SpaceX IPO mega-event macro observation; index-rebalancing market-structure commentary; related to $LPK SpaceX supply-chain discovery and $SIVE institutional-accumulation pre-IPO thesis
 - **Prior signals**: Jun 11 14:07 Frankfurt Bank strategist note: "8% of US current-account deficit could be refinanced in a single day by overseas demand for SpaceX ($SPCX) shares" — SpaceX IPO framed as historically unprecedented mega-event [[2065073494220849660]](https://x.com/aleabitoreddit/status/2065073494220849660) — 2026-06-11T14:07:42Z
 - **Note**: $SPCX references SpaceX's expected public listing ticker. These are macro market-structure observations, not position entry/exit signals. Connected supply-chain plays: $LPK (disclosed SpaceX supplier in US import logs), $SIVE (space/defense photonics with pre-IPO institutional accumulation narrative).
+
+---
+
+## $WULF (Terawulf Inc) — Last updated: 2026-06-11T17:54:35Z
+
+- **View**: Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)
+- **Latest signal**: Serenity flagged Anthropic's first DC leasing push — "more than a dozen letters of intent with U.S. developers" per The Information — as a "potential tailwind for the Neocloud colo sector," naming $WULF as one of the direct beneficiaries. No position disclosed.
+- **Post**: [2065130589204992048](https://x.com/aleabitoreddit/status/2065130589204992048) — 2026-06-11T17:54:35Z
+- **Key quote**: "New Anthropic news looks like a potential tailwind for the Neocloud colo sector. Such as $WULF, $CIFR, $WYFI, $HUT and others (not named yet). As Anthropic is pursuing its first DC leases."
+- **Thesis type**: Neocloud data-center colocation; Anthropic demand-expansion catalyst (DC-leasing LOI pipeline)
+- **Caveat**: Observational/research note; no position disclosed; Serenity does not explicitly hold these names
+
+---
+
+## $CIFR (Cipher Digital Inc) — Last updated: 2026-06-11T17:54:35Z
+
+- **View**: Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)
+- **Latest signal**: Named alongside $WULF, $WYFI, $HUT as a Neocloud colo beneficiary of Anthropic's first DC leasing push. Serenity cites The Information reporting on a dozen+ LOIs from Anthropic with U.S. developers.
+- **Post**: [2065130589204992048](https://x.com/aleabitoreddit/status/2065130589204992048) — 2026-06-11T17:54:35Z
+- **Key quote**: "New Anthropic news looks like a potential tailwind for the Neocloud colo sector. Such as $WULF, $CIFR, $WYFI, $HUT and others (not named yet)."
+- **Thesis type**: Neocloud data-center colocation; Anthropic demand-expansion catalyst
+- **Caveat**: Observational/research note; no position disclosed
+
+---
+
+## $WYFI (WhiteFiber Inc) — Last updated: 2026-06-11T17:54:35Z
+
+- **View**: Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)
+- **Latest signal**: Named alongside $WULF, $CIFR, $HUT as a Neocloud colo beneficiary of Anthropic's first DC leasing push (dozen+ LOIs per The Information).
+- **Post**: [2065130589204992048](https://x.com/aleabitoreddit/status/2065130589204992048) — 2026-06-11T17:54:35Z
+- **Key quote**: "New Anthropic news looks like a potential tailwind for the Neocloud colo sector. Such as $WULF, $CIFR, $WYFI, $HUT and others (not named yet)."
+- **Thesis type**: Neocloud data-center colocation; Anthropic demand-expansion catalyst
+- **Caveat**: Observational/research note; no position disclosed
+
+---
+
+## $HUT (Hut 8 Corp) — Last updated: 2026-06-11T17:54:35Z
+
+- **View**: Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)
+- **Latest signal**: Named alongside $WULF, $CIFR, $WYFI as a Neocloud colo beneficiary of Anthropic's first DC leasing push (dozen+ LOIs per The Information).
+- **Post**: [2065130589204992048](https://x.com/aleabitoreddit/status/2065130589204992048) — 2026-06-11T17:54:35Z
+- **Key quote**: "New Anthropic news looks like a potential tailwind for the Neocloud colo sector. Such as $WULF, $CIFR, $WYFI, $HUT and others (not named yet)."
+- **Thesis type**: Neocloud data-center colocation; Anthropic demand-expansion catalyst
+- **Caveat**: Observational/research note; no position disclosed
