@@ -10,14 +10,14 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ---
 
-## $SIVE — Last updated: 2026-06-10T13:44:57Z
+## $SIVE — Last updated: 2026-06-11T01:38:21Z
 
 - **View**: Bullish (space/defense catalyst + multi-institution floor-building)
 - **Latest signal**: New institutional validation wave — BlackRock entered $SIVE as passive owners following index listing; Fidelity Research starting direct positions. Pattern mirrors JP Morgan's earlier entry (small positions → acquired ~5.25% of company). Serenity interprets this as "US institutions validated Sivers's position in photonics and are trying to accumulate positions." Three major US institutions (JPM, BlackRock, Fidelity) now building positions in a thinly floated name = ongoing float squeeze dynamic reinforced.
 - **Post**: [2064608597343125931](https://x.com/aleabitoreddit/status/2064608597343125931) — 2026-06-10T07:20:22Z
 - **Key quote**: "This looks like US institutions validated Sivers's position in photonics and are trying to accumulate positions."
 - **Thesis type**: Space/defense supply-chain chokepoint + multi-institution float squeeze (BlackRock+Fidelity+JPM accumulation pattern; ahead of SpaceX IPO)
-- **Prior signals**: Jun 10 13:44 recovery reaffirmation: 'optical players from $LITE to $AAOI and $SIVE are slightly recovering as they should. The initial selloff was just stupid.' [[2064705380933074945]](https://x.com/aleabitoreddit/status/2064705380933074945) — 2026-06-10T13:44:57Z; Jun 9 07:21 $8.2M production order for Ka-Band Beamforming ICs (allspace/YSS defense chain), "typically leads to more follow-up orders + volume contracts" [2064246556690469123](https://x.com/aleabitoreddit/status/2064246556690469123) — 2026-06-09T07:21:45Z; Jun 9 14:57 volatility reaffirmation: "photonics from $AAOI to $LITE or $SIVE are not disappearing anytime soon… just extremely volatile" [2064361170270933269](https://x.com/aleabitoreddit/status/2064361170270933269) — 2026-06-09T14:57:11Z; JP Morgan 5.25%+ stake disclosure [2063951279278391414](https://x.com/aleabitoreddit/status/2063951279278391414) — 2026-06-08T11:48:25Z
+- **Prior signals**: Jun 11 01:38 institutional-cycle framework reaffirmation: 'There was close to 0 US institutional ownership on $SIVE. And now you see active institutions like JP Morgan, Fidelity Research, and others on the cap table.' Frames SIVE as the current leg of the RKLB ($16 entry → ATH) / NBIS (<30% inst. accumulation → float absorbed by institutions → ATH) institutional-cycle pattern; meta-signal: 'if you see negative sellside reports or an uncanny wave of negative news, it's a good signal they need liquidity'; explicitly links SIVE to Foci (3363) as parallel accumulation-phase long [[2064884912667439129]](https://x.com/aleabitoreddit/status/2064884912667439129) — 2026-06-11T01:38:21Z; Jun 10 13:44 recovery reaffirmation: 'optical players from $LITE to $AAOI and $SIVE are slightly recovering as they should. The initial selloff was just stupid.' [[2064705380933074945]](https://x.com/aleabitoreddit/status/2064705380933074945) — 2026-06-10T13:44:57Z; Jun 9 07:21 $8.2M production order for Ka-Band Beamforming ICs (allspace/YSS defense chain), "typically leads to more follow-up orders + volume contracts" [2064246556690469123](https://x.com/aleabitoreddit/status/2064246556690469123) — 2026-06-09T07:21:45Z; Jun 9 14:57 volatility reaffirmation: "photonics from $AAOI to $LITE or $SIVE are not disappearing anytime soon… just extremely volatile" [2064361170270933269](https://x.com/aleabitoreddit/status/2064361170270933269) — 2026-06-09T14:57:11Z; JP Morgan 5.25%+ stake disclosure [2063951279278391414](https://x.com/aleabitoreddit/status/2063951279278391414) — 2026-06-08T11:48:25Z
 
 ---
 
@@ -125,6 +125,17 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 - **Key quote**: "Bro this has gotta be the dumbest CPO/800V selloff I've seen. Since the selloff from their claim $MU had 0 share of Nvidia HBM4"
 - **Thesis type**: HBM4 AI memory / Rubin-generation supply-chain; contrarian long on false analyst negative reports; cross-ticker pattern validation with NVDA CPO/800V thesis
 - **Prior signals**: Original MU/HBM4 buy-the-dip pattern documented [2064521404859719681](https://x.com/aleabitoreddit/status/2064521404859719681) — 2026-06-10T01:33:54Z; "MU finally hits $1 Trillion marketcap" memory-supercycle reaffirm — 2026-05-26
+
+---
+
+## Foci (3363) — Last updated: 2026-06-11T01:38:21Z
+
+- **View**: Bullish (expected NVDA/TSM optical bottleneck; contrarian — negative sellside = institutional accumulation signal)
+- **Latest signal**: Serenity stated "I expect Foci (3363) to be a bottleneck for both $NVDA and $TSM optical programs" while noting that "firms implying you to sell that at $2.5B valuations alongside $HIMX." Frames current negative sell-side pressure as a buy signal, using the analogy of SIVE, NBIS, and RKLB institutional-accumulation cycles: "if you see negative sellside reports or an uncanny wave of negative news, it's a good signal they need liquidity." $2.5B valuation is presented as undervaluing the optical-bottleneck potential.
+- **Post**: [2064884912667439129](https://x.com/aleabitoreddit/status/2064884912667439129) — 2026-06-11T01:38:21Z
+- **Key quote**: "I expect Foci (3363) to be a bottleneck for both $NVDA and $TSM optical programs and now there's firms implying you to sell that at $2.5B valuations alongside $HIMX."
+- **Thesis type**: Optical networking / CPO supply-chain bottleneck (NVDA + TSM ecosystem); institutional-accumulation pattern play
+- **Prior signals**: Jun 3 Taiwan CPO longs day: Foci +~10% alongside Shunsin/Xintec; May 25 MSSCorps/FOCI named in UDN article on TSM COUPE + AI optical markets; May 30 one-year MC prediction: "FOCI $15B" (alongside AAOI $70B, SIVE $30B, Shunsin $10B); Jun 3 named as part of Taiwan CPO best risk/reward group (with SIVE, AAOI, Shunsin)
 
 ---
 
