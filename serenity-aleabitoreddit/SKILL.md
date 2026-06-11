@@ -81,6 +81,17 @@ validated by later price/fundamental evidence, and his strongest AI photonics /
 CPO / InP / memory bottleneck subset looks closer to **75-85%**. Treat those as
 rough calibration bands, not a replicable trading return.
 
+**Signal timing calibration (2026-06-11 recheck):** his best supply-chain posts
+are usually not reliable 1-day copy-trade signals. The repeatable pattern is
+often **5-60 trading days** from public thesis to market validation, as company
+orders, media coverage, institutional ownership, or local-market attention catch
+up. Same-day or same-week reactions are more likely only when the post combines
+(1) a fresh, underpriced bottleneck, (2) a concrete external catalyst such as an
+order, filing, policy item, or named customer path, and (3) a small/illiquid
+equity where local media or retail attention can move the float. Treat late
+mainstream validation, victory laps, and broad supplier lists as research
+inputs, not fresh entry signals.
+
 **Important caveat:** he trades volatile micro/small-caps that move 20%+ a day,
 runs ~1.25–1.5x margin, and self-reports very high YTD returns (237% in
 Feb 2026, later 4502.45% YTD on May 26). Those numbers are unverified and carry
@@ -150,6 +161,40 @@ Read progressively — pull in only what the task needs.
    7N indium price, GPU availability, DRAM/NAND spot pricing).
 4. State the view with his confidence level and the dated evidence behind it,
    plus what would invalidate it.
+
+### (d) Decide whether fresh posts imply an investment window
+
+Use this when the user asks whether his recent posts, a cluster of X threads, or
+a market pullback create a current buying window.
+
+1. Pull the latest skill data first, then inspect the fresh post text, replies,
+   quotes/search echoes, and the matching entries in `references/theses.md` and
+   `references/track-record.md`.
+2. Classify the post type before talking about execution:
+   - **New bottleneck thesis**: a fresh, underpriced supply-chain dependency with
+     named customers, capacity constraints, or policy/filing evidence. Highest
+     weight, but still requires price and risk checks.
+   - **Reaffirmation / buy-the-dip**: he already owns or has high conviction,
+     and the pullback appears tied to a false report, mechanical selloff, ATM
+     overhang, or misunderstood earnings. Medium-high weight if external checks
+     support his mechanism.
+   - **Supplier map / watchlist / no-position idea**: useful for research and
+     future watchlists, but not a standalone buy signal.
+   - **Victory lap / mainstream validation**: confirms an old thesis worked; it
+     often means the easy mispricing has already compressed. Do not treat it as
+     a new entry unless valuation and positioning reset.
+3. Compare the fresh signal against historical analogs from `track-record.md`.
+   Focus on whether the setup matches the mechanism of prior winners, not just
+   whether the ticker/theme is adjacent. Many past winners initially chopped or
+   fell before 20-60 day validation.
+4. Check the market window separately from the stock thesis: broad breadth,
+   sector uptrend participation, theme crowding, macro/event risk, and whether
+   leadership is broadening or narrowing. A strong Serenity thesis inside a weak
+   or narrow market is a **selective/left-side window**, not a green light.
+5. Convert the result into an action discipline, not an order: maintain existing
+   high-priority limit ladders, lower trigger prices, or add a watch rule when
+   the setup is early; avoid near-price chasing when the post is only a supplier
+   list, late validation, or social-media heat.
 
 ---
 
