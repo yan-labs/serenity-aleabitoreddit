@@ -182,3 +182,14 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 - **Key quote**: "Somehow it's leading EU's efforts to create a $TSEM silicon photonics foundry + supply chain at ~€1.1B MC? That R&D directors from ASE cite + others as future CPO routes."
 - **Thesis type**: EU silicon photonics foundry / CPO supply-chain alternative ($TSEM/$GFS peer); NVDA-evaluated; development-stage → production 2027–2028; Europe-backed
 - **Risk**: Development stage — Oct 2026 completion target not yet proven; current "automaker supplier" earnings base provides limited near-term re-rating catalysts; Serenity explicitly acknowledges being "early"; position size / conviction level not disclosed; $TSEM named as the "de-risked route" for lower-risk exposure to the same photonics thesis
+
+---
+
+## $SPCX (SpaceX) — Last updated: 2026-06-11T14:07:42Z
+
+- **View**: Macro-observational / IPO catalyst watch (no explicit position disclosed)
+- **Latest signal**: Serenity highlighted a Frankfurt Bank strategist note that 8% of the US current-account deficit could be refinanced in a single day by overseas demand for SpaceX ($SPCX) shares — framing the SpaceX IPO as a historically unprecedented mega-event. "Excited to see how markets react around a Mega-IPO... Don't think there's been any historical precedence like this yet?" No buy/sell call; analytical commentary on macro IPO impact magnitude.
+- **Post**: [2065073494220849660](https://x.com/aleabitoreddit/status/2065073494220849660) — 2026-06-11T14:07:42Z
+- **Key quote**: "8% of US current-account deficit could be refinanced in a single day by overseas demand for SpaceX ($SPCX) shares."
+- **Thesis type**: SpaceX IPO mega-event macro observation; related to $LPK SpaceX supply-chain discovery and $SIVE institutional-accumulation pre-IPO thesis
+- **Note**: $SPCX references SpaceX's expected public listing ticker. This is a macro market-structure note, not a position entry/exit signal. Connected supply-chain plays: $LPK (disclosed SpaceX supplier in US import logs), $SIVE (space/defense photonics with pre-IPO institutional accumulation narrative).
