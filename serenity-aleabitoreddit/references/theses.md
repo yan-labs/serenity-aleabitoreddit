@@ -80,7 +80,7 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 - **Post**: [2064314680521507114](https://x.com/aleabitoreddit/status/2064314680521507114) — 2026-06-09T11:52:27Z
 - **Key quote**: "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above)"
 - **Thesis type**: Specialty/analog foundry; AI photonics / CPO supply-chain; current disclosed holding
-- **Prior signals**: Long Mar 11 2026; +63% in 2 weeks self-reported; reaffirmed alongside AAOI and SIVE as preferred photonics-cluster exposure; May 27 milestone cited TSEM-to-AAOI free-idea sharing as directionally right
+- **Prior signals**: Long Mar 11 2026; +63% in 2 weeks self-reported; reaffirmed alongside AAOI and SIVE as preferred photonics-cluster exposure; May 27 milestone cited TSEM-to-AAOI free-idea sharing as directionally right; Jun 11 09:55 passive reaffirmation as 'de-risked route' vs $XFAB silicon photonics play — 'people can take the de-risked route with Tower directly (which I also wrote a thesis on awhile back and also like)' [[2065009883133644963]](https://x.com/aleabitoreddit/status/2065009883133644963) — 2026-06-11T09:54:56Z
 
 ---
 
@@ -171,3 +171,14 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 - **Thesis type**: SpaceX IPO supply-chain discovery (found in US import logs); also previously linked to glass-substrate equipment thesis (April–May 2026)
 - **Prior signals**: May 25 'Turned out pretty well' after April entry — original thesis framed around glass-substrate equipment context; May 19 mentioned alongside glass-substrate supply-chain discussion (AI GPU/ASIC/CPO demand may create ABF shortage by 2027). SpaceX supplier angle is new as of Jun 11.
 - **Risk**: Low-conviction by Serenity's own admission; no confirmed contract scope; position entry predates SpaceX IPO catalyst; exploratory DM-sourced lead
+
+---
+
+## $XFAB (X-FAB Silicon Foundries SE) — Last updated: 2026-06-11T09:54:56Z
+
+- **View**: Bullish (EU silicon photonics foundry alternative; early-stage; development-to-production 2027–2028; contrarian vs. "automaker supplier" perception)
+- **Latest signal**: Serenity framed $XFAB as the leading EU effort to build a silicon photonics foundry alternative to $TSEM and $GFS, backed by European government support with active NVDA evaluations underway. At ~€1.1B market cap, Serenity argues markets still price it as a "depressed automaker supplier," ignoring its silicon photonics foundry roadmap: development finishing Oct 2026, production scaling 2027, mass production 2028 (working since 2023). R&D directors from ASE cite $XFAB as a future CPO (Co-Packaged Optics) route. Serenity explicitly acknowledges being "might just really early" and that risk/reward depends on commercialization execution. Also explicitly names $TSEM as the "de-risked route" for those wanting lower-risk photonics exposure.
+- **Post**: [2065009883133644963](https://x.com/aleabitoreddit/status/2065009883133644963) — 2026-06-11T09:54:56Z
+- **Key quote**: "Somehow it's leading EU's efforts to create a $TSEM silicon photonics foundry + supply chain at ~€1.1B MC? That R&D directors from ASE cite + others as future CPO routes."
+- **Thesis type**: EU silicon photonics foundry / CPO supply-chain alternative ($TSEM/$GFS peer); NVDA-evaluated; development-stage → production 2027–2028; Europe-backed
+- **Risk**: Development stage — Oct 2026 completion target not yet proven; current "automaker supplier" earnings base provides limited near-term re-rating catalysts; Serenity explicitly acknowledges being "early"; position size / conviction level not disclosed; $TSEM named as the "de-risked route" for lower-risk exposure to the same photonics thesis
