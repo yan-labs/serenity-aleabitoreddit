@@ -64,14 +64,14 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ---
 
-## $NBIS (Nebius Group) — Last updated: 2026-06-09T11:52:27Z
+## $NBIS (Nebius Group) — Last updated: 2026-06-12T02:39:57Z
 
 - **View**: Bullish / High Conviction (current disclosed holding)
 - **Latest signal**: Confirmed as active financial interest in a June 9 AI mid-cap exposure list; one of only three tickers Serenity explicitly names as a current holding (alongside $TSEM and $AAOI). The broader AI $10-100B bucket is described as having "compelling ROI" relative to $ARM and $MRVL, which "ran quite a bit." NBIS has been Serenity's defining multi-period position since Sep 2025.
 - **Post**: [2064314680521507114](https://x.com/aleabitoreddit/status/2064314680521507114) — 2026-06-09T11:52:27Z
 - **Key quote**: "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above) ... Still feels like many of these have room to go."
 - **Thesis type**: Neocloud AI infrastructure (high-margin GPU cloud, Clickhouse/Avride/Toloka sum-of-parts); current disclosed holding
-- **Prior signals**: Long from Sep 2025 (~$750K→$2M+); NVDA $2B strategic investment (Mar 2026); Q3/Q4 blowout earnings; France €8B AI cloud deal (Jun 1 2026); ~$60B market cap milestone; Leopold Aschenbrenner 5.6% stake; consistent outperformer vs IREN/CIFR neocloud peers
+- **Prior signals**: Jun 12 02:39 Nasdaq 100 inclusion milestone: Serenity celebrates $NBIS joining Nasdaq 100 alongside $ALAB and $RKLB — "Woah, $NBIS, $ALAB, and $RKLB got added to Nasdaq 100! Fun to see both Astera, Rocketlab and Weebius grow up from being small companies… Into the largest ones on Nasdaq." Index inclusion triggers forced passive buying; validates long-term institutional thesis [[2065262802328293497]](https://x.com/aleabitoreddit/status/2065262802328293497) — 2026-06-12T02:39:57Z; Long from Sep 2025 (~$750K→$2M+); NVDA $2B strategic investment (Mar 2026); Q3/Q4 blowout earnings; France €8B AI cloud deal (Jun 1 2026); ~$60B market cap milestone; Leopold Aschenbrenner 5.6% stake; consistent outperformer vs IREN/CIFR neocloud peers
 
 ---
 
@@ -251,3 +251,26 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 - **Key quote**: "Just in case you're wondering why indexes + individual names like $SNDK to $MRVL to $LITE are green now. Trump just cancelled attacks on Iran."
 - **Thesis type**: Geopolitical macro observation (Iran de-escalation tailwind); semiconductor/storage sector (Sandisk Corp); no independent investment thesis
 - **Caveat**: Passing contextual mention only; Serenity did not express an independent fundamental view on SNDK; no position disclosed; movement attributed entirely to Trump/Iran geopolitical catalyst
+
+---
+
+## $ALAB (Astera Labs, Inc) — Last updated: 2026-06-12T02:39:57Z
+
+- **View**: Index inclusion milestone observation (positive; Nasdaq 100 addition; no position disclosed)
+- **Latest signal**: Serenity celebrated $ALAB joining the Nasdaq 100 alongside her disclosed holding $NBIS and $RKLB — "Woah, $NBIS, $ALAB, and $RKLB got added to Nasdaq 100! Fun to see both Astera, Rocketlab and Weebius grow up from being small companies… Into the largest ones on Nasdaq." Astera Labs is a leading AI data center interconnect semiconductor company (PCIe retimers, SmartNICs, CXL fabric); Nasdaq 100 index inclusion triggers forced passive buying from index-tracking funds.
+- **Post**: [2065262802328293497](https://x.com/aleabitoreddit/status/2065262802328293497) — 2026-06-12T02:39:57Z
+- **Key quote**: "Woah, $NBIS, $ALAB, and $RKLB got added to Nasdaq 100! Fun to see both Astera, Rocketlab and Weebius grow up from being small companies…"
+- **Thesis type**: AI data center interconnect (PCIe retimers, SmartNICs, CXL fabric); Nasdaq 100 index inclusion forced-buying catalyst
+- **Caveat**: No position disclosed by Serenity; mentioned as a milestone alongside her disclosed $NBIS holding; celebratory observation rather than a new buy call
+
+---
+
+## $RKLB (Rocket Lab Corp) — Last updated: 2026-06-12T02:39:57Z
+
+- **View**: Nasdaq 100 milestone validation — prior high-conviction long thesis fully realized; now serves as the canonical reference template for active theses ($NBIS, $SIVE)
+- **Latest signal**: Serenity celebrated $RKLB joining the Nasdaq 100 alongside $NBIS and $ALAB — "Fun to see both Astera, Rocketlab and Weebius grow up from being small companies… Into the largest ones on Nasdaq." This is the culminating milestone for Serenity's prior RKLB thesis: the trajectory from ~$16 thesis entry through institutional accumulation to Nasdaq 100 inclusion is the exact pattern she now applies as a template when analyzing $NBIS and $SIVE (institutions with <30% ownership → float absorption → ATH → large-cap index status).
+- **Post**: [2065262802328293497](https://x.com/aleabitoreddit/status/2065262802328293497) — 2026-06-12T02:39:57Z
+- **Key quote**: "Fun to see both Astera, Rocketlab and Weebius grow up from being small companies… Into the largest ones on Nasdaq"
+- **Thesis type**: Space launch / defense systems; prior institutional-accumulation cycle play (now in Nasdaq 100 = past optimal entry window); canonical "RKLB pattern" template for current $NBIS and $SIVE theses
+- **Prior signals**: Repeatedly referenced in $SIVE and $NBIS thesis entries as the template for the institutional-accumulation cycle: "RKLB ($16 entry → ATH)" and "$NBIS (<30% inst. accumulation → float absorbed by institutions → ATH)" — Nasdaq 100 inclusion validates the full pattern from first-mentioned entry through institutional milestone
+- **Caveat**: No current position indicated; Serenity's thesis entry was at ~$16; Nasdaq 100 inclusion places RKLB far beyond original thesis entry range; this is a celebratory retrospective, not a fresh buy call. "Weebius" = Serenity's nickname for Nebius ($NBIS)
