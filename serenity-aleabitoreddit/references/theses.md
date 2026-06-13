@@ -10,6 +10,15 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ---
 
+## $AXTI — AXT Inc
+
+- **Latest signal**: Opportunistic/Bullish — AI export wars creating supply-chain bottlenecks; upstream compound semiconductor players like AXTI (InP substrates) positioned to benefit "in the near future"
+- **Latest tweet**: [2065650434644304165](https://x.com/aleabitoreddit/status/2065650434644304165) — 2026-06-13T04:20:16Z
+- **Quote**: "The AI supremacy Wars begins. Think a lot of the upstream supply chain bottlenecks caused by each Country export controlling each other (eg. $AXTI). Should present some interesting opportunities in the near future."
+- **Context**: Serenity cites US government export controls on Anthropic's Fable/Mythos AI models to foreign nationals as evidence of escalating AI supremacy competition. Uses AXTI as an illustrative example of upstream supply-chain beneficiaries amid inter-country export restrictions. **Note:** Prior AXTI call (Dec 2025 entry ~$700M MC) returned +1,057%+ by Apr 2026; this is a fresh macro-thesis mention, not a new explicit buy signal. Views new wave of AI export controls as a second-order catalyst for InP wafer substrate players.
+
+---
+
 ## $SPCX — SpaceX
 
 - **Latest signal**: Bullish — IPO debut confirmed; now trading at $2.15T+ market cap
