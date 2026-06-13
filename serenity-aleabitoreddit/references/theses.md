@@ -10,6 +10,15 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ---
 
+## $SIVE — (SEK-listed)
+
+- **Latest signal**: Bullish (fully validated) — Original long thesis at 4 SEK (~March 2026); now up ~1900%. Ranked "2nd greatest thesis of all time after $AXTI." US institutions (JPM, Fidelity) only recently entering positions, suggesting adoption tailwind continues.
+- **Latest tweet**: [2065779524248510758](https://x.com/aleabitoreddit/status/2065779524248510758) — 2026-06-13T12:53:13Z
+- **Quote**: "It's been officially 3 months since I posted my $SIVE long thesis back at 4 SEK. This idea is now up ~1900%… With many US institutions from JPM to Fidelity only recently entering positions. Probably my 2nd greatest thesis of all time after $AXTI."
+- **Context**: SEK-listed stock. Original long thesis initiated ~March 13, 2026 at 4 SEK entry. By June 13, 2026, up ~1900% (~3 months). Major institutions (JPM, Fidelity) have only recently begun entering — indicating potential ongoing institutional adoption tailwind despite already large gain. Ranked #2 all-time call after $AXTI. No explicit exit signal stated.
+
+---
+
 ## $AXTI — AXT Inc
 
 - **Latest signal**: Opportunistic/Bullish — AI export wars creating supply-chain bottlenecks; upstream compound semiconductor players like AXTI (InP substrates) positioned to benefit "in the near future"

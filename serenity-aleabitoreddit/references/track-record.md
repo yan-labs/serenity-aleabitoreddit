@@ -8,9 +8,10 @@ Tracks Serenity's publicly stated dated calls, position changes, and outcomes. N
 
 | Date | Source | Ticker | Call | Entry | Outcome | Notes |
 |------|--------|--------|------|-------|---------|-------|
-| 2026-06-12 | X [2065289672356745561](https://x.com/aleabitoreddit/status/2065289672356745561) | $SIVE | Bullish — "same range as where ALAB/LITE/AAOI were" at ~$3B MC | ~$3B MC | Ongoing | Early-stage comparable to 2025 high-conviction calls |
+| 2026-06-12 | X [2065289672356745561](https://x.com/aleabitoreddit/status/2065289672356745561) | $SIVE | Bullish — "same range as where ALAB/LITE/AAOI were" at ~$3B MC | ~$3B MC | ✅ +1900% from Mar 2026 origin (validated 2026-06-13) | June 13 tweet confirms original March call up ~1900%; JPM+Fidelity recently entering as of Jun 2026 |
 | 2026-06-11 | X [2065009883133644963](https://x.com/aleabitoreddit/status/2065009883133644963) | $XFAB | Research bullish (~€1.1B MC; EU silicon photonics foundry; early) | ~€1.1B MC | Ongoing | "Might just really early"; development-stage; Oct 2026 target |
 | 2026-06-11 | X [2064992691902140603](https://x.com/aleabitoreddit/status/2064992691902140603) | $LPK | Long (SpaceX supplier found in US import logs) | Undisclosed | Ongoing | Speculative; "not sure what the exact contract entails" |
+| 2026-03-13 (est.) | X [2033463897521520947](https://x.com/aleabitoreddit/status/2033463897521520947) | $SIVE | Long thesis initiation at 4 SEK | 4 SEK | ✅ +1900% by Jun 2026 | Original call; ranked "2nd greatest thesis of all time after $AXTI"; institutions JPM+Fidelity still entering as of Jun 2026 |
 | 2026-03-11 | X | $TSEM | Long | Entry Mar 11 2026 | +63% in 2 weeks (self-reported) | ✅ Hit — held as of Jun 2026 (disclosed position) |
 
 ---
