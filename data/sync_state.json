@@ -1,8 +1,1 @@
-{
-  "target_user_id": "1940360837547565056",
-  "repo": "yan-labs/serenity-aleabitoreddit",
-  "skill_dir": "serenity-aleabitoreddit",
-  "last_tweet_id": "2065973347897557093",
-  "last_update_time": "2026-06-14T16:01:53Z",
-  "note": "Managed by Kollab hourly timer. Do not edit manually."
-}
+{\n  \"target_user_id\": \"1940360837547565056\",\n  \"repo\": \"yan-labs/serenity-aleabitoreddit\",\n  \"skill_dir\": \"serenity-aleabitoreddit\",\n  \"last_tweet_id\": \"2065973347897557093\",\n  \"last_update_time\": \"2026-06-14T17:01:53Z\",\n  \"note\": \"Managed by Kollab hourly timer. Do not edit manually.\"\n}\n
