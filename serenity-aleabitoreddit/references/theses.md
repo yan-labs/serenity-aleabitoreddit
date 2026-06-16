@@ -66,10 +66,10 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ## $SPCX — SpaceX
 
-- **Latest signal**: Bullish — IPO debut confirmed; now trading at $2.15T+ market cap
-- **Latest tweet**: [2065462946785030506](https://x.com/aleabitoreddit/status/2065462946785030506) — 2026-06-12T15:55:15Z
-- **Quote**: "$SPCX is now trading! And it's now over $2.15T+ MC."
-- **Context**: Serenity had been tracking the SPCX IPO closely; same-day tweet (2065434058474307866) noted "everyone is just waiting for the $SPCX IPO in a few hours." IPO confirmed with $2.15T+ market cap on debut — framed as a milestone. Jun 15 tweet (2066360345774764496) notes: "$SPCX successful IPO gives more appetite to risk on themes/IPOs (eg. Space sector)." Bullish macro read: SPCX debut validates risk-on for space-sector themes.
+- **Latest signal**: Bullish (cautious on acquisition valuation) — IPO confirmed at $2.15T+ MC (Jun 12). New Jun 16: $SPCX acquired Cursor (AI coding) for $60B; Serenity surprised at the price, initially skeptical, but posits network-effect / AI training-data flywheel could justify it; cites Elon's Twitter acquisition as precedent for underestimated strategic value. No position change stated.
+- **Latest tweet**: [2066838650193949091](https://x.com/aleabitoreddit/status/2066838650193949091) — 2026-06-16T11:01:48Z
+- **Quote**: "Woah, $SPCX acquired Cursor for $60B. I did not think it was worth that much… Maybe network effect or data for improving models became invaluable? I'm sure Elon has a plan in mind, the Twitter acquisition paid extreme dividends."
+- **Context**: Serenity tracked the SPCX IPO closely; confirmed at $2.15T+ MC on Jun 12. Jun 15 tweet noted "$SPCX successful IPO gives more appetite to risk on themes/IPOs (eg. Space sector)." Jun 16: news of $SPCX acquiring Cursor for $60B surprised Serenity — initial reaction skeptical on pure valuation ("I did not think it was worth that much"), but she floats network effect + data flywheel as a potential rationale, and defers to Elon's track record (Twitter acquisition "paid extreme dividends"). No explicit buy/sell signal; overall SPCX thesis remains constructive.
 
 ---
 
