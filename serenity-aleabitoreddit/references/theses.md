@@ -10,6 +10,15 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ---
 
+## $AMD — Advanced Micro Devices
+
+- **Latest signal**: Catalyst Watch / Supply concern — Trendforce reports AMD is actively trying to secure CW (continuous-wave) laser supply via multiple major procurement orders. AMD is described as "tipping the first domino after NVIDIA" in the CW laser supply race. Other hyperscalers (Amazon, Microsoft) expected to follow. Serenity frames AMD's move as confirming the "invaluable chokepoint" nature of CW laser supply. No explicit long/short position in AMD disclosed; AMD is primarily the demand-side catalyst validating the CW laser bottleneck thesis ($SIVE, $AAOI).
+- **Latest tweet**: [2067206734427697196](https://x.com/aleabitoreddit/status/2067206734427697196) — 2026-06-17T11:24:26Z
+- **Quote**: "Trendforce reports that $AMD is actively trying to secure CW laser supply with multiple major procurement orders… AMD is tipping the first domino after Nvidia."
+- **Context**: AMD's move mirrors NVIDIA, which already locked up Lumentum/Coherent under multi-year LTAs. Now AMD is racing to secure remaining independent Western capacity ($SIVE, $AAOI, Macom). AMD's rationale per Trendforce: "to ensure that its future capacity will not be constrained by NVIDIA and other major CSPs." Serenity expects this to cascade to other hyperscalers, driving further supply scarcity for all CW laser makers.
+
+---
+
 ## $IQE — IQE plc (LON: IQE)
 
 - **Latest signal**: Strongly Bullish — Called at ~$12 as key Western InP epiwafer supplier critical to optical supply chains. Validated: $MTSI secured multi-year IQE supply, then Tower Semiconductor ($TSEM) signed multi-year InP epiwafer deal (Jun 15, 2026). China eased InP substrate exports (Jun 15, Digitimes), relieving upstream capacity bottlenecks → bullish for all InP epiwafer consumers. Supply chain: $AXTI (substrates) → $IQE (epiwafers) → $MTSI, $TSEM, laser makers downstream.
@@ -21,10 +30,10 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ## $SIVE — (SEK-listed)
 
-- **Latest signal**: Bullish (fully validated) — Original long thesis at 4 SEK (~March 2026); now up ~1900%. Ranked "2nd greatest thesis of all time after $AXTI." US institutions (JPM, Fidelity) only recently entering positions, suggesting adoption tailwind continues.
-- **Latest tweet**: [2065779524248510758](https://x.com/aleabitoreddit/status/2065779524248510758) — 2026-06-13T12:53:13Z
-- **Quote**: "It's been officially 3 months since I posted my $SIVE long thesis back at 4 SEK. This idea is now up ~1900%… With many US institutions from JPM to Fidelity only recently entering positions. Probably my 2nd greatest thesis of all time after $AXTI."
-- **Context**: SEK-listed stock. Original long thesis initiated ~March 13, 2026 at 4 SEK entry. By June 13, 2026, up ~1900% (~3 months). Major institutions (JPM, Fidelity) have only recently begun entering — indicating potential ongoing institutional adoption tailwind despite already large gain. Ranked #2 all-time call after $AXTI. No explicit exit signal stated. China InP export easing (Jun 15) is an additional tailwind for SIVE as a laser/optical components maker.
+- **Latest signal**: Bullish (new CW laser demand catalyst) — Original long thesis at 4 SEK (~March 2026); now up ~1900%. Ranked "2nd greatest thesis of all time after $AXTI." US institutions (JPM, Fidelity) only recently entering positions. NEW Jun 17 catalyst: AMD actively procuring CW lasers (Trendforce), creating fresh demand for remaining Western independent CW laser suppliers after Lumentum/Coherent were locked up by NVIDIA. $SIVE is one of the few remaining Western independent CW laser suppliers. Serenity confirms ongoing ownership ("disclosure, own Sive and aaoi").
+- **Latest tweet**: [2067206734427697196](https://x.com/aleabitoreddit/status/2067206734427697196) — 2026-06-17T11:24:26Z
+- **Quote**: "There's not much independent capacity in Western supply chains left other than $SIVE or $AAOI and maybe Macom… (disclosure, own Sive and aaoi)… this just goes and show how invaluable this CW laser chokepoint is and the companies are inside it."
+- **Context**: SEK-listed stock. Original long thesis initiated ~March 13, 2026 at 4 SEK entry. By June 13, 2026, up ~1900% (~3 months). Major institutions (JPM, Fidelity) have only recently begun entering. Jun 17 AMD procurement news is an incremental demand-side catalyst: Lumentum/Coherent are already locked up with NVIDIA under multi-year LTAs, leaving $SIVE and $AAOI as the primary independent Western CW laser capacity. AMD's procurement push — and expected follow-on from other hyperscalers — further validates supply scarcity thesis.
 
 ---
 
@@ -39,19 +48,19 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ## $LITE — Lumentum Holdings
 
-- **Latest signal**: Bullish — Part of Serenity's optical supply chain basket. China eased InP substrate exports (Jun 15), directly benefiting optical players like $LITE. Also cited as direct beneficiary in "optical basket go brrr" from Iran/Strait peace deals reducing macro uncertainty. Validated 2025 call: +174% from ~$330 to ~$904.
-- **Latest tweet**: [2066340661633372452](https://x.com/aleabitoreddit/status/2066340661633372452) — 2026-06-15T02:02:59Z
-- **Quote**: "My optical positions are very happy to hear this: From $AXTI (substrates), $IQE (epiwafers) to $AAOI (lasers)/$LITE/$SIVE, and others. Taiwanese optical players like VPEC, Landmark, and others should go brrr as well."
-- **Context**: $LITE is a key laser/optical component maker in the InP supply chain. Supply chain flows upstream-to-downstream: $AXTI (substrates) → $IQE (epiwafers) → $LITE, $AAOI, $SIVE (lasers and modules). InP substrate easing unlocks production capacity for all laser makers. Serenity also cited $LITE as a specific "optical basket" beneficiary from macro de-escalation (Iran/Strait deals, Jun 15 tweet 2066360345774764496).
+- **Latest signal**: Mixed — Part of Serenity's optical supply chain basket; China eased InP substrate exports (Jun 15), directly benefiting optical players like $LITE. Validated 2025 call: +174% from ~$330 to ~$904. Note Jun 17 update: Lumentum/Coherent are now locked up under multi-year LTAs with NVIDIA, meaning they are NOT available to supply AMD or other hyperscalers; this confirms supply scarcity for remaining independent players ($SIVE, $AAOI). Lumentum itself is described as "already CW laser constrained" and likely buying from Japanese suppliers (Sumitomo/Furukawa) at maximum capacity.
+- **Latest tweet**: [2067206734427697196](https://x.com/aleabitoreddit/status/2067206734427697196) — 2026-06-17T11:24:26Z
+- **Quote**: "Lumentum is already CW laser constrained and is likely buying off Japanese companies like Sumitomo/Furukawa if I had to guess per ER, and those are probably running at max capacity."
+- **Context**: $LITE is a key laser/optical component maker in the InP supply chain. Jun 17 note: Lumentum's NVIDIA LTA locks them in as supply-constrained — bullish for Lumentum's revenue visibility but closes off supply for new customers. This indirectly strengthens the $SIVE/$AAOI thesis by reducing accessible Western CW laser supply for AMD and other hyperscalers. See also InP substrate easing (Jun 15) as upstream supply unlock. Serenity also cited $LITE as a specific "optical basket" beneficiary from macro de-escalation (Jun 15 tweet 2066360345774764496).
 
 ---
 
 ## $AAOI — Applied Optoelectronics Inc
 
-- **Latest signal**: Bullish — Laser company directly benefiting from InP substrate supply chain easing (Jun 15, China Digitimes report). 2025 call fully validated: +483% from ~$30 to ~$175, now ~$14B MC. China InP easing unlocks more production capacity for high-demand laser companies.
-- **Latest tweet**: [2066340661633372452](https://x.com/aleabitoreddit/status/2066340661633372452) — 2026-06-15T02:02:59Z
-- **Quote**: "From $AXTI (substrates), $IQE (epiwafers) to $AAOI (lasers)/$LITE/$SIVE, and others."
-- **Context**: AAOI is a laser company in the optical supply chain (downstream of IQE epiwafers). 2025 thesis entry ~$30, now ~$175 (+483%), market cap grew from ~$3B to ~$14B. InP substrate easing is bullish because AAOI's revenue potential is constrained by how much it can make, not demand. See track-record.md for 2025 entry data.
+- **Latest signal**: Bullish (new CW laser demand catalyst) — Laser company directly benefiting from InP substrate supply chain easing (Jun 15, China Digitimes report). 2025 call fully validated: +483% from ~$30 to ~$175, now ~$14B MC. NEW Jun 17 catalyst: AMD actively procuring CW lasers (Trendforce); $AAOI is one of the few remaining independent Western CW laser suppliers after Lumentum/Coherent were locked up by NVIDIA. Serenity confirms ongoing ownership ("disclosure, own Sive and aaoi").
+- **Latest tweet**: [2067206734427697196](https://x.com/aleabitoreddit/status/2067206734427697196) — 2026-06-17T11:24:26Z
+- **Quote**: "There's not much independent capacity in Western supply chains left other than $SIVE or $AAOI and maybe Macom… (disclosure, own Sive and aaoi)… this just goes and show how invaluable this CW laser chokepoint is and the companies are inside it."
+- **Context**: AAOI is a CW laser and optical components maker. 2025 thesis entry ~$30, now ~$175 (+483%), market cap grew from ~$3B to ~$14B. Jun 17 AMD procurement news is an incremental demand-side catalyst: Lumentum/Coherent's NVIDIA lock-up removes them from the available CW laser market; AMD — and expected hyperscaler follow-ons (AMZN, MSFT) — must now source from $AAOI, $SIVE, or Macom. InP substrate easing (Jun 15) further unlocks upstream capacity supporting AAOI's ability to fulfill increased demand. See track-record.md for 2025 entry data.
 
 ---
 
