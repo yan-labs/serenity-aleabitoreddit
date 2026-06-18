@@ -75,10 +75,10 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ## $SPCX — SpaceX
 
-- **Latest signal**: Bullish (cautious on acquisition valuation) — IPO confirmed at $2.15T+ MC (Jun 12). New Jun 16: $SPCX acquired Cursor (AI coding) for $60B; Serenity surprised at the price, initially skeptical, but posits network-effect / AI training-data flywheel could justify it; cites Elon's Twitter acquisition as precedent for underestimated strategic value. No position change stated.
-- **Latest tweet**: [2066838650193949091](https://x.com/aleabitoreddit/status/2066838650193949091) — 2026-06-16T11:01:48Z
-- **Quote**: "Woah, $SPCX acquired Cursor for $60B. I did not think it was worth that much… Maybe network effect or data for improving models became invaluable? I'm sure Elon has a plan in mind, the Twitter acquisition paid extreme dividends."
-- **Context**: Serenity tracked the SPCX IPO closely; confirmed at $2.15T+ MC on Jun 12. Jun 15 tweet noted "$SPCX successful IPO gives more appetite to risk on themes/IPOs (eg. Space sector)." Jun 16: news of $SPCX acquiring Cursor for $60B surprised Serenity — initial reaction skeptical on pure valuation ("I did not think it was worth that much"), but she floats network effect + data flywheel as a potential rationale, and defers to Elon's track record (Twitter acquisition "paid extreme dividends"). No explicit buy/sell signal; overall SPCX thesis remains constructive.
+- **Latest signal**: Cautious — Cramer inverse signal triggered Jun 18. Jun 17: Jim Cramer gave $SPCX his blessing (Serenity quote-tweet 2067272647545930045). Jun 18 13:45 UTC: Serenity notes "Even $SPCX can't withstand his blessing" — invoking "Jim Cramer's law" as a bearish indicator; implies $SPCX declined post-Cramer endorsement. Prior context: IPO at $2.15T+ MC (Jun 12); $SPCX acquired Cursor for $60B (Jun 16, Serenity cautiously constructive on Elon network-effect thesis). No position in $SPCX disclosed.
+- **Latest tweet**: [2067604528959238272](https://x.com/aleabitoreddit/status/2067604528959238272) — 2026-06-18T13:45:08Z
+- **Quote**: "I think Jim Cramer's law needs to be studied in history books. Even $SPCX can't withstand his blessing."
+- **Context**: Jim Cramer had explicitly blessed $SPCX on Jun 17 (Serenity tweet 2067272647545930045: "Jim Cramer gave $SPCX his blessing"). Jun 18 13:45 UTC follow-up confirms Cramer inverse is in effect — $SPCX declined post-blessing. Serenity's SPCX coverage has shifted from "cautiously constructive on Cursor acquisition" to applying the Cramer inverse framework as the latest signal. This is market commentary, not a personal position change; no explicit buy/sell stated.
 
 ---
 
