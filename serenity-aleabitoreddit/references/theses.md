@@ -160,3 +160,12 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 - **Latest tweet**: [2067795114211340290](https://x.com/aleabitoreddit/status/2067795114211340290) — 2026-06-19T02:22:27Z
 - **Quote**: "How does China manage to smuggle in something the size of a school bus from $ASML? Is the real question."
 - **Context**: ASML's EUV and advanced DUV machines are subject to export restrictions limiting sales to China. Serenity's question highlights a concern that physical circumvention of controls (smuggling) could undermine the assumption that export bans alone protect Western semiconductor equipment suppliers' competitive moat. The tweet includes a URL linking to a relevant news report. Related to the AI supply chain geopolitics thesis running through $AXTI, $IQE, $SIVE, and the photonics basket. No explicit buy/sell signal; classified as a risk-update commentary for the semiconductor equipment export-control narrative.
+
+---
+
+## $LPK — (NASDAQ-targeted; SpaceX supply chain / advanced manufacturing)
+
+- **Latest signal**: Strongly Bullish — "very undervalued" based on missed meeting notes (Jun 19 2026). Key meeting takeaways: NASDAQ listing actively on radar and in discussions; 70% market share targeted; TAM greatly exceeds former projections; 4-5 base case of players with orders this year; industry ready for high volume ramps. Position confirmed ("disclosure: own positions").
+- **Latest tweet**: [2067958378488623499](https://x.com/aleabitoreddit/status/2067958378488623499) — 2026-06-19T13:11:12Z
+- **Quote**: "I do think LPK is very undervalued based on these discussions (disclosure: own positions)."
+- **Context**: Serenity first identified $LPK on Jun 11 2026 via US import logs linking it to SpaceX supply chain (Jun 11 tweet 2064992691902140603: "SpaceX supplier found in US import logs"). The Jun 19 tweet is a major thesis upgrade: meeting notes revealed NASDAQ listing in active discussions, 70% market share target ("unholy target"), TAM exceeding prior projections, near-term order visibility (4-5 players ordering this year), and the industry entering high volume ramp phase. "Disclosure: own positions" confirms an active long. This is Serenity's first explicit undervaluation judgment on LPK — the thesis has moved from speculative discovery to a high-conviction fundamental call. Serenity notes "markets missed this" suggesting the signal may not yet be priced in.
