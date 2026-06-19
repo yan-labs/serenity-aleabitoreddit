@@ -151,3 +151,12 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 - **Latest tweet**: [2066404298163154976](https://x.com/aleabitoreddit/status/2066404298163154976) — 2026-06-15T06:15:51Z
 - **Quote**: "I did say Foosung (093370) was going to be a major winner from the bottleneck created by Chinese export controls on Japan… Most people chase 7.5% index returns, yet random bottlenecks spotted might be 21% in a day lol."
 - **Context**: Korean-listed company (~$1.2B MC at time of original tweet). China export controlled Japan, taking down ~25% of global WF₆ supply. Validated: +21% single-day move (Jun 15 2026).
+
+---
+
+## $ASML — ASML Holding NV
+
+- **Latest signal**: Risk Watch / Commentary — Serenity raises the question of China's physical ability to smuggle ASML lithography machines (EUV/DUV units, "the size of a school bus") despite export controls. Framed rhetorically rather than as an explicit investment call. Implies a potential risk to the export-control-based moat underpinning Western semiconductor equipment advantage. No $ASML position disclosed.
+- **Latest tweet**: [2067795114211340290](https://x.com/aleabitoreddit/status/2067795114211340290) — 2026-06-19T02:22:27Z
+- **Quote**: "How does China manage to smuggle in something the size of a school bus from $ASML? Is the real question."
+- **Context**: ASML's EUV and advanced DUV machines are subject to export restrictions limiting sales to China. Serenity's question highlights a concern that physical circumvention of controls (smuggling) could undermine the assumption that export bans alone protect Western semiconductor equipment suppliers' competitive moat. The tweet includes a URL linking to a relevant news report. Related to the AI supply chain geopolitics thesis running through $AXTI, $IQE, $SIVE, and the photonics basket. No explicit buy/sell signal; classified as a risk-update commentary for the semiconductor equipment export-control narrative.
