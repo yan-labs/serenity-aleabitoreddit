@@ -10,21 +10,30 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ---
 
-## $INTC — Intel Corp
+## $ACMR — ACM Research Inc (+ WUS / 2316 HK)
 
-- **Latest signal**: Commentary / Cautious — Trump announced Intel + Apple partnership on Jun 18 2026, sending $INTC up 8% that day. Serenity's reaction is skeptical: "Intel execs were reportedly surprised by the $AAPL announcement by Donald Trump. TBH, the President should lead Intel's marketing team at this point. Feel's like he's hard carrying the stock." Implies the move is politically catalyzed rather than fundamentally driven. No position in $INTC disclosed.
-- **Latest tweet**: [2067624913834549685](https://x.com/aleabitoreddit/status/2067624913834549685) — 2026-06-18T15:06:08Z
-- **Quote**: "Trump announced Intel + Apple partnership, sending $INTC up 8% today. Intel execs were reportedly surprised by the $AAPL announcement by Donald Trump. TBH, the President should lead Intel's marketing team at this point. Feel's like he's hard carrying the stock."
-- **Context**: $INTC moved +8% on Jun 18 on Trump's Apple partnership announcement, but Serenity frames this as externally driven ("hard carrying"). Cross-ref: Trump truth:39333 (Jun 18 04:29 UTC) had named Intel with domestic fab/tariff protection framing — that signal was Tier 2 (policy tailwind for domestic semis). Serenity's reaction focuses on the stock-move sustainability question rather than endorsing the thesis.
+- **Latest signal**: Long (disclosed exposure, position increase planned) — Jun 20 personal notes confirm $ACMR and WUS remain core positions in the NAV discount + independent AI growth screen. Serenity states intent to "put more concentration into those on top of what I already own Monday" (Mon Jun 22). New context: Wistron (3231 TWO) added to the same screen as the new highest-conviction name. H-Share subsidiary listing for both $ACMR and WUS expected soon, adding an unlock catalyst. Activist investor involvement in WUS adds another potential unlock beyond pure NAV discount.
+- **Latest tweet**: [2068180134667182470](https://x.com/aleabitoreddit/status/2068180134667182470) — 2026-06-20T03:52:23Z
+- **Quote**: "I think both $ACMR and WUS have H-Share subsidiary listing soon, and those were the biggest NAV discounts with independent growth. Then you have a highly successful activist going after WUS so I'd expect some middle ground there. So maybe I'll put more concentration into those on top of what I already own Monday."
+- **Context**: $ACMR (ACM Research, US-listed semiconductor equipment maker, large China exposure) and WUS (2316 HK, holding company with AI growth exposure) are disclosed holdings. Position increase signaled for Mon Jun 22 open. SK Square remains the benchmark holding-company archetype comparator. Activist investor involvement in WUS adds a potential unlock catalyst beyond pure NAV discount. Original Jun 18 discovery tweet: [2067658240612262198](https://x.com/aleabitoreddit/status/2067658240612262198).
 
 ---
 
-## $ACMR — ACM Research Inc (+ WUS / 2316 HK)
+## Wistron (3231 TWO) — Taiwan-listed holding company with AI supply chain exposure
 
-- **Latest signal**: Long (disclosed exposure) — Serenity explicitly states "have exposure to the ones above" when naming $ACMR and WUS (2316 HK) as examples of the "biggest NAV discounts with independent AI growth" screen. SK Square used as comparison. Serenity frames this as a developing theme that is "getting noticed recently."
-- **Latest tweet**: [2067658240612262198](https://x.com/aleabitoreddit/status/2067658240612262198) — 2026-06-18T17:18:34Z
-- **Quote**: "Anyone got a list or ideas of the biggest NAV discounts. But independently has AI growth? Stuff more extreme end like $ACMR and WUS (2316) compared to SK Square. Have exposure to the ones above, just wanted to research more opportunities. Seems to be getting noticed recently."
-- **Context**: New NAV discount + independent AI growth screening methodology. $ACMR (ACM Research, US-listed semiconductor equipment maker, large China exposure) and WUS (2316 HK, holding company with AI growth exposure) are disclosed holdings. SK Square is the benchmark comparison for the "NAV discount + tech" holding-company archetype. Serenity is actively researching additional names in this category.
+- **Latest signal**: Strongly Bullish — New entry Jun 20 2026. "Best one I've seen since $SIVE" among NAV discount + AI growth screens. Key stats: ~$16.2B MC, Q1 revenue up 144% Y/Y, owns 35.46% of Wiwynn (~0.66x Wistron MC). Position likely initiated or increased Mon Jun 22. Wiwynn is an AI server manufacturer; its continued growth is the core thesis driver. Serenity describes this as "growing very fast independently" vs the Korean names which have governance concerns.
+- **Latest tweet**: [2068180134667182470](https://x.com/aleabitoreddit/status/2068180134667182470) — 2026-06-20T03:52:23Z
+- **Quote**: "Wistron (3231) is the best one I've seen since $SIVE + Ayar + Wiwynn are one of my favorite trio. ~$16.2B MC, Q1 revenue up a ridiculous amount with 144% Y/Y growth. Owns 35.46% of Wiwynn, which is ~0.66x of MC. I'd expect Wiwynn to keep on growing. [...] And Wistron was growing very fast independently. So maybe I'll put more concentration into those on top of what I already own Monday, we'll see."
+- **Context**: TWO:3231 listed on Taiwan Stock Exchange. Wistron is the parent company; Wiwynn is the AI server subsidiary. The 35.46% Wiwynn stake at ~0.66x Wistron's own MC creates a significant NAV discount angle on top of independent revenue growth (+144% Y/Y in Q1). Serenity compares it to $SIVE in terms of conviction level. The Monday (Jun 22) purchase signal is actionable. Key risk: Taiwan-listed stock with currency and geopolitical considerations; Wiwynn is the leveraged play on AI server demand. No explicit governance concerns flagged (unlike Korean peers Simmtech and Iljin).
+
+---
+
+## $INTC — Intel Corp
+
+- **Latest signal**: Commentary / Cautious — Trump announced Intel + Apple partnership on Jun 18 2026, sending $INTC up 8% that day. Serenity's reaction is skeptical: "Intel execs were reportedly surprised by the $AAPL announcement by Donald Trump. TBH, the President should lead Intel's marketing team at this point. Feel's like he's hard carrying the stock." Implies the move is politically catalyzed rather than fundamentally driven. No position in $INTC disclosed. Historical entry: ~$115 (Jun 20 retrospective tweet 2068301039946887269) when "everyone thought they couldn't compete with $TSM". Current stance: cautious/commentary only.
+- **Latest tweet**: [2067624913834549685](https://x.com/aleabitoreddit/status/2067624913834549685) — 2026-06-18T15:06:08Z
+- **Quote**: "Trump announced Intel + Apple partnership, sending $INTC up 8% today. Intel execs were reportedly surprised by the $AAPL announcement by Donald Trump. TBH, the President should lead Intel's marketing team at this point. Feel's like he's hard carrying the stock."
+- **Context**: $INTC moved +8% on Jun 18 on Trump's Apple partnership announcement, but Serenity frames this as externally driven ("hard carrying"). Cross-ref: Trump truth:39333 (Jun 18 04:29 UTC) had named Intel with domestic fab/tariff protection framing — that signal was Tier 2 (policy tailwind for domestic semis). Serenity's reaction focuses on the stock-move sustainability question rather than endorsing the thesis.
 
 ---
 
@@ -60,7 +69,7 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 - **Latest signal**: Strongly Bullish — Called at ~$12 as key Western InP epiwafer supplier critical to optical supply chains. Validated: $MTSI secured multi-year IQE supply, then Tower Semiconductor ($TSEM) signed multi-year InP epiwafer deal (Jun 15, 2026). China eased InP substrate exports (Jun 15, Digitimes), relieving upstream capacity bottlenecks → bullish for all InP epiwafer consumers. Supply chain: $AXTI (substrates) → $IQE (epiwafers) → $MTSI, $TSEM, laser makers downstream.
 - **Latest tweet**: [2066421816793714938](https://x.com/aleabitoreddit/status/2066421816793714938) — 2026-06-15T07:25:28Z
 - **Quote**: "Wow, $IQE and $TSEM sign a multi year InP epiwafer deal. Remember I told you all IQE was important to Western optical supply chains back at $12? $MTSI had to go out of their way to secure their supply with IQE. Now there's another critical deal with Tower Semi."
-- **Context**: IQE is the critical InP epiwafer chokepoint in Western optical supply chains. After calling it at $12, thesis validated by two successive multi-year supply agreements ($MTSI then $TSEM), confirming IQE's monopoly-adjacent position. China InP substrate export easing (Jun 15) is a second-order bullish: more upstream inputs → more IQE production capacity → more revenue. Serenity has explicitly held IQE as a core supply chain position; see also "Ur welcome with $IQE" (2066435132471513578, Jun 15 08:18) as victory-lap post.
+- **Context**: IQE is the critical InP epiwafer chokepoint in Western optical supply chains. After calling it at $12, thesis validated by two successive multi-year supply agreements ($MTSI then $TSEM), confirming IQE's monopoly-adjacent position. China InP substrate export easing (Jun 15) is a second-order bullish: more upstream inputs → more IQE production capacity → more revenue. Serenity has explicitly held IQE as a core supply chain position.
 
 ---
 
@@ -69,25 +78,25 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 - **Latest signal**: Bullish (new CW laser demand catalyst) — Original long thesis at 4 SEK (~March 2026); now up ~1900%. Ranked "2nd greatest thesis of all time after $AXTI." US institutions (JPM, Fidelity) only recently entering positions. NEW Jun 17 catalyst: AMD actively procuring CW lasers (Trendforce), creating fresh demand for remaining Western independent CW laser suppliers after Lumentum/Coherent were locked up by NVIDIA. $SIVE is one of the few remaining Western independent CW laser suppliers. Serenity confirms ongoing ownership ("disclosure, own Sive and aaoi").
 - **Latest tweet**: [2067206734427697196](https://x.com/aleabitoreddit/status/2067206734427697196) — 2026-06-17T11:24:26Z
 - **Quote**: "There's not much independent capacity in Western supply chains left other than $SIVE or $AAOI and maybe Macom… (disclosure, own Sive and aaoi)… this just goes and show how invaluable this CW laser chokepoint is and the companies are inside it."
-- **Context**: SEK-listed stock. Original long thesis initiated ~March 13, 2026 at 4 SEK entry. By June 13, 2026, up ~1900% (~3 months). Major institutions (JPM, Fidelity) have only recently begun entering. Jun 17 AMD procurement news is an incremental demand-side catalyst: Lumentum/Coherent are already locked up with NVIDIA under multi-year LTAs, leaving $SIVE and $AAOI as the primary independent Western CW laser capacity. AMD's procurement push — and expected follow-on from other hyperscalers — further validates supply scarcity thesis.
+- **Context**: SEK-listed stock. Original long thesis initiated ~March 13, 2026 at 4 SEK entry. By June 13, 2026, up ~1900% (~3 months). Major institutions (JPM, Fidelity) have only recently begun entering. Jun 17 AMD procurement news is an incremental demand-side catalyst: Lumentum/Coherent are already locked up with NVIDIA under multi-year LTAs, leaving $SIVE and $AAOI as the primary independent Western CW laser capacity.
 
 ---
 
 ## $AXTI — AXT Inc
 
-- **Latest signal**: Bullish — China eased InP substrate exports (Jun 15, source: Digitimes), expected to relieve mass production bottlenecks in the photonics market. InP substrate easing = more upstream capacity flowing through the chain ($AXTI→$IQE→$AAOI/$LITE/$SIVE). Earlier AI export wars signal (Jun 13) framed $AXTI as a supply-chain bottleneck beneficiary in escalating AI supremacy competition.
+- **Latest signal**: Bullish — China eased InP substrate exports (Jun 15, source: Digitimes), expected to relieve mass production bottlenecks in the photonics market. InP substrate easing = more upstream capacity flowing through the chain ($AXTI→$IQE→$AAOI/$LITE/$SIVE).
 - **Latest tweet**: [2066340661633372452](https://x.com/aleabitoreddit/status/2066340661633372452) — 2026-06-15T02:02:59Z
 - **Quote**: "Today, there's a new report that China eased InP substrate exports. Which is expected to relieve mass production bottlenecks in the photonics market. My optical positions are very happy to hear this: From $AXTI (substrates), $IQE (epiwafers) to $AAOI (lasers)/$LITE/$SIVE, and others."
-- **Context**: Original AXTI call (Dec 2025 entry ~$700M MC) returned +1,057%+ by Apr 2026; Reuters InP thesis confirmed Jun 2026. InP substrate easing is bullish because the whole photonics market is currently supply-constrained ("how much can you make" rather than how much demand). More substrates → more epiwafers → more lasers → more revenue. "Not a buy now" at +1,057% level for new entries; but as disclosed position, the easing news is positive.
+- **Context**: Original AXTI call (Dec 2025 entry ~$700M MC) returned +1,057%+ by Apr 2026; Reuters InP thesis confirmed Jun 2026. InP substrate easing is bullish because the whole photonics market is currently supply-constrained. "Not a buy now" at +1,057% level for new entries; but as disclosed position, the easing news is positive.
 
 ---
 
 ## $LITE — Lumentum Holdings
 
-- **Latest signal**: Mixed — Part of Serenity's optical supply chain basket; China eased InP substrate exports (Jun 15), directly benefiting optical players like $LITE. Validated 2025 call: +174% from ~$330 to ~$904. Note Jun 17 update: Lumentum/Coherent are now locked up under multi-year LTAs with NVIDIA, meaning they are NOT available to supply AMD or other hyperscalers; this confirms supply scarcity for remaining independent players ($SIVE, $AAOI). Lumentum itself is described as "already CW laser constrained" and likely buying from Japanese suppliers (Sumitomo/Furukawa) at maximum capacity.
+- **Latest signal**: Mixed — Part of Serenity's optical supply chain basket; China eased InP substrate exports (Jun 15), directly benefiting optical players like $LITE. Validated 2025 call: +174% from ~$330 to ~$904. Note Jun 17 update: Lumentum/Coherent are now locked up under multi-year LTAs with NVIDIA, meaning they are NOT available to supply AMD or other hyperscalers; this confirms supply scarcity for remaining independent players ($SIVE, $AAOI).
 - **Latest tweet**: [2067206734427697196](https://x.com/aleabitoreddit/status/2067206734427697196) — 2026-06-17T11:24:26Z
 - **Quote**: "Lumentum is already CW laser constrained and is likely buying off Japanese companies like Sumitomo/Furukawa if I had to guess per ER, and those are probably running at max capacity."
-- **Context**: $LITE is a key laser/optical component maker in the InP supply chain. Jun 17 note: Lumentum's NVIDIA LTA locks them in as supply-constrained — bullish for Lumentum's revenue visibility but closes off supply for new customers. This indirectly strengthens the $SIVE/$AAOI thesis by reducing accessible Western CW laser supply for AMD and other hyperscalers. See also InP substrate easing (Jun 15) as upstream supply unlock.
+- **Context**: $LITE is a key laser/optical component maker in the InP supply chain. Jun 17 note: Lumentum's NVIDIA LTA locks them in as supply-constrained — bullish for Lumentum's revenue visibility but closes off supply for new customers.
 
 ---
 
@@ -95,8 +104,8 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 - **Latest signal**: Bullish (new CW laser demand catalyst) — Laser company directly benefiting from InP substrate supply chain easing (Jun 15, China Digitimes report). 2025 call fully validated: +483% from ~$30 to ~$175, now ~$14B MC. NEW Jun 17 catalyst: AMD actively procuring CW lasers (Trendforce); $AAOI is one of the few remaining independent Western CW laser suppliers after Lumentum/Coherent were locked up by NVIDIA. Serenity confirms ongoing ownership ("disclosure, own Sive and aaoi").
 - **Latest tweet**: [2067206734427697196](https://x.com/aleabitoreddit/status/2067206734427697196) — 2026-06-17T11:24:26Z
-- **Quote**: "There's not much independent capacity in Western supply chains left other than $SIVE or $AAOI and maybe Macom… (disclosure, own Sive and aaoi)… this just goes and show how invaluable this CW laser chokepoint is and the companies are inside it."
-- **Context**: AAOI is a CW laser and optical components maker. 2025 thesis entry ~$30, now ~$175 (+483%), market cap grew from ~$3B to ~$14B. Jun 17 AMD procurement news is an incremental demand-side catalyst: Lumentum/Coherent's NVIDIA lock-up removes them from the available CW laser market; AMD — and expected hyperscaler follow-ons (AMZN, MSFT) — must now source from $AAOI, $SIVE, or Macom.
+- **Quote**: "There's not much independent capacity in Western supply chains left other than $SIVE or $AAOI and maybe Macom… (disclosure, own Sive and aaoi)."
+- **Context**: AAOI is a CW laser and optical components maker. 2025 thesis entry ~$30, now ~$175 (+483%), market cap grew from ~$3B to ~$14B. Jun 17 AMD procurement news is an incremental demand-side catalyst.
 
 ---
 
@@ -105,16 +114,16 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 - **Latest signal**: Bullish (deal catalyst) — Tower Semiconductor signed a multi-year InP epiwafer supply agreement with $IQE (Jun 15, 2026), securing critical supply for photonic/optical production. This follows $MTSI's earlier supply security deal with IQE, confirming escalating strategic demand for InP epiwafers. Serenity held $TSEM long since Mar 11 2026 (+63% in 2 weeks, still held as of Jun 2026).
 - **Latest tweet**: [2066421816793714938](https://x.com/aleabitoreddit/status/2066421816793714938) — 2026-06-15T07:25:28Z
 - **Quote**: "Now there's another critical deal with Tower Semi."
-- **Context**: Tower Semiconductor's multi-year InP epiwafer deal with IQE validates InP as a critical strategic material. Two consecutive supply agreements (MTSI then TSEM) confirm the thesis. TSEM's ability to secure InP supply positions it for compound semiconductor and photonics market growth.
+- **Context**: Tower Semiconductor's multi-year InP epiwafer deal with IQE validates InP as a critical strategic material. Two consecutive supply agreements (MTSI then TSEM) confirm the thesis.
 
 ---
 
 ## $SPCX — SpaceX
 
-- **Latest signal**: Cautious — Cramer inverse signal triggered Jun 18. Jun 17: Jim Cramer gave $SPCX his blessing (Serenity quote-tweet 2067272647545930045). Jun 18 13:45 UTC: Serenity notes "Even $SPCX can't withstand his blessing" — invoking "Jim Cramer's law" as a bearish indicator; implies $SPCX declined post-Cramer endorsement. Prior context: IPO at $2.15T+ MC (Jun 12); $SPCX acquired Cursor for $60B (Jun 16, Serenity cautiously constructive on Elon network-effect thesis). No position in $SPCX disclosed.
+- **Latest signal**: Cautious — Cramer inverse signal triggered Jun 18. Jim Cramer blessed $SPCX Jun 17; Serenity notes "Even $SPCX can't withstand his blessing" — invoking "Jim Cramer's law" as a bearish indicator. No position in $SPCX disclosed.
 - **Latest tweet**: [2067604528959238272](https://x.com/aleabitoreddit/status/2067604528959238272) — 2026-06-18T13:45:08Z
 - **Quote**: "I think Jim Cramer's law needs to be studied in history books. Even $SPCX can't withstand his blessing."
-- **Context**: Jim Cramer had explicitly blessed $SPCX on Jun 17 (Serenity tweet 2067272647545930045: "Jim Cramer gave $SPCX his blessing"). Jun 18 13:45 UTC follow-up confirms Cramer inverse is in effect. Serenity's SPCX coverage has shifted to applying the Cramer inverse framework. This is market commentary; no explicit buy/sell stated.
+- **Context**: Jim Cramer had explicitly blessed $SPCX on Jun 17. Jun 18 follow-up confirms Cramer inverse is in effect. This is market commentary; no explicit buy/sell stated.
 
 ---
 
@@ -123,7 +132,7 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 - **Latest signal**: Bullish — 800V DC power delivery "ahead of schedule," pulled up to Q3 2026 with small volume shipments starting. NVIDIA's Vera Rubin platform is one of the first AI data center platforms to adopt 800V DC. Power semi basket ($VRT, Delta 2308, Schneider, Eaton, Siemens) flagged as beneficiaries.
 - **Latest tweet**: [2066331049605627951](https://x.com/aleabitoreddit/status/2066331049605627951) — 2026-06-15T01:24:47Z
 - **Quote**: "$NVDA and $GOOGL lead 800V DC ahead of schedule. 'Ahead of schedule', pulled up to Q3 2026 with small volume shipments starting. All flagged as beneficiaries. Source: Commercial Times"
-- **Context**: The Commercial Times source confirms Q3 2026 small volume adoption by NVDA Vera Rubin and Google next-gen AI data centers. Accelerated 800V DC rollout is positive for power semi names.
+- **Context**: The Commercial Times source confirms Q3 2026 small volume adoption by NVDA Vera Rubin and Google next-gen AI data centers.
 
 ---
 
@@ -132,7 +141,7 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 - **Latest signal**: Bullish — Google's next-generation AI data centers are among the first to adopt 800V DC power delivery (Q3 2026, ahead of schedule).
 - **Latest tweet**: [2066331049605627951](https://x.com/aleabitoreddit/status/2066331049605627951) — 2026-06-15T01:24:47Z
 - **Quote**: "$NVDA and $GOOGL lead 800V DC ahead of schedule."
-- **Context**: Both NVDA and GOOGL confirmed as first 800V DC adopters. Bullish for Alphabet as it signals continued AI infrastructure capex leadership.
+- **Context**: Both NVDA and GOOGL confirmed as first 800V DC adopters.
 
 ---
 
@@ -147,19 +156,19 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ## Foosung (093370.KS) — WF₆ Supply Chain Beneficiary
 
-- **Latest signal**: Bullish (call validated, +21% single-day) — China export controls on Japan disrupted ~25% of global WF₆ supply; Foosung (~10% of supply chain) is the "best pure play beneficiary outside of China." Serenity's original bottleneck call validated when Foosung hit +21% in a single trading day.
+- **Latest signal**: Bullish (call validated, +21% single-day) — China export controls on Japan disrupted ~25% of global WF₆ supply; Foosung (~10% of supply chain) is the "best pure play beneficiary outside of China."
 - **Latest tweet**: [2066404298163154976](https://x.com/aleabitoreddit/status/2066404298163154976) — 2026-06-15T06:15:51Z
-- **Quote**: "I did say Foosung (093370) was going to be a major winner from the bottleneck created by Chinese export controls on Japan… Most people chase 7.5% index returns, yet random bottlenecks spotted might be 21% in a day lol."
-- **Context**: Korean-listed company (~$1.2B MC at time of original tweet). China export controlled Japan, taking down ~25% of global WF₆ supply. Validated: +21% single-day move (Jun 15 2026).
+- **Quote**: "I did say Foosung (093370) was going to be a major winner from the bottleneck created by Chinese export controls on Japan."
+- **Context**: Korean-listed company (~$1.2B MC). China export controlled Japan, taking down ~25% of global WF₆ supply. Validated: +21% single-day move (Jun 15 2026).
 
 ---
 
 ## $ASML — ASML Holding NV
 
-- **Latest signal**: Risk Watch / Commentary — Serenity raises the question of China's physical ability to smuggle ASML lithography machines (EUV/DUV units, "the size of a school bus") despite export controls. Framed rhetorically rather than as an explicit investment call. Implies a potential risk to the export-control-based moat underpinning Western semiconductor equipment advantage. No $ASML position disclosed.
+- **Latest signal**: Risk Watch / Commentary — Serenity raises the question of China's physical ability to smuggle ASML lithography machines (EUV/DUV units, "the size of a school bus") despite export controls. No $ASML position disclosed.
 - **Latest tweet**: [2067795114211340290](https://x.com/aleabitoreddit/status/2067795114211340290) — 2026-06-19T02:22:27Z
 - **Quote**: "How does China manage to smuggle in something the size of a school bus from $ASML? Is the real question."
-- **Context**: ASML's EUV and advanced DUV machines are subject to export restrictions limiting sales to China. Serenity's question highlights a concern that physical circumvention of controls (smuggling) could undermine the assumption that export bans alone protect Western semiconductor equipment suppliers' competitive moat. The tweet includes a URL linking to a relevant news report. Related to the AI supply chain geopolitics thesis running through $AXTI, $IQE, $SIVE, and the photonics basket. No explicit buy/sell signal; classified as a risk-update commentary for the semiconductor equipment export-control narrative.
+- **Context**: ASML's EUV and advanced DUV machines are subject to export restrictions limiting sales to China. Serenity's question highlights a concern that physical circumvention of controls (smuggling) could undermine the assumption that export bans alone protect Western semiconductor equipment suppliers' competitive moat. No explicit buy/sell signal.
 
 ---
 
@@ -168,4 +177,4 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 - **Latest signal**: Strongly Bullish — "very undervalued" based on missed meeting notes (Jun 19 2026). Key meeting takeaways: NASDAQ listing actively on radar and in discussions; 70% market share targeted; TAM greatly exceeds former projections; 4-5 base case of players with orders this year; industry ready for high volume ramps. Position confirmed ("disclosure: own positions").
 - **Latest tweet**: [2067958378488623499](https://x.com/aleabitoreddit/status/2067958378488623499) — 2026-06-19T13:11:12Z
 - **Quote**: "I do think LPK is very undervalued based on these discussions (disclosure: own positions)."
-- **Context**: Serenity first identified $LPK on Jun 11 2026 via US import logs linking it to SpaceX supply chain (Jun 11 tweet 2064992691902140603: "SpaceX supplier found in US import logs"). The Jun 19 tweet is a major thesis upgrade: meeting notes revealed NASDAQ listing in active discussions, 70% market share target ("unholy target"), TAM exceeding prior projections, near-term order visibility (4-5 players ordering this year), and the industry entering high volume ramp phase. "Disclosure: own positions" confirms an active long. This is Serenity's first explicit undervaluation judgment on LPK — the thesis has moved from speculative discovery to a high-conviction fundamental call. Serenity notes "markets missed this" suggesting the signal may not yet be priced in.
+- **Context**: Serenity first identified $LPK on Jun 11 2026 via US import logs linking it to SpaceX supply chain. The Jun 19 tweet is a major thesis upgrade: meeting notes revealed NASDAQ listing in active discussions, 70% market share target, TAM exceeding prior projections, near-term order visibility (4-5 players ordering this year), and the industry entering high volume ramp phase. "Disclosure: own positions" confirms an active long.
