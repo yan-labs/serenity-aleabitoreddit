@@ -111,10 +111,10 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ## $TSEM — Tower Semiconductor
 
-- **Latest signal**: Bullish (deal catalyst) — Tower Semiconductor signed a multi-year InP epiwafer supply agreement with $IQE (Jun 15, 2026), securing critical supply for photonic/optical production. This follows $MTSI's earlier supply security deal with IQE, confirming escalating strategic demand for InP epiwafers. Serenity held $TSEM long since Mar 11 2026 (+63% in 2 weeks, still held as of Jun 2026).
-- **Latest tweet**: [2066421816793714938](https://x.com/aleabitoreddit/status/2066421816793714938) — 2026-06-15T07:25:28Z
-- **Quote**: "Now there's another critical deal with Tower Semi."
-- **Context**: Tower Semiconductor's multi-year InP epiwafer deal with IQE validates InP as a critical strategic material. Two consecutive supply agreements (MTSI then TSEM) confirm the thesis.
+- **Latest signal**: Bullish / validation — Tower Semiconductor was up 10%+ on Jun 22, which Serenity treated as a positive validation of his March long and Jun 15 deal-catalyst framing. He noted in hindsight he should have made it one of his largest positions, while grouping $TSEM with foundries such as $GFS and $INTC that have recently been gaining momentum.
+- **Latest tweet**: [2069188398825566318](https://x.com/aleabitoreddit/status/2069188398825566318) — 2026-06-22T22:38:52Z
+- **Quote**: "$TSEM up 10%+ today... should have made this one of my largest positions in hindsight back in March."
+- **Context**: Tower Semiconductor's multi-year InP epiwafer deal with IQE remains the core catalyst. The Jun 22 update is mainly a price-action / conviction validation, not a new supply-chain fact.
 
 ---
 
