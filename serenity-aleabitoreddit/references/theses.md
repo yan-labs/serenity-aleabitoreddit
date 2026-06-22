@@ -102,10 +102,10 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ## $AAOI — Applied Optoelectronics Inc
 
-- **Latest signal**: Bullish (new CW laser demand catalyst) — Laser company directly benefiting from InP substrate supply chain easing (Jun 15, China Digitimes report). 2025 call fully validated: +483% from ~$30 to ~$175, now ~$14B MC. NEW Jun 17 catalyst: AMD actively procuring CW lasers (Trendforce); $AAOI is one of the few remaining independent Western CW laser suppliers after Lumentum/Coherent were locked up by NVIDIA. Serenity confirms ongoing ownership ("disclosure, own Sive and aaoi").
-- **Latest tweet**: [2067206734427697196](https://x.com/aleabitoreddit/status/2067206734427697196) — 2026-06-17T11:24:26Z
-- **Quote**: "There's not much independent capacity in Western supply chains left other than $SIVE or $AAOI and maybe Macom… (disclosure, own Sive and aaoi)."
-- **Context**: AAOI is a CW laser and optical components maker. 2025 thesis entry ~$30, now ~$175 (+483%), market cap grew from ~$3B to ~$14B. Jun 17 AMD procurement news is an incremental demand-side catalyst.
+- **Latest signal**: Bullish (CW laser demand + revenue-ramp asymmetry) — Jun 22 update reframes $AAOI around projection math: if the company hits projections, Serenity estimates 800%+ Y/Y growth and roughly $5.6B annualized revenue against a ~$12.8B market cap, with the $471M/month run-rate likely to keep rising as demand scales into 2028. This extends the Jun 17 AMD CW-laser procurement catalyst: $AAOI remains one of the few independent Western CW laser suppliers after Lumentum/Coherent were locked up by NVIDIA.
+- **Latest tweet**: [2069062745308254434](https://x.com/aleabitoreddit/status/2069062745308254434) — 2026-06-22T14:19:34Z
+- **Quote**: "If $AAOI hits projections, that’s over 800%+ Y/Y growth, and $5.6B revenue annualized off $12.8B MC."
+- **Context**: AAOI is a CW laser and optical components maker. 2025 thesis entry ~$30, now ~$175 (+483%), market cap grew from ~$3B to ~$14B. Jun 17 AMD procurement news is an incremental demand-side catalyst; Jun 22 adds a valuation/revenue-ramp framing tied to 2028 demand scaling.
 
 ---
 
