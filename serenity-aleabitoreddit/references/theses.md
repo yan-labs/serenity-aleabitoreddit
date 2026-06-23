@@ -84,10 +84,10 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ## $SIVE — (SEK-listed)
 
-- **Latest signal**: Bullish (new CW laser demand catalyst) — Original long thesis at 4 SEK (~March 2026); now up ~1900%. Ranked "2nd greatest thesis of all time after $AXTI." US institutions (JPM, Fidelity) only recently entering positions. NEW Jun 17 catalyst: AMD actively procuring CW lasers (Trendforce), creating fresh demand for remaining Western independent CW laser suppliers after Lumentum/Coherent were locked up by NVIDIA. $SIVE is one of the few remaining Western independent CW laser suppliers. Serenity confirms ongoing ownership ("disclosure, own Sive and aaoi").
-- **Latest tweet**: [2067206734427697196](https://x.com/aleabitoreddit/status/2067206734427697196) — 2026-06-17T11:24:26Z
-- **Quote**: "There's not much independent capacity in Western supply chains left other than $SIVE or $AAOI and maybe Macom… (disclosure, own Sive and aaoi)… this just goes and show how invaluable this CW laser chokepoint is and the companies are inside it."
-- **Context**: SEK-listed stock. Original long thesis initiated ~March 13, 2026 at 4 SEK entry. By June 13, 2026, up ~1900% (~3 months). Major institutions (JPM, Fidelity) have only recently begun entering. Jun 17 AMD procurement news is an incremental demand-side catalyst: Lumentum/Coherent are already locked up with NVIDIA under multi-year LTAs, leaving $SIVE and $AAOI as the primary independent Western CW laser capacity.
+- **Latest signal**: Bullish (physical-AI/robotics optionality + CW laser demand) — Jun 23 update adds possible robotics / physical-AI routes: $SIVE + Aeva from a new PR, $SIVE + Apple, Sivers lasers powering Boston Dynamics Atlas via LG Innotek, and NVIDIA Hyperion ecosystem exposure. This extends the earlier CW-laser chokepoint thesis beyond hyperscale CPO into robotics/autonomous systems.
+- **Latest tweet**: [2069388279355756826](https://x.com/aleabitoreddit/status/2069388279355756826) — 2026-06-23T11:53:07Z
+- **Quote**: "For Sivers lasers powering robotics / physical AI."
+- **Context**: SEK-listed stock. Original long thesis initiated ~March 13, 2026 at 4 SEK entry. By June 13, 2026, up ~1900% (~3 months). Major institutions (JPM, Fidelity) have only recently begun entering. Jun 17 AMD procurement news was an incremental demand-side catalyst for remaining Western independent CW laser suppliers after NVIDIA locked up Lumentum/Coherent. Jun 23 adds optionality around Aeva/Apple, LG Innotek/Boston Dynamics Atlas, and NVIDIA Hyperion physical-AI paths. Treat the named paths as OSINT-mapped possibilities, not confirmed customer contracts.
 
 ---
 
