@@ -30,10 +30,10 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ## $XFAB — X-FAB Silicon Foundries
 
-- **Latest signal**: Bullish / sellside validation but still undervalued — Bernstein upgraded $XFAB to Outperform with a €12.8 price target from €5. Serenity treats the upgrade as reactive to automotive recovery and SiC/power semi ramp, while saying it still undershoots potential by a lot.
-- **Latest tweet**: [2069373894398743000](https://x.com/aleabitoreddit/status/2069373894398743000) — 2026-06-23T10:55:58Z
-- **Quote**: "$XFAB upgraded to outperform with a PT of €12.8 by Bernstein, up from €5."
-- **Context**: Prior Jun 11 framing was research-bullish on X-FAB as an early EU silicon photonics foundry around ~€1.1B MC. The Jun 23 note adds external sellside validation but says the target is still reactive and conservative. xreach text is truncated after "If markets price in the...", so record only the observed upgrade/undershooting point.
+- **Latest signal**: Bullish / sovereignty funding catalyst — X-FAB received €127.4M from the CHIPS Act for its MEMS foundry, with Fab4Micro in Erfurt framed as a key Germany/Europe technological-sovereignty project. Production start planned in 2028.
+- **Latest tweet**: [2069430169300070612](https://x.com/aleabitoreddit/status/2069430169300070612) — 2026-06-23T14:39:35Z
+- **Quote**: "Today, $XFAB (1.23B MC) receives €127.4 million from CHIPS ACT for their MEMS Foundry."
+- **Context**: Prior Jun 11 framing was research-bullish on X-FAB as an early EU silicon photonics foundry around ~€1.1B MC. Jun 23 added Bernstein sellside validation, then a CHIPS Act funding catalyst tied to European semiconductor sovereignty. Treat the grant as balance-sheet / credibility support, with production-start timing still out in 2028.
 
 ---
 
