@@ -28,6 +28,15 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ---
 
+## $XFAB — X-FAB Silicon Foundries
+
+- **Latest signal**: Bullish / sellside validation but still undervalued — Bernstein upgraded $XFAB to Outperform with a €12.8 price target from €5. Serenity treats the upgrade as reactive to automotive recovery and SiC/power semi ramp, while saying it still undershoots potential by a lot.
+- **Latest tweet**: [2069373894398743000](https://x.com/aleabitoreddit/status/2069373894398743000) — 2026-06-23T10:55:58Z
+- **Quote**: "$XFAB upgraded to outperform with a PT of €12.8 by Bernstein, up from €5."
+- **Context**: Prior Jun 11 framing was research-bullish on X-FAB as an early EU silicon photonics foundry around ~€1.1B MC. The Jun 23 note adds external sellside validation but says the target is still reactive and conservative. xreach text is truncated after "If markets price in the...", so record only the observed upgrade/undershooting point.
+
+---
+
 ## $INTC — Intel Corp
 
 - **Latest signal**: Commentary / Cautious — Trump announced Intel + Apple partnership on Jun 18 2026, sending $INTC up 8% that day. Serenity's reaction is skeptical: "Intel execs were reportedly surprised by the $AAPL announcement by Donald Trump. TBH, the President should lead Intel's marketing team at this point. Feel's like he's hard carrying the stock." Implies the move is politically catalyzed rather than fundamentally driven. No position in $INTC disclosed. Historical entry: ~$115 (Jun 20 retrospective tweet 2068301039946887269) when "everyone thought they couldn't compete with $TSM". Current stance: cautious/commentary only.
