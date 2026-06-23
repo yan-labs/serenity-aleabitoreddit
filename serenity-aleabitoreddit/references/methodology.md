@@ -253,7 +253,9 @@ dated example from the corpus. A runnable checklist is at the bottom.
   critique: credentials or background matter less than whether the person can
   reason correctly about CW laser nuances, valuation, InP substrate moats, and
   crucible-processing constraints. Treat confident commentary that conflates
-  these layers as noise even when it comes from polished media voices.
+  these layers as noise even when it comes from polished media voices. Jun 23
+  example: Bloomberg framing Taiwan's $TSM multiple and $NVDA upstream supply
+  chain as a bubble was treated as a repeat of BofA's failed KOSPI bubble call.
 - **Insider sales as a bear signal** — explicitly "the dumbest metric" / noise.
 - **Conflating supply-chain layers** — substrate ≠ epiwafer ≠ feedstock; foundry
   ≠ module. He corrects these constantly.
