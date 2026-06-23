@@ -109,6 +109,15 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ---
 
+## 138080.KQ — OE Solutions
+
+- **Latest signal**: Bullish / acquisition-target thesis — Serenity thinks OE Solutions makes the most sense as an acquisition target for a large downstream player because it trades around a ~$215M market cap despite scarce EML/CW laser IP.
+- **Latest tweet**: [2069230221388333366](https://x.com/aleabitoreddit/status/2069230221388333366) — 2026-06-23T01:25:03Z
+- **Quote**: "OE Solutions ($138080.KQ) makes the most sense as an acquisition target by a large downstream player."
+- **Context**: Korean optical component company adjacent to the AAOI/SIVE/CW-laser bottleneck thesis. Serenity explicitly compares the possible buyer logic to Source Photonics / Suzhou Dongshan Precision-style acquisitions. xreach text is truncated, so treat this as a fresh watchlist/acquisition-thesis signal, not a complete valuation model.
+
+---
+
 ## $TSEM — Tower Semiconductor
 
 - **Latest signal**: Bullish / validation — Tower Semiconductor was up 10%+ on Jun 22, which Serenity treated as a positive validation of his March long and Jun 15 deal-catalyst framing. He noted in hindsight he should have made it one of his largest positions, while grouping $TSEM with foundries such as $GFS and $INTC that have recently been gaining momentum.
