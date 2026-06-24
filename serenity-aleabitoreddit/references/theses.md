@@ -39,10 +39,19 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ## $INTC — Intel Corp
 
-- **Latest signal**: Commentary / Cautious — Trump announced Intel + Apple partnership on Jun 18 2026, sending $INTC up 8% that day. Serenity's reaction is skeptical: "Intel execs were reportedly surprised by the $AAPL announcement by Donald Trump. TBH, the President should lead Intel's marketing team at this point. Feel's like he's hard carrying the stock." Implies the move is politically catalyzed rather than fundamentally driven. No position in $INTC disclosed. Historical entry: ~$115 (Jun 20 retrospective tweet 2068301039946887269) when "everyone thought they couldn't compete with $TSM". Current stance: cautious/commentary only.
-- **Latest tweet**: [2067624913834549685](https://x.com/aleabitoreddit/status/2067624913834549685) — 2026-06-18T15:06:08Z
-- **Quote**: "Trump announced Intel + Apple partnership, sending $INTC up 8% today. Intel execs were reportedly surprised by the $AAPL announcement by Donald Trump. TBH, the President should lead Intel's marketing team at this point. Feel's like he's hard carrying the stock."
-- **Context**: $INTC moved +8% on Jun 18 on Trump's Apple partnership announcement, but Serenity frames this as externally driven ("hard carrying"). Cross-ref: Trump truth:39333 (Jun 18 04:29 UTC) had named Intel with domestic fab/tariff protection framing — that signal was Tier 2 (policy tailwind for domestic semis). Serenity's reaction focuses on the stock-move sustainability question rather than endorsing the thesis.
+- **Latest signal**: Political-flow watch / commentary — Jun 24 update flags Nancy Pelosi's disclosure of $1M-$5M in $INTC March 2027 calls, reportedly executed May 29 by her husband. Earlier Jun 18 commentary stayed cautious on Trump-driven Intel headlines, saying the President was "hard carrying" the stock. Historical entry: ~$115 (Jun 20 retrospective tweet 2068301039946887269) when "everyone thought they couldn't compete with $TSM".
+- **Latest tweet**: [2069780882018459851](https://x.com/aleabitoreddit/status/2069780882018459851) — 2026-06-24T13:53:11Z
+- **Quote**: "Nancy Pelosi just disclosed: - $1 million - $5 million of $INTC March 2027 calls"
+- **Context**: Treat Pelosi disclosure as flow/sentiment input rather than Serenity's own endorsement. Intel remains a politically catalyzed domestic-fab/tariff stock in Serenity's framing. Cross-ref: Trump truth:39333 (Jun 18 04:29 UTC) named Intel with domestic fab/tariff protection framing; Serenity's Jun 18 reaction questioned sustainability.
+
+---
+
+## $UBER — Uber Technologies
+
+- **Latest signal**: Political-flow watch — Jun 24 update flags Nancy Pelosi's disclosure of 200 $UBER March 19 2027 call option contracts with a $50 strike, reportedly executed May 29 by her husband.
+- **Latest tweet**: [2069780882018459851](https://x.com/aleabitoreddit/status/2069780882018459851) — 2026-06-24T13:53:11Z
+- **Quote**: "200 $UBER March 19, 2027 call option contracts with a $50 strike price"
+- **Context**: Record as a disclosure/attention catalyst only. No Serenity fundamental thesis or personal position was disclosed in the captured text.
 
 ---
 
@@ -84,10 +93,19 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ## $SIVE — (SEK-listed)
 
-- **Latest signal**: Bullish (physical-AI/robotics optionality + CW laser demand) — Jun 23 update adds possible robotics / physical-AI routes: $SIVE + Aeva from a new PR, $SIVE + Apple, Sivers lasers powering Boston Dynamics Atlas via LG Innotek, and NVIDIA Hyperion ecosystem exposure. This extends the earlier CW-laser chokepoint thesis beyond hyperscale CPO into robotics/autonomous systems.
-- **Latest tweet**: [2069388279355756826](https://x.com/aleabitoreddit/status/2069388279355756826) — 2026-06-23T11:53:07Z
-- **Quote**: "For Sivers lasers powering robotics / physical AI."
-- **Context**: SEK-listed stock. Original long thesis initiated ~March 13, 2026 at 4 SEK entry. By June 13, 2026, up ~1900% (~3 months). Major institutions (JPM, Fidelity) have only recently begun entering. Jun 17 AMD procurement news was an incremental demand-side catalyst for remaining Western independent CW laser suppliers after NVIDIA locked up Lumentum/Coherent. Jun 23 adds optionality around Aeva/Apple, LG Innotek/Boston Dynamics Atlas, and NVIDIA Hyperion physical-AI paths. Treat the named paths as OSINT-mapped possibilities, not confirmed customer contracts.
+- **Latest signal**: Bullish (hyperscaler-customer OSINT + physical-AI optionality + CW laser demand) — Jun 24 update says Poet OSINT community found a likely $POET / $SIVE path into a top-3 hyperscaler via a Lumilens CEO customer clue. Jun 23 added possible robotics / physical-AI routes: $SIVE + Aeva, $SIVE + Apple, Boston Dynamics Atlas via LG Innotek, and NVIDIA Hyperion ecosystem exposure.
+- **Latest tweet**: [2069775271562289299](https://x.com/aleabitoreddit/status/2069775271562289299) — 2026-06-24T13:30:53Z
+- **Quote**: "Seems likely that $POET / $SIVE are going to power a Top-3 hyperscaler (either Amazon, Microsoft, Google)."
+- **Context**: SEK-listed stock. Original long thesis initiated ~March 13, 2026 at 4 SEK entry. By June 13, 2026, up ~1900% (~3 months). Major institutions (JPM, Fidelity) have only recently begun entering. Jun 17 AMD procurement news was an incremental demand-side catalyst for remaining Western independent CW laser suppliers after NVIDIA locked up Lumentum/Coherent. Treat the Lumilens/top-3 hyperscaler and robotics paths as OSINT-mapped possibilities, not confirmed contracts.
+
+---
+
+## $POET — POET Technologies
+
+- **Latest signal**: Bullish OSINT / hyperscaler-customer thesis — Jun 24 update says Poet OSINT community found likely $POET / $SIVE involvement powering a top-3 hyperscaler, inferred from Lumilens CEO Ankur Singla saying the customer is one of the top three.
+- **Latest tweet**: [2069775271562289299](https://x.com/aleabitoreddit/status/2069775271562289299) — 2026-06-24T13:30:53Z
+- **Quote**: "Seems likely that $POET / $SIVE are going to power a Top-3 hyperscaler (either Amazon, Microsoft, Google)."
+- **Context**: Captured as OSINT-derived customer inference, not confirmed contract. Relevant because it reinforces Serenity's broader photonics/CPO hyperscaler-supply-chain thesis.
 
 ---
 
