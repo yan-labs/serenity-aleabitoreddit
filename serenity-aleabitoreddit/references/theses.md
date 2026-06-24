@@ -57,10 +57,10 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ## $MU — Micron Technology
 
-- **Latest signal**: Track record validated (+195%) — Memory supercycle fully validated: $MU from $380 to $1122 (+195%) in ~3 months from March 2026, when "99% of X was bearish on memory." Serenity frames memory and photonics as "the 2 top themes," with photonics "very early into the supercycle" now occupying the same early-contrarian position that memory did 3 months ago.
-- **Latest tweet**: [2067621883525394768](https://x.com/aleabitoreddit/status/2067621883525394768) — 2026-06-18T14:54:06Z
-- **Quote**: "$MU $380 -> $1122 (+195.26%)... I do think photonics and memory are the 2 top themes though, with optics being very early into the supercycle."
-- **Context**: Memory thesis entry implied ~March 2026 when consensus was bearish. Serenity uses $MU as the lead name in the memory validation, pairing it with $SNDK, $EWY (Korea ETF), SK Hynix, and Samsung. No new entry/exit signal on $MU; this is a track-record victory lap. Forward implication: photonics is now in the same "ignored by consensus" position.
+- **Latest signal**: Earnings validation / Bullish — Jun 24 Micron earnings beat and guide materially above estimates. Serenity calls the results "always amazing": revenue $41.46B vs $35.8B est, EPS $25.11 vs $20.78 est, revenue guide $49B-$51B vs $43.24B est, EPS guide $30-$32 vs $25.31, plus 16 long-term agreements. This reinforces the prior memory supercycle validation: $MU from $380 to $1122 (+195%) in ~3 months from March 2026.
+- **Latest tweet**: [2069892511406100716](https://x.com/aleabitoreddit/status/2069892511406100716) — 2026-06-24T21:16:46Z
+- **Quote**: "Always amazing looking at $MU earnings... Micron said on Wednesday that it has signed 16 long-term agreements"
+- **Context**: Memory thesis entry implied ~March 2026 when consensus was bearish. Serenity uses $MU as the lead name in the memory validation, pairing it with $SNDK, $EWY (Korea ETF), SK Hynix, and Samsung. Jun 24 earnings and long-term agreements add fresh fundamental validation, not merely a retrospective victory lap. Forward implication: memory remains one of the two top themes alongside photonics.
 
 ---
 
