@@ -241,6 +241,11 @@ dated example from the corpus. A runnable checklist is at the bottom.
   warns: these names move 20%+ a day, "build conviction yourself before you
   enter," "don't have high concentration in small caps." Holds for LTCG when
   catalysts are ≥12 months out. Goes off margin during macro uncertainty.
+  Jun 25 2026 update: after a recent "massive drawdown," he called the strategy
+  "Diversified Losses" and said CPO exposure was hit the hardest across Foci,
+  Msscorp, and adjacent names. Treat this as a live reminder that many
+  individually different optical/CPO chokepoint names can still share the same
+  factor exposure; diversify by driver, not just ticker count.
 - **Example:** "Calls are actually safer than shares" on AXTI given China export
   risk (2025-12-30); SIVE flagged "wouldn't put too much concentration into
   them" for average accounts.
