@@ -55,7 +55,11 @@ dated example from the corpus. A runnable checklist is at the bottom.
 - **Example:** AXTI (2025-12-26) — "the entire AI industry will likely be
   bottlenecked by AXTI ($700M)…" framing InP substrate control as the chokepoint
   for $15T+ of hyperscaler value. ("Strait of $AXTI" analogy to Strait of
-  Hormuz, March 2026.)
+  Hormuz, March 2026.) Jun 25 2026 addendum: he contrasted Japanese companies
+  with active monopolies over hyperscaler AI chokepoints at roughly $150M-$350M
+  valuations against Silicon Valley AI seed rounds near $200M, reinforcing the
+  public-market/private-market valuation-arbitrage version of the chokepoint
+  lens.
 
 ## 2. Multi-hop BOM / OSINT supply-chain mapping
 

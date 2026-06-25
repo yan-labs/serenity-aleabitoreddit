@@ -1,5 +1,40 @@
 [
   {
+    "id": "2070008157892751624",
+    "text": "Global markets in a nutshell:\n\nJapanese Company: Active monopoly over random chokepoints in the hyperscaler AI buildout. \n\nValuation: $150m-$350M\n\nSilicon Valley: Here's a $200m for a \"Seed Round\". https://t.co/O99br8y1yr",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 94,
+      "retweets": 0,
+      "replies": 14,
+      "quotes": 0,
+      "views": 25939,
+      "bookmarks": 17
+    },
+    "createdAt": "Thu Jun 25 04:56:18 +0000 2026",
+    "createdAtLocal": "2026-06-25 12:56",
+    "createdAtISO": "2026-06-25T04:56:18+00:00",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLoiXEYagAAMHv1.jpg",
+        "width": 1299,
+        "height": 388
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null
+  },
+  {
     "id": "2069990311296975133",
     "text": "Very interesting statement today: $MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots.\n\n\"Humanoid robots, he says, will require roughly ten times more memory than today’s Level 2+ autonomous vehicles.\"\n\n\"And that demand wave is set to begin before the https://t.co/bVnvG1Ihit",
     "author": {
