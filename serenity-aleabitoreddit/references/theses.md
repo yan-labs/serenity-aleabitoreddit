@@ -66,10 +66,10 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ## $MU — Micron Technology
 
-- **Latest signal**: Earnings validation / Bullish — Jun 24 Micron earnings beat and guide materially above estimates. Serenity calls the results "always amazing": revenue $41.46B vs $35.8B est, EPS $25.11 vs $20.78 est, revenue guide $49B-$51B vs $43.24B est, EPS guide $30-$32 vs $25.31, plus 16 long-term agreements. This reinforces the prior memory supercycle validation: $MU from $380 to $1122 (+195%) in ~3 months from March 2026.
-- **Latest tweet**: [2069892511406100716](https://x.com/aleabitoreddit/status/2069892511406100716) — 2026-06-24T21:16:46Z
-- **Quote**: "Always amazing looking at $MU earnings... Micron said on Wednesday that it has signed 16 long-term agreements"
-- **Context**: Memory thesis entry implied ~March 2026 when consensus was bearish. Serenity uses $MU as the lead name in the memory validation, pairing it with $SNDK, $EWY (Korea ETF), SK Hynix, and Samsung. Jun 24 earnings and long-term agreements add fresh fundamental validation, not merely a retrospective victory lap. Forward implication: memory remains one of the two top themes alongside photonics.
+- **Latest signal**: Bullish / multi-decade memory-demand thesis — Jun 25 update highlights Micron CEO's claim that humanoid robots could drive a multi-decade memory demand cycle and require roughly 10x the memory of today's Level 2+ autonomous vehicles. This extends the Jun 24 earnings validation: revenue $41.46B vs $35.8B est, EPS $25.11 vs $20.78 est, guide materially above estimates, and 16 long-term agreements.
+- **Latest tweet**: [2069990311296975133](https://x.com/aleabitoreddit/status/2069990311296975133) — 2026-06-25T03:45:23Z
+- **Quote**: "Very interesting statement today: $MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots."
+- **Context**: Memory thesis entry implied ~March 2026 when consensus was bearish. Serenity uses $MU as the lead name in the memory validation, pairing it with $SNDK, $EWY (Korea ETF), SK Hynix, and Samsung. Jun 24 earnings and long-term agreements added fundamental validation; Jun 25 adds a longer-duration robotics/humanoid demand driver.
 
 ---
 
