@@ -55,6 +55,15 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ---
 
+## $BABA — Alibaba Group / Qwen AI lab
+
+- **Latest signal**: Risk Watch / AI model-distillation controversy — Jun 25 update says Anthropic directly accused Alibaba's Qwen AI lab of distilling frontier models via thousands of fake accounts and over 28.8M exchanges. Serenity frames the allegation as broadly known but not yet met with real penalties.
+- **Latest tweet**: [2069938631817699588](https://x.com/aleabitoreddit/status/2069938631817699588) — 2026-06-25T00:20:02Z
+- **Quote**: "Today, Anthropic has directly accused the $BABA Qwen AI lab of distilling its frontier AI models."
+- **Context**: Treat as regulatory / reputation / AI-competition risk commentary, not a disclosed Serenity long or short. The market relevance is that enforcement, if any, could affect Alibaba's Qwen positioning and broader China AI-lab perceptions.
+
+---
+
 ## $MU — Micron Technology
 
 - **Latest signal**: Earnings validation / Bullish — Jun 24 Micron earnings beat and guide materially above estimates. Serenity calls the results "always amazing": revenue $41.46B vs $35.8B est, EPS $25.11 vs $20.78 est, revenue guide $49B-$51B vs $43.24B est, EPS guide $30-$32 vs $25.31, plus 16 long-term agreements. This reinforces the prior memory supercycle validation: $MU from $380 to $1122 (+195%) in ~3 months from March 2026.
