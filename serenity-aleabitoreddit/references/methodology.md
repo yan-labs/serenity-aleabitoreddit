@@ -249,7 +249,11 @@ dated example from the corpus. A runnable checklist is at the bottom.
   "Diversified Losses" and said CPO exposure was hit the hardest across Foci,
   Msscorp, and adjacent names. Treat this as a live reminder that many
   individually different optical/CPO chokepoint names can still share the same
-  factor exposure; diversify by driver, not just ticker count.
+  factor exposure; diversify by driver, not just ticker count. Later the same
+  day he noted memory, indexes, and large-cap semis such as Intel were among the
+  only areas not yet crashing, while photonics, space, popular AI, and software
+  baskets were down roughly 35-40%; use that as a market-regime filter before
+  adding to high-beta AI-adjacent small caps.
 - **Example:** "Calls are actually safer than shares" on AXTI given China export
   risk (2025-12-30); SIVE flagged "wouldn't put too much concentration into
   them" for average accounts.
