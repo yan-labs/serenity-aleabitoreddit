@@ -1,5 +1,43 @@
 [
   {
+    "id": "2070559154352353724",
+    "text": "Brooo, OpenAI is back and they're releasing their new model GPT-5.6 Sol. \n\nWith their benchmarks, OpenAI claims: \n\n- Sol Ultra beats Mythos 5 and mogs it for coding/workflow. \n\n- And is better for bio/cybersecurity too.  \n\nPretty bullish on OpenAI again if they leapfrogged https://t.co/Fzls4neIrI",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 462,
+      "retweets": 23,
+      "replies": 123,
+      "quotes": 7,
+      "views": 68490,
+      "bookmarks": 40
+    },
+    "createdAt": "Fri Jun 26 17:25:46 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwX65abgAADeWi.jpg",
+        "width": 1670,
+        "height": 1218
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2070559154352353724",
+    "createdAtISO": "2026-06-26T17:25:46+00:00",
+    "createdAtLocal": "2026-06-27 01:25"
+  },
+  {
     "id": "2070536700519178493",
     "text": "Morgan Stanley: Retained its forecast for the Federal Reserve to hold interest rates through year-end (no rate hikes). \n\nMichael Gapen said incoming data since the June FOMC meeting has made it \"marginally more comfortable\" in its no-hike baseline. https://t.co/9OL7od94JP",
     "author": {
