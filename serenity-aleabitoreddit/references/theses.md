@@ -102,10 +102,10 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ## $SIVE — (SEK-listed)
 
-- **Latest signal**: Bullish reaffirmation / buy-the-dip — Jun 25 update says Serenity is "more bullish than ever" as price falls; at roughly ~$1.9B market cap, he still maps $SIVE to a $GFS reference laser, Ayar / NVIDIA NVLink CPO scale-up, $POET CPO scale-out, and $JBL / 1.6T+ paths. This follows the Jun 24 $POET / $SIVE top-3 hyperscaler OSINT and Jun 23 physical-AI optionality update.
-- **Latest tweet**: [2070179074048409662](https://x.com/aleabitoreddit/status/2070179074048409662) — 2026-06-25T16:15:27Z
-- **Quote**: "I'm actually more bullish than ever as prices go down. $SIVE at ~$1.9B MC..."
-- **Context**: SEK-listed stock. Original long thesis initiated ~March 13, 2026 at 4 SEK entry. By June 13, 2026, up ~1900% (~3 months), then experienced a sharp drawdown alongside the optical/CPO basket. Major institutions (JPM, Fidelity) had only recently begun entering as of mid-June. Jun 17 AMD procurement news was an incremental demand-side catalyst for remaining Western independent CW laser suppliers after NVIDIA locked up Lumentum/Coherent. Treat the GFS/Ayar/NVIDIA/POET/JBL paths as ecosystem/customer mapping and conviction support, not confirmed contracts.
+- **Latest signal**: Bullish position reaffirmation — Jun 26 update says Serenity is "sleeping comfortably" because he still has conviction in his hyperscaler mapping research and still holds a million+ share position. This follows the Jun 25 buy-the-dip update: at roughly ~$1.9B market cap, he still maps $SIVE to a $GFS reference laser, Ayar / NVIDIA NVLink CPO scale-up, $POET CPO scale-out, and $JBL / 1.6T+ paths.
+- **Latest tweet**: [2070444675337503166](https://x.com/aleabitoreddit/status/2070444675337503166) — 2026-06-26T09:50:52Z
+- **Quote**: "I'm personally sleeping comfortably since I have conviction in my hyperscaler mapping research with $SIVE. And yes, I still have my million+ share position."
+- **Context**: SEK-listed stock. Original long thesis initiated ~March 13, 2026 at 4 SEK entry. By June 13, 2026, up ~1900% (~3 months), then experienced a sharp drawdown alongside the optical/CPO basket. Major institutions (JPM, Fidelity) had only recently begun entering as of mid-June. Jun 17 AMD procurement news was an incremental demand-side catalyst for remaining Western independent CW laser suppliers after NVIDIA locked up Lumentum/Coherent. Jun 26 adds explicit position-size continuity and conviction under criticism/drawdown. Treat the GFS/Ayar/NVIDIA/POET/JBL paths as ecosystem/customer mapping and conviction support, not confirmed contracts.
 
 ---
 
