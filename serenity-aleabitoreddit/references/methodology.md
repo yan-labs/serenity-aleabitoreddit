@@ -253,7 +253,10 @@ dated example from the corpus. A runnable checklist is at the bottom.
   day he noted memory, indexes, and large-cap semis such as Intel were among the
   only areas not yet crashing, while photonics, space, popular AI, and software
   baskets were down roughly 35-40%; use that as a market-regime filter before
-  adding to high-beta AI-adjacent small caps.
+  adding to high-beta AI-adjacent small caps. Jun 26 2026 follow-up framed this
+  as a global correction, with Korea/Japan/Taiwan indexes down and $SOI / $RKLB
+  examples off 30-40%; when he says he has "no clue when it stops," treat fresh
+  high-beta adds as timing-sensitive rather than thesis-confirming.
 - **Example:** "Calls are actually safer than shares" on AXTI given China export
   risk (2025-12-30); SIVE flagged "wouldn't put too much concentration into
   them" for average accounts.
