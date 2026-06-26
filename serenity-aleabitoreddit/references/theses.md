@@ -199,6 +199,24 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ---
 
+## $AOSL — Alpha and Omega Semiconductor
+
+- **Latest signal**: Bullish thematic / power-semiconductor pricing cycle — Jun 26 update says power semis are already starting price hikes, which Serenity reads as bullish for the US power semi trade before the 800V DC data-center power shift fully hits.
+- **Latest tweet**: [2070304723262210194](https://x.com/aleabitoreddit/status/2070304723262210194) — 2026-06-26T00:34:45Z
+- **Quote**: "Power Semis are already starting price hikes... bullish thematically for US power semi trade from $AOSL to $POWI, before the 800V DC shift fully hits."
+- **Context**: The cited evidence is China's Yangjie Technology announcing its second price increase this year across its product portfolio. Treat as a sector-pricing / cycle signal for US power semis, not a company-specific order or customer confirmation.
+
+---
+
+## $POWI — Power Integrations
+
+- **Latest signal**: Bullish thematic / power-semiconductor pricing cycle — Jun 26 update includes $POWI in the same US power semi basket as $AOSL, tied to early price hikes and the coming 800V DC data-center power transition.
+- **Latest tweet**: [2070304723262210194](https://x.com/aleabitoreddit/status/2070304723262210194) — 2026-06-26T00:34:45Z
+- **Quote**: "bullish thematically for US power semi trade from $AOSL to $POWI, before the 800V DC shift fully hits."
+- **Context**: The thesis is thematic: rising power-semi pricing plus future 800V DC adoption. No direct $POWI contract, customer, or position disclosure was made in this post.
+
+---
+
 ## Foosung (093370.KS) — WF₆ Supply Chain Beneficiary
 
 - **Latest signal**: Bullish (call validated, +21% single-day) — China export controls on Japan disrupted ~25% of global WF₆ supply; Foosung (~10% of supply chain) is the "best pure play beneficiary outside of China."
