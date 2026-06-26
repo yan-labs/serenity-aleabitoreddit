@@ -66,10 +66,10 @@ Each entry covers one ticker. Update **Latest signal** and timestamp in-place wh
 
 ## $MU — Micron Technology
 
-- **Latest signal**: Bullish / multi-decade memory-demand thesis — Jun 25 update highlights Micron CEO's claim that humanoid robots could drive a multi-decade memory demand cycle and require roughly 10x the memory of today's Level 2+ autonomous vehicles. This extends the Jun 24 earnings validation: revenue $41.46B vs $35.8B est, EPS $25.11 vs $20.78 est, guide materially above estimates, and 16 long-term agreements.
-- **Latest tweet**: [2069990311296975133](https://x.com/aleabitoreddit/status/2069990311296975133) — 2026-06-25T03:45:23Z
+- **Latest signal**: Bullish / memory-bottleneck reinforcement — Jun 26 update cites Elon Musk sounding the alarm on massive memory demand and price hikes relative to supply for $MU / SK Hynix / Samsung. This follows the Jun 25 humanoid-robot memory-demand thesis and Jun 24 earnings validation: revenue $41.46B vs $35.8B est, EPS $25.11 vs $20.78 est, guide materially above estimates, and 16 long-term agreements.
+- **Latest tweet**: [2070413682996347069](https://x.com/aleabitoreddit/status/2070413682996347069) — 2026-06-26T07:47:43Z
 - **Quote**: "Very interesting statement today: $MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots."
-- **Context**: Memory thesis entry implied ~March 2026 when consensus was bearish. Serenity uses $MU as the lead name in the memory validation, pairing it with $SNDK, $EWY (Korea ETF), SK Hynix, and Samsung. Jun 24 earnings and long-term agreements added fundamental validation; Jun 25 adds a longer-duration robotics/humanoid demand driver.
+- **Context**: Memory thesis entry implied ~March 2026 when consensus was bearish. Serenity uses $MU as the lead name in the memory validation, pairing it with $SNDK, $EWY (Korea ETF), SK Hynix, and Samsung. Jun 24 earnings and long-term agreements added fundamental validation; Jun 25 adds a longer-duration robotics/humanoid demand driver; Jun 26 adds external AI-demand validation from Musk's memory-supply warning.
 
 ---
 
