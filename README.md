@@ -25,7 +25,7 @@ This repo packages his public work into one self-contained research artifact:
 **period-by-period distillation**, and a ready-to-use **agent skill** that
 applies his analytical lens to US-stock ideas.
 
-Built from **5,857 tweets** spanning **2025-07-02 → 2026-06-08** plus **4 X
+Built from **5,891 tweets** spanning **2025-07-02 → 2026-06-26** plus **4 X
 Articles** published in **2026-01 → 2026-05**.
 
 > ⚠️ **Not financial advice. Decision-support only.** This skill never trades and
@@ -76,6 +76,27 @@ Don't buy the obvious shovel-seller (NVDA) — trace the supply chain upstream t
 the single chokepoint a hyperscaler will pay anything to keep flowing
 (optical/CPO, compound-semi substrates, memory, power), where the small market
 cap is most mispriced relative to the trillions flowing downstream.
+
+## How to read fresh posts
+
+A 2026-06-11 post-to-market review added one practical rule: Serenity's best
+supply-chain posts are usually not clean 1-day copy-trade signals. The more
+repeatable pattern is **5-60 trading days** from public thesis to validation as
+orders, filings, media coverage, institutional ownership, or local-market
+attention catch up.
+
+Use four buckets before treating a post as actionable:
+
+| Post type | How to use it |
+|---|---|
+| New bottleneck thesis | Highest research weight when the dependency is fresh, underpriced, and backed by customer, capacity, policy, or filing evidence |
+| Reaffirmation / buy-the-dip | Useful when a high-conviction name sells off on a false report, mechanical selloff, ATM overhang, or misunderstood earnings |
+| Supplier map / watchlist / no-position idea | Research input only; build a watchlist and wait for company-specific evidence |
+| Victory lap / mainstream validation | Confirms an older thesis worked; often late-cycle unless valuation and positioning reset |
+
+Always separate the stock thesis from the market window. A strong Serenity idea
+inside weak breadth or narrow sector participation is a selective/left-side
+window, not a green light to chase near-price entries.
 
 ## Provenance
 

@@ -55,7 +55,11 @@ dated example from the corpus. A runnable checklist is at the bottom.
 - **Example:** AXTI (2025-12-26) — "the entire AI industry will likely be
   bottlenecked by AXTI ($700M)…" framing InP substrate control as the chokepoint
   for $15T+ of hyperscaler value. ("Strait of $AXTI" analogy to Strait of
-  Hormuz, March 2026.)
+  Hormuz, March 2026.) Jun 25 2026 addendum: he contrasted Japanese companies
+  with active monopolies over hyperscaler AI chokepoints at roughly $150M-$350M
+  valuations against Silicon Valley AI seed rounds near $200M, reinforcing the
+  public-market/private-market valuation-arbitrage version of the chokepoint
+  lens.
 
 ## 2. Multi-hop BOM / OSINT supply-chain mapping
 
@@ -241,6 +245,18 @@ dated example from the corpus. A runnable checklist is at the bottom.
   warns: these names move 20%+ a day, "build conviction yourself before you
   enter," "don't have high concentration in small caps." Holds for LTCG when
   catalysts are ≥12 months out. Goes off margin during macro uncertainty.
+  Jun 25 2026 update: after a recent "massive drawdown," he called the strategy
+  "Diversified Losses" and said CPO exposure was hit the hardest across Foci,
+  Msscorp, and adjacent names. Treat this as a live reminder that many
+  individually different optical/CPO chokepoint names can still share the same
+  factor exposure; diversify by driver, not just ticker count. Later the same
+  day he noted memory, indexes, and large-cap semis such as Intel were among the
+  only areas not yet crashing, while photonics, space, popular AI, and software
+  baskets were down roughly 35-40%; use that as a market-regime filter before
+  adding to high-beta AI-adjacent small caps. Jun 26 2026 follow-up framed this
+  as a global correction, with Korea/Japan/Taiwan indexes down and $SOI / $RKLB
+  examples off 30-40%; when he says he has "no clue when it stops," treat fresh
+  high-beta adds as timing-sensitive rather than thesis-confirming.
 - **Example:** "Calls are actually safer than shares" on AXTI given China export
   risk (2025-12-30); SIVE flagged "wouldn't put too much concentration into
   them" for average accounts.
@@ -253,7 +269,9 @@ dated example from the corpus. A runnable checklist is at the bottom.
   critique: credentials or background matter less than whether the person can
   reason correctly about CW laser nuances, valuation, InP substrate moats, and
   crucible-processing constraints. Treat confident commentary that conflates
-  these layers as noise even when it comes from polished media voices.
+  these layers as noise even when it comes from polished media voices. Jun 23
+  example: Bloomberg framing Taiwan's $TSM multiple and $NVDA upstream supply
+  chain as a bubble was treated as a repeat of BofA's failed KOSPI bubble call.
 - **Insider sales as a bear signal** — explicitly "the dumbest metric" / noise.
 - **Conflating supply-chain layers** — substrate ≠ epiwafer ≠ feedstock; foundry
   ≠ module. He corrects these constantly.
