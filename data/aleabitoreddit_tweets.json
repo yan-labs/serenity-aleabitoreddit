@@ -1,5 +1,43 @@
 [
   {
+    "id": "2070536700519178493",
+    "text": "Morgan Stanley: Retained its forecast for the Federal Reserve to hold interest rates through year-end (no rate hikes). \n\nMichael Gapen said incoming data since the June FOMC meeting has made it \"marginally more comfortable\" in its no-hike baseline. https://t.co/9OL7od94JP",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 251,
+      "retweets": 20,
+      "replies": 70,
+      "quotes": 5,
+      "views": 39798,
+      "bookmarks": 17
+    },
+    "createdAt": "Fri Jun 26 15:56:32 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwEVhra4AARV0P.jpg",
+        "width": 2008,
+        "height": 781
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2070536700519178493",
+    "createdAtISO": "2026-06-26T15:56:32+00:00",
+    "createdAtLocal": "2026-06-26 23:56"
+  },
+  {
     "id": "2070493783804813451",
     "text": "just throwing out a random thought, the UBS report is anecdotally true + and it's interesting there's more Chinese reports on Anthropic distillation.\n\nMany US startups/companies using AI:\n\nAre using Chinese models like DeepSeek since they’re much cheaper than https://t.co/COEW0qbwBK",
     "author": {
