@@ -29,7 +29,7 @@ description: >
 > back to the cached copy — and if you do, say explicitly that the data may be
 > stale.
 
-A reusable analytical lens distilled from **5,857 tweets (2025-07 to 2026-06)
+A reusable analytical lens distilled from **5,891 tweets (2025-07 to 2026-06)
 plus 4 long-form X Articles (2026-01 to 2026-05)** by **Serenity /
 [@aleabitoreddit](https://x.com/aleabitoreddit)** — an AI-and-semiconductor
 *supply-chain* analyst and trader (~500k followers, ~40k subscribers, ex-Reddit/WSB). Use it to
@@ -131,7 +131,7 @@ Read progressively — pull in only what the task needs.
    months may have decayed — say so, and confirm current price/fundamentals.
 5. Weight his opinion using `references/track-record.md` and the calibration
    bands above: his bottleneck theses deserve more weight than event trades,
-   old flipped stances, or self-reported options screenshots.
+   old flipped stances, or self-reported options images.
 6. Present: his view, the supply-chain read, the bull/bear case, and the risks —
    framed as analysis, never as an order to place.
 
@@ -201,7 +201,7 @@ a market pullback create a current buying window.
 ## Risk & disclaimer framing (state this when giving any view)
 
 - **Self-reported, unverified returns.** His YTD figures, from 237% in Feb 2026
-  to 4502.45% on May 26, are his own screenshots. No independent verification
+  to 4502.45% on May 26, are his own images. No independent verification
   exists.
 - **Estimated public-call calibration, not trading proof.** A 2026-05-27
   recheck found ~61% 30-day directional accuracy on dated public calls, but only
