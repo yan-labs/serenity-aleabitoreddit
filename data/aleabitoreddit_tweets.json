@@ -1,5 +1,43 @@
 [
   {
+    "id": "2070789923108798545",
+    "text": "Robotics is next. \n\nBoth deal count and investment amounts are skyrocketing per pitchbook March data (source: a16z)\n\nGood thing is: the same AI DC exposure often has cross-exposure to humanoid ramp.\n\nLike DRAM/NAND with memory (on humanoid inference/storage) or DFB lasers with https://t.co/7BrzCd3cWD",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 524,
+      "retweets": 50,
+      "replies": 134,
+      "quotes": 11,
+      "views": 67012,
+      "bookmarks": 258
+    },
+    "createdAt": "Sat Jun 27 08:42:45 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzsdNHawAAxE0v.jpg",
+        "width": 1012,
+        "height": 751
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2070789923108798545",
+    "createdAtISO": "2026-06-27T08:42:45+00:00",
+    "createdAtLocal": "2026-06-27 16:42"
+  },
+  {
     "id": "2070754658868687086",
     "text": "Kinda nutty OpenAI’s is launching its heavyweight 5.6 Sol frontier model on $CBRS.\n\nAt up to 750 tokens/sec, which is obscene performance.\n\nAmerican inference go brrr.\n\nI actually picked up starter positions on Cerebras for the first time in the ~170s (below $185 IPO price) after https://t.co/vRVu6Jsahd",
     "author": {

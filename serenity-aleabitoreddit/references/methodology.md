@@ -304,7 +304,10 @@ none of this is a buy signal on its own.
    by 2030 is the top-down reason tiny upstream chokepoints can re-rate. June 3
    physical-AI framing: Serenity expects the buildout to start scaling over the
    next 3-4 years, with broader labor displacement on a roughly 10-year horizon;
-   use this as a long-cycle demand screen, not as a near-term ticker signal.
+   use this as a long-cycle demand screen, not as a near-term ticker signal. June
+   27 update: robotics/humanoid deal count and investment dollars are rising,
+   and AI datacenter exposures can have second-order humanoid-ramp overlap
+   through memory (DRAM/NAND for inference/storage) and DFB lasers.
 5. **Contracts & counterparty?** Are there signed multi-year contracts, and is
    the tenant creditworthy (AAA hyperscaler, not a cash-burning lab)?
 6. **Real margins?** Do the GAAP margins (not cherry-picked non-GAAP) support
