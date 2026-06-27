@@ -32,6 +32,15 @@ The restored taxonomy below remains the full merged thesis base. This section
 preserves newer incremental live-feed updates that landed on `main` after the
 restore branch split.
 
+## $SPCX / $SIVE — SpaceX optical networking read-through
+
+- **Latest signal**: Bullish supply-chain read-through — Jun 27 update links Elon Musk / SpaceX's acquisition of Mesh, an optical networking startup working on 1.6T OSFP pluggables, to continued demand for merchant CW DFB laser suppliers. Serenity frames Mesh as likely owning optical engine / packaging while sourcing lasers externally; $SIVE is highlighted as one of the more startup-friendly suppliers.
+- **Latest tweet**: [2070691462354993543](https://x.com/aleabitoreddit/status/2070691462354993543) — 2026-06-27T02:11:30Z
+- **Quote**: "$SPCX / Elon Musk acquires Mesh, an optical networking startup. Which is working on 1.6T OSFP (pluggable)."
+- **Context**: Treat as an ecosystem validation / demand-side catalyst rather than a disclosed Serenity position change. It reinforces the existing CW laser bottleneck thesis around $SIVE and merchant optical suppliers.
+
+---
+
 ## $ACMR — ACM Research Inc (+ WUS / 2316 HK)
 
 - **Latest signal**: Long (disclosed exposure, position increase planned) — Jun 20 personal notes confirm $ACMR and WUS remain core positions in the NAV discount + independent AI growth screen. Serenity states intent to "put more concentration into those on top of what I already own Monday" (Mon Jun 22). New context: Wistron (3231 TWO) added to the same screen as the new highest-conviction name. H-Share subsidiary listing for both $ACMR and WUS expected soon, adding an unlock catalyst. Activist investor involvement in WUS adds another potential unlock beyond pure NAV discount.

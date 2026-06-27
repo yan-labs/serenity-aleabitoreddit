@@ -1,5 +1,49 @@
 [
   {
+    "id": "2070691462354993543",
+    "text": "$SPCX / Elon Musk acquires Mesh, an optical networking startup.\n\nWhich is working on 1.6T OSFP (pluggable).\n\nIt’s seems they own the optical engine/packaging side of things, but likely sources CW DFB lasers off merchant companies. \n\n$SIVE is one of the more startup friendly https://t.co/A1H7Bd6ZU4",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 606,
+      "retweets": 42,
+      "replies": 84,
+      "quotes": 11,
+      "views": 128360,
+      "bookmarks": 133
+    },
+    "createdAt": "Sat Jun 27 02:11:30 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLyS6BAbAAAYW8N.jpg",
+        "width": 1249,
+        "height": 802
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLyS6BBbMAAw0YX.jpg",
+        "width": 1182,
+        "height": 1436
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2070691462354993543",
+    "createdAtISO": "2026-06-27T02:11:30+00:00",
+    "createdAtLocal": "2026-06-27 10:11"
+  },
+  {
     "id": "2070559154352353724",
     "text": "Brooo, OpenAI is back and they're releasing their new model GPT-5.6 Sol. \n\nWith their benchmarks, OpenAI claims: \n\n- Sol Ultra beats Mythos 5 and mogs it for coding/workflow. \n\n- And is better for bio/cybersecurity too.  \n\nPretty bullish on OpenAI again if they leapfrogged https://t.co/Fzls4neIrI",
     "author": {
