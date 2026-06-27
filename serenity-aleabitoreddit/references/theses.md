@@ -32,6 +32,15 @@ The restored taxonomy below remains the full merged thesis base. This section
 preserves newer incremental live-feed updates that landed on `main` after the
 restore branch split.
 
+## $CBRS — Cerebras Systems
+
+- **Latest signal**: Starter long / OpenAI inference catalyst — Jun 27 update says OpenAI is launching its heavyweight 5.6 Sol frontier model on Cerebras, citing up to 750 tokens/sec. Serenity disclosed starter positions in Cerebras in the ~$170s, below the $185 IPO price.
+- **Latest tweet**: [2070754658868687086](https://x.com/aleabitoreddit/status/2070754658868687086) — 2026-06-27T06:22:38Z
+- **Quote**: "I actually picked up starter positions on Cerebras for the first time in the ~170s (below $185 IPO price)"
+- **Context**: Treat as a new disclosed starter position tied to U.S. inference capacity and OpenAI workload validation. Position size appears early/starter, so conviction is lower than core holdings unless later updates add sizing or follow-through.
+
+---
+
 ## $SPCX / $SIVE — SpaceX optical networking read-through
 
 - **Latest signal**: Bullish supply-chain read-through — Jun 27 update links Elon Musk / SpaceX's acquisition of Mesh, an optical networking startup working on 1.6T OSFP pluggables, to continued demand for merchant CW DFB laser suppliers. Serenity frames Mesh as likely owning optical engine / packaging while sourcing lasers externally; $SIVE is highlighted as one of the more startup-friendly suppliers.

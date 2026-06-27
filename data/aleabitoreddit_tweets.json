@@ -1,5 +1,43 @@
 [
   {
+    "id": "2070754658868687086",
+    "text": "Kinda nutty OpenAI’s is launching its heavyweight 5.6 Sol frontier model on $CBRS.\n\nAt up to 750 tokens/sec, which is obscene performance.\n\nAmerican inference go brrr.\n\nI actually picked up starter positions on Cerebras for the first time in the ~170s (below $185 IPO price) after https://t.co/vRVu6Jsahd",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 259,
+      "retweets": 25,
+      "replies": 87,
+      "quotes": 7,
+      "views": 93997,
+      "bookmarks": 86
+    },
+    "createdAt": "Sat Jun 27 06:22:38 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzMYpubAAAMmbB.jpg",
+        "width": 1240,
+        "height": 544
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2070754658868687086",
+    "createdAtISO": "2026-06-27T06:22:38+00:00",
+    "createdAtLocal": "2026-06-27 14:22"
+  },
+  {
     "id": "2070691462354993543",
     "text": "$SPCX / Elon Musk acquires Mesh, an optical networking startup.\n\nWhich is working on 1.6T OSFP (pluggable).\n\nIt’s seems they own the optical engine/packaging side of things, but likely sources CW DFB lasers off merchant companies. \n\n$SIVE is one of the more startup friendly https://t.co/A1H7Bd6ZU4",
     "author": {
