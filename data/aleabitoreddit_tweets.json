@@ -1,5 +1,121 @@
 [
   {
+    "id": "2071175197814874171",
+    "text": "@I_Am_Bloateds No, I don't own any of the above, if I did I would have disclosed it. \n\nSometimes I just like publishing ideas.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 7,
+      "retweets": 0,
+      "replies": 3,
+      "quotes": 0,
+      "views": 2571,
+      "bookmarks": 2
+    },
+    "createdAt": "Sun Jun 28 10:13:42 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2071170396536050100",
+    "inReplyToUserId": "2034937344206544899",
+    "conversationId": "2071164721299112316",
+    "createdAtISO": "2026-06-28T10:13:42+00:00",
+    "createdAtLocal": "2026-06-28 18:13"
+  },
+  {
+    "id": "2071173662477299808",
+    "text": "@Sydneychaang I built my own personal terminal that I use to keep up to date with everything. https://t.co/tpg2GjgMTk",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 30,
+      "retweets": 2,
+      "replies": 5,
+      "quotes": 0,
+      "views": 3372,
+      "bookmarks": 11
+    },
+    "createdAt": "Sun Jun 28 10:07:36 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2071165256412311851",
+    "inReplyToUserId": "1881088837574684672",
+    "conversationId": "2071164721299112316",
+    "createdAtISO": "2026-06-28T10:07:36+00:00",
+    "createdAtLocal": "2026-06-28 18:07"
+  },
+  {
+    "id": "2071164721299112316",
+    "text": "Yup, Schaeffler $SHA0 is the ideal example for automotive players.\n\n~ €7.47B MC auto player.\n- but also working with 45 humanoid players (extremely insane number, they do have €5.14b debt, EV is higher)\n- covers bearings, gearboxes, sensors/ECUs, actuators, power electronics. https://t.co/uAbzdryP0S",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 248,
+      "retweets": 12,
+      "replies": 110,
+      "quotes": 4,
+      "views": 99280,
+      "bookmarks": 168
+    },
+    "createdAt": "Sun Jun 28 09:32:04 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5BVOJawAAjQ1L.jpg",
+        "width": 1223,
+        "height": 954
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5BVOFa0AACujU.jpg",
+        "width": 1260,
+        "height": 706
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5BVOMaQAA0h8i.jpg",
+        "width": 1260,
+        "height": 679
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2071164721299112316",
+    "createdAtISO": "2026-06-28T09:32:04+00:00",
+    "createdAtLocal": "2026-06-28 17:32"
+  },
+  {
     "id": "2071135874100990438",
     "text": "Guess we finally found why $META signed massive agreements with Neoclouds like $NBIS back in March...\n\nAnd why Gemini got super nerfed. \n\n$GOOGL reportedly restricted Meta's capacity in March 2026 because of compute restraints. \n\nGoogle's CEO said from last earnings computing https://t.co/LXGg8md2ur",
     "author": {
