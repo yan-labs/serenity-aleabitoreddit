@@ -1,5 +1,142 @@
 [
   {
+    "id": "2071074680253911267",
+    "text": "WSJ: “China Has Matched Anthropic in Cybersecurity, Resetting AI Race”\n\nChina’s Zhipu AI, has matched \nAnthropic’s Mythos in certain benchmarks, such as exploiting cybersecurity bugs. \n\nWell, that’s not good.\n\nInstead of blaming the administration which did the correct thing… https://t.co/L2GFG32zsM",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 319,
+      "retweets": 21,
+      "replies": 101,
+      "quotes": 5,
+      "views": 76143,
+      "bookmarks": 54
+    },
+    "createdAt": "Sun Jun 28 03:34:17 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3vcVIb0AALrCJ.jpg",
+        "width": 1213,
+        "height": 710
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2071074680253911267",
+    "createdAtISO": "2026-06-28T03:34:17+00:00",
+    "createdAtLocal": "2026-06-28 11:34"
+  },
+  {
+    "id": "2070796064698044849",
+    "text": "@buy_the_day Bro look at $RR on the left. \n\nAnd then humanoids deployed in military combat on the right. \n\nI feel like the right one is what markets want exposure to https://t.co/EY2wHjfQmH",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 236,
+      "retweets": 6,
+      "replies": 23,
+      "quotes": 2,
+      "views": 51536,
+      "bookmarks": 39
+    },
+    "createdAt": "Sat Jun 27 09:07:10 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2070790270447178012",
+    "inReplyToUserId": "592723095",
+    "conversationId": "2070789923108798545",
+    "createdAtISO": "2026-06-27T09:07:10+00:00",
+    "createdAtLocal": "2026-06-27 17:07"
+  },
+  {
+    "id": "2070793664599863682",
+    "text": "@eldan_0123 $SIVE is has a decent chance to be in Boston Dynamics humanoid programs through $AEVA and LG Innotek. \n\nI don’t see it being too material to revenue near term since the leading humanoid companies have only made ~10K so far.\n\nBut if you get to the millions in past 2028, it’s",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 171,
+      "retweets": 5,
+      "replies": 7,
+      "quotes": 1,
+      "views": 40812,
+      "bookmarks": 34
+    },
+    "createdAt": "Sat Jun 27 08:57:37 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2070791318465618126",
+    "inReplyToUserId": "2057876367056986112",
+    "conversationId": "2070789923108798545",
+    "createdAtISO": "2026-06-27T08:57:37+00:00",
+    "createdAtLocal": "2026-06-27 16:57"
+  },
+  {
+    "id": "2070792527259775235",
+    "text": "@chengchushow I’m actually very bullish on Unitree for CN domestic markets.\n\nHowever I don’t think there’s going to be much US market penetration for Chinese humanoids.\n\nEspecially with the DJI incident where a hacker could see into everyone’s house, and shows what foreign companies have",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 135,
+      "retweets": 2,
+      "replies": 15,
+      "quotes": 1,
+      "views": 51716,
+      "bookmarks": 27
+    },
+    "createdAt": "Sat Jun 27 08:53:06 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2070791131718373730",
+    "inReplyToUserId": "2034269265738842112",
+    "conversationId": "2070789923108798545",
+    "createdAtISO": "2026-06-27T08:53:06+00:00",
+    "createdAtLocal": "2026-06-27 16:53"
+  },
+  {
     "id": "2070789923108798545",
     "text": "Robotics is next. \n\nBoth deal count and investment amounts are skyrocketing per pitchbook March data (source: a16z)\n\nGood thing is: the same AI DC exposure often has cross-exposure to humanoid ramp.\n\nLike DRAM/NAND with memory (on humanoid inference/storage) or DFB lasers with https://t.co/7BrzCd3cWD",
     "author": {
@@ -38,6 +175,72 @@
     "createdAtLocal": "2026-06-27 16:42"
   },
   {
+    "id": "2070761472100282607",
+    "text": "@apishdadi Ah sorry. I would have posted this idea like &lt;10m when the new news broke.\n\nBut I don’t post new positions during market hours anymore and I have a compliance review for each of my posts, which delays things a tiny bit.\n\nMy follower count is uncomfortably high compared when I had",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 130,
+      "retweets": 0,
+      "replies": 11,
+      "quotes": 1,
+      "views": 22559,
+      "bookmarks": 13
+    },
+    "createdAt": "Sat Jun 27 06:49:42 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2070756178708009236",
+    "inReplyToUserId": "20435581",
+    "conversationId": "2070754658868687086",
+    "createdAtISO": "2026-06-27T06:49:42+00:00",
+    "createdAtLocal": "2026-06-27 14:49"
+  },
+  {
+    "id": "2070758710599954450",
+    "text": "@wannabepanacea pls don’t blindly follow along, esp. since I actively manage my own positions!\n\n$CBRS is just a cautionary position for me right now. \n\nCause things evolve every month in the AI space (eg. Custom jalapeño chips, maybe OpenAI has troubles, rate hikes), etc.\n\nBut if it’s compelling",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 108,
+      "retweets": 2,
+      "replies": 7,
+      "quotes": 0,
+      "views": 18886,
+      "bookmarks": 8
+    },
+    "createdAt": "Sat Jun 27 06:38:44 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2070755118400549191",
+    "inReplyToUserId": "1931061774037704704",
+    "conversationId": "2070754658868687086",
+    "createdAtISO": "2026-06-27T06:38:44+00:00",
+    "createdAtLocal": "2026-06-27 14:38"
+  },
+  {
     "id": "2070754658868687086",
     "text": "Kinda nutty OpenAI’s is launching its heavyweight 5.6 Sol frontier model on $CBRS.\n\nAt up to 750 tokens/sec, which is obscene performance.\n\nAmerican inference go brrr.\n\nI actually picked up starter positions on Cerebras for the first time in the ~170s (below $185 IPO price) after https://t.co/vRVu6Jsahd",
     "author": {
@@ -74,6 +277,39 @@
     "conversationId": "2070754658868687086",
     "createdAtISO": "2026-06-27T06:22:38+00:00",
     "createdAtLocal": "2026-06-27 14:22"
+  },
+  {
+    "id": "2070705915012297005",
+    "text": "@beauty_oe ニュースが発表された時、誰がすぐに恩恵を受けるのかを考えるようにしているんです。\n\n$SPCXによるMeshの買収後、初期のスタートアップと協業してきた実績を考えると $SIVE が恩恵を受けそうだなと思いました。\n\nフォロワー2万人達成、おめでとうございます！",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 313,
+      "retweets": 13,
+      "replies": 16,
+      "quotes": 3,
+      "views": 95074,
+      "bookmarks": 37
+    },
+    "createdAt": "Sat Jun 27 03:08:56 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "ja",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2070704644737929592",
+    "inReplyToUserId": "1350097978652991488",
+    "conversationId": "2070704644737929592",
+    "createdAtISO": "2026-06-27T03:08:56+00:00",
+    "createdAtLocal": "2026-06-27 11:08"
   },
   {
     "id": "2070691462354993543",

@@ -27,6 +27,18 @@ dated example from the corpus. A runnable checklist is at the bottom.
 
 ---
 
+## Recent incremental methodology notes after June 8, 2026
+
+- **China AI capability is also a cybersecurity/risk signal, not only a model
+  leaderboard signal.** Jun 28 update cites WSJ reporting that Zhipu AI matched
+  Anthropic in some cybersecurity exploit benchmarks, framing it as an adverse
+  AI-race reset rather than a simple "China model caught up" victory lap. Use
+  this as a policy/geopolitical overlay when evaluating AI infra, cyber tooling,
+  and China-exposed AI supply-chain names. Source:
+  [2071074680253911267](https://x.com/aleabitoreddit/status/2071074680253911267).
+
+---
+
 ## 1. Bottleneck hunting (the core lens)
 
 - **What:** Find the single point of failure in a fast-growing supply chain —
