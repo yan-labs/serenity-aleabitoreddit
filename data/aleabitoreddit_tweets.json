@@ -1,5 +1,49 @@
 [
   {
+    "id": "2071135874100990438",
+    "text": "Guess we finally found why $META signed massive agreements with Neoclouds like $NBIS back in March...\n\nAnd why Gemini got super nerfed. \n\n$GOOGL reportedly restricted Meta's capacity in March 2026 because of compute restraints. \n\nGoogle's CEO said from last earnings computing https://t.co/LXGg8md2ur",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 442,
+      "retweets": 34,
+      "replies": 81,
+      "quotes": 6,
+      "views": 82358,
+      "bookmarks": 103
+    },
+    "createdAt": "Sun Jun 28 07:37:26 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4mNPiasAA9jbQ.jpg",
+        "width": 1811,
+        "height": 1129
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4mNRvaAAAy0C_.jpg",
+        "width": 1329,
+        "height": 1288
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2071135874100990438",
+    "createdAtISO": "2026-06-28T07:37:26+00:00",
+    "createdAtLocal": "2026-06-28 15:37"
+  },
+  {
     "id": "2071074680253911267",
     "text": "WSJ: “China Has Matched Anthropic in Cybersecurity, Resetting AI Race”\n\nChina’s Zhipu AI, has matched \nAnthropic’s Mythos in certain benchmarks, such as exploiting cybersecurity bugs. \n\nWell, that’s not good.\n\nInstead of blaming the administration which did the correct thing… https://t.co/L2GFG32zsM",
     "author": {
