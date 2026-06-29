@@ -32,6 +32,14 @@ The restored taxonomy below remains the full merged thesis base. This section
 preserves newer incremental live-feed updates that landed on `main` after the
 restore branch split.
 
+## Unitree / Agility Robotics / Harmonic Drive — humanoid robotics exposure
+
+- **Latest signal**: Bullish humanoid-robotics position update — Jun 29 update says Serenity has a favorable view on Unitree and Agility Robotics, with his largest concentration in Agility Robotics because he prefers U.S. humanoid players. For upstream component exposure, he says he currently owns Harmonic Drive.
+- **Latest tweet**: [2071730699363881241](https://x.com/aleabitoreddit/status/2071730699363881241) — 2026-06-29T23:01:04Z
+- **Context**: Treat as a disclosed robotics concentration update rather than a broad public-equity ticker call. Unitree and Agility are private/direct exposure signals; Harmonic Drive is the explicit upstream component exposure in the captured text.
+
+---
+
 ## $ASTS / Rakuten / $SPCX — Japan LEO satellite networks
 
 - **Latest signal**: Bullish LEO satellite-network validation — Jun 29 update says Rakuten will establish a joint venture with AST SpaceMobile to build out LEO satellite networks for Japan, framed by Digitimes/Nikkei as a strategic response to Starlink's growing influence in Japan.
