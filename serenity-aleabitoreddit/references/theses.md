@@ -159,10 +159,10 @@ restore branch split.
 
 ## $POET — POET Technologies
 
-- **Latest signal**: Bullish OSINT / hyperscaler-customer thesis — Jun 24 update says Poet OSINT community found likely $POET / $SIVE involvement powering a top-3 hyperscaler, inferred from Lumilens CEO Ankur Singla saying the customer is one of the top three.
-- **Latest tweet**: [2069775271562289299](https://x.com/aleabitoreddit/status/2069775271562289299) — 2026-06-24T13:30:53Z
-- **Quote**: "Seems likely that $POET / $SIVE are going to power a Top-3 hyperscaler (either Amazon, Microsoft, Google)."
-- **Context**: Captured as OSINT-derived customer inference, not confirmed contract. Relevant because it reinforces Serenity's broader photonics/CPO hyperscaler-supply-chain thesis.
+- **Latest signal**: Bullish AGM / optical shortage read-through — Jun 29 update says POET AGM notes imply the top three laser suppliers control 68% of the market and are sold out for the next two years. Serenity links this to $LITE CEO commentary into 2028 and frames it as laser shortage visibility extending into 2029.
+- **Latest tweet**: [2071488272245944399](https://x.com/aleabitoreddit/status/2071488272245944399) — 2026-06-29T06:57:45Z
+- **Quote**: "POET implicitly confirms laser shortage is going into 2029 now."
+- **Context**: This adds supply-duration support to the prior Jun 24 OSINT / hyperscaler-customer thesis. Treat as photonics market bottleneck validation, not a confirmed POET customer contract.
 
 ---
 
