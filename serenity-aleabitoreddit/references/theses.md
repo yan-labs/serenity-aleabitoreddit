@@ -32,6 +32,14 @@ The restored taxonomy below remains the full merged thesis base. This section
 preserves newer incremental live-feed updates that landed on `main` after the
 restore branch split.
 
+## $RKLB / $SPCX — orbital compute and reusable rocket infrastructure
+
+- **Latest signal**: Thematic bullish watch — Jun 29 update frames 2020-2030 as an unusually strong innovation decade, citing reusable rockets for orbital compute, ASI/recursive learning, and advanced robotics as linked frontiers.
+- **Latest tweet**: [2071465314794233905](https://x.com/aleabitoreddit/status/2071465314794233905) — 2026-06-29T05:26:31Z
+- **Context**: Treat as broad thematic mapping, not a disclosed position or company-specific catalyst. It extends the existing space/compute infrastructure watchlist from $SPCX to $RKLB and ties it to AI and robotics demand.
+
+---
+
 ## $CBRS — Cerebras Systems
 
 - **Latest signal**: Starter long / OpenAI inference catalyst — Jun 27 update says OpenAI is launching its heavyweight 5.6 Sol frontier model on Cerebras, citing up to 750 tokens/sec. Serenity disclosed starter positions in Cerebras in the ~$170s, below the $185 IPO price.
