@@ -32,6 +32,14 @@ The restored taxonomy below remains the full merged thesis base. This section
 preserves newer incremental live-feed updates that landed on `main` after the
 restore branch split.
 
+## $GM / $NVDA — factory robotics validation
+
+- **Latest signal**: Bullish robotics adoption read-through — Jun 29 update says GM cut 1,000 workers and replaced them with 50 robots in a Jun 22 report, while separate reports show GM working on a factory-robotics deal with NVIDIA.
+- **Latest tweet**: [2071532870859149617](https://x.com/aleabitoreddit/status/2071532870859149617) — 2026-06-29T09:54:58Z
+- **Context**: Treat as industry-validation evidence for physical AI / robotics operating leverage rather than a disclosed GM or NVIDIA position. The thesis is that large manufacturers are starting to trade labor expense for robotics capacity, supporting the broader robotics supply-chain theme.
+
+---
+
 ## $RKLB / $SPCX — orbital compute and reusable rocket infrastructure
 
 - **Latest signal**: Thematic bullish watch — Jun 29 update frames 2020-2030 as an unusually strong innovation decade, citing reusable rockets for orbital compute, ASI/recursive learning, and advanced robotics as linked frontiers.

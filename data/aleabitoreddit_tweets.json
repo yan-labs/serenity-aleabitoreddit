@@ -1,5 +1,49 @@
 [
   {
+    "id": "2071532870859149617",
+    "text": "$GM cuts 1,000 workers and replaces them with 50 robots (Jun 22nd report)\n\nReports also show GM is working on a deal with $NVDA on factory robotics.\n\nThis is industry validation for robotics, since it likely demonstrates increased opex margins + efficiency from employee https://t.co/wocndLGOcp",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 322,
+      "retweets": 27,
+      "replies": 137,
+      "quotes": 5,
+      "views": 93840,
+      "bookmarks": 70
+    },
+    "createdAt": "Mon Jun 29 09:54:58 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-QKfNa4AE_fZU.jpg",
+        "width": 1247,
+        "height": 855
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-QKfPa8AEPxWD.jpg",
+        "width": 860,
+        "height": 680
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2071532870859149617",
+    "createdAtISO": "2026-06-29T09:54:58+00:00",
+    "createdAtLocal": "2026-06-29 17:54"
+  },
+  {
     "id": "2071488272245944399",
     "text": "Just some notes on $POET AGM and read through on optical markets:\n\n- \"The top three laser suppliers control 68% of the market, and they’re completely sold out for the next two years\"\n\n$LITE CEO said into 2028, so POET implicitly confirms laser shortage is going into 2029 now.\n\n- https://t.co/Lx8IHQ9fyK",
     "author": {
