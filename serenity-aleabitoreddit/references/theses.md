@@ -32,6 +32,14 @@ The restored taxonomy below remains the full merged thesis base. This section
 preserves newer incremental live-feed updates that landed on `main` after the
 restore branch split.
 
+## $ASTS / Rakuten / $SPCX — Japan LEO satellite networks
+
+- **Latest signal**: Bullish LEO satellite-network validation — Jun 29 update says Rakuten will establish a joint venture with AST SpaceMobile to build out LEO satellite networks for Japan, framed by Digitimes/Nikkei as a strategic response to Starlink's growing influence in Japan.
+- **Latest tweet**: [2071545016007467486](https://x.com/aleabitoreddit/status/2071545016007467486) — 2026-06-29T10:43:13Z
+- **Context**: Treat as satellite-infrastructure demand validation for $ASTS and the broader LEO communications theme. $SPCX/Starlink is the competitive benchmark rather than the direct beneficiary.
+
+---
+
 ## $GM / $NVDA — factory robotics validation
 
 - **Latest signal**: Bullish robotics adoption read-through — Jun 29 update says GM cut 1,000 workers and replaced them with 50 robots in a Jun 22 report, while separate reports show GM working on a factory-robotics deal with NVIDIA.
