@@ -1306,6 +1306,11 @@ superseded this list by 2026.)
   Serenity said VPG tripled after his thesis, but explicitly noted he overestimated
   ASP (~$750 midpoint vs. ~$150 mass production) and cut concentration because of
   TSLA design-out risk.
+- **Robot cosmetics / humanoid skin bottleneck watch:** Jun 30 speculative note
+  asks whether large-scale humanoid deployment, using $TSLA Optimus as the
+  example, could create a new exterior-materials, robot-cosmetics, or
+  skin-surface bottleneck. Treat this as a low-evidence supply-chain search
+  prompt rather than a confirmed position, Tesla trade, or named-supplier call.
 - **Robotics supply-chain / China kill-switch basket:** The Mar 15 X Article
   argues that robotics and humanoids are constrained by rare earths, magnets,
   specialty metals, and Western processing capacity, not just AI software. It
