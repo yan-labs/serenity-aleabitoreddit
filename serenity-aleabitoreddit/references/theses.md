@@ -255,10 +255,10 @@ restore branch split.
 
 ## $GOOGL — Alphabet Inc
 
-- **Latest signal**: Bullish — Google's next-generation AI data centers are among the first to adopt 800V DC power delivery (Q3 2026, ahead of schedule).
-- **Latest tweet**: [2066331049605627951](https://x.com/aleabitoreddit/status/2066331049605627951) — 2026-06-15T01:24:47Z
-- **Quote**: "$NVDA and $GOOGL lead 800V DC ahead of schedule."
-- **Context**: Both NVDA and GOOGL confirmed as first 800V DC adopters.
+- **Latest signal**: Bullish hyperscaler capex durability update — Jun 30 update says it is hard to see U.S. AI hyperscaler capex dropping dramatically from Google to Meta while Chinese entities claim AI-enabled cyber capabilities against Western companies and governments.
+- **Latest tweet**: [2071903552608362500](https://x.com/aleabitoreddit/status/2071903552608362500) — 2026-06-30T10:27:55Z
+- **Quote**: "Hard to see a world where US AI hyperscaler capex drops dramatically from $GOOGL to $META."
+- **Context**: Treat as top-down AI/security competition support for sustained hyperscaler capex, layered on the earlier Google 800V DC data-center adoption signal.
 
 ---
 
