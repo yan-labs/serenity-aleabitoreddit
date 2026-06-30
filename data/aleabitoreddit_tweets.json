@@ -1,5 +1,43 @@
 [
   {
+    "id": "2071763387948859506",
+    "text": "I've reached 900k followers, thank you everyone!\n\nJust some reflection, it's actually a nightmare at higher counts...\n\nWhich is new to me, since I started at almost nothing earlier this year.\n\n1. Threats of safety, which I don't enjoy.\n\n- Random new accounts sending personal https://t.co/NrHJbO0fWr",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 648,
+      "retweets": 18,
+      "replies": 199,
+      "quotes": 2,
+      "views": 66007,
+      "bookmarks": 32
+    },
+    "createdAt": "Tue Jun 30 01:10:57 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMBgSDKbsAATWpN.jpg",
+        "width": 846,
+        "height": 359
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2071763387948859506",
+    "createdAtISO": "2026-06-30T01:10:57+00:00",
+    "createdAtLocal": "2026-06-30 09:10"
+  },
+  {
     "id": "2071730699363881241",
     "text": "For robotics companies, I have a favorable view on Unitree and Agility Robotics, two humanoid players. \n\nAnd I have largest concentration in Agility Robotics, since I personally prefer US humanoid players. \n\nFor upstream component exposure, I currently own:\n\n- Harmonic Drive https://t.co/YbMdym2gCQ",
     "author": {
