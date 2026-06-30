@@ -1,5 +1,55 @@
 [
   {
+    "id": "2071995924172394695",
+    "text": "Yep! Agility Robotics is currently my favorite humanoid/robotics position.\n\nThey're set to be listed on NASDAQ via $CCXI as early as September (per Digitimes).\n\nJust for informational purposes: Their V4 humanoid robot is already operating in sites like Amazon. And have V5 slated https://t.co/e76CV1wOhv",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 331,
+      "retweets": 34,
+      "replies": 91,
+      "quotes": 9,
+      "views": 97185,
+      "bookmarks": 233
+    },
+    "createdAt": "Tue Jun 30 16:34:58 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HME0psNaUAEjAS2.jpg",
+        "width": 1023,
+        "height": 670
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HME0psOaUAMPef7.jpg",
+        "width": 1219,
+        "height": 660
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HME0psPaUAAXdbQ.jpg",
+        "width": 1228,
+        "height": 474
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2071995924172394695",
+    "createdAtISO": "2026-06-30T16:34:58+00:00",
+    "createdAtLocal": "2026-07-01 00:34"
+  },
+  {
     "id": "2071977219002613768",
     "text": "I wonder if humanoids is going to spark a new bottleneck/industry for robot cosmetics.\n\nLike a skin bottleneck. Or Aespa KPOP robot makeover as a service.\n\nSo if $TSLA Optimus makes tens of millions of humanoids:\n\nWho’s going to make them all look hot?",
     "author": {

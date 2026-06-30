@@ -32,11 +32,11 @@ The restored taxonomy below remains the full merged thesis base. This section
 preserves newer incremental live-feed updates that landed on `main` after the
 restore branch split.
 
-## Unitree / Agility Robotics / Harmonic Drive — humanoid robotics exposure
+## Unitree / Agility Robotics / $CCXI / Harmonic Drive — humanoid robotics exposure
 
-- **Latest signal**: Bullish humanoid-robotics position update — Jun 29 update says Serenity has a favorable view on Unitree and Agility Robotics, with his largest concentration in Agility Robotics because he prefers U.S. humanoid players. For upstream component exposure, he says he currently owns Harmonic Drive.
-- **Latest tweet**: [2071730699363881241](https://x.com/aleabitoreddit/status/2071730699363881241) — 2026-06-29T23:01:04Z
-- **Context**: Treat as a disclosed robotics concentration update rather than a broad public-equity ticker call. Unitree and Agility are private/direct exposure signals; Harmonic Drive is the explicit upstream component exposure in the captured text.
+- **Latest signal**: Bullish humanoid-robotics position catalyst — Jun 30 update says Agility Robotics is currently Serenity's favorite humanoid/robotics position, is expected to list on Nasdaq via `$CCXI` as early as September per Digitimes, and already has its V4 humanoid operating at sites like Amazon, with V5 slated. This follows the Jun 29 update saying his largest humanoid concentration is Agility Robotics because he prefers U.S. humanoid players; for upstream component exposure, he says he currently owns Harmonic Drive.
+- **Latest tweet**: [2071995924172394695](https://x.com/aleabitoreddit/status/2071995924172394695) — 2026-06-30T16:34:58Z
+- **Context**: Treat Agility as the explicit favorite direct robotics exposure and `$CCXI` as the public listing route to monitor, not as a completed listing. Harmonic Drive remains the explicit upstream component exposure in the captured text; Unitree remains a favorable private/direct exposure signal.
 
 ---
 

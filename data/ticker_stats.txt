@@ -1,5 +1,5 @@
-Total tweets: 5917
-Distinct $tickers: 679
+Total tweets: 5918
+Distinct $tickers: 680
 
 ticker  mentions  first_seen  last_seen
 NBIS        693   2025-07-21  2026-06-28
