@@ -1,5 +1,43 @@
 [
   {
+    "id": "2071961279380791729",
+    "text": "There was a pretty funny anecdotal complaint from the Machine Learning $RDDT subreddit.\n\nOn $CBRS + OpenAI:\n\n- Needs 1-2K tokens/sec so tries to use Cerebras.\n\n- Claims OpenAI reserved all capacity, making waitlist infinite for everyone else not a hyperscaler.\n\n- Stated https://t.co/ZXPPg7v5Ch",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 239,
+      "retweets": 19,
+      "replies": 124,
+      "quotes": 3,
+      "views": 93511,
+      "bookmarks": 47
+    },
+    "createdAt": "Tue Jun 30 14:17:18 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEVyqRWsAAdtrA.jpg",
+        "width": 1258,
+        "height": 1684
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2071961279380791729",
+    "createdAtISO": "2026-06-30T14:17:18+00:00",
+    "createdAtLocal": "2026-06-30 22:17"
+  },
+  {
     "id": "2071903552608362500",
     "text": "Hard to see a world where US AI hyperscaler capex drops dramatically from $GOOGL to $META.\n\nWhen China entities like 360 go and claim:\n\nThey now have a \"AI cyber nuclear weapon\" that can hack Western companies and governments.\n\n(Zhou claimed Mythos was like an AI era cyber https://t.co/pBbhuAfJk3",
     "author": {

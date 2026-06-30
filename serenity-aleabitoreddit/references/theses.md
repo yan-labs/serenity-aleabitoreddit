@@ -66,10 +66,10 @@ restore branch split.
 
 ## $CBRS — Cerebras Systems
 
-- **Latest signal**: Starter long / OpenAI inference catalyst — Jun 27 update says OpenAI is launching its heavyweight 5.6 Sol frontier model on Cerebras, citing up to 750 tokens/sec. Serenity disclosed starter positions in Cerebras in the ~$170s, below the $185 IPO price.
-- **Latest tweet**: [2070754658868687086](https://x.com/aleabitoreddit/status/2070754658868687086) — 2026-06-27T06:22:38Z
-- **Quote**: "I actually picked up starter positions on Cerebras for the first time in the ~170s (below $185 IPO price)"
-- **Context**: Treat as a new disclosed starter position tied to U.S. inference capacity and OpenAI workload validation. Position size appears early/starter, so conviction is lower than core holdings unless later updates add sizing or follow-through.
+- **Latest signal**: Bullish inference-capacity scarcity reinforcement — Jun 30 update cites an anecdotal Machine Learning subreddit complaint that a user needed 1-2K tokens/sec, tried to use Cerebras, and claimed OpenAI reserved all capacity, making waitlists effectively infinite for non-hyperscalers. This builds on the Jun 27 starter long / OpenAI inference catalyst where Serenity said OpenAI was launching its heavyweight 5.6 Sol frontier model on Cerebras at up to 750 tokens/sec and disclosed starter positions in Cerebras in the ~$170s, below the $185 IPO price.
+- **Latest tweet**: [2071961279380791729](https://x.com/aleabitoreddit/status/2071961279380791729) — 2026-06-30T14:17:18Z
+- **Quote**: "Claims OpenAI reserved all capacity, making waitlist infinite for everyone else not a hyperscaler."
+- **Context**: Treat as thesis reinforcement for scarce high-speed inference capacity and OpenAI workload validation, not as a confirmed contract or sizing increase. Position size still appears early/starter, so conviction remains below core holdings unless later updates add sizing, formal customer evidence, or durable revenue follow-through.
 
 ---
 

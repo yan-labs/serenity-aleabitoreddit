@@ -1,4 +1,13 @@
 id,url,createdAtISO,createdAtLocal,lang,isRetweet,retweetedBy,likes,retweets,replies,quotes,views,bookmarks,media_count,media_urls,link_urls,quoted_id,quoted_author,quoted_text,text
+2071961279380791729,https://x.com/aleabitoreddit/status/2071961279380791729,2026-06-30T14:17:18+00:00,2026-06-30 22:17,en,False,,239,19,124,3,93511,47,1,https://pbs.twimg.com/media/HMEVyqRWsAAdtrA.jpg,,,,,"There was a pretty funny anecdotal complaint from the Machine Learning $RDDT subreddit.
+
+On $CBRS + OpenAI:
+
+- Needs 1-2K tokens/sec so tries to use Cerebras.
+
+- Claims OpenAI reserved all capacity, making waitlist infinite for everyone else not a hyperscaler.
+
+- Stated https://t.co/ZXPPg7v5Ch"
 2071903552608362500,https://x.com/aleabitoreddit/status/2071903552608362500,2026-06-30T10:27:55+00:00,2026-06-30 18:27,en,False,,240,19,91,7,55525,50,1,https://pbs.twimg.com/media/HMDhS8WXoAAjRqU.jpg,,,,,"Hard to see a world where US AI hyperscaler capex drops dramatically from $GOOGL to $META.
 
 When China entities like 360 go and claim:
