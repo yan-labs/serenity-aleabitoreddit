@@ -1,5 +1,55 @@
 [
   {
+    "id": "2072367082248040621",
+    "text": "Just dropping these 3 slides from Agility Robotics ( $CCXI ) presentations.\n\nFor the US robotic program doomposters:\n\n1. “75% of parts” - sourced from the USA\n\n2. Just eyeballing the graph, looks like &lt;$30k BOM mass production.\n\nPeople were just looking at the ~$145K cost. \n\n3. https://t.co/zs2msucOk6",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 127,
+      "retweets": 8,
+      "replies": 40,
+      "quotes": 1,
+      "views": 26065,
+      "bookmarks": 60
+    },
+    "createdAt": "Wed Jul 01 17:09:49 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKG4B1b0AApnu8.jpg",
+        "width": 913,
+        "height": 1008
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKG4B3acAEk_8m.jpg",
+        "width": 1008,
+        "height": 936
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKG4Bya8AA4o6s.jpg",
+        "width": 1077,
+        "height": 739
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2072367082248040621",
+    "createdAtISO": "2026-07-01T17:09:49+00:00",
+    "createdAtLocal": "2026-07-02 01:09"
+  },
+  {
     "id": "2072314906729455876",
     "text": "There’s a lot of disinformation going around about $META “cutting capex” because they “overbuilt”.\n\nThis is an “if” they have excess capacity.\n\nAnd it looks like the opposite right now:\n\nHyperscalers like $GOOGL are so compute constrained that they had to cut allocations to Meta",
     "author": {
