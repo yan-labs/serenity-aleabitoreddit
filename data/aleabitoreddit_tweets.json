@@ -1,5 +1,109 @@
 [
   {
+    "id": "2072303237806624817",
+    "text": "@Deebeeng10 The Neoclouds like $NBIS are probably the ones powering this offering lol.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 63,
+      "retweets": 2,
+      "replies": 8,
+      "quotes": 2,
+      "views": 8704,
+      "bookmarks": 3
+    },
+    "createdAt": "Wed Jul 01 12:56:08 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2072301932035870877",
+    "inReplyToUserId": "1378735390153187328",
+    "conversationId": "2072301677211009426",
+    "createdAtISO": "2026-07-01T12:56:08+00:00",
+    "createdAtLocal": "2026-07-01 20:56"
+  },
+  {
+    "id": "2072301677211009426",
+    "text": "Finally, $META to build a Cloud Business to sell excess AI compute per Bloomberg.\n\nThought Meta should go up against GCP, Azure, and AWS eventually to increase revenue streams. \n\nMeta up 6.65% premarket. https://t.co/UUolnwtYJY",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 358,
+      "retweets": 16,
+      "replies": 122,
+      "quotes": 20,
+      "views": 81879,
+      "bookmarks": 32
+    },
+    "createdAt": "Wed Jul 01 12:49:56 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJLY9xawAABQkj.jpg",
+        "width": 1242,
+        "height": 289
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2072301677211009426",
+    "createdAtISO": "2026-07-01T12:49:56+00:00",
+    "createdAtLocal": "2026-07-01 20:49"
+  },
+  {
+    "id": "2072278885526565214",
+    "text": "@MartinShkreli I think they’re still the same as they were before, with just some like memory getting worse.\n\nThen you have new ones pop up like MLCC or WF6 recently. \n\nJust attention span is extremely short with markets nowaday, and they need to get reminded that a bottleneck is still a",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 111,
+      "retweets": 1,
+      "replies": 7,
+      "quotes": 0,
+      "views": 16322,
+      "bookmarks": 13
+    },
+    "createdAt": "Wed Jul 01 11:19:22 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2072271118031900781",
+    "inReplyToUserId": "312653402",
+    "conversationId": "2072242322688057579",
+    "createdAtISO": "2026-07-01T11:19:22+00:00",
+    "createdAtLocal": "2026-07-01 19:19"
+  },
+  {
     "id": "2072275805330362648",
     "text": "Just a random thought, leading US humanoid players strangely me of the current LLM dynamics:\n\nAgility ( $CCXI ) kinda feels like Anthropic for robotics.\n\nWith $AMZN and $NVDA heavily backing it, ingrained with $GOOGL Deepmind (like TPUs). And it starts off with enterprise",
     "author": {
