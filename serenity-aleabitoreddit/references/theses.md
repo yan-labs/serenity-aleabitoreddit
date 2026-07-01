@@ -776,7 +776,9 @@ restore branch split.
   Fluidstack/CIFR/WULF colo capacity; do not over-attribute GOOGL TPU demand to
   NBIS without a direct customer disclosure. Jul 1 reply adds that neoclouds like
   $NBIS are probably powering Meta's planned excess-AI-compute cloud offering;
-  treat as mechanism reinforcement, not a disclosed new contract.
+  treat as mechanism reinforcement, not a disclosed new contract. A later Jul 1
+  analogy says the market is selling neocloud suppliers while Meta repackages
+  their compute, which he frames as backward for the upstream capacity providers.
 
 ### IREN (Iris Energy) — BTC-miner → AI datacenter / GPU cloud
 - **Thesis (early):** BTC miner pivoting to HPC; "reminds me of NBIS following
@@ -1014,7 +1016,9 @@ superseded this list by 2026.)
   charge; fwd P/E 18.9x on 26% growth). -16% in a month (Mar) = "oversold,"
   barbell. Jul 1 update says Bloomberg reported Meta plans to build a cloud
   business to sell excess AI compute; Serenity frames this as the monetization
-  path he expected, with Meta competing against GCP, Azure, and AWS.
+  path he expected, with Meta competing against GCP, Azure, and AWS. Follow-up
+  rejects the "Meta cutting capex because it overbuilt" read, arguing the excess
+  capacity point is conditional while hyperscalers remain compute-constrained.
 - **AMZN:** AWS capex confirmation; "$3T MC" target; "bullish long-term even from
   robotics/AI cutting opex though it moves like a slug." Barbell.
 - **ORCL:** ⚠️ **Explicit AVOID** — most forward backlog depends on OpenAI, which
