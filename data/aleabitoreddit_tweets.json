@@ -1,5 +1,43 @@
 [
   {
+    "id": "2072152226169331776",
+    "text": "Congrats to $SIVE, they have now raised an upside round of 700m SEK from institutional investors.\n\nThe round was “Multiple Times Oversubscribed” and slightly upsided.\n\nValidating immense institutional demand around current market prices.\n\nThis raise was specifically for https://t.co/SOP7XNjgT0",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 213,
+      "retweets": 9,
+      "replies": 63,
+      "quotes": 2,
+      "views": 41668,
+      "bookmarks": 24
+    },
+    "createdAt": "Wed Jul 01 02:56:04 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHDdy_acAAYl8h.jpg",
+        "width": 1217,
+        "height": 570
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2072152226169331776",
+    "createdAtISO": "2026-07-01T02:56:04+00:00",
+    "createdAtLocal": "2026-07-01 10:56"
+  },
+  {
     "id": "2072007692684837039",
     "text": "$SIVE is raising ~$61M (600M SEK) to expand manufacturing capacity for InP lasers and optical amplifiers.\n\nSivers operates as a fab-lite model so this is likely hinting at foundry allocation/scaling for CW DFB laser ramp across Jabil, and their other partners.  \n\nIt could also https://t.co/8F1cMcCxfB",
     "author": {
