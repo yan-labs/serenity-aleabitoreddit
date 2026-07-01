@@ -1,5 +1,142 @@
 [
   {
+    "id": "2072225122057142691",
+    "text": "@alGix0 I’m not concerned with short term volatility, which is expected with high-beta photonics and current macro. \n\nI’m long on $SIVE to see my thesis play out with laser volume ramp. \n\nDilution could be a short term factor, but I see the development as positive long term",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 81,
+      "retweets": 1,
+      "replies": 4,
+      "quotes": 0,
+      "views": 6610,
+      "bookmarks": 4
+    },
+    "createdAt": "Wed Jul 01 07:45:43 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2072220123369251194",
+    "inReplyToUserId": "1766614256437362688",
+    "conversationId": "2072219315760488615",
+    "createdAtISO": "2026-07-01T07:45:43+00:00",
+    "createdAtLocal": "2026-07-01 15:45"
+  },
+  {
+    "id": "2072221956020326528",
+    "text": "@SammmXBT Continuation of their previous statement https://t.co/Cg9rksIigJ",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 54,
+      "retweets": 3,
+      "replies": 3,
+      "quotes": 0,
+      "views": 7605,
+      "bookmarks": 3
+    },
+    "createdAt": "Wed Jul 01 07:33:08 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2072220691160858802",
+    "inReplyToUserId": "1424428266597666817",
+    "conversationId": "2072219315760488615",
+    "createdAtISO": "2026-07-01T07:33:08+00:00",
+    "createdAtLocal": "2026-07-01 15:33"
+  },
+  {
+    "id": "2072219315760488615",
+    "text": "$SIVE: \"Intent to complete the [NASDAQ] listing process over the next few quarters\"\n\nThis statement was largely missed by many screeners.\n\nVery material improvement from evaluation, to formal confirmation of timelines. https://t.co/iOceCgJTG4",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 546,
+      "retweets": 29,
+      "replies": 143,
+      "quotes": 6,
+      "views": 78315,
+      "bookmarks": 44
+    },
+    "createdAt": "Wed Jul 01 07:22:39 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIAe65aYAEpRyA.jpg",
+        "width": 1169,
+        "height": 236
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2072219315760488615",
+    "createdAtISO": "2026-07-01T07:22:39+00:00",
+    "createdAtLocal": "2026-07-01 15:22"
+  },
+  {
+    "id": "2072183248629923918",
+    "text": "@SidkMena Dunno, probably just sector selloff. Shunsin recebtly confirmed a direct $TSM COUPE partnership.\n\nThen proceeded to crash 15-20%. \n\nDon’t think there’s any material developments outside SemiAnalysis bearposting the Nvidia ecosystem over and over https://t.co/jxKIKup6F3",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 67,
+      "retweets": 0,
+      "replies": 12,
+      "quotes": 0,
+      "views": 17494,
+      "bookmarks": 6
+    },
+    "createdAt": "Wed Jul 01 04:59:20 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2072178493048406213",
+    "inReplyToUserId": "2011108465142611970",
+    "conversationId": "2072178393878290789",
+    "createdAtISO": "2026-07-01T04:59:20+00:00",
+    "createdAtLocal": "2026-07-01 12:59"
+  },
+  {
     "id": "2072178393878290789",
     "text": "Just some of the more interesting news I came across recently:\n\n1. MS: Revised China humanoid shipments to reach 50,000 in 2026 from 14,000u and 28,000u earlier this year.\n\n2. MS: Probe cards and test sockets likely to be priced hike (precious metal hikes + severe shortage of",
     "author": {
@@ -111,6 +248,39 @@
     "conversationId": "2072152226169331776",
     "createdAtISO": "2026-07-01T02:56:04+00:00",
     "createdAtLocal": "2026-07-01 10:56"
+  },
+  {
+    "id": "2072148404621476038",
+    "text": "@StormDirac Thanks for sharing your experiences as well, there’s a lot of irrational behavior when execution or ideas are watched by a lot of people.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 69,
+      "retweets": 0,
+      "replies": 7,
+      "quotes": 0,
+      "views": 9699,
+      "bookmarks": 2
+    },
+    "createdAt": "Wed Jul 01 02:40:52 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2072104570700845255",
+    "inReplyToUserId": "208500614",
+    "conversationId": "2071763387948859506",
+    "createdAtISO": "2026-07-01T02:40:52+00:00",
+    "createdAtLocal": "2026-07-01 10:40"
   },
   {
     "id": "2072007692684837039",
