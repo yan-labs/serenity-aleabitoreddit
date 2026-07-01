@@ -1,5 +1,69 @@
 [
   {
+    "id": "2072275805330362648",
+    "text": "Just a random thought, leading US humanoid players strangely me of the current LLM dynamics:\n\nAgility ( $CCXI ) kinda feels like Anthropic for robotics.\n\nWith $AMZN and $NVDA heavily backing it, ingrained with $GOOGL Deepmind (like TPUs). And it starts off with enterprise",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 112,
+      "retweets": 2,
+      "replies": 36,
+      "quotes": 1,
+      "views": 24325,
+      "bookmarks": 39
+    },
+    "createdAt": "Wed Jul 01 11:07:07 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2072275805330362648",
+    "createdAtISO": "2026-07-01T11:07:07+00:00",
+    "createdAtLocal": "2026-07-01 19:07"
+  },
+  {
+    "id": "2072262479179284686",
+    "text": "@AleksandarGenov Probably Agility Robotics going public with $CCXI and all the media narratives around it was the catalyst.\n\nFeels like $OUST, $AEVA and other names were pretty flat until the announcement.\n\nAs for energy like $FCEL, $BE, seems pretty fundamental with new upsized contracts",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 48,
+      "retweets": 2,
+      "replies": 6,
+      "quotes": 0,
+      "views": 10706,
+      "bookmarks": 12
+    },
+    "createdAt": "Wed Jul 01 10:14:10 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2072254732047995371",
+    "inReplyToUserId": "1110179725",
+    "conversationId": "2072242322688057579",
+    "createdAtISO": "2026-07-01T10:14:10+00:00",
+    "createdAtLocal": "2026-07-01 18:14"
+  },
+  {
     "id": "2072242322688057579",
     "text": "This market feels like an ADHD goldfish with a 5 second attention span, trading popular themes. \n\nIt's like markets only care about physical AI and energy right now?\n\nAnd sold off memory and photonics that are bottlenecked past 2028?",
     "author": {

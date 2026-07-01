@@ -34,9 +34,9 @@ restore branch split.
 
 ## Unitree / Agility Robotics / $CCXI / Harmonic Drive — humanoid robotics exposure
 
-- **Latest signal**: Bullish humanoid-robotics position catalyst — Jun 30 update says Agility Robotics is currently Serenity's favorite humanoid/robotics position, is expected to list on Nasdaq via `$CCXI` as early as September per Digitimes, and already has its V4 humanoid operating at sites like Amazon, with V5 slated. This follows the Jun 29 update saying his largest humanoid concentration is Agility Robotics because he prefers U.S. humanoid players; for upstream component exposure, he says he currently owns Harmonic Drive.
-- **Latest tweet**: [2071995924172394695](https://x.com/aleabitoreddit/status/2071995924172394695) — 2026-06-30T16:34:58Z
-- **Context**: Treat Agility as the explicit favorite direct robotics exposure and `$CCXI` as the public listing route to monitor, not as a completed listing. Harmonic Drive remains the explicit upstream component exposure in the captured text; Unitree remains a favorable private/direct exposure signal.
+- **Latest signal**: Bullish humanoid-robotics position catalyst — Jul 1 update frames Agility Robotics / `$CCXI` as an Anthropic-like U.S. robotics player, with strategic backing or ties from `$AMZN`, `$NVDA`, and `$GOOGL` DeepMind, and a reply says the Agility going-public / media narrative was probably the catalyst for robotics sympathy names like `$OUST` and `$AEVA`. This builds on the Jun 30 update saying Agility Robotics is Serenity's favorite humanoid/robotics position, expected to list on Nasdaq via `$CCXI` as early as September per Digitimes, with V4 already operating at Amazon-like enterprise sites and V5 slated.
+- **Latest tweet**: [2072275805330362648](https://x.com/aleabitoreddit/status/2072275805330362648) — 2026-07-01T11:07:07Z
+- **Context**: Treat Agility as the explicit favorite direct robotics exposure and `$CCXI` as the public listing route to monitor, not as a completed listing. Harmonic Drive remains the explicit upstream component exposure in prior captured text; Unitree remains a favorable private/direct exposure signal. The Jul 1 direct capture is truncated after "enterprise", so do not infer additional customer or deployment details beyond the visible text.
 
 ---
 
