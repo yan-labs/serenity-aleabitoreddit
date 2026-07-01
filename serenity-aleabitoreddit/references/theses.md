@@ -1314,6 +1314,13 @@ superseded this list by 2026.)
   and customization may matter in humanoid productization. Treat this as a
   low-evidence supply-chain search prompt rather than a confirmed position,
   Tesla/UBTech trade, or named-supplier call.
+- **China humanoid shipment / test-socket bottleneck watch:** Jul 1 market-news
+  scan says Morgan Stanley revised 2026 China humanoid shipments to 50,000
+  units from earlier 14,000 and 28,000 estimates, while also flagging likely
+  probe-card and test-socket price hikes tied to precious-metal pressure and
+  severe shortage conditions. The captured X text is truncated, so treat this as
+  a robotics-demand and semiconductor-test-supply watch rather than a complete
+  ticker thesis.
 - **Robotics supply-chain / China kill-switch basket:** The Mar 15 X Article
   argues that robotics and humanoids are constrained by rare earths, magnets,
   specialty metals, and Western processing capacity, not just AI software. It
