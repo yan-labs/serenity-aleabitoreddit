@@ -1309,8 +1309,11 @@ superseded this list by 2026.)
 - **Robot cosmetics / humanoid skin bottleneck watch:** Jun 30 speculative note
   asks whether large-scale humanoid deployment, using $TSLA Optimus as the
   example, could create a new exterior-materials, robot-cosmetics, or
-  skin-surface bottleneck. Treat this as a low-evidence supply-chain search
-  prompt rather than a confirmed position, Tesla trade, or named-supplier call.
+  skin-surface bottleneck. Jul 1 follow-up points to UBTech's full-size
+  hyper-realistic humanoid companion robot as a concrete example that appearance
+  and customization may matter in humanoid productization. Treat this as a
+  low-evidence supply-chain search prompt rather than a confirmed position,
+  Tesla/UBTech trade, or named-supplier call.
 - **Robotics supply-chain / China kill-switch basket:** The Mar 15 X Article
   argues that robotics and humanoids are constrained by rare earths, magnets,
   specialty metals, and Western processing capacity, not just AI software. It
