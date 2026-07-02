@@ -34,9 +34,9 @@ restore branch split.
 
 ## Unitree / Agility Robotics / $CCXI / Harmonic Drive — humanoid robotics exposure
 
-- **Latest signal**: Bullish humanoid-robotics position catalyst — Jul 1 update says Agility Robotics / `$CCXI` presentation slides show 75% U.S.-sourced parts and, by his eyeballing, a sub-$30K mass-production BOM versus the ~$145K cost people were focused on. Earlier Jul 1 posts framed Agility as an Anthropic-like U.S. robotics player with `$AMZN`, `$NVDA`, and `$GOOGL` DeepMind ties, and said the Agility going-public / media narrative was probably the catalyst for robotics sympathy names like `$OUST` and `$AEVA`. This builds on the Jun 30 update saying Agility Robotics is Serenity's favorite humanoid/robotics position, expected to list on Nasdaq via `$CCXI` as early as September per Digitimes.
-- **Latest tweet**: [2072367082248040621](https://x.com/aleabitoreddit/status/2072367082248040621) — 2026-07-01T17:09:49Z
-- **Context**: Treat Agility as the explicit favorite direct robotics exposure and `$CCXI` as the public listing route to monitor, not as a completed listing. The new durable additions are U.S.-sourcing/localization and BOM-cost framing for Agility; Harmonic Drive remains the explicit upstream component exposure in prior captured text, and Unitree remains a favorable private/direct exposure signal.
+- **Latest signal**: Bullish humanoid-robotics ranking update — Jul 2 update calls Agility Robotics the current #1 U.S. humanoid player by commercialization, accessed via `$CCXI`, ahead of `$TSLA` Optimus and Figure in Serenity's personal ranking. Follow-up replies say he cares about company fundamentals over SPAC structure and cites `$NVDA`, SoftBank, `$AMZN`, and Foxconn PIPE/backing as validation. Jul 1 updates still add 75% U.S.-sourced parts and sub-$30K mass-production BOM framing.
+- **Latest tweet**: [2072741541404406008](https://x.com/aleabitoreddit/status/2072741541404406008) — 2026-07-02T17:57:47Z
+- **Context**: Treat Agility as the explicit favorite direct robotics exposure and `$CCXI` as the public listing route to monitor, not as a completed listing. The durable additions are commercialization ranking, strategic-backer / PIPE validation, U.S.-sourcing/localization, and BOM-cost framing; Harmonic Drive remains the explicit upstream component exposure in prior captured text, and Unitree remains a favorable private/direct exposure signal.
 
 ---
 
