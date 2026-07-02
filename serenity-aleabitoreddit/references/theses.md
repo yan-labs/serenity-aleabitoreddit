@@ -174,10 +174,10 @@ restore branch split.
 
 ## $SIVE — (SEK-listed)
 
-- **Latest signal**: Bullish Nasdaq-listing timeline / position reaffirmation — Jul 1 update says $SIVE's stated "intent to complete the [NASDAQ] listing process over the next few quarters" was largely missed by screeners and is a material improvement from evaluation to a formal timeline. A follow-up says he is not concerned with short-term volatility, remains long for the laser volume-ramp thesis, and sees dilution as a possible short-term factor but positive long term.
-- **Latest tweet**: [2072219315760488615](https://x.com/aleabitoreddit/status/2072219315760488615) — 2026-07-01T07:22:39Z
-- **Quote**: "Very material improvement from evaluation, to formal confirmation of timelines."
-- **Context**: SEK-listed stock. Original long thesis initiated ~March 13, 2026 at 4 SEK entry. By June 13, 2026, up ~1900% (~3 months), then experienced a sharp drawdown alongside the optical/CPO basket. Major institutions (JPM, Fidelity) had only recently begun entering as of mid-June; the Jul 1 financing update added stronger demand/terms validation for the upsized 700M SEK round, and the later Nasdaq-listing timeline update strengthens the corporate-action/liquidity path. Jun 17 AMD procurement news was an incremental demand-side catalyst for remaining Western independent CW laser suppliers after NVIDIA locked up Lumentum/Coherent. Treat the GFS/Ayar/NVIDIA/POET/JBL paths as ecosystem/customer mapping and conviction support; watch dilution, use of proceeds, allocation details, customer confirmation, listing execution, and volume revenue.
+- **Latest signal**: Bullish CPO/photonics reinforcement — Jul 2 updates argue photonics is backed by revenue and an NVIDIA-driven architecture shift, unlike low-revenue quantum analogies. Serenity also says SIVE's volume-ramp paths include JBL 1.6T LRO, POET, AEVA, GFS reference-laser use, and Ayar/NVIDIA NVLink CPO mass production; Jul 1 Nasdaq-listing timeline and institutional financing demand remain the corporate-action support.
+- **Latest tweet**: [2072726120706007465](https://x.com/aleabitoreddit/status/2072726120706007465) — 2026-07-02T16:56:31Z
+- **Quote**: "Photonics is backed by actual revenue numbers and it's an architectural shift championed by $NVDA."
+- **Context**: SEK-listed stock. Original long thesis initiated ~March 13, 2026 at 4 SEK entry. By June 13, 2026, up ~1900% (~3 months), then experienced a sharp drawdown alongside the optical/CPO basket. Major institutions (JPM, Fidelity) had only recently begun entering as of mid-June; the Jul 1 financing update added stronger demand/terms validation for the upsized 700M SEK round, and the later Nasdaq-listing timeline update strengthens the corporate-action/liquidity path. Jul 2 replies add near-term volume-ramp evidence through JBL, POET, AEVA, GFS, and Ayar/NVIDIA NVLink, while still remaining Serenity's mapping rather than confirmed customer revenue. Watch dilution, use of proceeds, allocation details, customer confirmation, listing execution, and volume revenue.
 
 ---
 
@@ -201,10 +201,10 @@ restore branch split.
 
 ## $LITE — Lumentum Holdings
 
-- **Latest signal**: Mixed — Part of Serenity's optical supply chain basket; China eased InP substrate exports (Jun 15), directly benefiting optical players like $LITE. Validated 2025 call: +174% from ~$330 to ~$904. Note Jun 17 update: Lumentum/Coherent are now locked up under multi-year LTAs with NVIDIA, meaning they are NOT available to supply AMD or other hyperscalers; this confirms supply scarcity for remaining independent players ($SIVE, $AAOI).
-- **Latest tweet**: [2067206734427697196](https://x.com/aleabitoreddit/status/2067206734427697196) — 2026-06-17T11:24:26Z
-- **Quote**: "Lumentum is already CW laser constrained and is likely buying off Japanese companies like Sumitomo/Furukawa if I had to guess per ER, and those are probably running at max capacity."
-- **Context**: $LITE is a key laser/optical component maker in the InP supply chain. Jun 17 note: Lumentum's NVIDIA LTA locks them in as supply-constrained — bullish for Lumentum's revenue visibility but closes off supply for new customers.
+- **Latest signal**: Bullish supply-duration reinforcement / mixed as new-money signal — Jul 2 update cites POET AGM read-through that Lumentum is sold out for the next two years, likely into 2029, and is supply-strained enough to buy CW lasers externally. This strengthens the optical revenue/supply thesis while keeping Serenity's preference for upstream/high-beta bottleneck names such as $SIVE and $AAOI.
+- **Latest tweet**: [2072726120706007465](https://x.com/aleabitoreddit/status/2072726120706007465) — 2026-07-02T16:56:31Z
+- **Quote**: "$LITE is completely sold out for the next 2 years (per $POET AGM) likely starting into 2029."
+- **Context**: $LITE is a key laser/optical component maker in the InP supply chain. Prior Jun 17 note: Lumentum/Coherent are locked up under multi-year NVIDIA LTAs, bullish for revenue visibility but limiting supply available to AMD and other hyperscalers. Jul 2 adds longer supply-duration support and external CW-laser sourcing pressure, reinforcing scarcity for remaining independent suppliers.
 
 ---
 
