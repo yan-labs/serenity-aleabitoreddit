@@ -788,14 +788,18 @@ restore branch split.
   "needs dilution," GAAP margins inferior to NBIS (Nov) → cautious/conditional,
   "highest upside, biggest risk of them all" (Dec-Jan, bag-holding at $35) → ⚠️⚠️
   **EXPLICIT, SUSTAINED BEAR from March 2026 onward.**
-- **Why bear (Mar-May 2026):** $6B ATM at ~$11.7B MC = ~51% dilution overhang;
+- **Why bear (Mar-Jul 2026):** $6B ATM at ~$11.7B MC = ~51% dilution overhang;
   retail equity funds the GPU buildout and gets wiped. "AMC of datacenters."
   Management track record: CEO's prior firms BKKT (-99%) and ASST (wiped retail).
   Secured power "no longer a 2026 moat." Called the community "lowest signal."
+  Jul 2 update adds a governance/incentive red flag: founders awarded themselves
+  $1.14B+ of stock-based compensation vesting over four years while the active
+  $6B ATM remains in place.
 - **Condition to flip long:** "After they already financed their buildout from
   dilution."
-- **Latest stance (May 2026):** **Bear / avoid; zero position.** "IREN -34%
-  confirmed" (May 19) cited as validation.
+- **Latest stance (Jul 2026):** **Bear / avoid; zero position.** Jul 2
+  compensation/ATM comment reinforces the earlier "IREN -34% confirmed" (May 19)
+  validation and keeps IREN in the management-quality / dilution red-flag bucket.
 
 ### CRWV (CoreWeave) — neocloud, heavy debt
 - **Thesis:** Operationally does everything right (NVDA backing, hyperscaler

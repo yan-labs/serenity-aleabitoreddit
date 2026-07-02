@@ -1,5 +1,43 @@
 [
   {
+    "id": "2072610437817078056",
+    "text": "$IREN founders award themselves $1.14B+ of stock based compensation.\n\nVesting over 4 years timeframe. This is amid their active $6,000,000,000 ATM.\n\nI’m not going to say anything but I think it speaks for itself. https://t.co/IoCHVxVIXs",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 139,
+      "retweets": 3,
+      "replies": 43,
+      "quotes": 3,
+      "views": 16164,
+      "bookmarks": 5
+    },
+    "createdAt": "Thu Jul 02 09:16:50 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNkKbaakAA-_30.jpg",
+        "width": 1213,
+        "height": 1033
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2072610437817078056",
+    "createdAtISO": "2026-07-02T09:16:50+00:00",
+    "createdAtLocal": "2026-07-02 17:16"
+  },
+  {
     "id": "2072574465763111166",
     "text": "Wells Fargo: $META intent to sell excess compute is a positive signal around underlying demand and unit economics of AI.\n\n“Despite this shift, we don’t expect a pullback in Meta’s capex or that overall compute needs are lower”\n\nRegarding Neoclouds: WF thinks it validated the https://t.co/ZUV3ZvOQuA",
     "author": {
