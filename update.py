@@ -141,7 +141,7 @@ def write_csv(rows):
     def csv_text(text):
         return "\n".join(line.rstrip() for line in (text or "").replace("\r", " ").split("\n"))
     with open(os.path.join(DATA, "aleabitoreddit_tweets.csv"), "w", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=cols); w.writeheader()
+        w = csv.DictWriter(f, fieldnames=cols, lineterminator="\n"); w.writeheader()
         for t in rows:
             m = t.get("metrics") or {}; media = t.get("media") or []; qt = t.get("quotedTweet") or {}
             w.writerow({

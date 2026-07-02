@@ -1,5 +1,87 @@
 [
   {
+    "id": "2072574465763111166",
+    "text": "Wells Fargo: $META intent to sell excess compute is a positive signal around underlying demand and unit economics of AI.\n\n“Despite this shift, we don’t expect a pullback in Meta’s capex or that overall compute needs are lower”\n\nRegarding Neoclouds: WF thinks it validated the https://t.co/ZUV3ZvOQuA",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 329,
+      "retweets": 28,
+      "replies": 88,
+      "quotes": 7,
+      "views": 69977,
+      "bookmarks": 60
+    },
+    "createdAt": "Thu Jul 02 06:53:53 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNDfW5aoAAMa3G.jpg",
+        "width": 773,
+        "height": 398
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNDfW-bIAA0cMs.jpg",
+        "width": 1241,
+        "height": 577
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2072574465763111166",
+    "createdAtISO": "2026-07-02T06:53:53+00:00",
+    "createdAtLocal": "2026-07-02 14:53"
+  },
+  {
+    "id": "2072570681586553112",
+    "text": "I feel like Trump is probably going to like this idea:\n\nOpenAI discussed giving the US gov a 5% stake in its company per FT.\n\nIf this turns into an $INTC type situation, would be interesting if the US government becomes a soft backstop for their $1T+ in future capex/obligations. https://t.co/KQZUyd950N",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 356,
+      "retweets": 23,
+      "replies": 123,
+      "quotes": 10,
+      "views": 97376,
+      "bookmarks": 30
+    },
+    "createdAt": "Thu Jul 02 06:38:51 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNADHgboAAaTFg.jpg",
+        "width": 1193,
+        "height": 752
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2072570681586553112",
+    "createdAtISO": "2026-07-02T06:38:51+00:00",
+    "createdAtLocal": "2026-07-02 14:38"
+  },
+  {
     "id": "2072367082248040621",
     "text": "Just dropping these 3 slides from Agility Robotics ( $CCXI ) presentations.\n\nFor the US robotic program doomposters:\n\n1. “75% of parts” - sourced from the USA\n\n2. Just eyeballing the graph, looks like &lt;$30k BOM mass production.\n\nPeople were just looking at the ~$145K cost. \n\n3. https://t.co/zs2msucOk6",
     "author": {

@@ -111,10 +111,10 @@ restore branch split.
 
 ## $INTC — Intel Corp
 
-- **Latest signal**: Political-flow watch / commentary — Jun 24 update flags Nancy Pelosi's disclosure of $1M-$5M in $INTC March 2027 calls, reportedly executed May 29 by her husband. Earlier Jun 18 commentary stayed cautious on Trump-driven Intel headlines, saying the President was "hard carrying" the stock. Historical entry: ~$115 (Jun 20 retrospective tweet 2068301039946887269) when "everyone thought they couldn't compete with $TSM".
-- **Latest tweet**: [2069780882018459851](https://x.com/aleabitoreddit/status/2069780882018459851) — 2026-06-24T13:53:11Z
-- **Quote**: "Nancy Pelosi just disclosed: - $1 million - $5 million of $INTC March 2027 calls"
-- **Context**: Treat Pelosi disclosure as flow/sentiment input rather than Serenity's own endorsement. Intel remains a politically catalyzed domestic-fab/tariff stock in Serenity's framing. Cross-ref: Trump truth:39333 (Jun 18 04:29 UTC) named Intel with domestic fab/tariff protection framing; Serenity's Jun 18 reaction questioned sustainability.
+- **Latest signal**: Policy-backstop watch — Jul 2 update says Trump would probably like the idea of OpenAI discussing a 5% U.S. government stake and frames it as a potential `$INTC`-style setup if the government becomes a soft backstop for future AI capex/obligations. Earlier Jun 24 update flagged Nancy Pelosi's disclosure of $1M-$5M in `$INTC` March 2027 calls, reportedly executed May 29 by her husband.
+- **Latest tweet**: [2072570681586553112](https://x.com/aleabitoreddit/status/2072570681586553112) — 2026-07-02T06:38:51Z
+- **Quote**: "If this turns into an $INTC type situation, would be interesting if the US government becomes a soft backstop"
+- **Context**: Treat the OpenAI comment as a reusable policy-financing analogy, not a direct OpenAI trade. Intel remains a politically catalyzed domestic-fab/tariff stock in Serenity's framing. Cross-ref: Trump truth:39333 (Jun 18 04:29 UTC) named Intel with domestic fab/tariff protection framing; Serenity's Jun 18 reaction questioned sustainability.
 
 ---
 
@@ -1019,6 +1019,9 @@ superseded this list by 2026.)
   path he expected, with Meta competing against GCP, Azure, and AWS. Follow-up
   rejects the "Meta cutting capex because it overbuilt" read, arguing the excess
   capacity point is conditional while hyperscalers remain compute-constrained.
+  Jul 2 update adds Wells Fargo validation: Meta's intent to sell excess compute
+  is framed as positive for underlying AI demand and unit economics, with no
+  expected capex pullback or lower overall compute need.
 - **AMZN:** AWS capex confirmation; "$3T MC" target; "bullish long-term even from
   robotics/AI cutting opex though it moves like a slug." Barbell.
 - **ORCL:** ⚠️ **Explicit AVOID** — most forward backlog depends on OpenAI, which
