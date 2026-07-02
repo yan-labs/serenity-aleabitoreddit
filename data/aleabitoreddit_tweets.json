@@ -1,5 +1,76 @@
 [
   {
+    "id": "2072760446617280650",
+    "text": "Always a fun time seeing semi markets crash from Bloomberg report framing once again…\n\nUBS analyst on $META report: “this is not new news”.\n\nRegardless:\n\n$AEHR down -18.3%\n$AAOI down -17.13%\n$SIVEF down -15.4%\n$SNDK down -14.8%\n$TER down -13.8%\n$GLW down -11.4%\n$MRVL down -11.2% https://t.co/itWeWj5waE",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 515,
+      "retweets": 38,
+      "replies": 143,
+      "quotes": 5,
+      "views": 55762,
+      "bookmarks": 83
+    },
+    "createdAt": "Thu Jul 02 19:12:55 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMPso3NaEAAS_Yw.jpg",
+        "width": 1250,
+        "height": 519
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2072760446617280650",
+    "createdAtISO": "2026-07-02T19:12:55+00:00",
+    "createdAtLocal": "2026-07-03 03:12"
+  },
+  {
+    "id": "2072752326147031494",
+    "text": "@SUOHA_AI I remember first investing in $RKLB back at $15 or so. \n\nIt just find it rare to get exposure to a downstream + frontier sector leader. So I’m personally not missing this chance again with $CCXI.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 45,
+      "retweets": 3,
+      "replies": 4,
+      "quotes": 1,
+      "views": 6938,
+      "bookmarks": 5
+    },
+    "createdAt": "Thu Jul 02 18:40:39 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2072743063617753218",
+    "inReplyToUserId": "1801542875764924416",
+    "conversationId": "2072741541404406008",
+    "createdAtISO": "2026-07-02T18:40:39+00:00",
+    "createdAtLocal": "2026-07-03 02:40"
+  },
+  {
     "id": "2072745577310564861",
     "text": "@hitraderjoe Recent US IPO models have been very stupid like $SPCX / $CBRS hiking valuations to absurd numbers before going public.\n\nMore US listings should follow Unitree (which would likely command higher valuations) + China's IPOs like Lightelligence. \n\nThat allow retail access at the same",
     "author": {
