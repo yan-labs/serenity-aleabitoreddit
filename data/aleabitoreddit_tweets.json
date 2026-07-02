@@ -1,5 +1,55 @@
 [
   {
+    "id": "2072630036600103340",
+    "text": "I just realized Boston Dynamics CEO shared the same sentiment:\n\n“Robotics is next. America’s next 250 years will be built by robots”.\n\nHowever, currently China accounts for 54%+ of all global robotics deployments.\n\n- calls for Internet scaleable database of physical world (kinda https://t.co/naeTygRRuB",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 361,
+      "retweets": 24,
+      "replies": 80,
+      "quotes": 9,
+      "views": 124149,
+      "bookmarks": 129
+    },
+    "createdAt": "Thu Jul 02 10:34:42 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMN2BxGb0AA3m1L.jpg",
+        "width": 1242,
+        "height": 831
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMN2BxIb0AA_jsY.jpg",
+        "width": 1260,
+        "height": 994
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMN2BxLaYAA3hkI.jpg",
+        "width": 1222,
+        "height": 794
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2072630036600103340",
+    "createdAtISO": "2026-07-02T10:34:42+00:00",
+    "createdAtLocal": "2026-07-02 18:34"
+  },
+  {
     "id": "2072610437817078056",
     "text": "$IREN founders award themselves $1.14B+ of stock based compensation.\n\nVesting over 4 years timeframe. This is amid their active $6,000,000,000 ATM.\n\nI’m not going to say anything but I think it speaks for itself. https://t.co/IoCHVxVIXs",
     "author": {
