@@ -34,9 +34,9 @@ restore branch split.
 
 ## Unitree / Agility Robotics / $CCXI / Harmonic Drive — humanoid robotics exposure
 
-- **Latest signal**: Bullish humanoid-robotics ranking update — Jul 2 update calls Agility Robotics the current #1 U.S. humanoid player by commercialization, accessed via `$CCXI`, ahead of `$TSLA` Optimus and Figure in Serenity's personal ranking. Follow-up replies say he cares about company fundamentals over SPAC structure and cites `$NVDA`, SoftBank, `$AMZN`, and Foxconn PIPE/backing as validation. Jul 1 updates still add 75% U.S.-sourced parts and sub-$30K mass-production BOM framing.
-- **Latest tweet**: [2072741541404406008](https://x.com/aleabitoreddit/status/2072741541404406008) — 2026-07-02T17:57:47Z
-- **Context**: Treat Agility as the explicit favorite direct robotics exposure and `$CCXI` as the public listing route to monitor, not as a completed listing. The durable additions are commercialization ranking, strategic-backer / PIPE validation, U.S.-sourcing/localization, and BOM-cost framing; Harmonic Drive remains the explicit upstream component exposure in prior captured text, and Unitree remains a favorable private/direct exposure signal.
+- **Latest signal**: Bullish humanoid-robotics validation — Jul 3 update notes LeaderDrive (688017) hit all-time highs after a 20% limit-up move, and frames robotics excitement as driven by frontier humanoid companies including `$CCXI` / Agility Robotics and Unitree's approved STAR listing. Jul 2 update still calls Agility Robotics the current #1 U.S. humanoid player by commercialization, accessed via `$CCXI`, ahead of `$TSLA` Optimus and Figure in Serenity's personal ranking.
+- **Latest tweet**: [2072913865458004014](https://x.com/aleabitoreddit/status/2072913865458004014) — 2026-07-03T05:22:33Z
+- **Context**: Treat Agility as the explicit favorite direct robotics exposure and `$CCXI` as the public listing route to monitor, not as a completed listing. The durable additions are commercialization ranking, strategic-backer / PIPE validation, U.S.-sourcing/localization, BOM-cost framing, and cross-market China robotics sentiment via LeaderDrive / Unitree; Harmonic Drive remains the explicit upstream component exposure in prior captured text.
 
 ---
 
@@ -1025,7 +1025,11 @@ superseded this list by 2026.)
   capacity point is conditional while hyperscalers remain compute-constrained.
   Jul 2 update adds Wells Fargo validation: Meta's intent to sell excess compute
   is framed as positive for underlying AI demand and unit economics, with no
-  expected capex pullback or lower overall compute need.
+  expected capex pullback or lower overall compute need. Jul 3 update adds a
+  model-race rebuttal: Serenity says Meta's upcoming "Watermelon" model has
+  caught up to OpenAI GPT 5.5 and uses an order of magnitude more compute than
+  "Avocado," which he uses to reject the idea that Meta is leaving the AI race
+  or dropping capex.
 - **AMZN:** AWS capex confirmation; "$3T MC" target; "bullish long-term even from
   robotics/AI cutting opex though it moves like a slug." Barbell.
 - **ORCL:** ⚠️ **Explicit AVOID** — most forward backlog depends on OpenAI, which
