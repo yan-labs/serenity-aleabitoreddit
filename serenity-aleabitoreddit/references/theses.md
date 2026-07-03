@@ -32,6 +32,14 @@ The restored taxonomy below remains the full merged thesis base. This section
 preserves newer incremental live-feed updates that landed on `main` after the
 restore branch split.
 
+## Optical / CPO basket and upstream glass substrates
+
+- **Latest signal**: Bullish dip-add / supply-chain reinforcement — Jul 3 updates frame the optical selloff as caused by false Meta-capex and CPO-delay narratives, with Serenity saying he heavily added to optical positions. A separate Jul 3 post adds positive upstream glass-substrate read-through from Sumitomo Chemical and Samsung Electro-Mechanics formally establishing the GlaSSEM JV in Korea, with timeline and funding finalized.
+- **Latest tweets**: [2072936659369517341](https://x.com/aleabitoreddit/status/2072936659369517341) / [2072940349300122098](https://x.com/aleabitoreddit/status/2072940349300122098) / [2072986020640076052](https://x.com/aleabitoreddit/status/2072986020640076052) — 2026-07-03
+- **Context**: Treat the optical posts as position-action evidence during a drawdown, not proof that CPO timing risk is gone. The glass-substrate JV is a concrete upstream supply-chain timing marker, but Serenity's captured text is truncated, so do not infer named public beneficiaries beyond the advanced-packaging / glass-core substrate watch.
+
+---
+
 ## Unitree / Agility Robotics / $CCXI / Harmonic Drive — humanoid robotics exposure
 
 - **Latest signal**: Bullish humanoid-robotics validation — Jul 3 update notes LeaderDrive (688017) hit all-time highs after a 20% limit-up move, and frames robotics excitement as driven by frontier humanoid companies including `$CCXI` / Agility Robotics and Unitree's approved STAR listing. Jul 2 update still calls Agility Robotics the current #1 U.S. humanoid player by commercialization, accessed via `$CCXI`, ahead of `$TSLA` Optimus and Figure in Serenity's personal ranking.
