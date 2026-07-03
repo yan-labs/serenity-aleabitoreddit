@@ -1029,7 +1029,9 @@ superseded this list by 2026.)
   model-race rebuttal: Serenity says Meta's upcoming "Watermelon" model has
   caught up to OpenAI GPT 5.5 and uses an order of magnitude more compute than
   "Avocado," which he uses to reject the idea that Meta is leaving the AI race
-  or dropping capex.
+  or dropping capex. Later Jul 3 update cites SemiAnalysis saying Meta
+  datacenter and compute will accelerate and 2027 capex will be shockingly
+  high; he frames the recent $META / photonics crash as misinformation-driven.
 - **AMZN:** AWS capex confirmation; "$3T MC" target; "bullish long-term even from
   robotics/AI cutting opex though it moves like a slug." Barbell.
 - **ORCL:** ⚠️ **Explicit AVOID** — most forward backlog depends on OpenAI, which
