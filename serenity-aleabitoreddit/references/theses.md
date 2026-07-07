@@ -34,8 +34,8 @@ restore branch split.
 
 ## Optical / CPO basket and upstream glass substrates
 
-- **Latest signal**: Bullish thesis-defense / position concentration — Jul 6 updates cite NVIDIA saying its roadmap remains intact after Kyber-delay claims, reaffirm long-run outperformance for photonics/memory/energy/physical AI, disclose large concentration in `$SIVE` and `$AAOI`, and frame `$SIVE` as potentially the next `$LITE` through O-Net, `$JBL` 1.6T LRO, `$GFS`, POET, AEVA, and Ayar/NVIDIA paths. Jul 3 updates separately framed the optical selloff as caused by false Meta-capex and CPO-delay narratives, with Serenity saying he heavily added to optical positions.
-- **Latest tweets**: [2074170197486039524](https://x.com/aleabitoreddit/status/2074170197486039524) / [2074152813958152688](https://x.com/aleabitoreddit/status/2074152813958152688) / [2074046947434860971](https://x.com/aleabitoreddit/status/2074046947434860971) — 2026-07-06
+- **Latest signal**: Bullish thesis-defense / position concentration — Jul 7 update calls the latest thematic selloff stale Meta-compute and CPO-delay fear that NVIDIA refuted; Jul 6 updates cite NVIDIA saying its roadmap remains intact after Kyber-delay claims, reaffirm long-run outperformance for photonics/memory/energy/physical AI, disclose large concentration in `$SIVE` and `$AAOI`, and frame `$SIVE` as potentially the next `$LITE` through O-Net, `$JBL` 1.6T LRO, `$GFS`, POET, AEVA, and Ayar/NVIDIA paths.
+- **Latest tweets**: [2074405723816304743](https://x.com/aleabitoreddit/status/2074405723816304743) / [2074170197486039524](https://x.com/aleabitoreddit/status/2074170197486039524) / [2074152813958152688](https://x.com/aleabitoreddit/status/2074152813958152688) — 2026-07-06/07
 - **Context**: Treat the optical posts as conviction and supplier-path evidence during a drawdown, not proof that CPO timing risk is gone. The SIVE/LITE comparison and AAOI/SIVE concentration are strong stance markers, but many customer paths remain Serenity's mapped inference rather than confirmed volume revenue.
 
 ---
@@ -169,8 +169,8 @@ restore branch split.
 
 ## $MU — Micron Technology
 
-- **Latest signal**: Bullish / memory-bottleneck reinforcement — Jul 5 update cites Micron's 1.5T yen Hiroshima investment and Morgan Stanley saying NAND remains short into 2027, with bullish read-through to localized Japanese equipment/material suppliers. This extends the Jun 24 earnings validation and Jun 25/26 humanoid/AI memory-demand updates.
-- **Latest tweet**: [2073793206408667392](https://x.com/aleabitoreddit/status/2073793206408667392) — 2026-07-05T15:36:44Z
+- **Latest signal**: Bullish / memory-bottleneck reinforcement — Jul 7 update cites Samsung DRAM pricing power and profit acceleration despite a selloff; Jul 5 update cites Micron's 1.5T yen Hiroshima investment and Morgan Stanley saying NAND remains short into 2027, with bullish read-through to localized Japanese equipment/material suppliers. This extends the Jun 24 earnings validation and Jun 25/26 humanoid/AI memory-demand updates.
+- **Latest tweet**: [2074416685843612031](https://x.com/aleabitoreddit/status/2074416685843612031) — 2026-07-07T08:54:13Z
 - **Context**: Memory thesis entry implied ~March 2026 when consensus was bearish. Serenity uses `$MU` as the lead name in the memory validation, pairing it with `$SNDK`, `$EWY` (Korea ETF), SK Hynix, and Samsung. Jul 5 adds capex localization and NAND shortage persistence into 2027; supplier read-through should still be checked name by name.
 
 ---
@@ -906,6 +906,8 @@ superseded this list by 2026.)
 - **Samsung & SK Hynix:** "Most profitable companies in the world by 2027,
   surpassing Apple/Alphabet." Macquarie: Samsung FY27 ~$333.7B, SK Hynix ~$312.8B
   op income; fwd P/E 2-4x. 10% + 10% of portfolio. Accessed via EWY and FLKR.
+  Jul 7 update adds Samsung DRAM price-hike and profit-acceleration validation
+  while the market still sold the stock off.
 - **EWY (iShares Korea ETF):** ⭐ One of his "most legendary calls" — vega/IV
   arbitrage. 2028 leaps bought at 32% IV (priced on a flat-decade average) while
   EWY is effectively 50%+ Samsung/SK Hynix; IV expanded to 44-47% in a week.
