@@ -1,5 +1,135 @@
 [
   {
+    "id": "2074507578877599867",
+    "text": "@AlzayakMoh60610 I personally think so. It feels like markets started selling off after that misleading Bloomberg $META compute article, and a couple of SemiAnalysis bear posts on $NVDA supply chains.\n\nSince algos + headline interpretation of “Meta excess compute” was cutting capex + dropping out",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 161,
+      "retweets": 4,
+      "replies": 11,
+      "quotes": 1,
+      "views": 17486,
+      "bookmarks": 9
+    },
+    "createdAt": "Tue Jul 07 14:55:23 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2074500516474687496",
+    "inReplyToUserId": "1699920612188389376",
+    "conversationId": "2074494514061017508",
+    "createdAtISO": "2026-07-07T14:55:23+00:00",
+    "createdAtLocal": "2026-07-07 22:55"
+  },
+  {
+    "id": "2074504394608193799",
+    "text": "@FaceHonor $SIVE is probably my favorite stocks right now, not concerned about short term drops. \n\n- You have the laser supplier to $GFS, $JBL, Ayar, $POET, and many other hyperscaler suppliers. \n- NASDAQ listing planned in the next few quarters\n- Followed by M&amp;A goals for TAM expansion.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 202,
+      "retweets": 17,
+      "replies": 17,
+      "quotes": 3,
+      "views": 25020,
+      "bookmarks": 26
+    },
+    "createdAt": "Tue Jul 07 14:42:44 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2074500384270455129",
+    "inReplyToUserId": "1141703537593921538",
+    "conversationId": "2074494514061017508",
+    "createdAtISO": "2026-07-07T14:42:44+00:00",
+    "createdAtLocal": "2026-07-07 22:42"
+  },
+  {
+    "id": "2074496053030830172",
+    "text": "@jd_tradez Samsung: becomes most profitable company in the world today at a $1.3T valuation. \n\nretail: \"The AI trade is over\"",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 764,
+      "retweets": 26,
+      "replies": 22,
+      "quotes": 3,
+      "views": 50569,
+      "bookmarks": 11
+    },
+    "createdAt": "Tue Jul 07 14:09:35 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2074494681711325619",
+    "inReplyToUserId": "1258724750874095616",
+    "conversationId": "2074494514061017508",
+    "createdAtISO": "2026-07-07T14:09:35+00:00",
+    "createdAtLocal": "2026-07-07 22:09"
+  },
+  {
+    "id": "2074494514061017508",
+    "text": "Just putting it out there:\n\nIf everything crashes together from $NBIS, $MRVL, $INTC, $SNDK, $AMD, $SIVE, $MU, $LITE, and others... \n\nWhich are all down -4% to -10%+ today so far. \n\nProbably doesn't have anything to do with individual fundamentals. \n\nIndiscriminate selloffs from",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 3120,
+      "retweets": 179,
+      "replies": 345,
+      "quotes": 32,
+      "views": 442416,
+      "bookmarks": 470
+    },
+    "createdAt": "Tue Jul 07 14:03:29 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2074494514061017508",
+    "createdAtISO": "2026-07-07T14:03:29+00:00",
+    "createdAtLocal": "2026-07-07 22:03"
+  },
+  {
     "id": "2074466925263061100",
     "text": "Raymond James initiated coverage of $SPCX with “Strong Buy”.\n\nGiving it a $800 PT, valuing SpaceX at a ~$10T valuation.\n\nNo words. Jokes about “institutional” notes for retail write themselves. https://t.co/B0uRojaNJZ",
     "author": {
