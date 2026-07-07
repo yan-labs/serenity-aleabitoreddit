@@ -1,5 +1,76 @@
 [
   {
+    "id": "2074581698604593367",
+    "text": "Hesai Technology, a Chinese lidar maker faces US national scrutiny over its expanded partnership with $NVDA and lidar sensors. \n\nFor $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out.\n\nSince there were warnings that: \n\nSensors could https://t.co/9ZmvOqIHrv",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 158,
+      "retweets": 9,
+      "replies": 98,
+      "quotes": 2,
+      "views": 21174,
+      "bookmarks": 27
+    },
+    "createdAt": "Tue Jul 07 19:49:55 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpkRPUbUAAbdEx.jpg",
+        "width": 1835,
+        "height": 1104
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2074581698604593367",
+    "createdAtISO": "2026-07-07T19:49:55+00:00",
+    "createdAtLocal": "2026-07-08 03:49"
+  },
+  {
+    "id": "2074571766186524811",
+    "text": "@stocks4545 This is not the first time Bloomberg crashed the markets\n\nhttps://t.co/C2pDgEAqOV",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 55,
+      "retweets": 1,
+      "replies": 7,
+      "quotes": 0,
+      "views": 9965,
+      "bookmarks": 3
+    },
+    "createdAt": "Tue Jul 07 19:10:27 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": true,
+    "inReplyToTweetId": "2074570625625268337",
+    "inReplyToUserId": "774230086937489409",
+    "conversationId": "2074568161299771394",
+    "createdAtISO": "2026-07-07T19:10:27+00:00",
+    "createdAtLocal": "2026-07-08 03:10"
+  },
+  {
     "id": "2074568161299771394",
     "text": "Just Bloomberg and $META doing damage control after crashing the market with Meta Compute framing:\n\nSpokesperson: \"Meta is still hungry for even more computing power. \n\nIt is still moving forward with plans for expensive new data centers and recently inked major computing deals https://t.co/gJ0Uie0Dr5",
     "author": {
