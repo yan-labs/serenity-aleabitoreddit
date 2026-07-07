@@ -1,5 +1,142 @@
 [
   {
+    "id": "2074536982311743623",
+    "text": "@EUlmsten wow the mythical golden egg dragon candle was spotted over the $SIVEF chart. \n\nSomething big is coming... https://t.co/V4CL41m5ax",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 64,
+      "retweets": 0,
+      "replies": 16,
+      "quotes": 3,
+      "views": 4291,
+      "bookmarks": 1
+    },
+    "createdAt": "Tue Jul 07 16:52:14 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2074534221142700094",
+    "inReplyToUserId": "421784425",
+    "conversationId": "2074533565505876218",
+    "createdAtISO": "2026-07-07T16:52:14+00:00",
+    "createdAtLocal": "2026-07-08 00:52"
+  },
+  {
+    "id": "2074535692361937070",
+    "text": "@mao_ge_ge They could just trade on their own swiggly lines and make 10,000,000% returns if it were accurate.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 37,
+      "retweets": 0,
+      "replies": 3,
+      "quotes": 0,
+      "views": 4904,
+      "bookmarks": 0
+    },
+    "createdAt": "Tue Jul 07 16:47:06 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2074534705345737065",
+    "inReplyToUserId": "1565273490",
+    "conversationId": "2074533565505876218",
+    "createdAtISO": "2026-07-07T16:47:06+00:00",
+    "createdAtLocal": "2026-07-08 00:47"
+  },
+  {
+    "id": "2074533565505876218",
+    "text": "This is the average visual TA bro, takes a 50% 50% coinflip: \n\nIf it goes the other way, they say \"ABC Pattern Invalidated\", should have known... \n\nIf they get the coinflip right, they promote their $40/month chart. \n\n-&gt; People drawing swiggly lines over KOSPI mean nothing where https://t.co/lrGHWM8i5J",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 423,
+      "retweets": 14,
+      "replies": 131,
+      "quotes": 9,
+      "views": 88895,
+      "bookmarks": 33
+    },
+    "createdAt": "Tue Jul 07 16:38:39 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMo4Ep2boAA5Tda.jpg",
+        "width": 3259,
+        "height": 1878
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2074533565505876218",
+    "createdAtISO": "2026-07-07T16:38:39+00:00",
+    "createdAtLocal": "2026-07-08 00:38"
+  },
+  {
+    "id": "2074525146736738396",
+    "text": "@WLinvestment This might be news to you, but swiggly lines on a chart is not fundamentals.\n\nAnd has nothing to do with operating income growth that Samsung/Sk Hynix make https://t.co/lkXDuD9Xfg",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 79,
+      "retweets": 2,
+      "replies": 6,
+      "quotes": 0,
+      "views": 9036,
+      "bookmarks": 2
+    },
+    "createdAt": "Tue Jul 07 16:05:12 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2074495266757968203",
+    "inReplyToUserId": "1255343446539341827",
+    "conversationId": "2074494514061017508",
+    "createdAtISO": "2026-07-07T16:05:12+00:00",
+    "createdAtLocal": "2026-07-08 00:05"
+  },
+  {
     "id": "2074507578877599867",
     "text": "@AlzayakMoh60610 I personally think so. It feels like markets started selling off after that misleading Bloomberg $META compute article, and a couple of SemiAnalysis bear posts on $NVDA supply chains.\n\nSince algos + headline interpretation of “Meta excess compute” was cutting capex + dropping out",
     "author": {
