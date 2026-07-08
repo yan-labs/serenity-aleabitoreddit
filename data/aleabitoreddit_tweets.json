@@ -1,5 +1,76 @@
 [
   {
+    "id": "2074799339680202869",
+    "text": "Trump: “Spain is a terrible partner in NATO. \n\nThey don't participate. They don't pay. \n\nCut off all trade with Spain”\n\nTbh no clue what’s going on anymore… https://t.co/F1n0m6gcPa",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 58,
+      "retweets": 3,
+      "replies": 20,
+      "quotes": 0,
+      "views": 17995,
+      "bookmarks": 2
+    },
+    "createdAt": "Wed Jul 08 10:14:45 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsrADEboAAXTJD.jpg",
+        "width": 1236,
+        "height": 533
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2074799339680202869",
+    "createdAtISO": "2026-07-08T10:14:45+00:00",
+    "createdAtLocal": "2026-07-08 18:14"
+  },
+  {
+    "id": "2074793083137556545",
+    "text": "@QiIris96081 I mean I’m pretty confident memory and AI names recover just cause of the whopping amount of operating profit/growth they have.\n\nI don’t think there’s anything fundamentally wrong, especially after the Samsung earnings.\n\nJust a pretty wild deleveraging/margin cascade right now",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 44,
+      "retweets": 3,
+      "replies": 2,
+      "quotes": 0,
+      "views": 6034,
+      "bookmarks": 5
+    },
+    "createdAt": "Wed Jul 08 09:49:53 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2074776800115511793",
+    "inReplyToUserId": "1990786587811319808",
+    "conversationId": "2074776109074583565",
+    "createdAtISO": "2026-07-08T09:49:53+00:00",
+    "createdAtLocal": "2026-07-08 17:49"
+  },
+  {
     "id": "2074782041909195014",
     "text": "@zephyr_z9 Koreans already fully liquidated a week in. https://t.co/DNIx7q2kW8",
     "author": {
