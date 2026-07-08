@@ -1,5 +1,175 @@
 [
   {
+    "id": "2074843710806978606",
+    "text": "@lucas_SPACs idk Spacemob hasn't been doing too well over the past year compared to bottleneck bros. \n\nI think it's mainly just opportunity cost, even if I like $ASTS long term. https://t.co/UQZQcpXkN2",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 16,
+      "retweets": 0,
+      "replies": 8,
+      "quotes": 0,
+      "views": 2916,
+      "bookmarks": 3
+    },
+    "createdAt": "Wed Jul 08 13:11:04 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2074840359000027286",
+    "inReplyToUserId": "2676476614",
+    "conversationId": "2074838397341065516",
+    "createdAtISO": "2026-07-08T13:11:04+00:00",
+    "createdAtLocal": "2026-07-08 21:11"
+  },
+  {
+    "id": "2074842421620527157",
+    "text": "@Emre07465060084 For this type of mapping with $SIVE, it's a good idea look at their partners and their timelines.\n\n- $JBL confirmed via JPM fireside chat they have a relatively dramatic moat with their 1.6T LRO and are getting qualified done over next 1-4 months (2 months ago). So should be https://t.co/t7xGHCeLTb",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 43,
+      "retweets": 3,
+      "replies": 5,
+      "quotes": 0,
+      "views": 4408,
+      "bookmarks": 10
+    },
+    "createdAt": "Wed Jul 08 13:05:56 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2074838724576210965",
+    "inReplyToUserId": "1991671501234532353",
+    "conversationId": "2074838397341065516",
+    "createdAtISO": "2026-07-08T13:05:56+00:00",
+    "createdAtLocal": "2026-07-08 21:05"
+  },
+  {
+    "id": "2074838397341065516",
+    "text": "Blue Origin reportedly raising $10B at a $130B valuation per NYT.\n\nSeems pretty positive for $RKLB, $ASTS, and other space names in terms of relative valuation anchoring. \n\nIf SpaceX and Blue Origin is able to set such high valuations. https://t.co/04W7phuIwr",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 385,
+      "retweets": 25,
+      "replies": 150,
+      "quotes": 8,
+      "views": 74400,
+      "bookmarks": 24
+    },
+    "createdAt": "Wed Jul 08 12:49:57 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtNvCIaIAATsrG.jpg",
+        "width": 1345,
+        "height": 231
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2074838397341065516",
+    "createdAtISO": "2026-07-08T12:49:57+00:00",
+    "createdAtLocal": "2026-07-08 20:49"
+  },
+  {
+    "id": "2074802313324384645",
+    "text": "@zjcwebster My prediction is we’re going to cut off trade with Belgium next. \n\nThere goes all the chocolates. https://t.co/y4CDTx5ZcT",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 150,
+      "retweets": 1,
+      "replies": 16,
+      "quotes": 1,
+      "views": 14577,
+      "bookmarks": 5
+    },
+    "createdAt": "Wed Jul 08 10:26:34 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2074799839955812538",
+    "inReplyToUserId": "1869238848758370304",
+    "conversationId": "2074799339680202869",
+    "createdAtISO": "2026-07-08T10:26:34+00:00",
+    "createdAtLocal": "2026-07-08 18:26"
+  },
+  {
+    "id": "2074801157365780888",
+    "text": "@AlienMShroom Spain has lithium, tungsten, and other rare earths America needs.\n\nThat China happens to be export controlling…The US needs all the partners it can keep.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 145,
+      "retweets": 2,
+      "replies": 22,
+      "quotes": 0,
+      "views": 14799,
+      "bookmarks": 6
+    },
+    "createdAt": "Wed Jul 08 10:21:58 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2074799914476028243",
+    "inReplyToUserId": "1508179336284844034",
+    "conversationId": "2074799339680202869",
+    "createdAtISO": "2026-07-08T10:21:58+00:00",
+    "createdAtLocal": "2026-07-08 18:21"
+  },
+  {
     "id": "2074799339680202869",
     "text": "Trump: “Spain is a terrible partner in NATO. \n\nThey don't participate. They don't pay. \n\nCut off all trade with Spain”\n\nTbh no clue what’s going on anymore… https://t.co/F1n0m6gcPa",
     "author": {
