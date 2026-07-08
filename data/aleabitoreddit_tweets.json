@@ -1,5 +1,88 @@
 [
   {
+    "id": "2074979055410266452",
+    "text": "Wow, looks like Elon + xAI at $SPCX managed to build an Anthropic Opus-level LLM with Grok 4.5.\n\nThat’s much more cost efficient as well… \n\nKinda emulating what Chinese vendors have been doing to compete on pricing + adoption. (Which is an ideal thing given Chinese model growth https://t.co/8M5Yx3kbTg",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 230,
+      "retweets": 6,
+      "replies": 95,
+      "quotes": 3,
+      "views": 33617,
+      "bookmarks": 24
+    },
+    "createdAt": "Wed Jul 08 22:08:52 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMvOc30aYAARSbY.jpg",
+        "width": 1210,
+        "height": 594
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMvOc37bwAAKHa8.jpg",
+        "width": 1198,
+        "height": 837
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMvOc30a4AAYk6c.jpg",
+        "width": 1260,
+        "height": 1057
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2074979055410266452",
+    "createdAtISO": "2026-07-08T22:08:52+00:00",
+    "createdAtLocal": "2026-07-09 06:08"
+  },
+  {
+    "id": "2074972411557249248",
+    "text": "@starlightrvrie Yep still holding $AXTI. And a lot of my older thesis like $EWY that are up hundreds of percent.\n\nEven if I don’t mention it as much anymore",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 29,
+      "retweets": 2,
+      "replies": 5,
+      "quotes": 0,
+      "views": 4351,
+      "bookmarks": 2
+    },
+    "createdAt": "Wed Jul 08 21:42:28 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2074964405914104260",
+    "inReplyToUserId": "1271104536057438208",
+    "conversationId": "2074951295027568736",
+    "createdAtISO": "2026-07-08T21:42:28+00:00",
+    "createdAtLocal": "2026-07-09 05:42"
+  },
+  {
     "id": "2074965761345642660",
     "text": "$META to build a new $10B DC in Canada to expand AI capacity.\n\nSo much for the media framing of “Meta Compute”as overbuilding and cutting capex. https://t.co/0QgSls0s9o",
     "author": {
