@@ -1,5 +1,109 @@
 [
   {
+    "id": "2074782041909195014",
+    "text": "@zephyr_z9 Koreans already fully liquidated a week in. https://t.co/DNIx7q2kW8",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 32,
+      "retweets": 0,
+      "replies": 3,
+      "quotes": 0,
+      "views": 5297,
+      "bookmarks": 7
+    },
+    "createdAt": "Wed Jul 08 09:06:01 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2074779824384881128",
+    "inReplyToUserId": "1695126229446479872",
+    "conversationId": "2074776109074583565",
+    "createdAtISO": "2026-07-08T09:06:01+00:00",
+    "createdAtLocal": "2026-07-08 17:06"
+  },
+  {
+    "id": "2074776109074583565",
+    "text": "Trump: Memorandum of Understanding with Iran “is over”\n\n“It’s a waste of time dealing with them,” Trump said at the NATO summit.\n\nAlways an exciting time with markets. https://t.co/S3UisD75Kc",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 356,
+      "retweets": 22,
+      "replies": 106,
+      "quotes": 6,
+      "views": 79997,
+      "bookmarks": 21
+    },
+    "createdAt": "Wed Jul 08 08:42:26 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsV34DbcAAUqKI.jpg",
+        "width": 1222,
+        "height": 1164
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2074776109074583565",
+    "createdAtISO": "2026-07-08T08:42:26+00:00",
+    "createdAtLocal": "2026-07-08 16:42"
+  },
+  {
+    "id": "2074587024959709419",
+    "text": "@jey0316 Basically:\n\n&gt; major Chinese lidar player might be banned in West. \n&gt; $OUST, $AEVA, and others benefit by filling in the vacuum \n&gt; optical players players that power western lidar players like Aeva also benefit from increased revenue\n\nNot sure if this news really matters given",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 81,
+      "retweets": 4,
+      "replies": 5,
+      "quotes": 1,
+      "views": 25011,
+      "bookmarks": 9
+    },
+    "createdAt": "Tue Jul 07 20:11:05 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2074584813047320728",
+    "inReplyToUserId": "134469563",
+    "conversationId": "2074581698604593367",
+    "createdAtISO": "2026-07-07T20:11:05+00:00",
+    "createdAtLocal": "2026-07-08 04:11"
+  },
+  {
     "id": "2074581698604593367",
     "text": "Hesai Technology, a Chinese lidar maker faces US national scrutiny over its expanded partnership with $NVDA and lidar sensors. \n\nFor $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out.\n\nSince there were warnings that: \n\nSensors could https://t.co/9ZmvOqIHrv",
     "author": {
