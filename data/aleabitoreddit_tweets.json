@@ -1,5 +1,206 @@
 [
   {
+    "id": "2075302956581449892",
+    "text": "\"China is shipping ~90% of the world's humanoid robots. We cannot keep taking them lightly.\"\n\nElon's comment: \"For now\"\n\nMeanwhile, 1X today posts a video of the most advanced humanoid hand.\n\nLooks like the inflection point for American humanoid programs is here?\n\nBoth https://t.co/IrYFokdIDq",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 109,
+      "retweets": 9,
+      "replies": 56,
+      "quotes": 0,
+      "views": 27251,
+      "bookmarks": 14
+    },
+    "createdAt": "Thu Jul 09 19:35:56 +0000 2026",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2075302057356234752/img/dPdGy8ELJ6n1eRAI.jpg",
+        "width": 1280,
+        "height": 960
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2075302956581449892",
+    "createdAtISO": "2026-07-09T19:35:56+00:00",
+    "createdAtLocal": "2026-07-10 03:35"
+  },
+  {
+    "id": "2075294412377358828",
+    "text": "@shaaaawty_7 $SIVE US NASDAQ listing is more for:\n\n- Fundraising (most important thing) to acquire IP + TAM expansion and make each laser they sell more valuable. Following what  $LITE did (eg. Cloud Light acquisition) from just selling lasers. \n\n- Also it helps bridge valuation gaps, since I",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 60,
+      "retweets": 5,
+      "replies": 2,
+      "quotes": 0,
+      "views": 6469,
+      "bookmarks": 5
+    },
+    "createdAt": "Thu Jul 09 19:01:59 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2075291116274917883",
+    "inReplyToUserId": "1508234204454264838",
+    "conversationId": "2075289915697553697",
+    "createdAtISO": "2026-07-09T19:01:59+00:00",
+    "createdAtLocal": "2026-07-10 03:01"
+  },
+  {
+    "id": "2075291803537027204",
+    "text": "@JN9191 It's for NASDAQ dual listing to align themselves with US PCAOB standards.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 79,
+      "retweets": 2,
+      "replies": 3,
+      "quotes": 0,
+      "views": 6779,
+      "bookmarks": 1
+    },
+    "createdAt": "Thu Jul 09 18:51:37 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2075290386185015379",
+    "inReplyToUserId": "1569801049266864132",
+    "conversationId": "2075289915697553697",
+    "createdAtISO": "2026-07-09T18:51:37+00:00",
+    "createdAtLocal": "2026-07-10 02:51"
+  },
+  {
+    "id": "2075289915697553697",
+    "text": "Three new $SIVE insider purchases today. \n\nMost notably: $SIVEF CEO Vikram bought 1,000,000 SEK worth of shares on the open market today. \n\nThis is following the massive drop on Sivers stock following 2 misleading CPO delay reports, Meta Compute headlines, and another insider",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 750,
+      "retweets": 72,
+      "replies": 154,
+      "quotes": 15,
+      "views": 123964,
+      "bookmarks": 108
+    },
+    "createdAt": "Thu Jul 09 18:44:07 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2075289915697553697",
+    "createdAtISO": "2026-07-09T18:44:07+00:00",
+    "createdAtLocal": "2026-07-10 02:44"
+  },
+  {
+    "id": "2075228811315343460",
+    "text": "@finkd Wow Zuck is both back on X and to the LLM race.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 988,
+      "retweets": 14,
+      "replies": 22,
+      "quotes": 1,
+      "views": 102845,
+      "bookmarks": 15
+    },
+    "createdAt": "Thu Jul 09 14:41:19 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2075218444056707458",
+    "inReplyToUserId": "20749410",
+    "conversationId": "2075218444056707458",
+    "createdAtISO": "2026-07-09T14:41:19+00:00",
+    "createdAtLocal": "2026-07-09 22:41"
+  },
+  {
+    "id": "2075218841266016561",
+    "text": "@Goodly2016 I just the algo gods just missed $SIVE after $LITE and the laser names pulled a recovery.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 94,
+      "retweets": 1,
+      "replies": 13,
+      "quotes": 0,
+      "views": 19919,
+      "bookmarks": 4
+    },
+    "createdAt": "Thu Jul 09 14:01:42 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2075212354174992887",
+    "inReplyToUserId": "731154889016025090",
+    "conversationId": "2075199849507762279",
+    "createdAtISO": "2026-07-09T14:01:42+00:00",
+    "createdAtLocal": "2026-07-09 22:01"
+  },
+  {
     "id": "2075204059506806850",
     "text": "@KostasMoschovas Biggest surprise of the century. \n\nInstitutions probably bought all the retail margin liquidations recently.",
     "author": {
