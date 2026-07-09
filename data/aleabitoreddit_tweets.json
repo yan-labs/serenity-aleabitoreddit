@@ -1,5 +1,82 @@
 [
   {
+    "id": "2075204059506806850",
+    "text": "@KostasMoschovas Biggest surprise of the century. \n\nInstitutions probably bought all the retail margin liquidations recently.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 94,
+      "retweets": 6,
+      "replies": 3,
+      "quotes": 2,
+      "views": 10177,
+      "bookmarks": 6
+    },
+    "createdAt": "Thu Jul 09 13:02:57 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2075200794077413567",
+    "inReplyToUserId": "242892017",
+    "conversationId": "2075199849507762279",
+    "createdAtISO": "2026-07-09T13:02:57+00:00",
+    "createdAtLocal": "2026-07-09 21:02"
+  },
+  {
+    "id": "2075199849507762279",
+    "text": "Nothing like an internal $META memo getting published.\n\nShowing AI ramping as usual:\n\n- LTAs signed with Samsung and $SNDK for memory\n- LTAs signed with Sumitomo Electric for fiber optics\n- Expected to deploy 7GW compute infra this year, and doubling in 2027. \n- as much as $145B https://t.co/5GagBkPVNA",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 714,
+      "retweets": 60,
+      "replies": 216,
+      "quotes": 10,
+      "views": 82316,
+      "bookmarks": 107
+    },
+    "createdAt": "Thu Jul 09 12:46:14 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyXJ1Ya8AAkpAg.jpg",
+        "width": 1219,
+        "height": 868
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyXJ1bbAAAHZs0.jpg",
+        "width": 1249,
+        "height": 1051
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2075199849507762279",
+    "createdAtISO": "2026-07-09T12:46:14+00:00",
+    "createdAtLocal": "2026-07-09 20:46"
+  },
+  {
     "id": "2074979055410266452",
     "text": "Wow, looks like Elon + xAI at $SPCX managed to build an Anthropic Opus-level LLM with Grok 4.5.\n\nThat’s much more cost efficient as well… \n\nKinda emulating what Chinese vendors have been doing to compete on pricing + adoption. (Which is an ideal thing given Chinese model growth https://t.co/8M5Yx3kbTg",
     "author": {
