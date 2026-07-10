@@ -1,5 +1,69 @@
 [
   {
+    "id": "2075496116481884524",
+    "text": "Yep, it’s interesting to witness retail capitulation.\n\nAfter we got Bloomberg Meta compute article cleared up by their internal memo. \n\nAnd the 2 reports on delays were denied by Nvidia. \n\nBoth of which caused the selloff in the first place...\n\nSo Photonics / Nvidia’s roadmap",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 300,
+      "retweets": 25,
+      "replies": 54,
+      "quotes": 2,
+      "views": 65141,
+      "bookmarks": 79
+    },
+    "createdAt": "Fri Jul 10 08:23:29 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2075496116481884524",
+    "createdAtISO": "2026-07-10T08:23:29+00:00",
+    "createdAtLocal": "2026-07-10 16:23"
+  },
+  {
+    "id": "2075306506585813108",
+    "text": "@NullContex1s It's nuanced, IMO: \n\n- $TSLA has the clearest path to close the gap between US/China in mass production. But to get this done, majority of components seem sourced from China? \n\n- $CCXI right now has a RoboFab for 10K+ units/year, and 75%+ of components sourced from the US. \n\nSo",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 99,
+      "retweets": 4,
+      "replies": 7,
+      "quotes": 0,
+      "views": 24938,
+      "bookmarks": 30
+    },
+    "createdAt": "Thu Jul 09 19:50:03 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2075303685664678265",
+    "inReplyToUserId": "1952719479030661120",
+    "conversationId": "2075302956581449892",
+    "createdAtISO": "2026-07-09T19:50:03+00:00",
+    "createdAtLocal": "2026-07-10 03:50"
+  },
+  {
     "id": "2075302956581449892",
     "text": "\"China is shipping ~90% of the world's humanoid robots. We cannot keep taking them lightly.\"\n\nElon's comment: \"For now\"\n\nMeanwhile, 1X today posts a video of the most advanced humanoid hand.\n\nLooks like the inflection point for American humanoid programs is here?\n\nBoth https://t.co/IrYFokdIDq",
     "author": {
