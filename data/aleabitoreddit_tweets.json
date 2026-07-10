@@ -1,5 +1,147 @@
 [
   {
+    "id": "2075634064518955297",
+    "text": "Rosenblatt on recent optical sector weakness from $AAOI to $LITE:\n\n\"Stocks in the Optical sector have traded poorly for the last 1-2 months\" due to CPO delay reports and China capacity scares.\n\n\"We think short sellers... do not actually strongly believe in the thesis.\"\n\nMultiple https://t.co/C9QTiFOPlH",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 321,
+      "retweets": 24,
+      "replies": 81,
+      "quotes": 4,
+      "views": 49529,
+      "bookmarks": 78
+    },
+    "createdAt": "Fri Jul 10 17:31:39 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4heWhbwAEOjmt.png",
+        "width": 1963,
+        "height": 707
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2075634064518955297",
+    "createdAtISO": "2026-07-10T17:31:39+00:00",
+    "createdAtLocal": "2026-07-11 01:31"
+  },
+  {
+    "id": "2075613590955106581",
+    "text": "@yuntungshieh Hmm, maybe the influx of US buying pressure might have have a structural impact though? \n\nBut I'm sure that's probably the case with a premium as seen with $TSM.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 29,
+      "retweets": 0,
+      "replies": 3,
+      "quotes": 0,
+      "views": 12848,
+      "bookmarks": 1
+    },
+    "createdAt": "Fri Jul 10 16:10:17 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2075611604625100898",
+    "inReplyToUserId": "1459524803719987200",
+    "conversationId": "2075611260771852590",
+    "createdAtISO": "2026-07-10T16:10:17+00:00",
+    "createdAtLocal": "2026-07-11 00:10"
+  },
+  {
+    "id": "2075613235756294559",
+    "text": "@2147gp Yep I'm very excited for the $SIVE US listing. Majority of people can't access it on small Swedish exchanges.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 84,
+      "retweets": 3,
+      "replies": 12,
+      "quotes": 1,
+      "views": 12185,
+      "bookmarks": 5
+    },
+    "createdAt": "Fri Jul 10 16:08:53 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2075612489467801658",
+    "inReplyToUserId": "1447017704251068419",
+    "conversationId": "2075611260771852590",
+    "createdAtISO": "2026-07-10T16:08:53+00:00",
+    "createdAtLocal": "2026-07-11 00:08"
+  },
+  {
+    "id": "2075611260771852590",
+    "text": "Sk Hynix is now trading under $SKHYV!\n\nIt's now up an insane 16%.\n\nI wonder how Sk Hynix over in Korea is going to react on Monday. https://t.co/Mmqdu0poVY",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 702,
+      "retweets": 44,
+      "replies": 183,
+      "quotes": 6,
+      "views": 238229,
+      "bookmarks": 41
+    },
+    "createdAt": "Fri Jul 10 16:01:02 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4MNSFbYAES8t1.jpg",
+        "width": 1432,
+        "height": 1427
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2075611260771852590",
+    "createdAtISO": "2026-07-10T16:01:02+00:00",
+    "createdAtLocal": "2026-07-11 00:01"
+  },
+  {
     "id": "2075590371531493729",
     "text": "Why do I have this weird feeling the main reason retail is excited SK Hynix NASDAQ listing.\n\nIs because they can do degen option calls instead of individual stock purchases. https://t.co/vXmrncXQOm",
     "author": {
