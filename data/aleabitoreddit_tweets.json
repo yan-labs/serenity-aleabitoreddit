@@ -1,5 +1,43 @@
 [
   {
+    "id": "2075645547978084371",
+    "text": "Regarding $AMZN RNG + OpenAI’s MRC and VCSELs. \n\nIn what appears to be an indirect response on B. Riley's $AAOI sell report regarding optimizations that \"flattens networks and cuts transceiver TAM 40-50%\".\n\nRosenblatt TLDR: They've already modeled for this, even though each XPU https://t.co/A41ceTqKwJ",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 239,
+      "retweets": 19,
+      "replies": 174,
+      "quotes": 1,
+      "views": 54919,
+      "bookmarks": 35
+    },
+    "createdAt": "Fri Jul 10 18:17:16 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4os9Jb0AECclK.png",
+        "width": 1701,
+        "height": 455
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2075645547978084371",
+    "createdAtISO": "2026-07-10T18:17:16+00:00",
+    "createdAtLocal": "2026-07-11 02:17"
+  },
+  {
     "id": "2075634064518955297",
     "text": "Rosenblatt on recent optical sector weakness from $AAOI to $LITE:\n\n\"Stocks in the Optical sector have traded poorly for the last 1-2 months\" due to CPO delay reports and China capacity scares.\n\n\"We think short sellers... do not actually strongly believe in the thesis.\"\n\nMultiple https://t.co/C9QTiFOPlH",
     "author": {
