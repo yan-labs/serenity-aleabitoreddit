@@ -25,7 +25,7 @@ This repo packages his public work into one self-contained research artifact:
 **period-by-period distillation**, and a ready-to-use **agent skill** that
 applies his analytical lens to US-stock ideas.
 
-Built from **6,073 tweets** spanning **2025-07-02 → 2026-07-10** plus **4 X
+Built from **6,076 tweets** spanning **2025-07-02 → 2026-07-11** plus **4 X
 Articles** published in **2026-01 → 2026-05**.
 
 > ⚠️ **Not financial advice. Decision-support only.** This skill never trades and
