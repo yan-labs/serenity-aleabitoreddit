@@ -1,5 +1,76 @@
 [
   {
+    "id": "2076372905450188998",
+    "text": "Looks like the Strait of Hormuz is open for the 50th time this year per Trump.\n\nI’m getting tired looking at macro. https://t.co/GuYgkwC2Q8",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 63,
+      "retweets": 2,
+      "replies": 38,
+      "quotes": 1,
+      "views": 14809,
+      "bookmarks": 0
+    },
+    "createdAt": "Sun Jul 12 18:27:32 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNDCJuBboAAkhQ5.jpg",
+        "width": 1201,
+        "height": 583
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2076372905450188998",
+    "createdAtISO": "2026-07-12T18:27:32+00:00",
+    "createdAtLocal": "2026-07-13 02:27"
+  },
+  {
+    "id": "2076284746385240101",
+    "text": "@softmaxedx My friend at $AMD tripped on a rock and had to spend a few hours at home.\n\nSo we’ll likely see a major delay at AMD’s entire GPU program.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 126,
+      "retweets": 2,
+      "replies": 15,
+      "quotes": 1,
+      "views": 16724,
+      "bookmarks": 4
+    },
+    "createdAt": "Sun Jul 12 12:37:13 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2076281510546538767",
+    "inReplyToUserId": "71297057",
+    "conversationId": "2076266613675069628",
+    "createdAtISO": "2026-07-12T12:37:13+00:00",
+    "createdAtLocal": "2026-07-12 20:37"
+  },
+  {
     "id": "2076281362248769713",
     "text": "@Traderissimo So this was cost of the final sale price, not BOM cost. They were also using $134K at ASP, not the volume ramped &lt;$20k costs.\n\nAs seen with $VPG that $750/sensor goes down to $150 at mass production. \n\nSo lot of math changes, I didn’t find the cost structure particularly helpful",
     "author": {
