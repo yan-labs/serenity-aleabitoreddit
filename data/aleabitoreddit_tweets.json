@@ -1,5 +1,69 @@
 [
   {
+    "id": "2076281362248769713",
+    "text": "@Traderissimo So this was cost of the final sale price, not BOM cost. They were also using $134K at ASP, not the volume ramped &lt;$20k costs.\n\nAs seen with $VPG that $750/sensor goes down to $150 at mass production. \n\nSo lot of math changes, I didn’t find the cost structure particularly helpful",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "views": 1198,
+      "bookmarks": 0
+    },
+    "createdAt": "Sun Jul 12 12:23:46 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2076261436783768033",
+    "inReplyToUserId": "1518695123747590148",
+    "conversationId": "2076248337863639506",
+    "createdAtISO": "2026-07-12T12:23:46+00:00",
+    "createdAtLocal": "2026-07-12 20:23"
+  },
+  {
+    "id": "2076266613675069628",
+    "text": "Apparently there’s a new popular trend to bearpost trillion dollar companies.\n\nLike $NVDA or $TSM.\n\nBy finding isolating technical details, then blowing it out of proportions by claiming their whole program is delayed.\n\n-&gt; if the company doesn’t respond, stock prices/sentiment",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 506,
+      "retweets": 29,
+      "replies": 130,
+      "quotes": 8,
+      "views": 81727,
+      "bookmarks": 51
+    },
+    "createdAt": "Sun Jul 12 11:25:10 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2076266613675069628",
+    "createdAtISO": "2026-07-12T11:25:10+00:00",
+    "createdAtLocal": "2026-07-12 19:25"
+  },
+  {
     "id": "2076248337863639506",
     "text": "So there's a IBK Research report on Boston Dynamics value chains from last month. \n\nJust a summary: \n\nIBK maps these companies to Atlas as suppliers:\n- Hwashin (010690) / body, arms, legs\n- LG Energy (373220) / battery \n- Hyundai Autoever (307950) / integration\n- Hyundai Mobis https://t.co/gzEABoVIQC",
     "author": {
