@@ -1,5 +1,88 @@
 [
   {
+    "id": "2076248337863639506",
+    "text": "So there's a IBK Research report on Boston Dynamics value chains from last month. \n\nJust a summary: \n\nIBK maps these companies to Atlas as suppliers:\n- Hwashin (010690) / body, arms, legs\n- LG Energy (373220) / battery \n- Hyundai Autoever (307950) / integration\n- Hyundai Mobis https://t.co/gzEABoVIQC",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 88,
+      "retweets": 7,
+      "replies": 43,
+      "quotes": 0,
+      "views": 27014,
+      "bookmarks": 49
+    },
+    "createdAt": "Sun Jul 12 10:12:33 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBI_zMaYAAUaCi.jpg",
+        "width": 1709,
+        "height": 1663
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBJXpEacAA1zA3.jpg",
+        "width": 1679,
+        "height": 1117
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBL79Ta0AAFlg3.jpg",
+        "width": 1693,
+        "height": 795
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2076248337863639506",
+    "createdAtISO": "2026-07-12T10:12:33+00:00",
+    "createdAtLocal": "2026-07-12 18:12"
+  },
+  {
+    "id": "2076232450121118133",
+    "text": "@BtMIV6TSQ572728 This is half satire. It's hard to understand nuances when Grok is translating it.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 10,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "views": 4764,
+      "bookmarks": 0
+    },
+    "createdAt": "Sun Jul 12 09:09:25 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2076125385570594908",
+    "inReplyToUserId": "1646178720426917889",
+    "conversationId": "2076030743655109063",
+    "createdAtISO": "2026-07-12T09:09:25+00:00",
+    "createdAtLocal": "2026-07-12 17:09"
+  },
+  {
     "id": "2076035405338812805",
     "text": "@TheWaitingGameX I'm going to learn how to trade cash-settled Salmon futures next, so I can put it in my bio. https://t.co/oxJCHpb0Pd",
     "author": {

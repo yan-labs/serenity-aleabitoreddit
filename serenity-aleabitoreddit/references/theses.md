@@ -42,9 +42,9 @@ restore branch split.
 
 ## Unitree / Agility Robotics / $CCXI / Harmonic Drive — humanoid robotics exposure
 
-- **Latest signal**: Bullish valuation-scarcity / physical-AI validation — Jul 6 updates argue Agility / `$CCXI` is the scarce public-access route to a leading U.S. humanoid player versus private Figure marks, while Jul 5 posts cite SVRC robotics rankings and frame Amazon/e-commerce as likely physical-AI demand catalysts. Jul 3 update notes LeaderDrive (688017) hit all-time highs after a 20% limit-up move, with Unitree's approved STAR listing as China robotics sentiment validation.
-- **Latest tweets**: [2074214669808717906](https://x.com/aleabitoreddit/status/2074214669808717906) / [2073867745243127973](https://x.com/aleabitoreddit/status/2073867745243127973) / [2073873043672420517](https://x.com/aleabitoreddit/status/2073873043672420517) — 2026-07-05/06
-- **Context**: Treat Agility as the explicit favorite direct robotics exposure and `$CCXI` as the public listing route to monitor, not as a completed listing. The latest durable additions are scarcity/public-access premium, commercialization ranking, strategic-backer / PIPE validation, U.S.-sourcing/localization, BOM-cost framing, and cross-market robotics sentiment.
+- **Latest signal**: Bullish valuation-scarcity / physical-AI validation — Jul 12 update summarizes an IBK Research map of Korean Atlas suppliers: Hwashin for body/arms/legs, LG Energy Solution for batteries, Hyundai Autoever for integration, and Hyundai Mobis. Jul 6 updates argue Agility / `$CCXI` is the scarce public-access route to a leading U.S. humanoid player versus private Figure marks, while Jul 5 posts cite SVRC robotics rankings and frame Amazon/e-commerce as likely physical-AI demand catalysts.
+- **Latest tweets**: [2076248337863639506](https://x.com/aleabitoreddit/status/2076248337863639506) / [2074214669808717906](https://x.com/aleabitoreddit/status/2074214669808717906) / [2073867745243127973](https://x.com/aleabitoreddit/status/2073867745243127973) — 2026-07-05/12
+- **Context**: Treat Agility as the explicit favorite direct robotics exposure and `$CCXI` as the public listing route to monitor, not as a completed listing. The new Korea map is a supplier-screening input, not confirmation of Atlas production contracts or economics; the durable additions remain scarcity/public-access premium, commercialization ranking, strategic-backer / PIPE validation, U.S.-sourcing/localization, BOM-cost framing, and cross-market robotics sentiment.
 
 ---
 
