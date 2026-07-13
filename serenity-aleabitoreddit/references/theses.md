@@ -1284,7 +1284,11 @@ superseded this list by 2026.)
   Compeq as already supplying Starlink and Amazon Kuiper, warned that downstream
   PCB suppliers may face a "many players, limited pie" dynamic, and pointed
   upstream to optical inter-satellite links and specialty HDI materials as the
-  more interesting bottleneck search area.
+  more interesting bottleneck search area. Jul 13 recap adds that Starlink Gen 3
+  could scale toward 100,000 units, roughly 10x the prior generation, creating a
+  possible capacity constraint from switches to CCL; the captured post cuts off
+  after "PCB," so the specific supplier list and throughput claims need primary
+  source verification.
 - **ASTS, AVAV, KTOS, NOC, LMT, RTX, HII, GD** — defense/space roundup.
 
 ---
