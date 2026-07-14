@@ -34,9 +34,9 @@ restore branch split.
 
 ## Optical / CPO basket and upstream glass substrates
 
-- **Latest signal**: Bullish thesis-defense / position concentration — Jul 7 update calls the latest thematic selloff stale Meta-compute and CPO-delay fear that NVIDIA refuted; Jul 6 updates cite NVIDIA saying its roadmap remains intact after Kyber-delay claims, reaffirm long-run outperformance for photonics/memory/energy/physical AI, disclose large concentration in `$SIVE` and `$AAOI`, and frame `$SIVE` as potentially the next `$LITE` through O-Net, `$JBL` 1.6T LRO, `$GFS`, POET, AEVA, and Ayar/NVIDIA paths.
-- **Latest tweets**: [2074405723816304743](https://x.com/aleabitoreddit/status/2074405723816304743) / [2074170197486039524](https://x.com/aleabitoreddit/status/2074170197486039524) / [2074152813958152688](https://x.com/aleabitoreddit/status/2074152813958152688) — 2026-07-06/07
-- **Context**: Treat the optical posts as conviction and supplier-path evidence during a drawdown, not proof that CPO timing risk is gone. The SIVE/LITE comparison and AAOI/SIVE concentration are strong stance markers, but many customer paths remain Serenity's mapped inference rather than confirmed volume revenue.
+- **Latest signal**: Jul 13 updates add a Morgan Stanley CPO map across lasers, switch platforms, optical engines, and silicon photonics, while Innolight IR reportedly says 1.6T demand has not contracted and 800G demand has increased versus prior expectations. This follows the Jul 7 thesis-defense and Jul 6 position-concentration posts around `$SIVE`, `$AAOI`, and `$LITE`.
+- **Latest tweets**: [2076808331453415674](https://x.com/aleabitoreddit/status/2076808331453415674) / [2076763334930812936](https://x.com/aleabitoreddit/status/2076763334930812936) / [2076748688559587338](https://x.com/aleabitoreddit/status/2076748688559587338) — 2026-07-13
+- **Context**: Treat the optical posts as demand and supplier-path evidence, not proof that CPO timing risk is gone. The sellside map does not establish equal revenue exposure across named companies, and Serenity separately says AAOI has no CPO design wins and commercial timing remains TBD while reliability work continues.
 
 ---
 
@@ -236,9 +236,9 @@ restore branch split.
 
 ## $AAOI — Applied Optoelectronics Inc
 
-- **Latest signal**: Bullish concentration / CW-laser demand — Jul 6 reply discloses large concentration in `$SIVE` and `$AAOI` and says he is especially confident in those two going forward despite drawdowns from institutional photonics-delay bear posts. Earlier Jun 22 update framed `$AAOI` around potential 800%+ Y/Y growth and roughly $5.6B annualized revenue if projections hit.
-- **Latest tweet**: [2074152813958152688](https://x.com/aleabitoreddit/status/2074152813958152688) — 2026-07-06T15:25:41Z
-- **Context**: AAOI is a CW laser and optical components maker. The Jul 6 reply is a fresh conviction/sizing marker, not a new contract. Keep watching AMD/hyperscaler procurement, revenue ramp, and whether delay narratives are disproven by bookings and guidance.
+- **Latest signal**: Jul 13 calibration says `$AAOI` mainly earns from pluggables; it has related laser samples but no CPO design wins, commercial timing is TBD, and reliability work continues. This is a material caveat against reading sector-level CPO demand as AAOI-specific CPO revenue.
+- **Latest tweet**: [2076763334930812936](https://x.com/aleabitoreddit/status/2076763334930812936) — 2026-07-13T20:18:58Z
+- **Context**: AAOI is a CW laser and optical components maker. Keep watching for a named CPO design win, qualification completion, commercial timing, AMD/hyperscaler procurement, revenue ramp, bookings, and guidance before treating the CPO optionality as realized.
 
 ---
 

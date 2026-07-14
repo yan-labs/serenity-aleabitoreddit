@@ -1,5 +1,146 @@
 [
   {
+    "id": "2076808331453415674",
+    "text": "TLDR of Innolight investor relations takeaways:\n\n1. \"Overall, 1.6T market demand has not contracted; instead, 800G demand has increased significantly compared with previous expectations\"\n\nProb most important takeaway as a whole was 800G demand revision (also longer tail demand).",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 390,
+      "retweets": 17,
+      "replies": 88,
+      "quotes": 8,
+      "views": 101220,
+      "bookmarks": 97
+    },
+    "createdAt": "Mon Jul 13 23:17:46 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2076808331453415674",
+    "createdAtISO": "2026-07-13T23:17:46+00:00",
+    "createdAtLocal": "2026-07-14 07:17"
+  },
+  {
+    "id": "2076767097674514474",
+    "text": "@bottleneckceo 10 years from now, the flying spaghetti monster will descend from the heavens and bless every $INTC holder with a meatball.\n\nCan someone prove me wrong?",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 125,
+      "retweets": 0,
+      "replies": 7,
+      "quotes": 1,
+      "views": 14881,
+      "bookmarks": 6
+    },
+    "createdAt": "Mon Jul 13 20:33:55 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2076753779752341669",
+    "inReplyToUserId": "2054041657822130176",
+    "conversationId": "2076748688559587338",
+    "createdAtISO": "2026-07-13T20:33:55+00:00",
+    "createdAtLocal": "2026-07-14 04:33"
+  },
+  {
+    "id": "2076763334930812936",
+    "text": "@IrisWan39849142 $AAOI mainly gets revenue from pluggable, they’re developing/sampling related lasers but have no CPO design wins.\n\nOthers like $MTSI look like they fell off the map for some reason with cpo lasers.\n\nCEO says “TBD” with commercial timing and it’s in reliability work right now. And",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 113,
+      "retweets": 7,
+      "replies": 14,
+      "quotes": 2,
+      "views": 18933,
+      "bookmarks": 25
+    },
+    "createdAt": "Mon Jul 13 20:18:58 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2076757891676283042",
+    "inReplyToUserId": "1133944317586939904",
+    "conversationId": "2076748688559587338",
+    "createdAtISO": "2026-07-13T20:18:58+00:00",
+    "createdAtLocal": "2026-07-14 04:18"
+  },
+  {
+    "id": "2076748688559587338",
+    "text": "Morgan Stanley note on CPO today. Key participants include:\n\n- $SIVE, $COHR, and $LITE in laser supply\n- Broadcom and Nvidia in switch platforms\n- Lightmatter, Ayar Labs, Marvell/Celestial, and POET in optical engines and photonics, \n- $TSM, $GFS, and $TSEM in silicon photonics https://t.co/mmz6y0J3cp",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1524,
+      "retweets": 125,
+      "replies": 275,
+      "quotes": 14,
+      "views": 225161,
+      "bookmarks": 403
+    },
+    "createdAt": "Mon Jul 13 19:20:46 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNIX67ba0AAXstD.jpg",
+        "width": 1260,
+        "height": 285
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNIX67abgAAk2Qp.jpg",
+        "width": 1205,
+        "height": 188
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2076748688559587338",
+    "createdAtISO": "2026-07-13T19:20:46+00:00",
+    "createdAtLocal": "2026-07-14 03:20"
+  },
+  {
     "id": "2076467953995071881",
     "text": "Just a semi recap TLDR:\n\n- $GLW glass bridge per Morgan Stanley has potential, but hard to displace FAU (like FOCI) in short term\n\n- $SPCX Starlink Gen 3 is scaling to 100,000 units (10x prev gen) creating possible capacity constraints for suppliers of switches to CCL.\n\n- PCB",
     "author": {
