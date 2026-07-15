@@ -34,9 +34,9 @@ restore branch split.
 
 ## Optical / CPO basket and upstream glass substrates
 
-- **Latest signal**: Jul 13 updates add a Morgan Stanley CPO map across lasers, switch platforms, optical engines, and silicon photonics, while Innolight IR reportedly says 1.6T demand has not contracted and 800G demand has increased versus prior expectations. This follows the Jul 7 thesis-defense and Jul 6 position-concentration posts around `$SIVE`, `$AAOI`, and `$LITE`.
-- **Latest tweets**: [2076808331453415674](https://x.com/aleabitoreddit/status/2076808331453415674) / [2076763334930812936](https://x.com/aleabitoreddit/status/2076763334930812936) / [2076748688559587338](https://x.com/aleabitoreddit/status/2076748688559587338) — 2026-07-13
-- **Context**: Treat the optical posts as demand and supplier-path evidence, not proof that CPO timing risk is gone. The sellside map does not establish equal revenue exposure across named companies, and Serenity separately says AAOI has no CPO design wins and commercial timing remains TBD while reliability work continues.
+- **Latest signal**: Jul 14 says Jensen Huang's commentary rebutted delay reports, with 800V and rack-to-rack optical interconnects progressing to the original plan without material delay. This follows Jul 13's Morgan Stanley CPO map and Innolight's reported 1.6T/800G demand update.
+- **Latest tweets**: [2076846994614792663](https://x.com/aleabitoreddit/status/2076846994614792663) / [2076808331453415674](https://x.com/aleabitoreddit/status/2076808331453415674) / [2076748688559587338](https://x.com/aleabitoreddit/status/2076748688559587338) — 2026-07-13/14
+- **Context**: Treat the optical posts as demand and supplier-path evidence, not proof that CPO timing risk is gone. The roadmap-reassurance capture is paraphrased and truncated; the sellside map does not establish equal revenue exposure across named companies, and Serenity separately says AAOI has no CPO design wins and commercial timing remains TBD while reliability work continues.
 
 ---
 
@@ -253,10 +253,10 @@ restore branch split.
 
 ## $TSEM — Tower Semiconductor
 
-- **Latest signal**: Bullish / validation — Tower Semiconductor was up 10%+ on Jun 22, which Serenity treated as a positive validation of his March long and Jun 15 deal-catalyst framing. He noted in hindsight he should have made it one of his largest positions, while grouping $TSEM with foundries such as $GFS and $INTC that have recently been gaining momentum.
-- **Latest tweet**: [2069188398825566318](https://x.com/aleabitoreddit/status/2069188398825566318) — 2026-06-22T22:38:52Z
+- **Latest signal**: Jul 14 says Tower, supported by the Japanese government, announced 300mm silicon-photonics, SiGe, and advanced-packaging capacity expansion, alongside a separate AAOI expansion announcement. This adds a capacity-buildout signal to the earlier price-action and InP-epiwafer validation.
+- **Latest tweet**: [2077039373711970804](https://x.com/aleabitoreddit/status/2077039373711970804) — 2026-07-14T14:35:50Z
 - **Quote**: "$TSEM up 10%+ today... should have made this one of my largest positions in hindsight back in March."
-- **Context**: Tower Semiconductor's multi-year InP epiwafer deal with IQE remains the core catalyst. The Jun 22 update is mainly a price-action / conviction validation, not a new supply-chain fact.
+- **Context**: Tower Semiconductor's multi-year InP epiwafer deal with IQE remains the core catalyst. The expansion is a useful SiPho/advanced-packaging capacity signal, but verify capex, utilization, customer qualification, and incremental profitability before treating it as revenue.
 
 ---
 
@@ -804,6 +804,10 @@ restore branch split.
   treat as mechanism reinforcement, not a disclosed new contract. A later Jul 1
   analogy says the market is selling neocloud suppliers while Meta repackages
   their compute, which he frames as backward for the upstream capacity providers.
+  Jul 14 adds a reported $1B+ Reflection AI agreement for GB300 access through
+  2029. Treat the named multiyear contract as stronger than inferred customer
+  links, while verifying the underlying company disclosures, capacity, revenue
+  recognition, financing, and counterparty credit.
 
 ### IREN (Iris Energy) — BTC-miner → AI datacenter / GPU cloud
 - **Thesis (early):** BTC miner pivoting to HPC; "reminds me of NBIS following
