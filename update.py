@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 """Incremental archive updater: pull latest tweets, merge (dedupe), refresh CSV + ticker_stats.
 
-Requires xreach authenticated via Agent Reach cookies/browser profile.
+Requires xreach authenticated via an Agent Reach browser profile.
 Run from the repo root: `python3 update.py`. Prints a final `NEW=<n>` line; exits 0.
+Run `python3 update.py --repair-full-text` repeatedly to backfill X Note Tweet text.
 Does NOT touch git — the caller decides whether to commit/push based on NEW.
 """
-import json, csv, os, re, shutil, subprocess
+import json, csv, os, re, shutil, subprocess, sys
 from collections import Counter
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
@@ -14,6 +15,11 @@ USER = "aleabitoreddit"
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "data")
 ARCH = os.path.join(DATA, "aleabitoreddit_tweets.json")
+SYNC_STATE = os.path.join(DATA, "sync_state.json")
+FULL_TEXT_HELPER = os.path.join(HERE, "scripts", "xreach_note_text.mjs")
+# Issue #2 reported the affected xreach Note Tweet period from this timestamp.
+FULL_TEXT_REPAIR_START = "2026-06-30T00:00:00+00:00"
+FULL_TEXT_REPAIR_BATCH_SIZE = 20
 LOCAL_TZ = timezone(timedelta(hours=8))
 
 def parse_time(t):
@@ -55,6 +61,38 @@ def xreach_json(args, timeout=180):
     except Exception as e:
         print(f"PULL_ERROR {' '.join(args)}: {e}")
         return []
+
+def xreach_note_text(args, timeout=180):
+    if not shutil.which("node") or not shutil.which("xreach") or not os.path.exists(FULL_TEXT_HELPER):
+        return {}
+    try:
+        p = subprocess.run(
+            ["node", FULL_TEXT_HELPER, *args],
+            capture_output=True,
+            text=True,
+            timeout=timeout,
+        )
+        if p.returncode != 0:
+            print(f"FULL_TEXT_ERROR {' '.join(args)}: {(p.stderr or p.stdout).strip()}")
+            return {}
+        raw = json.loads(p.stdout)
+        return {
+            str(tweet_id): text
+            for tweet_id, text in raw.items()
+            if isinstance(text, str) and text
+        } if isinstance(raw, dict) else {}
+    except Exception as e:
+        print(f"FULL_TEXT_ERROR {' '.join(args)}: {e}")
+        return {}
+
+def apply_full_text(rows, full_text):
+    repaired = 0
+    for row in rows:
+        text = full_text.get(str(row.get("id")))
+        if text and len(text) > len(row.get("text") or ""):
+            row["text"] = text
+            repaired += 1
+    return repaired
 
 def twitter_json(args, timeout=180):
     if not shutil.which("twitter"):
@@ -172,6 +210,9 @@ def write_ticker_stats(rows):
                 f.write(f"{tk:8} {n:6}   {first[tk]}  {last[tk]}\n")
 
 def main():
+    repair_full_text = "--repair-full-text" in sys.argv[1:]
+    sync_state = json.load(open(SYNC_STATE)) if os.path.exists(SYNC_STATE) else {}
+    sync_state_changed = False
     raw_arch = json.load(open(ARCH))
     arch = [ensure_times(t) for t in raw_arch]
     normalized = arch != raw_arch
@@ -180,7 +221,28 @@ def main():
     since = newest.astimezone(timezone.utc).date().isoformat() if newest else None
     new = [ensure_times(t) for t in pull(since=since) if t["id"] not in have]
     new.sort(key=sort_key)
-    if new or normalized:
+    repaired = 0
+    if new:
+        repaired += apply_full_text(new, xreach_note_text(["--ids", *(t["id"] for t in new)]))
+    if repair_full_text:
+        cursor = sync_state.get("note_text_repair_cursor")
+        eligible = [
+            t for t in arch
+            if (t.get("createdAtISO") or "") >= FULL_TEXT_REPAIR_START
+            and (not cursor or (t.get("createdAtISO") or "") < cursor)
+        ]
+        batch = eligible[:FULL_TEXT_REPAIR_BATCH_SIZE]
+        if batch:
+            affected_ids = [t["id"] for t in batch]
+            repaired += apply_full_text(
+                arch,
+                xreach_note_text(["--ids", *affected_ids], timeout=900),
+            )
+            sync_state["note_text_repair_cursor"] = batch[-1].get("createdAtISO")
+            sync_state["note_text_repair_remaining"] = len(eligible) - len(batch)
+            sync_state_changed = True
+            print(f"FULL_TEXT_REPAIR_REMAINING={sync_state['note_text_repair_remaining']}")
+    if new or normalized or repaired:
         merged = {t["id"]: t for t in arch}
         for t in new:
             merged[t["id"]] = t
@@ -192,6 +254,11 @@ def main():
             print(f"  + {t.get('createdAtISO', '')[:16]} {t['id']} {(t.get('text') or '')[:60].replace(chr(10),' ')}")
         if new:
             print(f"TOTAL={len(rows)} NEWEST={rows[0].get('createdAtISO', '')}")
+    if repaired:
+        print(f"FULL_TEXT_REPAIRED={repaired}")
+    if sync_state_changed:
+        json.dump(sync_state, open(SYNC_STATE, "w"), ensure_ascii=False, indent=2)
+        print()
     print(f"NEW={len(new)}")
 
 if __name__ == "__main__":
