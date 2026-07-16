@@ -34,9 +34,9 @@ restore branch split.
 
 ## Optical / CPO basket and upstream glass substrates
 
-- **Latest signal**: Jul 14 says Jensen Huang's commentary rebutted delay reports, with 800V and rack-to-rack optical interconnects progressing to the original plan without material delay. This follows Jul 13's Morgan Stanley CPO map and Innolight's reported 1.6T/800G demand update.
-- **Latest tweets**: [2076846994614792663](https://x.com/aleabitoreddit/status/2076846994614792663) / [2076808331453415674](https://x.com/aleabitoreddit/status/2076808331453415674) / [2076748688559587338](https://x.com/aleabitoreddit/status/2076748688559587338) — 2026-07-13/14
-- **Context**: Treat the optical posts as demand and supplier-path evidence, not proof that CPO timing risk is gone. The roadmap-reassurance capture is paraphrased and truncated; the sellside map does not establish equal revenue exposure across named companies, and Serenity separately says AAOI has no CPO design wins and commercial timing remains TBD while reliability work continues.
+- **Latest signal**: Jul 15 quotes Jensen Huang saying Vera Rubin is already in production and large production is incoming, rebutting AI-server-delay reports. AEHR's guide and backlog are framed as a broader silicon-photonics ramp read-through, while its author explicitly stops short of calling it a direct CPO confirmation.
+- **Latest tweets**: [2077406548012466390](https://x.com/aleabitoreddit/status/2077406548012466390) / [2077208587005542464](https://x.com/aleabitoreddit/status/2077208587005542464) / [2077217140042760358](https://x.com/aleabitoreddit/status/2077217140042760358) — 2026-07-15
+- **Context**: Treat the optical posts as demand and supplier-path evidence, not proof that CPO timing risk is gone. Confirm NVIDIA's underlying roadmap statement and distinguish umbrella Rubin production from specific optical shipment milestones; AEHR's guide/backlog do not prove direct CPO revenue. The sellside map also does not establish equal exposure across named companies, and Serenity says AAOI has no CPO design wins with commercial timing TBD.
 
 ---
 
@@ -899,6 +899,12 @@ superseded this list by 2026.)
   30): revenue $5.95B vs $4.7B est (252% YoY), GM 78.4% vs 67.3% est, Q4 guide
   raised hard. Mostly pre-priced (+72% before earnings).
 - **Latest stance:** Top performer, held. "Citron/Citron shorts just add fuel."
+
+- **Jul 15 update:** Serenity cites TrendForce forecasting 120%-170% H2 2026 SLC
+  NAND price increases and separately flags DRAM pricing, SNDK long-term
+  agreements, and optical supply tightness. This reinforces the shortage
+  narrative, but the SLC beneficiary mapping and pricing read-through require
+  source, product-mix, and contract-timing verification.
 
 ### SIMO (Silicon Motion) — NAND flash controllers
 - **Thesis:** Duopoly with Phison for merchant SSD controllers; supplies all

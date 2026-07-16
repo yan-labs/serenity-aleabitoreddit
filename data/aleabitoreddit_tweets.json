@@ -1,5 +1,510 @@
 [
   {
+    "id": "2077445202252529956",
+    "text": "@OpenAI This is the best way to get bullied in public https://t.co/tUzuYB3oxs",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 137,
+      "retweets": 0,
+      "replies": 8,
+      "quotes": 0,
+      "views": 25227,
+      "bookmarks": 1
+    },
+    "createdAt": "Wed Jul 15 17:28:27 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2077430470510526635",
+    "inReplyToUserId": "4398626122",
+    "conversationId": "2077430470510526635",
+    "createdAtISO": "2026-07-15T17:28:27+00:00",
+    "createdAtLocal": "2026-07-16 01:28"
+  },
+  {
+    "id": "2077437150715666900",
+    "text": "Anthropic to IPO as early as October per Bloomberg.\n\nThis is following their $65B financing at a $965 billion  valuation last May.\n\nHmm, would you all invest in Anthropic at a $1T+ valuation? https://t.co/iFIY1WulvO",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 981,
+      "retweets": 63,
+      "replies": 206,
+      "quotes": 20,
+      "views": 228674,
+      "bookmarks": 118
+    },
+    "createdAt": "Wed Jul 15 16:56:28 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNSJgT3aUAAomzn.jpg",
+        "width": 1624,
+        "height": 626
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2077437150715666900",
+    "createdAtISO": "2026-07-15T16:56:28+00:00",
+    "createdAtLocal": "2026-07-16 00:56"
+  },
+  {
+    "id": "2077423502119026841",
+    "text": "@SVTrivo No leaks yet on what companies $AAPL is buying. \n\nRegardless, my guess is that they're trying to become more self-reliant after what happened with $GOOGL + $META and OpenAI.\n\nWhich would signal AI capex hikes, which markets definitely aren't expecting from someone like Apple.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 66,
+      "retweets": 2,
+      "replies": 13,
+      "quotes": 0,
+      "views": 15292,
+      "bookmarks": 5
+    },
+    "createdAt": "Wed Jul 15 16:02:14 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2077422683151868227",
+    "inReplyToUserId": "95134466",
+    "conversationId": "2077421268991926703",
+    "createdAtISO": "2026-07-15T16:02:14+00:00",
+    "createdAtLocal": "2026-07-16 00:02"
+  },
+  {
+    "id": "2077423269066784942",
+    "text": "@michaelsikand DRAM 20%+ hike for next quarter, $SNDK LTAs with $META, $MU 16+ LTAs.\n\nMarket: proceeds to sell off memory.\n\n800G transceiver revision sharply upward? Lasers completely sold out into early 2029? \n\nMarket: sells off photonics and laser companies.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 295,
+      "retweets": 7,
+      "replies": 14,
+      "quotes": 1,
+      "views": 31223,
+      "bookmarks": 27
+    },
+    "createdAt": "Wed Jul 15 16:01:18 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2077422003720769656",
+    "inReplyToUserId": "3007206859",
+    "conversationId": "2077421268991926703",
+    "createdAtISO": "2026-07-15T16:01:18+00:00",
+    "createdAtLocal": "2026-07-16 00:01"
+  },
+  {
+    "id": "2077422416482250990",
+    "text": "@shopaholicdivas Maybe something like Sambanova or other inference companies is my guess. \n\n$AAPL is sitting on an absolute warchest right now.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 45,
+      "retweets": 0,
+      "replies": 7,
+      "quotes": 0,
+      "views": 11353,
+      "bookmarks": 4
+    },
+    "createdAt": "Wed Jul 15 15:57:55 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2077421411149164726",
+    "inReplyToUserId": "120148047",
+    "conversationId": "2077421268991926703",
+    "createdAtISO": "2026-07-15T15:57:55+00:00",
+    "createdAtLocal": "2026-07-15 23:57"
+  },
+  {
+    "id": "2077421268991926703",
+    "text": "$AAPL looks to acquire AI chip companies for running AI (Source: The Information)\n\nRight now, $MSFT, $META, Amazon, Google are carrying AI capex spend.\n\nBut what if Apple joined the others after M&amp;A? \n\nA possible scenario is that they revise capex largely upward for their own AI https://t.co/q7ick7F4GK",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 781,
+      "retweets": 58,
+      "replies": 178,
+      "quotes": 7,
+      "views": 205116,
+      "bookmarks": 91
+    },
+    "createdAt": "Wed Jul 15 15:53:21 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNR3jK2aoAAeIHk.jpg",
+        "width": 2174,
+        "height": 1253
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2077421268991926703",
+    "createdAtISO": "2026-07-15T15:53:21+00:00",
+    "createdAtLocal": "2026-07-15 23:53"
+  },
+  {
+    "id": "2077414086959112629",
+    "text": "@mmpatel101 Yeah that's the unfortunate reality of headline algorithm trading nowadays.\n\nSector tanks 20-50%+ off delay news, then causes cascading margin liquidations. \n\n\"Delay refuted\" news comes out, people still cast doubts over it, and markets focus on misleading delay reports weeks",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 82,
+      "retweets": 2,
+      "replies": 7,
+      "quotes": 0,
+      "views": 12247,
+      "bookmarks": 5
+    },
+    "createdAt": "Wed Jul 15 15:24:49 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2077410600565539194",
+    "inReplyToUserId": "1799261506837626880",
+    "conversationId": "2077406548012466390",
+    "createdAtISO": "2026-07-15T15:24:49+00:00",
+    "createdAtLocal": "2026-07-15 23:24"
+  },
+  {
+    "id": "2077412680668008546",
+    "text": "@avshushka Just forwarding the Rosenblatt channel check on optical sector weakness:\n\nhttps://t.co/IhWhCqjZsD",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 76,
+      "retweets": 2,
+      "replies": 3,
+      "quotes": 0,
+      "views": 16052,
+      "bookmarks": 7
+    },
+    "createdAt": "Wed Jul 15 15:19:14 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": true,
+    "inReplyToTweetId": "2077407601323639141",
+    "inReplyToUserId": "1387055400155897856",
+    "conversationId": "2077406548012466390",
+    "createdAtISO": "2026-07-15T15:19:14+00:00",
+    "createdAtLocal": "2026-07-15 23:19"
+  },
+  {
+    "id": "2077409813496250522",
+    "text": "@meikozz_2026 I don't see any fundamentally wrong. There's probably going to be large corrections from time to time flush out margin/leverage before things move higher. \n\nAnd this month seems like that time of year?\n\n$POET confirmed your big optical giants like $LITE, $COHR are completely sold",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 220,
+      "retweets": 11,
+      "replies": 12,
+      "quotes": 1,
+      "views": 23884,
+      "bookmarks": 41
+    },
+    "createdAt": "Wed Jul 15 15:07:50 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2077407409803612661",
+    "inReplyToUserId": "1269323593676021761",
+    "conversationId": "2077406548012466390",
+    "createdAtISO": "2026-07-15T15:07:50+00:00",
+    "createdAtLocal": "2026-07-15 23:07"
+  },
+  {
+    "id": "2077406548012466390",
+    "text": "$NVDA CEO, Jensen Huang in Tokyo today said:\n\n\"The reports are not true. Vera Rubin is already in production. Giant amounts of production incoming\"\n\nAs a flat denial to the accusation that their AI servers would be delayed. \n\nJensen appears to be using the Umbrella term for Rubin https://t.co/I01aStOBKE",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1150,
+      "retweets": 86,
+      "replies": 220,
+      "quotes": 11,
+      "views": 242243,
+      "bookmarks": 107
+    },
+    "createdAt": "Wed Jul 15 14:54:52 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRpBZKbAAA1kKO.jpg",
+        "width": 2011,
+        "height": 1219
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2077406548012466390",
+    "createdAtISO": "2026-07-15T14:54:52+00:00",
+    "createdAtLocal": "2026-07-15 22:54"
+  },
+  {
+    "id": "2077228758491386121",
+    "text": "Well, looks like SLC NAND is forcasted to rise up 120-170% for H2 2026 per Trendforce. \n\nThere's $MU (21%), Kioxia (20%) as largest share, but clearer beneficiaries appears to be:\n\n1. Winbond (2344): ~15% of the SLC NAND market\n2. Macronix (2337): ~11% market share\n3. SkyHigh https://t.co/6F2Aszjd90",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 963,
+      "retweets": 71,
+      "replies": 118,
+      "quotes": 7,
+      "views": 320842,
+      "bookmarks": 324
+    },
+    "createdAt": "Wed Jul 15 03:08:23 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPLfNva4AAstTR.jpg",
+        "width": 2802,
+        "height": 1583
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPMGNHaMAAoVzH.jpg",
+        "width": 1080,
+        "height": 560
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2077228758491386121",
+    "createdAtISO": "2026-07-15T03:08:23+00:00",
+    "createdAtLocal": "2026-07-15 11:08"
+  },
+  {
+    "id": "2077217140042760358",
+    "text": "@JJJJJ_66666 It's nuanced, $AEHR implications was more toward broader silicon photonics related ramp. \n\nWhich could include 800g/1.6T pluggables, or CPO. \n\nIf they directly named CPO, Msscorps would be a very clean readthrough. It just got hit really hard recently from that delay claim (even",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 82,
+      "retweets": 1,
+      "replies": 4,
+      "quotes": 0,
+      "views": 17923,
+      "bookmarks": 7
+    },
+    "createdAt": "Wed Jul 15 02:22:13 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2077209824165855687",
+    "inReplyToUserId": "1490304300660105216",
+    "conversationId": "2077208587005542464",
+    "createdAtISO": "2026-07-15T02:22:13+00:00",
+    "createdAtLocal": "2026-07-15 10:22"
+  },
+  {
+    "id": "2077212864948162871",
+    "text": "@RiversSmith3 Bro I just came out from surgery, unfortunately I'm not able to listen to $AEHR earnings call while bleeding out thx.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 168,
+      "retweets": 0,
+      "replies": 52,
+      "quotes": 0,
+      "views": 21563,
+      "bookmarks": 9
+    },
+    "createdAt": "Wed Jul 15 02:05:14 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2077211856054186406",
+    "inReplyToUserId": "1032437706985484289",
+    "conversationId": "2077208587005542464",
+    "createdAtISO": "2026-07-15T02:05:14+00:00",
+    "createdAtLocal": "2026-07-15 10:05"
+  },
+  {
+    "id": "2077208587005542464",
+    "text": "$AEHR back up +36.4% today off earnings!\n\n2027 guide: $130-$150m (160-200% growth) from 2026 revenue.  Sees opportunity to guide higher (assumes no memory revenue or little to none from newly benchmarked AI customer).\n\nQ4 bookings: $60.7M, effective backlog is $100.6M.\n\n- Lead AI https://t.co/1zG0VMTM57",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1171,
+      "retweets": 67,
+      "replies": 149,
+      "quotes": 11,
+      "views": 448116,
+      "bookmarks": 246
+    },
+    "createdAt": "Wed Jul 15 01:48:14 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNO6MxwacAAy0Tv.jpg",
+        "width": 1062,
+        "height": 1052
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNO6MxtbsAAe_-Y.jpg",
+        "width": 1260,
+        "height": 909
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNO6MyIa0AAdVmc.jpg",
+        "width": 1228,
+        "height": 982
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2077208587005542464",
+    "createdAtISO": "2026-07-15T01:48:14+00:00",
+    "createdAtLocal": "2026-07-15 09:48"
+  },
+  {
     "id": "2077044786402660829",
     "text": "$NBIS signs $1B+ compute agreement with Reflection AI, for GB300 access through 2029.\n\nReflection also signed a multi-billion dollar agreement with $SPCX earlier. \n\nInteresting to say the least, seeing Nebius drop -5% off the news today. \n\nAlso... counterparty to get this done https://t.co/pYPZ5Bpo8E",
     "author": {
