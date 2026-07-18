@@ -1,5 +1,604 @@
 [
   {
+    "id": "2078342936035823828",
+    "text": "@syl_52 I'm not posting anything actionable here. Just giving people a heads up on about ADR timeline conversion for SK Hynix on the 29th. \n\nAnd that it's likely premiums might converge if institutions decide to arbitrage.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 43,
+      "retweets": 0,
+      "replies": 6,
+      "quotes": 0,
+      "views": 12362,
+      "bookmarks": 3
+    },
+    "createdAt": "Sat Jul 18 04:55:44 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2078341289716953539",
+    "inReplyToUserId": "1457050811276709894",
+    "conversationId": "2078338950150959558",
+    "createdAtISO": "2026-07-18T04:55:44+00:00",
+    "createdAtLocal": "2026-07-18 12:55"
+  },
+  {
+    "id": "2078341955411738744",
+    "text": "@chengchushow - Sk Hynix mainly traded in Korea\n- $SKHY lists in the US with limited shares, ~2.5% of the float (this is called ADR)\n- Even though SK Hynix are the same company, the shares trade independently. \n- Sk Hynix US traded at a 20-50% premium to SK Hynix Korean listing due to limited supply, but lot of US demand. \n-> ADRs allow for conversion between Korea Shares to US Shares, and conversion will start on the 29th\n- If you convert 22.5% of the Korean supply to the US, that 20-50% premium is likely to go down \n\neg. If there's limited mangos, and someone pays $3 for mangos.\n\nYou buy the same mango for $1. You keep buying those $1 mangos and selling for $3 until the mangos pricing converge. That's called arbitrage and what likely traders would do.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 105,
+      "retweets": 0,
+      "replies": 13,
+      "quotes": 5,
+      "views": 18275,
+      "bookmarks": 25
+    },
+    "createdAt": "Sat Jul 18 04:51:50 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2078339840949846520",
+    "inReplyToUserId": "2034269265738842112",
+    "conversationId": "2078338950150959558",
+    "createdAtISO": "2026-07-18T04:51:50+00:00",
+    "createdAtLocal": "2026-07-18 12:51"
+  },
+  {
+    "id": "2078338950150959558",
+    "text": "For anyone watching the 25%+ premium in $SKHY versus SK Hynix's Korean shares:\n\nThe ADRs and local shares become convertible on July 29.\n\nShould open the door for arbitrage and likely compress the ADR premium. Maybe lifting Korean shares or pressuring US shares. \n\n2.5% currently is the US ADR stock, so an additional 22.5% can be converted.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 714,
+      "retweets": 63,
+      "replies": 103,
+      "quotes": 19,
+      "views": 222880,
+      "bookmarks": 173
+    },
+    "createdAt": "Sat Jul 18 04:39:54 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNe9Y99aEAAZg2-.jpg",
+        "width": 1757,
+        "height": 1044
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2078338950150959558",
+    "createdAtISO": "2026-07-18T04:39:54+00:00",
+    "createdAtLocal": "2026-07-18 12:39"
+  },
+  {
+    "id": "2078283847612186739",
+    "text": "Thanks! I’ve always shared personal research and core thoughts for free. Not trying to sell anything or tell others what to do.\n\nAnd above all, just being transparent about my own returns (win or loss)\n\nMaybe this information democratization upsets some business models…\n\nWhen others try and pitch their $40 TA subscriptions that are always right and predicted the semis crash.\n\nBut if they really believed it, they would have made 5000%+ buying puts and wouldn’t need to market a paywall.\n\nYes, if I’m on 1.4x leverage, and if a portfolio concentrated in memory/photonics underlying crashes -35% on avg… you get a 49% drawdown.\n\nI’m just sharing what happens. \n\nBut I expect AI names to recover since I see demand from compute to energy to memory to networking to be structural.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1365,
+      "retweets": 37,
+      "replies": 120,
+      "quotes": 8,
+      "views": 243546,
+      "bookmarks": 99
+    },
+    "createdAt": "Sat Jul 18 01:00:56 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2078283847612186739",
+    "createdAtISO": "2026-07-18T01:00:56+00:00",
+    "createdAtLocal": "2026-07-18 09:00"
+  },
+  {
+    "id": "2078274370795954384",
+    "text": "@AWar1776 Just culturally from what I’ve seen on X\n\nKoreans are already fully liquidated from leverage by the time they see the thesis play out.\n\nChinese already sell the moment there’s a correction because they think institutions are harvesting them. \n\nJapan is somehow calm that Kioxia and others have dropped a lot. \n\nUS tends to have more tolerance to volatility",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 72,
+      "retweets": 1,
+      "replies": 5,
+      "quotes": 1,
+      "views": 9166,
+      "bookmarks": 6
+    },
+    "createdAt": "Sat Jul 18 00:23:17 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2078270649110614378",
+    "inReplyToUserId": "1619611617628676098",
+    "conversationId": "2078269277115727900",
+    "createdAtISO": "2026-07-18T00:23:17+00:00",
+    "createdAtLocal": "2026-07-18 08:23"
+  },
+  {
+    "id": "2078272513755263319",
+    "text": "@NullContex1s If $AAOI are projecting $1.4B a quarter q3 2027 ($471m/month), which is $5.6B revenue annualized, (targeting 40%+ gaap gross margins).\n\nAnd they’re a $8B MC… \n\nOr if personal $SIVE CW Win capacity projections are around ~$400m midpoint array revenue off 60% gross margins.\n\nAnd that’s a $1B MC.\n\nJust applying a low 20 fwd p/e might rerate optical names considerably. \n\nEven with other names like $LITE, they’re completely sold out for the next 2 years, and having that sort of demand visibility… Is not a bubble.\n\nEuropeans tend to use TTM to value companies while optical names are 2027-2028 growth stories.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 112,
+      "retweets": 5,
+      "replies": 4,
+      "quotes": 0,
+      "views": 11187,
+      "bookmarks": 16
+    },
+    "createdAt": "Sat Jul 18 00:15:54 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2078269524642824642",
+    "inReplyToUserId": "1952719479030661120",
+    "conversationId": "2078269277115727900",
+    "createdAtISO": "2026-07-18T00:15:54+00:00",
+    "createdAtLocal": "2026-07-18 08:15"
+  },
+  {
+    "id": "2078259660784910661",
+    "text": "@waynexonline $AAOI themselves gave a $471m / month estimate starting H2 2027.\n\nIf 800g gets revised up sharply across the board, that number might get hiked.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 61,
+      "retweets": 0,
+      "replies": 4,
+      "quotes": 0,
+      "views": 16575,
+      "bookmarks": 9
+    },
+    "createdAt": "Fri Jul 17 23:24:49 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2078239964383559837",
+    "inReplyToUserId": "1764925228952784896",
+    "conversationId": "2078228019584668121",
+    "createdAtISO": "2026-07-17T23:24:49+00:00",
+    "createdAtLocal": "2026-07-18 07:24"
+  },
+  {
+    "id": "2078228019584668121",
+    "text": "Thanks, love reading the comments!\n\nGoldman Sachs raised Innolight PT to 2581 RMB. Roughly 163.6% upside from current valuations.\n\nBut the largest thing is its 2026–2028 earnings est revision raised by a whopping 65%/108%/119%, based on:\n\n-  Much higher silicon photonics module volumes\n- scale out, scale up, scale across volumes\n- 1.6T/3.2T lifting blended ASP + margins\n- increase in AI capex\n\nThis is typically very material read through on the optical sector since:\n\nI tend to think of Innolight as a $TSM (semi capex) type read on how the photonics landscape is doing.\n\nEg. Higher silicon photonics penetration means more TAM for cw lasers like $SIVE (cw) / SOI wafer demand for $SOI. ASP hikes for future gen is positive for the other optical markers too.\n\nThink my other takeaway outside the report was Innolight stating 800g demand was growing more significantly than expected from their transcript on the 12th. \n\nWhich in turn signals more demand for names like $AAOI to $LITE next earnings.\n\nTLDR: GS gives high earnings projections during a time of massive corrections. \n\nFundamentally, broader photonics ecosystem should be happy when it’s ER time.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 773,
+      "retweets": 52,
+      "replies": 108,
+      "quotes": 10,
+      "views": 371379,
+      "bookmarks": 270
+    },
+    "createdAt": "Fri Jul 17 21:19:06 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNdZXjgaUAEz9b2.jpg",
+        "width": 1240,
+        "height": 1384
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNdZXjgakAEn10W.jpg",
+        "width": 1214,
+        "height": 1491
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2078228019584668121",
+    "createdAtISO": "2026-07-17T21:19:06+00:00",
+    "createdAtLocal": "2026-07-18 05:19"
+  },
+  {
+    "id": "2078175882620059719",
+    "text": "$META in talks to lease compute to Anthropic in a $10B dollar deal.\n\nSeems like they saw how profitable \n$SPCX $45B compute deal was.\n\nBut just goes to validate Neocloud business models like $NBIS, $IREN, and co if hyperscalers are copying their homework.\n\nSource: NYT https://t.co/3Mu3UXQtFT",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1020,
+      "retweets": 64,
+      "replies": 263,
+      "quotes": 11,
+      "views": 224559,
+      "bookmarks": 100
+    },
+    "createdAt": "Fri Jul 17 17:51:55 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcp86TaYAAiitI.jpg",
+        "width": 1260,
+        "height": 736
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2078175882620059719",
+    "createdAtISO": "2026-07-17T17:51:55+00:00",
+    "createdAtLocal": "2026-07-18 01:51"
+  },
+  {
+    "id": "2078161322769068533",
+    "text": "Wow, apparently there’s claims ~3.4% of the adult population in Korea faces liquidation risk?\n\n“As of July 13, over 1.2 million leveraged retail traders' accounts hit margin call lines, with 320,000 to 360,000 accounts force-liquidated by brokers.”\n\n(There were other sources claiming this data came from Goldman Sachs desks rather than SK financial supervisory service data)\n\nRegardless, just evidence recent crash was accelerated by liquidation cascades/deleveraging rather than fundamentals:",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 989,
+      "retweets": 53,
+      "replies": 294,
+      "quotes": 14,
+      "views": 226457,
+      "bookmarks": 128
+    },
+    "createdAt": "Fri Jul 17 16:54:04 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcctXCbcAA5E9i.jpg",
+        "width": 1218,
+        "height": 597
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2078161322769068533",
+    "createdAtISO": "2026-07-17T16:54:04+00:00",
+    "createdAtLocal": "2026-07-18 00:54"
+  },
+  {
+    "id": "2078150537074373117",
+    "text": "Feels bad, -49.4% drawdown this month after the recent crash.\n\nMy portfolio is mainly AI chokepoints and bottlenecks. \n\nIn the memory, photonics, robotics, and upstream semis, (on margin) which all tend to be higher beta than others. But reduced leverage recently from the crash.\n\nI see a lot of people making fun of the drop or AI names, saying it’s obvious that:\n\n- “AI is a bubble”\n- “memory/kospi is a bubble”\n- “photonics is a bubble”\n- “humanoids won’t get anywhere”\n- “neoclouds will get replaced by hyperscalers like Meta”\n\nAnd a bunch of retail + bots saying “sell everything, it’s never going to recover”.\n\nBut I have conviction that all these themes are backed by structural revenue growth or technological shifts.\n\nAnd I’ve had similar drawdowns back when there admin threatened global tariffs, before markets pulled off a recovery.\n\nI personally have a longer horizon + higher tolerance for volatility than others, to see how this plays out.\n\nEspecially considering a lot of retail view things on a week to week basis: no, my thesis isn’t wrong yet if I project revenue inflection in H2 2027 and it’s 2026 now. \n\nAnyway, feels bad short term just wanted to share anyway for transparency.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 6956,
+      "retweets": 284,
+      "replies": 767,
+      "quotes": 182,
+      "views": 1600104,
+      "bookmarks": 1131
+    },
+    "createdAt": "Fri Jul 17 16:11:12 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcS5ija8AEhfg7.jpg",
+        "width": 1234,
+        "height": 804
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2078150537074373117",
+    "createdAtISO": "2026-07-17T16:11:12+00:00",
+    "createdAtLocal": "2026-07-18 00:11"
+  },
+  {
+    "id": "2078139584123482249",
+    "text": "@johnoao CPO hasn’t scaled up yet. Lot of their earnings come from 2028 TAM for FAU.\n\nThere’s just a lot of uncertainty recently due to CPO delay reports and $GLW glass bridge. https://t.co/8kyWZ2x0Mw",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 91,
+      "retweets": 1,
+      "replies": 5,
+      "quotes": 1,
+      "views": 24275,
+      "bookmarks": 16
+    },
+    "createdAt": "Fri Jul 17 15:27:41 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2078132418847105447",
+    "inReplyToUserId": "1132201604478726144",
+    "conversationId": "2078130772121399553",
+    "createdAtISO": "2026-07-17T15:27:41+00:00",
+    "createdAtLocal": "2026-07-17 23:27"
+  },
+  {
+    "id": "2078136855154094272",
+    "text": "@LetsGoBflo17 I actually like $IREN fundamentally post Mirantis acquisition. Since it combines software orchestration with their existing secured GW capacity.\n\nBut not hopping onboard personally unless they address executive stock based compensation and financing mechanics though.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 272,
+      "retweets": 5,
+      "replies": 19,
+      "quotes": 4,
+      "views": 56421,
+      "bookmarks": 31
+    },
+    "createdAt": "Fri Jul 17 15:16:50 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2078135862869581954",
+    "inReplyToUserId": "1799136580776472576",
+    "conversationId": "2078130772121399553",
+    "createdAtISO": "2026-07-17T15:16:50+00:00",
+    "createdAtLocal": "2026-07-17 23:16"
+  },
+  {
+    "id": "2078130772121399553",
+    "text": "Agreed! It’s nice to remember your thesis during a market crash.\n\nFrom my own personal thesis, if $AAOI hits $1.4B quarterly revenue start of Q3 2027. Which is annualized $5.6B off a $8B MC. \n\nIs it “over” for the company if that revenue ramp hasn’t even shown up in the quarterly earnings… when it’s 2026?\n\nSame applies to my CPO sector exposure like $SIVE, an architecture shift led by $NVDA. \n\nIf scale out volume ramps from H2 2026 into 2027, and scale up heavily volume ramps into 2028.\n\nIs it “over” that $0 -> $91B TAM expansion (per GS) hasn’t even hit yet?\n\nWith robotics like Agility, is it over in 2026 if the listing hasn’t even happened yet and humanoids haven’t ramped?\n\nI personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals.\n\nIt’s brutal for everyone to see KOSPI, TW, Nikkei, and AI, space, robotics sector stocks crash recently. \n\nEspecially when there’s a lot of irrational behavior stemming from those leverage.\n\nIn the end, we can’t tell you what stocks to buy, what timeframe you should sell, how to size your positions, or what you should do. \n\nOnly share personal thoughts or research and track if they get validated over time.\n\nSo it’s extremely important to build your own thesis, since everyone has unique risk tolerance or investing timeframes.\n\nAnd that usually leads to having higher conviction during crashes.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1428,
+      "retweets": 79,
+      "replies": 413,
+      "quotes": 14,
+      "views": 1225608,
+      "bookmarks": 379
+    },
+    "createdAt": "Fri Jul 17 14:52:40 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2078130772121399553",
+    "createdAtISO": "2026-07-17T14:52:40+00:00",
+    "createdAtLocal": "2026-07-17 22:52"
+  },
+  {
+    "id": "2078119073741971893",
+    "text": "@pepemoonboy In Pepe we trust",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 283,
+      "retweets": 5,
+      "replies": 45,
+      "quotes": 1,
+      "views": 38641,
+      "bookmarks": 3
+    },
+    "createdAt": "Fri Jul 17 14:06:11 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2078115283990872122",
+    "inReplyToUserId": "1875040188159967232",
+    "conversationId": "2078115283990872122",
+    "createdAtISO": "2026-07-17T14:06:11+00:00",
+    "createdAtLocal": "2026-07-17 22:06"
+  },
+  {
+    "id": "2077999291856273873",
+    "text": "@babybluecream Yeah, my $EWY longs crashed quite a bit. \n\nI still think the operating income that SK Hynix and Samsung produces will catch up to the MC eventually, so I’m holding my memory positions.\n\nRegardless, not a fun time to watch Asian markets from Nikkei to Taiwan to Kospi drop so much.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 191,
+      "retweets": 9,
+      "replies": 13,
+      "quotes": 1,
+      "views": 35756,
+      "bookmarks": 24
+    },
+    "createdAt": "Fri Jul 17 06:10:13 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2077990403605946466",
+    "inReplyToUserId": "1336521079494303744",
+    "conversationId": "2077955479742173422",
+    "createdAtISO": "2026-07-17T06:10:13+00:00",
+    "createdAtLocal": "2026-07-17 14:10"
+  },
+  {
+    "id": "2077955479742173422",
+    "text": "Kim Sunwoo of Meritz Securities: \"This Is Not the Time to Sell Samsung Electronics and $SKHY\"\n\nThey claim markets are excessively misunderstanding the situation with semis. And that DRAM shortage will intensify in the second half of this year.  \n\n- H2 2026: \"suppliers can fulfill only 75%–80% of DRAM demand\". \n- 2027: \"fulfillment is expected to fall into the 60% range.\"\n\nIn the article, they attached market forecasts that show SK Hynix with a 2027 3.5x P/E and Samsung a 3.9x P/E. \n\nThink the $INTC CEO said it best around timeframes with his quote \"no relief in memory supply or pricing until at least 2028\". \n\nEspecially after $MU 16 LTAs with favorable take or pay volume contracts... memory demand seems structural.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1599,
+      "retweets": 145,
+      "replies": 191,
+      "quotes": 27,
+      "views": 481840,
+      "bookmarks": 303
+    },
+    "createdAt": "Fri Jul 17 03:16:07 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZeKxzaoAAidme.jpg",
+        "width": 1652,
+        "height": 1996
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZeTaEbsAA7i91.png",
+        "width": 1808,
+        "height": 495
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2077955479742173422",
+    "createdAtISO": "2026-07-17T03:16:07+00:00",
+    "createdAtLocal": "2026-07-17 11:16"
+  },
+  {
     "id": "2077784594959725056",
     "text": "My guess is we’re close to market bottom on semis from $INTC to $LITE.\n\nA good indicator is if everyone on $RDDT blew up their portfolios to $0. https://t.co/X1m9Yv1JuX",
     "author": {

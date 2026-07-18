@@ -426,7 +426,11 @@ restore branch split.
   $150-$170, and links that confidence to JBL's 1.6T LRO mass-production path
   with SIVE around H1 2027. Treat that as a stronger position-management and
   timing update, not as new company guidance or proof that the JBL / SIVE
-  timing bridge is locked in.
+  timing bridge is locked in. Jul 17-18 replies reaffirm the forward model at
+  roughly $471M monthly / $1.4B quarterly revenue by Q3 2027 and say stronger
+  800G demand could lift it. Keep treating the figures as scenario/guidance
+  interpretation rather than booked revenue, and verify timing, capacity,
+  customer mix, gross margin, dilution, and execution.
 
 ### SIVE / SIVEF (Sivers Semiconductors) — CW/DFB merchant laser for CPO
 - **Thesis:** Primary pure-play merchant DFB/CW laser supplier for the CPO
@@ -826,9 +830,12 @@ restore branch split.
   $6B ATM remains in place.
 - **Condition to flip long:** "After they already financed their buildout from
   dilution."
-- **Latest stance (Jul 2026):** **Bear / avoid; zero position.** Jul 2
-  compensation/ATM comment reinforces the earlier "IREN -34% confirmed" (May 19)
-  validation and keeps IREN in the management-quality / dilution red-flag bucket.
+- **Latest stance (Jul 2026):** **Operationally constructive, capital-structure
+  avoid; zero position.** Jul 17 softens the fundamental view after the Mirantis
+  acquisition because software orchestration complements IREN's secured power,
+  but he still refuses to buy until executive stock compensation and financing
+  mechanics are addressed. This is a conditional watch, not a full bullish
+  reversal; the Jul 2 compensation/ATM red flags remain active.
 
 ### CRWV (CoreWeave) — neocloud, heavy debt
 - **Thesis:** Operationally does everything right (NVDA backing, hyperscaler
@@ -917,7 +924,10 @@ superseded this list by 2026.)
   surpassing Apple/Alphabet." Macquarie: Samsung FY27 ~$333.7B, SK Hynix ~$312.8B
   op income; fwd P/E 2-4x. 10% + 10% of portfolio. Accessed via EWY and FLKR.
   Jul 7 update adds Samsung DRAM price-hike and profit-acceleration validation
-  while the market still sold the stock off.
+  while the market still sold the stock off. Jul 17 adds a Meritz view that H2
+  DRAM shortages may intensify and reaffirms holding Samsung/SK Hynix exposure
+  despite a sharp EWY drawdown; treat this as thesis persistence, not proof of a
+  market bottom.
 - **EWY (iShares Korea ETF):** ⭐ One of his "most legendary calls" — vega/IV
   arbitrage. 2028 leaps bought at 32% IV (priced on a flat-decade average) while
   EWY is effectively 50%+ Samsung/SK Hynix; IV expanded to 44-47% in a week.
@@ -928,7 +938,11 @@ superseded this list by 2026.)
   IV rose and underlying Samsung / SK Hynix memory assets appreciated. June 1
   update says the EWY LEAPS were up 485%, from both IV expansion and directional
   memory longs, after many holders had sold during Iran-volatility doomposting.
-  (Advanced options; not for copying.)
+  Jul 18 adds a separate ADR-mechanics warning: $SKHY's U.S. line traded at a
+  25%+ premium while representing roughly 2.5% of float, and local-share
+  convertibility expected Jul 29 may compress that gap. Verify the conversion
+  terms, borrow, liquidity, taxes, and effective date. (Advanced options and
+  arbitrage mechanics; not for copying.)
 - **Towa (6315, TYO):** Functional monopoly on compression molding for HBM
   packaging (all three HBM makers are customers). ~$1.34B MC "sleeper" in the
   HBM4 capex cycle; guides 80-100% re-rating (not a 4x play).
@@ -1069,6 +1083,10 @@ superseded this list by 2026.)
   or dropping capex. Later Jul 3 update cites SemiAnalysis saying Meta
   datacenter and compute will accelerate and 2027 capex will be shockingly
   high; he frames the recent $META / photonics crash as misinformation-driven.
+  Jul 17 adds a reported negotiation for Meta to lease roughly $10B of compute
+  to Anthropic, which he uses as validation that hyperscalers are adopting a
+  neocloud-style compute-resale model. Treat it as reported talks, not a signed
+  contract or direct NBIS/IREN revenue, until counterparties and terms confirm.
 - **AMZN:** AWS capex confirmation; "$3T MC" target; "bullish long-term even from
   robotics/AI cutting opex though it moves like a slug." Barbell.
 - **ORCL:** ⚠️ **Explicit AVOID** — most forward backlog depends on OpenAI, which
