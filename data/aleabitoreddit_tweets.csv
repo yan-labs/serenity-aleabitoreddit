@@ -1,4 +1,33 @@
 id,url,createdAtISO,createdAtLocal,lang,isRetweet,retweetedBy,likes,retweets,replies,quotes,views,bookmarks,media_count,media_urls,link_urls,quoted_id,quoted_author,quoted_text,text
+2079089592385610023,https://x.com/aleabitoreddit/status/2079089592385610023,2026-07-20T06:22:41+00:00,2026-07-20 14:22,en,False,,638,49,97,9,204910,282,1,https://pbs.twimg.com/media/HNpaEQSbgAEmmJj.jpg,,,,,"Some updates on bottleneck timelines:
+
+- ABF substrates: 1 year
+/ eg. Ajinomoto (2802) for ABF film, Ibiden, Unimicron, Nan Ya PCB, etc make the substrates
+
+- HDI Boards: Over 6 months
+/ Victory Giant (300476), Zhen Ding (4958), Unimicron, Compeq (2313), Meiko (6787)
+
+- Multilayer boards: ~6 months
+/ Victory Giant, WUS (002463), $TTMI, Gold Circuit Electronics (2368),
+
+- CCL: Over 6 months (severe shortages of materials)
+/ Elite Material (2383), Shengyi (600183), TUC (6274), ITEQ (6213), Nan Ya Plastics (1303), Resonac (4004)
+Mitsui Kinzoku (5706) / HVLP copper foil.  Nittobo / glass fiber/cloth
+
+- MLCCs, chip resistors, tantalum capacitors, aluminum electrolytic capacitors: 15-20 weeks to 1 year+
+
+MLCC: Murata (6981), Samsung Electro-Mechanics, TDK (6762), Taiyo Yuden (6976), Yageo (2327), Walsin (2492)
+Chip Resistors: Yageo, Walsin, KOA (6999), Rohm (6963) and $VSH
+Tantalum capacitors: Kyocera/AVX, Yageo/KEMET, $VSH again
+
+Aluminum electrolytic capacitors: Nippon Chemi-Con (6997) Nichicon (6996) | Timelines sourced from Digitimes, did the honors of adding in related companies.
+
+But it's slightly more nuanced since MLCCs and others mix. in commodity types vs. AI DCs.
+
+Regardless, just some helpful mapping."
+2078914447180263438,https://x.com/aleabitoreddit/status/2078914447180263438,2026-07-19T18:46:43+00:00,2026-07-20 02:46,en,False,,2726,148,250,19,367676,208,1,https://pbs.twimg.com/media/HNnJq73bkAAUKd6.jpg,,,,,"There’s nothing quite like the scent of more AI capex on a Sunday.
+
+Probably some ways to go if leading frontier models are out of capacity from too much demand. https://t.co/d8mnuAQdLz"
 2078342936035823828,https://x.com/aleabitoreddit/status/2078342936035823828,2026-07-18T04:55:44+00:00,2026-07-18 12:55,en,False,,43,0,6,0,12362,3,0,,,,,,"@syl_52 I'm not posting anything actionable here. Just giving people a heads up on about ADR timeline conversion for SK Hynix on the 29th.
 
 And that it's likely premiums might converge if institutions decide to arbitrage."
