@@ -1,5 +1,137 @@
 [
   {
+    "id": "2079319999915925938",
+    "text": "If you’re curious why $NBIS is up after hours.\n\n$NVDA disclosed it owns 9.3% beneficial ownership of Nebius via SEC filings.\n\nNot exactly too new since it dates back to Nvidia’s existing share position of 1.19M shares + $2B prefunded warrant of ~21M shares.\n\nBut great for sentiment having Nvidia be a large shareholder of the Neocloud leader.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1097,
+      "retweets": 71,
+      "replies": 178,
+      "quotes": 10,
+      "views": 160886,
+      "bookmarks": 118
+    },
+    "createdAt": "Mon Jul 20 21:38:14 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNs6hJKa0AAqBaA.jpg",
+        "width": 1167,
+        "height": 877
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2079319999915925938",
+    "createdAtISO": "2026-07-20T21:38:14+00:00",
+    "createdAtLocal": "2026-07-21 05:38"
+  },
+  {
+    "id": "2079289335351062693",
+    "text": "TBH, casually posting novel information discovery to X is how research should be done. \n\nApparently this was #16 on the Smale's list of Mathematical Problems for the Next Century?\n\nKinda shows that the value generated from AI does not scale linearly with token costs... After seeing this, bears are still probably going to say: \n\n\"B-but where's the profit coming from after AI usage?\"\n\nAI + capex is likely going to keep going brrr.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 488,
+      "retweets": 31,
+      "replies": 272,
+      "quotes": 4,
+      "views": 192440,
+      "bookmarks": 80
+    },
+    "createdAt": "Mon Jul 20 19:36:23 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNscg9Ua0AArr2g.jpg",
+        "width": 1277,
+        "height": 565
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsdIocakAADriz.jpg",
+        "width": 2264,
+        "height": 968
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsdIlAbkAALCQ0.jpg",
+        "width": 2157,
+        "height": 1411
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2079289335351062693",
+    "createdAtISO": "2026-07-20T19:36:23+00:00",
+    "createdAtLocal": "2026-07-21 03:36"
+  },
+  {
+    "id": "2079254669793316962",
+    "text": "$IREN +19.69% after revising ARR target to $4B+ from new AI cloud contracts. Its customer base now includes Microsoft, Nvidia, Perplexity, and Figure.\n\n$HUT +10.45% off a 15Y $9.8B AI DC lease\n\n$CIFR +16.76%\n$CLSK +13.7%\n$WYFI +9.18%\n\n$NBIS and $CRWV are taking their time in the shower.\n\nBut does look like Neoclouds/Colo players are sharply recovering following new catalysts, such as Kimi compute shortage news and new contracts.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1327,
+      "retweets": 81,
+      "replies": 340,
+      "quotes": 13,
+      "views": 245941,
+      "bookmarks": 196
+    },
+    "createdAt": "Mon Jul 20 17:18:38 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNr-0TTaUAAE7wj.jpg",
+        "width": 1905,
+        "height": 1121
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNr-0WvaQAAWrFz.jpg",
+        "width": 1565,
+        "height": 830
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2079254669793316962",
+    "createdAtISO": "2026-07-20T17:18:38+00:00",
+    "createdAtLocal": "2026-07-21 01:18"
+  },
+  {
     "id": "2079089592385610023",
     "text": "Some updates on bottleneck timelines: \n\n- ABF substrates: 1 year \n/ eg. Ajinomoto (2802) for ABF film, Ibiden, Unimicron, Nan Ya PCB, etc make the substrates \n\n- HDI Boards: Over 6 months \n/ Victory Giant (300476), Zhen Ding (4958), Unimicron, Compeq (2313), Meiko (6787)\n\n- Multilayer boards: ~6 months \n/ Victory Giant, WUS (002463), $TTMI, Gold Circuit Electronics (2368), \n\n- CCL: Over 6 months (severe shortages of materials) \n/ Elite Material (2383), Shengyi (600183), TUC (6274), ITEQ (6213), Nan Ya Plastics (1303), Resonac (4004)\nMitsui Kinzoku (5706) / HVLP copper foil.  Nittobo / glass fiber/cloth\n\n- MLCCs, chip resistors, tantalum capacitors, aluminum electrolytic capacitors: 15-20 weeks to 1 year+\n\nMLCC: Murata (6981), Samsung Electro-Mechanics, TDK (6762), Taiyo Yuden (6976), Yageo (2327), Walsin (2492)\nChip Resistors: Yageo, Walsin, KOA (6999), Rohm (6963) and $VSH\nTantalum capacitors: Kyocera/AVX, Yageo/KEMET, $VSH again\n\nAluminum electrolytic capacitors: Nippon Chemi-Con (6997) Nichicon (6996) | Timelines sourced from Digitimes, did the honors of adding in related companies. \n\nBut it's slightly more nuanced since MLCCs and others mix. in commodity types vs. AI DCs.\n\nRegardless, just some helpful mapping.",
     "author": {
