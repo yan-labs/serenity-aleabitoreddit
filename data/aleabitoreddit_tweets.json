@@ -1,5 +1,201 @@
 [
   {
+    "id": "2079673469567226149",
+    "text": "OpenAI models reportedly escaped from its controlled environment, with no internet access.\n\nExploited zero day vulnerabilities and hacked into Hugging Face to cheat on benchmarks.\n\nHugging face then used China GLM models to carry out its defense. \n\nOpenAI said it was an “an unprecedented cyber incident.”\n\nWe’re getting closer and closer to Skynet. \n\nAnd I’m sure markets will love it.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1371,
+      "retweets": 106,
+      "replies": 403,
+      "quotes": 36,
+      "views": 181581,
+      "bookmarks": 299
+    },
+    "createdAt": "Tue Jul 21 21:02:48 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNx7_5fbcAAlmaJ.jpg",
+        "width": 1260,
+        "height": 813
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNx7_5facAAwgrV.jpg",
+        "width": 1229,
+        "height": 898
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNx7_5fa0AA4QJQ.jpg",
+        "width": 1228,
+        "height": 1019
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2079673469567226149",
+    "createdAtISO": "2026-07-21T21:02:48+00:00",
+    "createdAtLocal": "2026-07-22 05:02"
+  },
+  {
+    "id": "2079622706572804368",
+    "text": "Wow, a historic single day recovery.\n\n$SIVEF +30.89%\n$IQEF +28.6%\n$AEHR +26.53%\n$CIFR +17.82%\n$NBIS +17.3%\n$AAOI +15.6%\n$LPK +14.48%\n$AXTI +14.12%\n$MU +12.54%\n$SNDK +12.8%\n$SOI +11.1%\n$TSEM +10.39%\n$LITE +9.25%\n$INTC +8.22%\n$AMD +8.11%\n$MRVL +7.27%",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 3590,
+      "retweets": 196,
+      "replies": 542,
+      "quotes": 51,
+      "views": 345337,
+      "bookmarks": 507
+    },
+    "createdAt": "Tue Jul 21 17:41:05 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2079622706572804368",
+    "createdAtISO": "2026-07-21T17:41:05+00:00",
+    "createdAtLocal": "2026-07-22 01:41"
+  },
+  {
+    "id": "2079502019933732884",
+    "text": "@CarterChen18 Think $AMD was in talks of being a customer of $AAOI, from Rosenblatt channel checks. \n\nCould be an option, I'll ask around in the event. https://t.co/8eDrSw9tCe",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 146,
+      "retweets": 5,
+      "replies": 14,
+      "quotes": 0,
+      "views": 20573,
+      "bookmarks": 10
+    },
+    "createdAt": "Tue Jul 21 09:41:31 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2079496184838910314",
+    "inReplyToUserId": "1512466461054599172",
+    "conversationId": "2079495178793201678",
+    "createdAtISO": "2026-07-21T09:41:31+00:00",
+    "createdAtLocal": "2026-07-21 17:41"
+  },
+  {
+    "id": "2079495178793201678",
+    "text": "It's slightly more nuanced. Basically, $AMD SF event is tomorrow, Wed/Thurs (July 22, 23).\n\nFrom Jefferies client note, AMD is expected to provide additional disclosures around their likely scale-up CPO roadmap + MI500. \n\nIf they confirm CPO route, would positive thematically since it's not just $NVDA forcing the transition. \n\nAs for $SIVE, we'll get a better read if they're directly in AMD supply chains. \n\nSince right now, it's possible to map it through $GFS (reportedly involved in AMD MI500 CPO work) or AYAR (which AMD invested in). But no formal confirmations. \n\nSo if you're turning in: \n\n- CPO thematic positive: MI500 explicitly commits to CPO/optical UALink.\n\n- AMD gives details using Ayar Labs or GF SCALE for MI500 CPO:  That would be extremely positive for $SIVE, given they're the upstream laser supplier / reference laser.  \n\nCurrently, Blayne Curtis from Jefferies expect AMD to work with $ALAB on UAL and $AVGO on ESUN... but juicy details are here: \n\n\"We are looking for whether AMD commits to a CPO based scale up solution and who supplies the optical engine\"\n\nWe'll get a broader read through on the supply chain come Wednesday/Thursday, too early to tell today.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 890,
+      "retweets": 51,
+      "replies": 129,
+      "quotes": 5,
+      "views": 356537,
+      "bookmarks": 132
+    },
+    "createdAt": "Tue Jul 21 09:14:20 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvX7WabIAAUKiu.jpg",
+        "width": 1967,
+        "height": 630
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvYCS0bgAA3IZK.jpg",
+        "width": 2009,
+        "height": 889
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2079495178793201678",
+    "createdAtISO": "2026-07-21T09:14:20+00:00",
+    "createdAtLocal": "2026-07-21 17:14"
+  },
+  {
+    "id": "2079479755481776221",
+    "text": "Memory names from Kioxia finished up a whopping +17.18%. Samsung up +6.15%. \n\nOptical networking from $SIVE, $LITE, and $AAOI are showing signs of recovery, all up 4%+. \n\nNeoclouds from $NBIS to $IREN all up 4%+ premarket. \n\n$INTC to $AMD to $MRVL all up 4%+. \n\nDoes the Cramer effect work on the entire AI trade?",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 2070,
+      "retweets": 106,
+      "replies": 122,
+      "quotes": 17,
+      "views": 461491,
+      "bookmarks": 204
+    },
+    "createdAt": "Tue Jul 21 08:13:03 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvL0MvaQAAthkJ.jpg",
+        "width": 1200,
+        "height": 788
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2079479755481776221",
+    "createdAtISO": "2026-07-21T08:13:03+00:00",
+    "createdAtLocal": "2026-07-21 16:13"
+  },
+  {
     "id": "2079319999915925938",
     "text": "If you’re curious why $NBIS is up after hours.\n\n$NVDA disclosed it owns 9.3% beneficial ownership of Nebius via SEC filings.\n\nNot exactly too new since it dates back to Nvidia’s existing share position of 1.19M shares + $2B prefunded warrant of ~21M shares.\n\nBut great for sentiment having Nvidia be a large shareholder of the Neocloud leader.",
     "author": {
