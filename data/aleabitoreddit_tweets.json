@@ -1,5 +1,354 @@
 [
   {
+    "id": "2080042335388500360",
+    "text": "@haranguetan_ Having an iota of reading comphrension helps a bit before commenting. \n\nAI Capex -> goes to upstream semis from memory, photonics, foundries, and others. These players are happy. \n\n$GOOGL itself is spending the money, so markets might not like that for them in specific. \n\nBut it's positive to the players that receive that capital.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 185,
+      "retweets": 2,
+      "replies": 10,
+      "quotes": 0,
+      "views": 14082,
+      "bookmarks": 4
+    },
+    "createdAt": "Wed Jul 22 21:28:32 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2080039425657159815",
+    "inReplyToUserId": "1748580809878183936",
+    "conversationId": "2080035769062916479",
+    "createdAtISO": "2026-07-22T21:28:32+00:00",
+    "createdAtLocal": "2026-07-23 05:28"
+  },
+  {
+    "id": "2080040423805047054",
+    "text": "@200pipss They literally just hiked forward capex, which was the point of the post.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 75,
+      "retweets": 0,
+      "replies": 5,
+      "quotes": 0,
+      "views": 8466,
+      "bookmarks": 2
+    },
+    "createdAt": "Wed Jul 22 21:20:56 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2080040099920683434",
+    "inReplyToUserId": "3167814018",
+    "conversationId": "2080035769062916479",
+    "createdAtISO": "2026-07-22T21:20:56+00:00",
+    "createdAtLocal": "2026-07-23 05:20"
+  },
+  {
+    "id": "2080039431499919449",
+    "text": "@200pipss Hyperscalers upping AI capex revisions is especially going to show up on optical networking earnings.\n\nWatch and learn...",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 166,
+      "retweets": 3,
+      "replies": 7,
+      "quotes": 0,
+      "views": 13582,
+      "bookmarks": 2
+    },
+    "createdAt": "Wed Jul 22 21:17:00 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2080037667232698804",
+    "inReplyToUserId": "3167814018",
+    "conversationId": "2080035769062916479",
+    "createdAtISO": "2026-07-22T21:17:00+00:00",
+    "createdAtLocal": "2026-07-23 05:17"
+  },
+  {
+    "id": "2080035769062916479",
+    "text": "$GOOGL updates FY 2026 capex guidance:\n\nTo $195B-$205B. Up from $180B-$190B. \n\nGoogle is also expected to significantly increase capex in 2027.  \n\nThis is perhaps the most bullish read through on upstream semis from a hyperscaler. https://t.co/dXiI0Ien8X",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1652,
+      "retweets": 155,
+      "replies": 158,
+      "quotes": 33,
+      "views": 184584,
+      "bookmarks": 188
+    },
+    "createdAt": "Wed Jul 22 21:02:27 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN3FHVRaUAAESSZ.jpg",
+        "width": 1648,
+        "height": 374
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2080035769062916479",
+    "createdAtISO": "2026-07-22T21:02:27+00:00",
+    "createdAtLocal": "2026-07-23 05:02"
+  },
+  {
+    "id": "2080032221638119603",
+    "text": "@4intheflames $GOOGL stock down a solid -.079%. https://t.co/lN3g2KcJZy",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 68,
+      "retweets": 0,
+      "replies": 11,
+      "quotes": 0,
+      "views": 12858,
+      "bookmarks": 1
+    },
+    "createdAt": "Wed Jul 22 20:48:21 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2080031786982420968",
+    "inReplyToUserId": "1575819614583369728",
+    "conversationId": "2080031508656746874",
+    "createdAtISO": "2026-07-22T20:48:21+00:00",
+    "createdAtLocal": "2026-07-23 04:48"
+  },
+  {
+    "id": "2080031508656746874",
+    "text": "$GOOGL now has 950M monthly Gemini users and processes 22B API tokens/min. \n\nCompared to 750M back in February. \n\nAbsurd growth adding 200 million more users in a few months.  Kinda explains why they ran out of compute, then cut allocations to $META and others. \n\nVery unlikely AI capex will slow down given.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1295,
+      "retweets": 107,
+      "replies": 167,
+      "quotes": 24,
+      "views": 288509,
+      "bookmarks": 142
+    },
+    "createdAt": "Wed Jul 22 20:45:31 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN3AwAPboAA8mOI.jpg",
+        "width": 1792,
+        "height": 1160
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN3BHAcawAAJ1tb.jpg",
+        "width": 2231,
+        "height": 1833
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2080031508656746874",
+    "createdAtISO": "2026-07-22T20:45:31+00:00",
+    "createdAtLocal": "2026-07-23 04:45"
+  },
+  {
+    "id": "2080027058063958323",
+    "text": "$GOOGL reported earnings today:\n\nEPS: $9.11 actual vs $2.91 expected - retail reactions to EPS blowout is kinda just accounting noise, since $SPCX, Anthropic, and others were likely large contributors. \n\nRevenue: $119.7B actual vs. $116.98B expected\n\nGoogle Cloud Revenue: $24.77B +82% Y/Y, vs. 63-65% expected ($22.2-$22.6B) - this is a very large beat and most material part so far. \n\nCloud Operating Income: ~$8.81B, implying 35.6% margin vs. 32.9% Q1. \n\nCapex: $44.92B vs ~$44.15B (basically in line).\n\nSo initial read through is Google Cloud accelerating growth with expanding margins is genuinely bullish for AI demand.\n\nTheir former $180-$190B capex guidance is already extremely large, and as long as we get around these numbers in the earnings call + forward projections... \n\nShould be good to go for $LITE and the other optics/networking trade. (eg. last earnings, they said DC and networking would be ~40% of capex spend). \n\nHyperscaler earnings transcripts are probably the most important thing to pay attention to with the AI capex trade. \n\nAnd that should be in 3 minutes.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1447,
+      "retweets": 87,
+      "replies": 208,
+      "quotes": 13,
+      "views": 437677,
+      "bookmarks": 226
+    },
+    "createdAt": "Wed Jul 22 20:27:50 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2080027058063958323",
+    "createdAtISO": "2026-07-22T20:27:50+00:00",
+    "createdAtLocal": "2026-07-23 04:27"
+  },
+  {
+    "id": "2079954027312513328",
+    "text": "@hypedplugarya @gaetan_po Give me time to cook with that Research page. It’s a secret right now",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 135,
+      "retweets": 1,
+      "replies": 12,
+      "quotes": 2,
+      "views": 17851,
+      "bookmarks": 3
+    },
+    "createdAt": "Wed Jul 22 15:37:38 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2079953592115446037",
+    "inReplyToUserId": "917080916513710080",
+    "conversationId": "2079947242455335379",
+    "createdAtISO": "2026-07-22T15:37:38+00:00",
+    "createdAtLocal": "2026-07-22 23:37"
+  },
+  {
+    "id": "2079953508904964575",
+    "text": "@gaetan_po Yeah, I’m testing some things right now for bot prevention.\n\nAlso going to $AMD event tomorrow rather than full 2 days, will definitely be asking about $SIVE!",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 318,
+      "retweets": 12,
+      "replies": 13,
+      "quotes": 4,
+      "views": 30430,
+      "bookmarks": 12
+    },
+    "createdAt": "Wed Jul 22 15:35:34 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2079951834412716149",
+    "inReplyToUserId": "1544018601056866305",
+    "conversationId": "2079947242455335379",
+    "createdAtISO": "2026-07-22T15:35:34+00:00",
+    "createdAtLocal": "2026-07-22 23:35"
+  },
+  {
+    "id": "2079947242455335379",
+    "text": "$AMD to invest $5B in Anthropic.\n\nAnthropic in turn will sign a 2 GW deal to buy AMD’s latest chips, worth tens of billions of dollars.\n\nLooks like they’re copying the $NVDA playbook with Anthropic last year. https://t.co/SXBUq65u6P",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1014,
+      "retweets": 60,
+      "replies": 138,
+      "quotes": 10,
+      "views": 206629,
+      "bookmarks": 65
+    },
+    "createdAt": "Wed Jul 22 15:10:40 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN10_lba0AA6oI0.jpg",
+        "width": 1227,
+        "height": 804
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2079947242455335379",
+    "createdAtISO": "2026-07-22T15:10:40+00:00",
+    "createdAtLocal": "2026-07-22 23:10"
+  },
+  {
     "id": "2079673469567226149",
     "text": "OpenAI models reportedly escaped from its controlled environment, with no internet access.\n\nExploited zero day vulnerabilities and hacked into Hugging Face to cheat on benchmarks.\n\nHugging face then used China GLM models to carry out its defense. \n\nOpenAI said it was an “an unprecedented cyber incident.”\n\nWe’re getting closer and closer to Skynet. \n\nAnd I’m sure markets will love it.",
     "author": {
