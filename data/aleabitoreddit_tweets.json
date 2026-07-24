@@ -1,5 +1,497 @@
 [
   {
+    "id": "2080456465509454053",
+    "text": "@Thomus0x eh, Rosenblatt June 30 note identified AMD as the likely first $AAOI CPO customer. I wouldn't quite say they aren't remotely close. \n\n$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility per the recent Morgan Stanley note.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 6,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0,
+      "views": 1967,
+      "bookmarks": 1
+    },
+    "createdAt": "Fri Jul 24 00:54:09 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2080452596565995971",
+    "inReplyToUserId": "1272580007597137925",
+    "conversationId": "2080445777395298454",
+    "createdAtISO": "2026-07-24T00:54:09+00:00",
+    "createdAtLocal": "2026-07-24 08:54"
+  },
+  {
+    "id": "2080445777395298454",
+    "text": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization).\n\nThere's a podcast that featured the $SIVE CEO recently called: \"Market Insights: Photonics & AI\".\n\nMost interesting take was: \n\n\"Pluggables will be around for the next 10 years\".\n\nThere's a lot of CPO + RNG/MRC optimization TAM cannablization arguments for pluggables recently, but looks like it's here to stay.\n\nAnd that there's going to be multiple architecture paths going forward (CEO also NPO alongside CPO as an major opportunity in the next 5 years). \n\nAs for challenges: Vickram stated manufacturing capacity + availability of raw material is the main bottleneck. Likely referencing the existing bottlenecks with upstream CW laser ramp. \n\nFrom the podcast, seems like a large focus was on pluggable markets due to larger near-term TAM (which is understandable with $JBL + other players), with CPO being the north star. \n\nSo it might be interesting if $SIVE M&A ambitions were to acquire more pluggable optical transceiver IP, like what $LITE did with Cloud Light.\n\nBut TLDR:\n\nLot of different paths moving forward, pluggable here to stay, CPO seems like North Star for where industry is heading. \n\nFeels like there's room for every qualified laser supplier given the industry demand is growing faster than what they can all collectively make.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 270,
+      "retweets": 12,
+      "replies": 102,
+      "quotes": 0,
+      "views": 83370,
+      "bookmarks": 71
+    },
+    "createdAt": "Fri Jul 24 00:11:40 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN848oWbwAAFaOb.jpg",
+        "width": 1893,
+        "height": 1082
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2080445777395298454",
+    "createdAtISO": "2026-07-24T00:11:40+00:00",
+    "createdAtLocal": "2026-07-24 08:11"
+  },
+  {
+    "id": "2080440952859365612",
+    "text": "RT @AMD: The feeling’s mutual. 🤝",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 0,
+      "retweets": 29,
+      "replies": 0,
+      "quotes": 0,
+      "views": 23750,
+      "bookmarks": 0
+    },
+    "createdAt": "Thu Jul 23 23:52:30 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": true,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2080440952859365612",
+    "createdAtISO": "2026-07-23T23:52:30+00:00",
+    "createdAtLocal": "2026-07-24 07:52"
+  },
+  {
+    "id": "2080428892863803778",
+    "text": "@jukan05 I made sure to tell Lisa about the bandana TAM potential.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 94,
+      "retweets": 0,
+      "replies": 3,
+      "quotes": 0,
+      "views": 15322,
+      "bookmarks": 2
+    },
+    "createdAt": "Thu Jul 23 23:04:35 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2080420511314747484",
+    "inReplyToUserId": "1836240683268759552",
+    "conversationId": "2080379612736221325",
+    "createdAtISO": "2026-07-23T23:04:35+00:00",
+    "createdAtLocal": "2026-07-24 07:04"
+  },
+  {
+    "id": "2080411863448522994",
+    "text": "@88magalhaes Main thing was executive commentary on CPO thematically. Regarding $AMD + hyperscaler adoption + timelines. \n\nChecks were very positive for the CPO segment that sold off on delay news. \n\nAnd very positive for $SIVE in that segment, since they're the laser supplier for Ayar, $GFS, that are both linked with possible $AMD CPO routes. \n\nBut couldn't get direct supplier confirmation since that's confidential.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 139,
+      "retweets": 5,
+      "replies": 3,
+      "quotes": 3,
+      "views": 13760,
+      "bookmarks": 18
+    },
+    "createdAt": "Thu Jul 23 21:56:55 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2080395319330644058",
+    "inReplyToUserId": "269661789",
+    "conversationId": "2080394259535221222",
+    "createdAtISO": "2026-07-23T21:56:55+00:00",
+    "createdAtLocal": "2026-07-24 05:56"
+  },
+  {
+    "id": "2080394259535221222",
+    "text": "From $AMD Advancing AI, channel checks:\n\nHelios networking partners told me they expect AMD to pursue CPO for future generations of Helios scale up networking. \n\nAnd expects other hyperscalers + industry to go down the CPO route.\n\nOne AI infra executive at a company involved in a hyperscaler CPO programs said they had seen no indication of CPO scale up supply chain delays.\n\nPushing back on recent 3rd party delay reports.\n\nThis was informal commentary, not official AMD or partner guidance.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 581,
+      "retweets": 24,
+      "replies": 154,
+      "quotes": 4,
+      "views": 88413,
+      "bookmarks": 56
+    },
+    "createdAt": "Thu Jul 23 20:46:57 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2080394259535221222",
+    "createdAtISO": "2026-07-23T20:46:57+00:00",
+    "createdAtLocal": "2026-07-24 04:46"
+  },
+  {
+    "id": "2080380170779898186",
+    "text": "@beauty_oe Special shoutout to the super cool social media team at $AMD!\n\nLisa does make cool bandanas, probably would sell out faster than their CPUs/accelerators. https://t.co/tY7VRyOnC9",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 137,
+      "retweets": 1,
+      "replies": 11,
+      "quotes": 0,
+      "views": 18849,
+      "bookmarks": 2
+    },
+    "createdAt": "Thu Jul 23 19:50:58 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2080379810455695433",
+    "inReplyToUserId": "1350097978652991488",
+    "conversationId": "2080379612736221325",
+    "createdAtISO": "2026-07-23T19:50:58+00:00",
+    "createdAtLocal": "2026-07-24 03:50"
+  },
+  {
+    "id": "2080379612736221325",
+    "text": "$AMD reached out directly to hand me some special swag!\n\nApparently they only made 30 of these bandanas? \n\nI love AMD and Lisa Su now. https://t.co/KgcYjBUcTv",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1543,
+      "retweets": 47,
+      "replies": 245,
+      "quotes": 8,
+      "views": 330773,
+      "bookmarks": 84
+    },
+    "createdAt": "Thu Jul 23 19:48:45 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7-OuwaAAE2BYk.jpg",
+        "width": 1556,
+        "height": 2048
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7-OuzbYAAGB7N.jpg",
+        "width": 1260,
+        "height": 1680
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7-OuwbkAAfusd.jpg",
+        "width": 2048,
+        "height": 1007
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2080379612736221325",
+    "createdAtISO": "2026-07-23T19:48:45+00:00",
+    "createdAtLocal": "2026-07-24 03:48"
+  },
+  {
+    "id": "2080351269718507966",
+    "text": "@Double0Capital Yep! Large part of her speech was DC CPU TAM going brrr too. https://t.co/Apy09Bs6W1",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 85,
+      "retweets": 1,
+      "replies": 6,
+      "quotes": 1,
+      "views": 12414,
+      "bookmarks": 5
+    },
+    "createdAt": "Thu Jul 23 17:56:08 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2080337945291038751",
+    "inReplyToUserId": "1278660684692303872",
+    "conversationId": "2080334612807758136",
+    "createdAtISO": "2026-07-23T17:56:08+00:00",
+    "createdAtLocal": "2026-07-24 01:56"
+  },
+  {
+    "id": "2080347872965579171",
+    "text": "@ShantMac15111 Did this many people think I was an AI agent lol",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 66,
+      "retweets": 0,
+      "replies": 12,
+      "quotes": 0,
+      "views": 11528,
+      "bookmarks": 2
+    },
+    "createdAt": "Thu Jul 23 17:42:38 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2080334791568937002",
+    "inReplyToUserId": "1999549957733519360",
+    "conversationId": "2080334612807758136",
+    "createdAtISO": "2026-07-23T17:42:38+00:00",
+    "createdAtLocal": "2026-07-24 01:42"
+  },
+  {
+    "id": "2080334612807758136",
+    "text": "I have this feeling that Lisa from $AMD likes AI.\n\nIt’s cool getting to meet some of you at the event! https://t.co/AWdGS349xF",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1440,
+      "retweets": 26,
+      "replies": 181,
+      "quotes": 3,
+      "views": 200129,
+      "bookmarks": 60
+    },
+    "createdAt": "Thu Jul 23 16:49:57 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7UljHboAAPYlE.jpg",
+        "width": 2048,
+        "height": 970
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7VTasbkAAKYXI.jpg",
+        "width": 2048,
+        "height": 1536
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7VTbhbMAA-HZ2.jpg",
+        "width": 2048,
+        "height": 1536
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2080334612807758136",
+    "createdAtISO": "2026-07-23T16:49:57+00:00",
+    "createdAtLocal": "2026-07-24 00:49"
+  },
+  {
+    "id": "2080153334888182065",
+    "text": "$INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs (Reuters). \n\n- Prices of some CPU products have risen more than 40% in China since the start of the year from sources. \n\n- Month-on-month increases topping 10% for some products\n\nCPUs were already a bottleneck, following CPU ratios due to AI inference... \n\nBut the broader trend of LTAs seems to be appearing from: \n\n- Memory, with $MU, Samsung, $SNDK, and SK Hynix signing DRAM/NAND LTAs.\n\n- Photonics, with $LITE, $COHR signing EML LTAs. And recent Trendforce reports that $AMD and hyperscalers are now pursuing CW LTAs. \n\nAnd I'm sure there's many more from MLCCs to all the way to substrates. \n\n+1 for the bottleneck investors... hard to be a \"bubble that pops\" if you have take or pay demand spanning multiple years.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1118,
+      "retweets": 80,
+      "replies": 150,
+      "quotes": 12,
+      "views": 312364,
+      "bookmarks": 155
+    },
+    "createdAt": "Thu Jul 23 04:49:37 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4vaeYbIAAxVPQ.jpg",
+        "width": 2085,
+        "height": 891
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2080153334888182065",
+    "createdAtISO": "2026-07-23T04:49:37+00:00",
+    "createdAtLocal": "2026-07-23 12:49"
+  },
+  {
+    "id": "2080149813065396454",
+    "text": "Just some notes from $TSLA transcripts:\n\nElon Musk: \"I think Optimus will be the biggest product ever\" from Q2 earnings transcripts.\n\nEven from Q1, Elon Stated: \"I think Optimus will be our biggest product. Not just Tesla's biggest product ever, but probably the biggest product ever.\n\nAnd I remain convinced of that conclusion\". \n\nIt's very rare to see such high conviction reiterated from Elon regarding humanoids both directionally and TAM-wise.\n\nIn terms of upstream suppliers opportunities, Karn Budhiraj, VP of $TSLA supply chains stated: \n\n\"We’re seeing the same level of investment going to memory and also new specific items like metal injection molded parts, flexible printed circuits, and all sorts of nonlinear technologies...\" \n\nAnd that they had to build new supply chains from scratch. So would be interesting to look at for new supply chain supplier opportunities apart from the known ones.  \n\nJust pulled older slides and it looks like capacity targets for Fremont are 1M and Giga Texas was 10M, so at scale, $TSLA seems to be the clear US leader. If you're looking at that S-Curve opportunity ramp. \n\nOn a side note, Elon also gave a shoutout to $MU with likely reasonably priced LTAs, given his statement: \n\n\"We really appreciate Micron making room for Tesla in the years to come and giving us actually a very significant allocation on reasonable terms given the pretty insane pricing of memory these days.\" (Just for structural memory demand).  \n\nElon also gave a shoutout to Panasonic which had invested many billions in increasing battery cell production (will need to do deeper DD into Panasonic after this), then Samsung and $TSM. \n\nJust takeaways from Tesla earnings TLDR: \n\nElon tends to be directionally correct on where the future is heading, such as with EV or Space. \n\nHe seems extremely bullish on humanoids.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1687,
+      "retweets": 111,
+      "replies": 177,
+      "quotes": 22,
+      "views": 358539,
+      "bookmarks": 354
+    },
+    "createdAt": "Thu Jul 23 04:35:37 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4pcAHa4AA1USk.jpg",
+        "width": 1682,
+        "height": 993
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4pc-zakAAmwdD.jpg",
+        "width": 1572,
+        "height": 458
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4peEyakAEOvtC.jpg",
+        "width": 1781,
+        "height": 630
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4rB8oaQAAOxvS.jpg",
+        "width": 2285,
+        "height": 1097
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2080149813065396454",
+    "createdAtISO": "2026-07-23T04:35:37+00:00",
+    "createdAtLocal": "2026-07-23 12:35"
+  },
+  {
     "id": "2080042335388500360",
     "text": "@haranguetan_ Having an iota of reading comphrension helps a bit before commenting. \n\nAI Capex -> goes to upstream semis from memory, photonics, foundries, and others. These players are happy. \n\n$GOOGL itself is spending the money, so markets might not like that for them in specific. \n\nBut it's positive to the players that receive that capital.",
     "author": {
