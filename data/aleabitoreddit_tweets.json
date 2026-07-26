@@ -1,5 +1,140 @@
 [
   {
+    "id": "2080754547757391897",
+    "text": "@OtsukimiOtsu Feels like every other car you see in SF is a Waymo.\n\nShort-medium term I see it as negligible impact to $UBER and $LYFT. \n\nLong term I see them cooked in US markets unless they act…\n\nSince autonomous vehicles can compress cost/margins of human ride shares by a lot. Then robotics can compress cost of delivery if Waymo launches a competitor to Uber Eats.\n\nJust like how people compare uber/lyft costs before rides, what people care about is lowest cost out of the bunch, and directionally Waymo/$TSLA would likely win there",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 54,
+      "retweets": 1,
+      "replies": 4,
+      "quotes": 0,
+      "views": 23757,
+      "bookmarks": 4
+    },
+    "createdAt": "Fri Jul 24 20:38:37 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2080751250853831012",
+    "inReplyToUserId": "942074049177554945",
+    "conversationId": "2080750537121874206",
+    "createdAtISO": "2026-07-24T20:38:37+00:00",
+    "createdAtLocal": "2026-07-25 04:38"
+  },
+  {
+    "id": "2080750537121874206",
+    "text": "There you have it, $GOOGL Waymo to explore split with $UBER per FT.\n\nMy view last year was that Uber partnering with Waymo was a bad choice… since Uber would just serve as a distribution funnel that Google needed as they scale up.\n\nAnd that $NBIS Avride, other neutral players, or vertical integration would be the optimal path forward.\n\nNow their own partner Waymo looks to be the strongest disruptor to Uber.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 777,
+      "retweets": 38,
+      "replies": 126,
+      "quotes": 9,
+      "views": 395722,
+      "bookmarks": 87
+    },
+    "createdAt": "Fri Jul 24 20:22:41 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOBPijHbkAAMCnR.jpg",
+        "width": 1024,
+        "height": 558
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2080750537121874206",
+    "createdAtISO": "2026-07-24T20:22:41+00:00",
+    "createdAtLocal": "2026-07-25 04:22"
+  },
+  {
+    "id": "2080689966045348047",
+    "text": "Jensen from $NVDA has joined X for the first time to share his letter on open models.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1229,
+      "retweets": 36,
+      "replies": 166,
+      "quotes": 3,
+      "views": 438039,
+      "bookmarks": 100
+    },
+    "createdAt": "Fri Jul 24 16:21:59 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2080689966045348047",
+    "createdAtISO": "2026-07-24T16:21:59+00:00",
+    "createdAtLocal": "2026-07-25 00:21"
+  },
+  {
+    "id": "2080462582335619169",
+    "text": "@Frenchie_ @AMD These stickers were even better.\n\n$AMD go brrrr https://t.co/O3dvaUG83a",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 188,
+      "retweets": 2,
+      "replies": 8,
+      "quotes": 3,
+      "views": 29222,
+      "bookmarks": 6
+    },
+    "createdAt": "Fri Jul 24 01:18:27 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2080384611889066053",
+    "inReplyToUserId": "746932803095400452",
+    "conversationId": "2080379612736221325",
+    "createdAtISO": "2026-07-24T01:18:27+00:00",
+    "createdAtLocal": "2026-07-24 09:18"
+  },
+  {
     "id": "2080456465509454053",
     "text": "@Thomus0x eh, Rosenblatt June 30 note identified AMD as the likely first $AAOI CPO customer. I wouldn't quite say they aren't remotely close. \n\n$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility per the recent Morgan Stanley note.",
     "author": {
