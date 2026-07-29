@@ -1,5 +1,146 @@
 [
   {
+    "id": "2082237871768166511",
+    "text": "@KostasMoschovas Had 3 surgeries in the past 2 weeks! Not having a fun time",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 82,
+      "retweets": 0,
+      "replies": 19,
+      "quotes": 1,
+      "views": 10072,
+      "bookmarks": 4
+    },
+    "createdAt": "Tue Jul 28 22:52:49 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2082231780489523468",
+    "inReplyToUserId": "242892017",
+    "conversationId": "2082230983487803755",
+    "createdAtISO": "2026-07-28T22:52:49+00:00",
+    "createdAtLocal": "2026-07-29 06:52"
+  },
+  {
+    "id": "2082230983487803755",
+    "text": "I personally see it as extreme short term deleveraging that overshot many individual names. \n\n- $BE to $TER reported blowout results, with Bloom reporting 166% Y/Y rev growth + expanding margins + raised 2026 guidance... Teradyne reported 104% Y/Y revenue growth with 300%+ EPS growth. \n\nYour leading optical players over in China reported amazing preliminary earnings + extremely strong read through for the Western photonics sector. \n\nThink earnings season tend to remind markets about continued AI acceleration. I'm expecting $LITE, $SNDK / SK Hynix, and sector leader ERs to continue that trend.   \n\nBut it does feel like markets are rewarding existing acceleration more rather than future growth a year out over near-term revisions as seen with $AMKR. \n\nBut as a TLDR, looks very positive for the themes I'm tracking.  \n\n- Then you have $GOOGL capex raised to $195-$205B, which is typically the biggest AI demand signal from hyperscalers. \n\n- 77% 0bps change est. next FOMC decision from prediction markets. Trump administration on Monday called for the Fed to lower interest rates. \n\nSo your 3x rate hikes fears this year seem kinda overblown. \n\n- Chinese fears from DUV to $CXMT overflooding are extremely overblown as well. We see this with every sector from time to time until people remember that lasers or HBM bottlenecks for a reason. \n\nAs for personal thoughts, it was unhealthy seeing everything rise up or down together, especially with these themes. But I'm personally not worried since I have full conviction in my names, especially optical interconnects like $SIVE or $AAOI. \n\n$META compute and $GOOGL GCP margins/growth shows increasing demand for $NBIS and similar neocloud business models. \n\n$META + other hyperscaler notes around LTAs with $SNDK and Samsung/SK Hynix, $MU point to structural memory demand. \n\nCan go on and on... \n\nBut when you have Jim Cramer telling every margined DC trader to \"sell everything\" at market open and news saying there's an AI bubble. \n\nI do hate it when others say \"it's dropping so sell\". My belief is that the important thing to look is accelerating revenue/EPS growth. And if that thesis stays in-tact with revenue acceleration in line with hyperscaler capex. \n\nTLDR: I see signs of AI demand / revenue acceleration, hyperscaler capex is one of the most important things to track. \n\nAnd my guess is that we'll see the theme recover broadly. But I can't predict what hour, day, or week that happens.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1063,
+      "retweets": 54,
+      "replies": 86,
+      "quotes": 10,
+      "views": 234070,
+      "bookmarks": 275
+    },
+    "createdAt": "Tue Jul 28 22:25:27 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2082230983487803755",
+    "createdAtISO": "2026-07-28T22:25:27+00:00",
+    "createdAtLocal": "2026-07-29 06:25"
+  },
+  {
+    "id": "2082176491216085377",
+    "text": "@wannabepanacea I've been out if it recently, just recovering from 2 rounds of surgery. \n\nDrop was been surprising to say the least given $GOOGL hiked capex guidance last week.  \n\nWill need to check on rate hike odds, but my guess is just deleveraging.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 267,
+      "retweets": 1,
+      "replies": 59,
+      "quotes": 2,
+      "views": 25816,
+      "bookmarks": 11
+    },
+    "createdAt": "Tue Jul 28 18:48:55 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2082175762530980223",
+    "inReplyToUserId": "1931061774037704704",
+    "conversationId": "2082175588555702410",
+    "createdAtISO": "2026-07-28T18:48:55+00:00",
+    "createdAtLocal": "2026-07-29 02:48"
+  },
+  {
+    "id": "2082175588555702410",
+    "text": "FCC set to ban Chinese imports of humanoid and quadruped robots per Reuters.  \n\nTo protect American Humanoid/Robotics programs.\n\nAgility Robotics ( $CCXI ) and other US humanoid players should be happy to hear this. https://t.co/s2dFWTA4EX",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 965,
+      "retweets": 73,
+      "replies": 155,
+      "quotes": 17,
+      "views": 218736,
+      "bookmarks": 153
+    },
+    "createdAt": "Tue Jul 28 18:45:19 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOVfW8IbEAAinqE.jpg",
+        "width": 1236,
+        "height": 632
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOVfjEia0AA6_qr.jpg",
+        "width": 1034,
+        "height": 1062
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2082175588555702410",
+    "createdAtISO": "2026-07-28T18:45:19+00:00",
+    "createdAtLocal": "2026-07-29 02:45"
+  },
+  {
     "id": "2081581943142167034",
     "text": "@twisterchessur 就我个人而言 目前只想静待既有的做多逻辑逐步兑现，尤其是近期大盘回调之后的 CPO 相关标的。当前暂不打算建新仓 不过稍后我会再分享几个个股思路",
     "author": {
