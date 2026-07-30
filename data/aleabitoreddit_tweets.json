@@ -1,5 +1,463 @@
 [
   {
+    "id": "2082610543815512117",
+    "text": "@Jespabe Not really, it's accounting framing. Microsoft investment expectations are the same but it's $175B for 2026 instead of $190B for 2026 because of how they reclassified DC leases. \n\nSo roughly the same projections.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 25,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0,
+      "views": 6315,
+      "bookmarks": 1
+    },
+    "createdAt": "Wed Jul 29 23:33:41 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2082607172953809132",
+    "inReplyToUserId": "296964953",
+    "conversationId": "2082605568699871284",
+    "createdAtISO": "2026-07-29T23:33:41+00:00",
+    "createdAtLocal": "2026-07-30 07:33"
+  },
+  {
+    "id": "2082609236035703171",
+    "text": "@og_mcleod Selling off neoclouds, that has secured GW-scale compute capacity...\n\nWhile there's hyperscaler-wide compute shortages will be an engima to me.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 54,
+      "retweets": 0,
+      "replies": 3,
+      "quotes": 0,
+      "views": 7123,
+      "bookmarks": 4
+    },
+    "createdAt": "Wed Jul 29 23:28:29 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2082607342147735786",
+    "inReplyToUserId": "1084078672934522880",
+    "conversationId": "2082605568699871284",
+    "createdAtISO": "2026-07-29T23:28:29+00:00",
+    "createdAtLocal": "2026-07-30 07:28"
+  },
+  {
+    "id": "2082608633389715567",
+    "text": "@highonlifedeal2 True, right now markets just want FCF + large warchests or dividends/buybacks I guess, like $AAPL.\n\nI'd agree with Zuckerberg that although it compresses near term FCF, they'll be rewarded over time with long term growth. \n\nAs a shareholder, probably better to prioritize long term growth over a low-growth FCF then buybacks company as seen with $PYPL's returns.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 46,
+      "retweets": 0,
+      "replies": 5,
+      "quotes": 0,
+      "views": 7156,
+      "bookmarks": 4
+    },
+    "createdAt": "Wed Jul 29 23:26:05 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2082606568986570880",
+    "inReplyToUserId": "1305696848993234946",
+    "conversationId": "2082605568699871284",
+    "createdAtISO": "2026-07-29T23:26:05+00:00",
+    "createdAtLocal": "2026-07-30 07:26"
+  },
+  {
+    "id": "2082605568699871284",
+    "text": "Just some takeaways from $META | $MSFT earnings calls:\n\nMicrosoft:\n- Expected to be FCF positive in 2027, despite the increase in capex (extremely positive for AI buildout that it's funded by operating income)\n- \"Free cash flow was $19.6 billion, reflecting higher capital expenditures\"\n- Quartely capex was $41B, roughly 2/3rds were \"short lived assets, primarily CPUs and GPUs\"\n- Expects capex spend will be over $50 billion for next quarter\n- Capex Guidance at ~$175 billion and 2027 capex roughly the same. Spending plans unchanged and in line. \n- \"Extending the estimated useful life of our data centers from 15 to 25 years\"\n- \"We will be among the first cloud providers to deploy next generation rack-scale AI infrastructure based on $AMD Helios and $NVDA Vera Rubin\"\n- \"Customer demand continues to exceed available capacity\"\n\nMeta:\n- Capex $130-$145 billion (narrowed range), from $125B-$145B. \n- Meta is receiving offers at a \"significant premium\" to what they paid for it (compute scarcity, positive for neoclouds like $IREN / $NBIS )\n- Expects significant portion of compute (like the 1 GW DC in El Paso) to develop internal models. \n- Meta has multiple ROI-positive uses for additional compute across its core business (internally, not Meta Compute)\n- \"Finally, we believe that overall industry capacity is going to remain tight for the foreseeable future\" \n- \"The industry has under-built historically for the wave of AI adoption, making existing capacity, including our own, extremely valuable\" - Susan Li\n\nTLDR:\n- $MSFT and $GOOGL largely sustaining AI capex buildout while remaining FCF positive or through operating incomes.\n- $META flags available compute materially below demand at least through 2027. And $MSFT also flags compute demand far exceeds supply. \n- All three hyperscaler capex largely in line with Google hiking capex figures.\n\nAI selloff seems extremely overblown now, hyperscalers continuing capex in line (with Microsoft being FCF positive) or even hiked with $GOOGL. \n\nCompute scarcity is visible throughout every single hyperscaler ER.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 735,
+      "retweets": 42,
+      "replies": 60,
+      "quotes": 8,
+      "views": 207239,
+      "bookmarks": 197
+    },
+    "createdAt": "Wed Jul 29 23:13:55 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2082605568699871284",
+    "createdAtISO": "2026-07-29T23:13:55+00:00",
+    "createdAtLocal": "2026-07-30 07:13"
+  },
+  {
+    "id": "2082582144359219284",
+    "text": "@wz2013 $AXTI secured LTA with $COHR earlier, with a $22.3M reservation payment.\n\nAs well as a LTA with $LITE today, totaling $87M ($43.5M + $43.5M) again to reserve capacity. \n\nConsidering that these are both of the two leading optical players, seems positive. \n\nThe actual details such as pricing of the contracts aren't known, so we'll find out more.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 79,
+      "retweets": 2,
+      "replies": 4,
+      "quotes": 0,
+      "views": 12927,
+      "bookmarks": 8
+    },
+    "createdAt": "Wed Jul 29 21:40:50 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2082579021725081642",
+    "inReplyToUserId": "302951876",
+    "conversationId": "2082578803189268855",
+    "createdAtISO": "2026-07-29T21:40:50+00:00",
+    "createdAtLocal": "2026-07-30 05:40"
+  },
+  {
+    "id": "2082578803189268855",
+    "text": "$AXTI enters long term agreement with $LITE for InP substrates. \n\nLumentum has agreed to pay a deposit of $43.5M as a reservation for capacity. https://t.co/5Dl3L9EYRa",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 728,
+      "retweets": 27,
+      "replies": 90,
+      "quotes": 5,
+      "views": 148881,
+      "bookmarks": 100
+    },
+    "createdAt": "Wed Jul 29 21:27:33 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HObOYgrbYAA_vLK.jpg",
+        "width": 1260,
+        "height": 1253
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HObOYgracAAEi1T.jpg",
+        "width": 1228,
+        "height": 814
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2082578803189268855",
+    "createdAtISO": "2026-07-29T21:27:33+00:00",
+    "createdAtLocal": "2026-07-30 05:27"
+  },
+  {
+    "id": "2082565688338894963",
+    "text": "@LeaderInvests I personally quite like their fundamental position right now after Mirantis acquisition, existing GW scale capacity, and leaked Anthropic memos of securing compute in places like Australia.\n\nThey’re sitting right in the middle of a massive bottleneck. \n\nAs a proud shareholder, main concern still is improving financing structures (not with ATMs) and removing the excessive CEO SBCs -> having them try for appreciating share prices rather than share count. \n\nTwo fixes and I think other shareholders will be happy.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 188,
+      "retweets": 5,
+      "replies": 18,
+      "quotes": 0,
+      "views": 21819,
+      "bookmarks": 19
+    },
+    "createdAt": "Wed Jul 29 20:35:26 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2082558523552956739",
+    "inReplyToUserId": "1712726664285769728",
+    "conversationId": "2082557648298516918",
+    "createdAtISO": "2026-07-29T20:35:26+00:00",
+    "createdAtLocal": "2026-07-30 04:35"
+  },
+  {
+    "id": "2082557648298516918",
+    "text": "To show solidarity with the $IREN holders:\n\nI now own 1 share of IREN.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1842,
+      "retweets": 28,
+      "replies": 207,
+      "quotes": 10,
+      "views": 269899,
+      "bookmarks": 38
+    },
+    "createdAt": "Wed Jul 29 20:03:30 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2082557648298516918",
+    "createdAtISO": "2026-07-29T20:03:30+00:00",
+    "createdAtLocal": "2026-07-30 04:03"
+  },
+  {
+    "id": "2082529316655763703",
+    "text": "Federal Reserve leaves rates unchanged at unchanged at 3.50% - 3.75%.  \n\nSo far so good, since markets would have sold off on an immediate rate hike (seem to have largely frontran hike expectations off already).   \n\nThink everyone is waiting for the Fed Chair commentary now. https://t.co/2bZtg5UKEb",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1132,
+      "retweets": 50,
+      "replies": 115,
+      "quotes": 10,
+      "views": 255328,
+      "bookmarks": 55
+    },
+    "createdAt": "Wed Jul 29 18:10:55 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOahIdbacAAAJMr.jpg",
+        "width": 1839,
+        "height": 693
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2082529316655763703",
+    "createdAtISO": "2026-07-29T18:10:55+00:00",
+    "createdAtLocal": "2026-07-30 02:10"
+  },
+  {
+    "id": "2082520341633732966",
+    "text": "@nicomejia_ Global indiscriminate AI deleveraging right now, $AAOI is one of the high-beta names affected.\n\nI'd personally be surprised to say the least if they do $5.6B annualized revenue in 2027 (off of $471m/month projections), and remain a $6.3B company.\n\n$LITE annualized right now is ~$3.23B and they're a $48B company (but higher margins)",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 146,
+      "retweets": 3,
+      "replies": 8,
+      "quotes": 0,
+      "views": 19755,
+      "bookmarks": 21
+    },
+    "createdAt": "Wed Jul 29 17:35:15 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2082515177388581122",
+    "inReplyToUserId": "23970100",
+    "conversationId": "2082513405219631384",
+    "createdAtISO": "2026-07-29T17:35:15+00:00",
+    "createdAtLocal": "2026-07-30 01:35"
+  },
+  {
+    "id": "2082517392031375418",
+    "text": "@Yeshuaisking11 I kinda expected it for critical minerals since Western needs as much subsidies as possible to compete with China.\n\nUS Gov taking a stake in $GFS for CPO was not on my calendar. But it does go to show CPO becoming a compute supply chain priority and they made Globalfoundries a domestic champion. \n\nWhich my thoughts are that it's positive for all the Western players this US CPO supply chains like $LITE / $SIVE. Not so much for other parts of the world.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 98,
+      "retweets": 6,
+      "replies": 5,
+      "quotes": 1,
+      "views": 15770,
+      "bookmarks": 10
+    },
+    "createdAt": "Wed Jul 29 17:23:32 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2082514066556219754",
+    "inReplyToUserId": "1879521839518822401",
+    "conversationId": "2082513405219631384",
+    "createdAtISO": "2026-07-29T17:23:32+00:00",
+    "createdAtLocal": "2026-07-30 01:23"
+  },
+  {
+    "id": "2082514437014253995",
+    "text": "@4intheflames I don't own $GFS, but I'm personally it's surprised it's still down on the news US Gov is taking a direct stake in them for advancing CPO. \n\nSurprising to say the least, given everyone remembers $INTC as the latest foundry the US Gov liked.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 111,
+      "retweets": 3,
+      "replies": 10,
+      "quotes": 0,
+      "views": 16565,
+      "bookmarks": 6
+    },
+    "createdAt": "Wed Jul 29 17:11:47 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2082513701689868721",
+    "inReplyToUserId": "1575819614583369728",
+    "conversationId": "2082513405219631384",
+    "createdAtISO": "2026-07-29T17:11:47+00:00",
+    "createdAtLocal": "2026-07-30 01:11"
+  },
+  {
+    "id": "2082513405219631384",
+    "text": "US Gov to take 1% stake in $GFS, and award them $300m for the US CHIPS ACT.\n\nThis is actually a strong read through on $SIVE / $LITE, given this CHIPS ACT is specifically aimed at advancing CPO + Silicon Photonics. \n\n(For reference, Sivers and Lumentum were the only two public laser suppliers named in GFS presentation slides. Sivers laser arrays was named recently as a reference design in Globalfoundries SCALE for CPO).  \n\nPer US Gov announcement: \"GlobalFoundries will receive up to $300 million to accelerate domestic CPO R&D by two to three years\" (NIST)\n\nNever thought we'd see the US Gov / $INTC foundry playbook for CPO in specific...",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1308,
+      "retweets": 90,
+      "replies": 126,
+      "quotes": 14,
+      "views": 236870,
+      "bookmarks": 251
+    },
+    "createdAt": "Wed Jul 29 17:07:41 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOaNvsEaoAADH4n.jpg",
+        "width": 1739,
+        "height": 787
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOaRjZMb0AAmHlS.jpg",
+        "width": 1755,
+        "height": 1380
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOaSKY7bgAAOvCx.jpg",
+        "width": 1848,
+        "height": 973
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2082513405219631384",
+    "createdAtISO": "2026-07-29T17:07:41+00:00",
+    "createdAtLocal": "2026-07-30 01:07"
+  },
+  {
     "id": "2082237871768166511",
     "text": "@KostasMoschovas Had 3 surgeries in the past 2 weeks! Not having a fun time",
     "author": {

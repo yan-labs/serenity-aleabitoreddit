@@ -1,4 +1,90 @@
 id,url,createdAtISO,createdAtLocal,lang,isRetweet,retweetedBy,likes,retweets,replies,quotes,views,bookmarks,media_count,media_urls,link_urls,quoted_id,quoted_author,quoted_text,text
+2082610543815512117,https://x.com/aleabitoreddit/status/2082610543815512117,2026-07-29T23:33:41+00:00,2026-07-30 07:33,en,False,,25,0,2,0,6315,1,0,,,,,,"@Jespabe Not really, it's accounting framing. Microsoft investment expectations are the same but it's $175B for 2026 instead of $190B for 2026 because of how they reclassified DC leases.
+
+So roughly the same projections."
+2082609236035703171,https://x.com/aleabitoreddit/status/2082609236035703171,2026-07-29T23:28:29+00:00,2026-07-30 07:28,en,False,,54,0,3,0,7123,4,0,,,,,,"@og_mcleod Selling off neoclouds, that has secured GW-scale compute capacity...
+
+While there's hyperscaler-wide compute shortages will be an engima to me."
+2082608633389715567,https://x.com/aleabitoreddit/status/2082608633389715567,2026-07-29T23:26:05+00:00,2026-07-30 07:26,en,False,,46,0,5,0,7156,4,0,,,,,,"@highonlifedeal2 True, right now markets just want FCF + large warchests or dividends/buybacks I guess, like $AAPL.
+
+I'd agree with Zuckerberg that although it compresses near term FCF, they'll be rewarded over time with long term growth.
+
+As a shareholder, probably better to prioritize long term growth over a low-growth FCF then buybacks company as seen with $PYPL's returns."
+2082605568699871284,https://x.com/aleabitoreddit/status/2082605568699871284,2026-07-29T23:13:55+00:00,2026-07-30 07:13,en,False,,735,42,60,8,207239,197,0,,,,,,"Just some takeaways from $META | $MSFT earnings calls:
+
+Microsoft:
+- Expected to be FCF positive in 2027, despite the increase in capex (extremely positive for AI buildout that it's funded by operating income)
+- ""Free cash flow was $19.6 billion, reflecting higher capital expenditures""
+- Quartely capex was $41B, roughly 2/3rds were ""short lived assets, primarily CPUs and GPUs""
+- Expects capex spend will be over $50 billion for next quarter
+- Capex Guidance at ~$175 billion and 2027 capex roughly the same. Spending plans unchanged and in line.
+- ""Extending the estimated useful life of our data centers from 15 to 25 years""
+- ""We will be among the first cloud providers to deploy next generation rack-scale AI infrastructure based on $AMD Helios and $NVDA Vera Rubin""
+- ""Customer demand continues to exceed available capacity""
+
+Meta:
+- Capex $130-$145 billion (narrowed range), from $125B-$145B.
+- Meta is receiving offers at a ""significant premium"" to what they paid for it (compute scarcity, positive for neoclouds like $IREN / $NBIS )
+- Expects significant portion of compute (like the 1 GW DC in El Paso) to develop internal models.
+- Meta has multiple ROI-positive uses for additional compute across its core business (internally, not Meta Compute)
+- ""Finally, we believe that overall industry capacity is going to remain tight for the foreseeable future""
+- ""The industry has under-built historically for the wave of AI adoption, making existing capacity, including our own, extremely valuable"" - Susan Li
+
+TLDR:
+- $MSFT and $GOOGL largely sustaining AI capex buildout while remaining FCF positive or through operating incomes.
+- $META flags available compute materially below demand at least through 2027. And $MSFT also flags compute demand far exceeds supply.
+- All three hyperscaler capex largely in line with Google hiking capex figures.
+
+AI selloff seems extremely overblown now, hyperscalers continuing capex in line (with Microsoft being FCF positive) or even hiked with $GOOGL.
+
+Compute scarcity is visible throughout every single hyperscaler ER."
+2082582144359219284,https://x.com/aleabitoreddit/status/2082582144359219284,2026-07-29T21:40:50+00:00,2026-07-30 05:40,en,False,,79,2,4,0,12927,8,0,,,,,,"@wz2013 $AXTI secured LTA with $COHR earlier, with a $22.3M reservation payment.
+
+As well as a LTA with $LITE today, totaling $87M ($43.5M + $43.5M) again to reserve capacity.
+
+Considering that these are both of the two leading optical players, seems positive.
+
+The actual details such as pricing of the contracts aren't known, so we'll find out more."
+2082578803189268855,https://x.com/aleabitoreddit/status/2082578803189268855,2026-07-29T21:27:33+00:00,2026-07-30 05:27,en,False,,728,27,90,5,148881,100,2,https://pbs.twimg.com/media/HObOYgrbYAA_vLK.jpg | https://pbs.twimg.com/media/HObOYgracAAEi1T.jpg,,,,,"$AXTI enters long term agreement with $LITE for InP substrates.
+
+Lumentum has agreed to pay a deposit of $43.5M as a reservation for capacity. https://t.co/5Dl3L9EYRa"
+2082565688338894963,https://x.com/aleabitoreddit/status/2082565688338894963,2026-07-29T20:35:26+00:00,2026-07-30 04:35,en,False,,188,5,18,0,21819,19,0,,,,,,"@LeaderInvests I personally quite like their fundamental position right now after Mirantis acquisition, existing GW scale capacity, and leaked Anthropic memos of securing compute in places like Australia.
+
+They’re sitting right in the middle of a massive bottleneck.
+
+As a proud shareholder, main concern still is improving financing structures (not with ATMs) and removing the excessive CEO SBCs -> having them try for appreciating share prices rather than share count.
+
+Two fixes and I think other shareholders will be happy."
+2082557648298516918,https://x.com/aleabitoreddit/status/2082557648298516918,2026-07-29T20:03:30+00:00,2026-07-30 04:03,en,False,,1842,28,207,10,269899,38,0,,,,,,"To show solidarity with the $IREN holders:
+
+I now own 1 share of IREN."
+2082529316655763703,https://x.com/aleabitoreddit/status/2082529316655763703,2026-07-29T18:10:55+00:00,2026-07-30 02:10,en,False,,1132,50,115,10,255328,55,1,https://pbs.twimg.com/media/HOahIdbacAAAJMr.jpg,,,,,"Federal Reserve leaves rates unchanged at unchanged at 3.50% - 3.75%.
+
+So far so good, since markets would have sold off on an immediate rate hike (seem to have largely frontran hike expectations off already).
+
+Think everyone is waiting for the Fed Chair commentary now. https://t.co/2bZtg5UKEb"
+2082520341633732966,https://x.com/aleabitoreddit/status/2082520341633732966,2026-07-29T17:35:15+00:00,2026-07-30 01:35,en,False,,146,3,8,0,19755,21,0,,,,,,"@nicomejia_ Global indiscriminate AI deleveraging right now, $AAOI is one of the high-beta names affected.
+
+I'd personally be surprised to say the least if they do $5.6B annualized revenue in 2027 (off of $471m/month projections), and remain a $6.3B company.
+
+$LITE annualized right now is ~$3.23B and they're a $48B company (but higher margins)"
+2082517392031375418,https://x.com/aleabitoreddit/status/2082517392031375418,2026-07-29T17:23:32+00:00,2026-07-30 01:23,en,False,,98,6,5,1,15770,10,0,,,,,,"@Yeshuaisking11 I kinda expected it for critical minerals since Western needs as much subsidies as possible to compete with China.
+
+US Gov taking a stake in $GFS for CPO was not on my calendar. But it does go to show CPO becoming a compute supply chain priority and they made Globalfoundries a domestic champion.
+
+Which my thoughts are that it's positive for all the Western players this US CPO supply chains like $LITE / $SIVE. Not so much for other parts of the world."
+2082514437014253995,https://x.com/aleabitoreddit/status/2082514437014253995,2026-07-29T17:11:47+00:00,2026-07-30 01:11,en,False,,111,3,10,0,16565,6,0,,,,,,"@4intheflames I don't own $GFS, but I'm personally it's surprised it's still down on the news US Gov is taking a direct stake in them for advancing CPO.
+
+Surprising to say the least, given everyone remembers $INTC as the latest foundry the US Gov liked."
+2082513405219631384,https://x.com/aleabitoreddit/status/2082513405219631384,2026-07-29T17:07:41+00:00,2026-07-30 01:07,en,False,,1308,90,126,14,236870,251,3,https://pbs.twimg.com/media/HOaNvsEaoAADH4n.jpg | https://pbs.twimg.com/media/HOaRjZMb0AAmHlS.jpg | https://pbs.twimg.com/media/HOaSKY7bgAAOvCx.jpg,,,,,"US Gov to take 1% stake in $GFS, and award them $300m for the US CHIPS ACT.
+
+This is actually a strong read through on $SIVE / $LITE, given this CHIPS ACT is specifically aimed at advancing CPO + Silicon Photonics.
+
+(For reference, Sivers and Lumentum were the only two public laser suppliers named in GFS presentation slides. Sivers laser arrays was named recently as a reference design in Globalfoundries SCALE for CPO).
+
+Per US Gov announcement: ""GlobalFoundries will receive up to $300 million to accelerate domestic CPO R&D by two to three years"" (NIST)
+
+Never thought we'd see the US Gov / $INTC foundry playbook for CPO in specific..."
 2082237871768166511,https://x.com/aleabitoreddit/status/2082237871768166511,2026-07-28T22:52:49+00:00,2026-07-29 06:52,en,False,,82,0,19,1,10072,4,0,,,,,,@KostasMoschovas Had 3 surgeries in the past 2 weeks! Not having a fun time
 2082230983487803755,https://x.com/aleabitoreddit/status/2082230983487803755,2026-07-28T22:25:27+00:00,2026-07-29 06:25,en,False,,1063,54,86,10,234070,275,0,,,,,,"I personally see it as extreme short term deleveraging that overshot many individual names.
 
