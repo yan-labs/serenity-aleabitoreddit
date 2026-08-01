@@ -134,9 +134,9 @@ restore branch split.
 
 ## $XFAB — X-FAB Silicon Foundries
 
-- **Latest signal**: Bullish sellside validation — Jul 6 update says Kepler upgraded `$XFAB` to Buy, citing strengthening Melexis demand, AI as a structural growth leg through SiC, GaN, and photonics, and scarcity of Western specialty foundries like `$SILEX`. Prior Jun 23 updates added €127.4M CHIPS Act funding and Bernstein validation.
-- **Latest tweet**: [2074063175293809150](https://x.com/aleabitoreddit/status/2074063175293809150) — 2026-07-06T09:29:29Z
-- **Context**: Prior Jun 11 framing was research-bullish on X-FAB as an early EU silicon photonics foundry around ~€1.1B MC. Jul 6 adds demand/scarcity validation, but the thesis remains exposed to auto-cycle, delayed foundry ramps, and whether AI/photonic demand becomes material revenue.
+- **Latest signal**: Bullish but long-dated validation — Jul 31 earnings commentary says X-FAB is progressing in co-packaged optics, has three silicon-photonics projects with key partners, expects photonics volume production from 2028, and has SiC/GaN exposure for 800V. Earlier CHIPS Act and sellside validation remain supportive.
+- **Latest tweets**: [2083106805949878330](https://x.com/aleabitoreddit/status/2083106805949878330) / [2083108909221560703](https://x.com/aleabitoreddit/status/2083108909221560703) — 2026-07-31
+- **Context**: This strengthens the specialty-foundry bridge from SiC/800V into silicon photonics/CPO, but 2028 production is forward-looking. Verify project scope, customer qualification, capex, utilization, auto-cycle exposure, and revenue conversion before treating it as near-term earnings support.
 
 ---
 
@@ -219,9 +219,9 @@ restore branch split.
 
 ## $AXTI — AXT Inc
 
-- **Latest signal**: Bullish InP ASP validation — Jul 6 update says Nomura cites `$AXTI` and `$IQE` as leading players and reports major price hikes across 2in/3in InP substrates, 2in EML epiwafers, and 3in CW epiwafers.
-- **Latest tweet**: [2074007618046345249](https://x.com/aleabitoreddit/status/2074007618046345249) — 2026-07-06T05:48:43Z
-- **Context**: Original AXTI call (Dec 2025 entry ~$700M MC) returned +1,057%+ by Apr 2026; Reuters InP thesis confirmed Jun 2026. Jul 6 ASP data adds pricing power evidence for upstream photonics, but realized margins and volume conversion still need verification.
+- **Latest signal**: Strongly bullish / capacity and revenue validation — Jul 31 earnings recap highlights record AXT InP revenue of $30.7M, planned capacity doubling in both 2026 and 2027, and Amazon demand evidence. This extends the earlier ASP and reservation-payment validation.
+- **Latest tweet**: [2083088870942642391](https://x.com/aleabitoreddit/status/2083088870942642391) — 2026-07-31
+- **Context**: Record InP revenue and expansion strengthen the upstream bottleneck thesis, but confirm the earnings release, ramp timing, customer mix, pricing, capex funding, and margin conversion; Amazon demand does not by itself prove AXTI capture.
 
 ---
 
