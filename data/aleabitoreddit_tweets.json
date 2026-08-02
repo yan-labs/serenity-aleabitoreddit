@@ -1,5 +1,43 @@
 [
   {
+    "id": "2083438823548293140",
+    "text": "$LITE CEO Michael Hurlston at the RAISE Summit warned that the supply gap for InP lasers for AI DCs:\n\nIs facing a more severe supply chain crisis than memory. \n\nAnd with Lumentum's 5 InP fabs, shipments would be more than 30%+ below customer demand.\n\nThis is especially visible with EMLs today but is already expanding to CW, especially as CPO ramps.\n\nI've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR. And glad this thesis is starting to see validation.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1481,
+      "retweets": 115,
+      "replies": 109,
+      "quotes": 19,
+      "views": 219060,
+      "bookmarks": 413
+    },
+    "createdAt": "Sat Aug 01 06:24:58 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnags2awAACJgB.jpg",
+        "width": 2124,
+        "height": 570
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2083438823548293140",
+    "createdAtISO": "2026-08-01T06:24:58+00:00",
+    "createdAtLocal": "2026-08-01 14:24"
+  },
+  {
     "id": "2083329679822671917",
     "text": "@optionsreaper His ideas would have played out anyway with $SNDK or $BE even without anyone from retail knowing he existed.  \n\nRetail wouldn't have changed a thing with NAND shortages or hyperscaler demand for Bloom.\n\nDownplaying that to just retail copying him is also terrible.",
     "author": {

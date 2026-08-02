@@ -227,10 +227,10 @@ restore branch split.
 
 ## $LITE — Lumentum Holdings
 
-- **Latest signal**: Bullish supply-duration reinforcement / mixed as new-money signal — Jul 2 update cites POET AGM read-through that Lumentum is sold out for the next two years, likely into 2029, and is supply-strained enough to buy CW lasers externally. This strengthens the optical revenue/supply thesis while keeping Serenity's preference for upstream/high-beta bottleneck names such as $SIVE and $AAOI.
-- **Latest tweet**: [2072726120706007465](https://x.com/aleabitoreddit/status/2072726120706007465) — 2026-07-02T16:56:31Z
+- **Latest signal**: Strong supply-gap validation — Aug 1 quotes Lumentum CEO Michael Hurlston saying InP laser supply for AI datacenters faces a more severe gap than memory, with shipments more than 30% below customer demand and the shortage expanding from EML into CW lasers as CPO ramps. This extends the Jul 2 sold-out/externally sourced CW-laser signal.
+- **Latest tweet**: [2083438823548293140](https://x.com/aleabitoreddit/status/2083438823548293140) — 2026-08-01
 - **Quote**: "$LITE is completely sold out for the next 2 years (per $POET AGM) likely starting into 2029."
-- **Context**: $LITE is a key laser/optical component maker in the InP supply chain. Prior Jun 17 note: Lumentum/Coherent are locked up under multi-year NVIDIA LTAs, bullish for revenue visibility but limiting supply available to AMD and other hyperscalers. Jul 2 adds longer supply-duration support and external CW-laser sourcing pressure, reinforcing scarcity for remaining independent suppliers.
+- **Context**: $LITE is a key laser/optical component maker in the InP supply chain. Prior Jun 17 note: Lumentum/Coherent are locked up under multi-year NVIDIA LTAs, bullish for revenue visibility but limiting supply available to AMD and other hyperscalers. Verify the CEO's remarks, whether the 30% figure is shipment-versus-demand for a defined product/customer set, and whether AAOI/SIVE/COHR can convert the broader shortage into qualified, profitable volume.
 
 ---
 
