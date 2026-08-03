@@ -1,5 +1,49 @@
 [
   {
+    "id": "2083760320062083406",
+    "text": "Trump announced that US has cancelled its attack on Iran.\n\nAnd that they’ve agreed to the perimeters of a deal to open the Strait and end the nuclear program.\n\nAnyone else feel like they’ve aged a few years in the past 6 months? https://t.co/4PK671c548",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 2613,
+      "retweets": 97,
+      "replies": 259,
+      "quotes": 22,
+      "views": 401121,
+      "bookmarks": 145
+    },
+    "createdAt": "Sun Aug 02 03:42:29 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsA9z4aYAAN7pf.jpg",
+        "width": 1240,
+        "height": 1237
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsA9z5akAAK3z_.jpg",
+        "width": 1260,
+        "height": 1286
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2083760320062083406",
+    "createdAtISO": "2026-08-02T03:42:29+00:00",
+    "createdAtLocal": "2026-08-02 11:42"
+  },
+  {
     "id": "2083438823548293140",
     "text": "$LITE CEO Michael Hurlston at the RAISE Summit warned that the supply gap for InP lasers for AI DCs:\n\nIs facing a more severe supply chain crisis than memory. \n\nAnd with Lumentum's 5 InP fabs, shipments would be more than 30%+ below customer demand.\n\nThis is especially visible with EMLs today but is already expanding to CW, especially as CPO ramps.\n\nI've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR. And glad this thesis is starting to see validation.",
     "author": {
