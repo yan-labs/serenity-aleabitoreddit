@@ -1,5 +1,80 @@
 [
   {
+    "id": "2084422873423519844",
+    "text": "Be Citadel:\n\n&gt; calls for unexpected rate hike few days ago, causing market panic\n\n&gt; reaches out and buys billions of liquidated hedge fund AI assets\n\n&gt; no rate hike \n\n&gt; “Bull market drivers are fully intact” https://t.co/gyy4Nk4SHq",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 940,
+      "retweets": 50,
+      "replies": 100,
+      "quotes": 16,
+      "views": 102465,
+      "bookmarks": 62
+    },
+    "createdAt": "Mon Aug 03 23:35:14 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO1bjbzaAAAa4HL.jpg",
+        "width": 1236,
+        "height": 1043
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO1bjb4bQAAEbNj.jpg",
+        "width": 1246,
+        "height": 1170
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2084422873423519844",
+    "createdAtISO": "2026-08-03T23:35:14+00:00",
+    "createdAtLocal": "2026-08-04 07:35"
+  },
+  {
+    "id": "2084388023689679001",
+    "text": "The bears have gone back into hibernation",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1893,
+      "retweets": 78,
+      "replies": 198,
+      "quotes": 24,
+      "views": 220196,
+      "bookmarks": 47
+    },
+    "createdAt": "Mon Aug 03 21:16:45 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2084388023689679001",
+    "createdAtISO": "2026-08-03T21:16:45+00:00",
+    "createdAtLocal": "2026-08-04 05:16"
+  },
+  {
     "id": "2083760320062083406",
     "text": "Trump announced that US has cancelled its attack on Iran.\n\nAnd that they’ve agreed to the perimeters of a deal to open the Strait and end the nuclear program.\n\nAnyone else feel like they’ve aged a few years in the past 6 months? https://t.co/4PK671c548",
     "author": {
