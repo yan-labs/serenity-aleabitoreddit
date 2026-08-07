@@ -1,5 +1,305 @@
 [
   {
+    "id": "2085511646257332581",
+    "text": "$MTSI earnings transcript: \n\n\"Customers are coming to us with urgency due to the general supply shortage of indium phosphide DFB lasers\"\n\nEmphasis on \"Urgency\", CW \"DFB lasers\", \"coming to us\".\n\nCW DFB names, such as like $SIVE and $LITE should be happy to hear about this laser bottleneck getting validated.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 279,
+      "retweets": 19,
+      "replies": 55,
+      "quotes": 0,
+      "views": 70680,
+      "bookmarks": 57
+    },
+    "createdAt": "Thu Aug 06 23:41:38 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPE4dHXbQAAZzgk.jpg",
+        "width": 1597,
+        "height": 866
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2085511646257332581",
+    "createdAtISO": "2026-08-06T23:41:38+00:00",
+    "createdAtLocal": "2026-08-07 07:41"
+  },
+  {
+    "id": "2085505415845208476",
+    "text": "@coolATCS It makes me happy that people are reiterating my $AXTI thesis from last year like it's a legitimate threat to the AI buildout now. \n\nAlso just some nuance Innolight, buys EML/CW lasers off other players, which is the bottleneck. Not so much downstream assembly/integration layers.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 45,
+      "retweets": 0,
+      "replies": 7,
+      "quotes": 0,
+      "views": 7211,
+      "bookmarks": 4
+    },
+    "createdAt": "Thu Aug 06 23:16:52 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2085503599485112512",
+    "inReplyToUserId": "923922284",
+    "conversationId": "2085499853099208716",
+    "createdAtISO": "2026-08-06T23:16:52+00:00",
+    "createdAtLocal": "2026-08-07 07:16"
+  },
+  {
+    "id": "2085504525985816639",
+    "text": "@_king142 $LITE CEO said even as their 5 InP laser fabs come online, shipments would be 30%+ below customer demand. (and worse than the current memory shortage)\n\n$AAOI said something similiar with a 20-40% figure. \n\nMy guess is that InP substrates and lasers both will be one of the most severe bottlenecks in 2027. \n\nWhich is why I place a lot of value on any independent capacity that comes online whether it's $SIVE with Win or $AAOI.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 110,
+      "retweets": 7,
+      "replies": 13,
+      "quotes": 2,
+      "views": 12915,
+      "bookmarks": 14
+    },
+    "createdAt": "Thu Aug 06 23:13:20 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2085503173050184185",
+    "inReplyToUserId": "2040625065620844544",
+    "conversationId": "2085499853099208716",
+    "createdAtISO": "2026-08-06T23:13:20+00:00",
+    "createdAtLocal": "2026-08-07 07:13"
+  },
+  {
+    "id": "2085499853099208716",
+    "text": "Just some TLDR notes on $AAOI earnings:\n\n- Expects full qualification of 1.6T products by their hyperscaler customer within next couple of weeks \n\n(helpful revenue ramp #2, timelines)\n\n-  Continues to believe that AOI will have the largest AI DC transceiver production capacity in the US\n \n(reiterating ambitions during a time when their competitors might get banned)\n\n- Expects facilities toward InP capacity to come online in early 2027 \n\n(timeline FYI in terms of further ramp) \n\n- Total capacity is approaching 200,000/u per month, EOY 650,000/u per month of 800g/1.6t. EOY 2027, 930,000/u \n\n(this is the ramp i want to see)\n\n- \"increase our manufacturing capacity for our external light source or ELSFP. That's for co-packaged optics or CPO\". we anticipate ramping production later this year and into 2027, ultimately culminating in about 400,000 pieces per month in 2028\n\n(need some time to model this into revenue)\n\n- \"As we have mentioned before, we've been manufacturing lasers internally for many years. This has allowed us to avoid some of the shortages that  have affected others in the industry\"\n\n(vertical integration bull case during CW/EML laser shortages) \n\n- We believe that in the future, CPO will continue to drive increased demand for high-power lasers\n\n(thesis validation on CPO sector)\n\n- \"to our long-term objective of returning non-GAAP gross margins to around 40%\"\n\n-  \"We ended the second quarter with $508.8 million in total cash equivalents\"\n\nI need to double check if the ATM finished or not\n\n- \"our ability to deliver revenue in general, and specifically when it  comes to 800G products, is limited by our production capacity right now\" \"If we could produce more, we could ship more right now\"\n\nDemand > Supply validation. \n\n- \"Most of the increased capacity will be in U.S. Even so, let me say that, like I keep emphasizing, that is not good enough for the customer demand. The customer demand is 20%-40% higher.\"\n\nUnholy photonics demand validation across the whole sector, read through for $LITE, $SIVE / $JBL, and others is amazing. \n\n- \"Not in the next two, three years, especially the demand is so big. Okay?  Even combined AI, $LITE, $COHR, $AVGO all together, it's still very tough to meet the customer demand in the next few years\"\n\nMore optical sector demand validation. \n\n- CPO Timelines: \"If you're talking about really high volume manufacturer [for CPO market], I would say more like the late Q3 next year\" and \"We have been working very close with at least five customer\"\n\nIf you care about current earnings (which I'm not really looking at closely)\n\nRevenue: $191M vs. $190m \nEPS: $.06 vs. $.02\n\nTLDR: Extraordinary demand across the laser + optical sector read through. Kinda supporting Lumentum CEO statement that laser shortage is worse than memory shortages. \n\n2027 capacity ramp on track. To map inflection period with timelines, would be around early next year, as stated in their previous earnings call. \n\nAAOI has the customers now. Limitation is making enough lasers and transceivers.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 736,
+      "retweets": 59,
+      "replies": 88,
+      "quotes": 10,
+      "views": 111250,
+      "bookmarks": 216
+    },
+    "createdAt": "Thu Aug 06 22:54:46 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPEuJIwboAAeYCb.jpg",
+        "width": 1825,
+        "height": 1287
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPEuNJdakAANLkb.jpg",
+        "width": 1806,
+        "height": 732
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2085499853099208716",
+    "createdAtISO": "2026-08-06T22:54:46+00:00",
+    "createdAtLocal": "2026-08-07 06:54"
+  },
+  {
+    "id": "2085304045099696547",
+    "text": "I remain convinced nobody knows how to pronounce or talk about $AAOI in real life. \n\nIt’s one letter too long to say $TSM or $AMD. \n\nAnd nobody ever says to a friend“Wow, I like applied optoelectronics!”",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1554,
+      "retweets": 31,
+      "replies": 180,
+      "quotes": 6,
+      "views": 353992,
+      "bookmarks": 106
+    },
+    "createdAt": "Thu Aug 06 09:56:42 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2085304045099696547",
+    "createdAtISO": "2026-08-06T09:56:42+00:00",
+    "createdAtLocal": "2026-08-06 17:56"
+  },
+  {
+    "id": "2085219549981319349",
+    "text": "@Lseperlee $AAOI is an end of H1 2027 volume ramp player for me, since around then is when they hit inflection point of $471m/month revenue projections. \n\nRecent drafted ban on new optical transceivers coming from Innolight and others, increase weight on players like AAOI, $SIVE / $JBL, $LITE, $COHR for their 1.6T+ programs as well. Especially if finalized in 2026. \n\nSince there's likely going to be price hikes, and more demand concentration over capacity from the select few Western players.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 208,
+      "retweets": 9,
+      "replies": 12,
+      "quotes": 1,
+      "views": 32729,
+      "bookmarks": 30
+    },
+    "createdAt": "Thu Aug 06 04:20:56 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2085218110630707605",
+    "inReplyToUserId": "2054972400794755073",
+    "conversationId": "2085217487864643658",
+    "createdAtISO": "2026-08-06T04:20:56+00:00",
+    "createdAtLocal": "2026-08-06 12:20"
+  },
+  {
+    "id": "2085217487864643658",
+    "text": "The unexpected thing of the week... Was $AEVA becoming a CPO/NPO optical source player. \n\nFor background: $SIVE is viewed as the high confidence CW DFB laser supplier to Aeva (which is known for lidar). \n\nToday, Aeva reacted with +18.26% AH on news that they signed a JDA with an optical engine player for deployment at a major hyperscaler in H2 2027, production ramp 2028. \n\n\"Optical Connectivity will leverage that foundation along with Aeva’s EXISTING high-volume manufacturing and foundry supply chain\" for:\n\n- ELSFP (similar to O-Net/Enablence + $SIVE), with Sivers as the likely CW laser + potential amplifier supplier\n\n- On-chip integrated light source (likely $SIVE DFB + Aeva PIC on the architecture/integration side)\n\nTLDR: New TAM and a hyperscaler programs for Aeva for CPO/NPO, positive read through for upstream suppliers like $SIVE.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1012,
+      "retweets": 88,
+      "replies": 84,
+      "quotes": 12,
+      "views": 457824,
+      "bookmarks": 214
+    },
+    "createdAt": "Thu Aug 06 04:12:45 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPAc0V_a4AAbbHv.jpg",
+        "width": 2133,
+        "height": 1239
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPAoJZKbcAAkuKS.jpg",
+        "width": 2139,
+        "height": 1111
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2085217487864643658",
+    "createdAtISO": "2026-08-06T04:12:45+00:00",
+    "createdAtLocal": "2026-08-06 12:12"
+  },
+  {
+    "id": "2085174977272360987",
+    "text": "Funniest callout of the year from $VIAV on CPO timelines:\n\n\"Well, there's been a lot of industry talk [about delays], like, 'Oh, because the yield is going to be slower.' \n\nThat's all nonsense. CPO and all that thing is moving forward\"\n\nThey stated that Yes there's always issues, but the process is being improved and things are getting better. \n\nTo follow up on that, the CEO stated: \n\n- Viavi has POs for CPO-testing activity\n- “We’re already getting [CPO revenue] this quarter, and probably in December it will start accelerating.”\n\nOn a side note, they also stated, 1.6T is \"ramping very quickly\", should reach parity with 800g next year, and signaled longer tail for 800g demand. \n\nTLDR: Seeing CPO test revenues hit for $VIAV to $FORM around now. Nvidia also stated switch-side CPO for scale out and scale across has entered mass production earlier. \n\nAs for scale up timelines, early production should be H2 2027 for some players, with other CPO players Ayar stating 2028 is the volume inflection period. \n\nBasically, all the timelines seem to be the same as before and revenue is starting to hit testing players first.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 725,
+      "retweets": 39,
+      "replies": 84,
+      "quotes": 7,
+      "views": 233750,
+      "bookmarks": 139
+    },
+    "createdAt": "Thu Aug 06 01:23:49 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPADszXboAAs1fl.jpg",
+        "width": 2217,
+        "height": 1511
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPAGvBYawAAZeVl.jpg",
+        "width": 1891,
+        "height": 1660
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2085174977272360987",
+    "createdAtISO": "2026-08-06T01:23:49+00:00",
+    "createdAtLocal": "2026-08-06 09:23"
+  },
+  {
     "id": "2084800605521117201",
     "text": "@zcelestialbaby It's material to $RKLB, since it will be validating their new reusable medium lift rocket Neutron as well as their newer satellite platform.\n\nI don't really post much updates on Rocketlab (yes I own Rocketlab). unless it's something that catches my eye.",
     "author": {
