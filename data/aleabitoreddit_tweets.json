@@ -1,5 +1,533 @@
 [
   {
+    "id": "2085823672569467005",
+    "text": "There we go, White House finally invests in more breath in critical minerals/materials. Amazing policy move, as a TLDR:\n\n- $WWR receives $25M (graphite)\n- $SRL (ASX) receives $400M (Scandium)\n- $FEAM receives $8M (Boron)\n- $HREE receives $4.8M (magnet rare earths)\n\nout of the public companies. \n\nWith more private investments from $150 million into Niron Magnetics or $85 million into Standard Bauxite. \n\nIt's literally spare change to the US gov, for ENORMOUS amount of downstream applications. \n\nMore should be done with funding amounts to accelerate development and derisk supply chains (don't own any of the above, just support the policy move), but great announcement.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 642,
+      "retweets": 58,
+      "replies": 99,
+      "quotes": 8,
+      "views": 106599,
+      "bookmarks": 305
+    },
+    "createdAt": "Fri Aug 07 20:21:30 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPJUPDAbEAADECd.png",
+        "width": 1681,
+        "height": 2151
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPJUWyXbsAAEkTH.jpg",
+        "width": 2031,
+        "height": 2128
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2085823672569467005",
+    "createdAtISO": "2026-08-07T20:21:30+00:00",
+    "createdAtLocal": "2026-08-08 04:21"
+  },
+  {
+    "id": "2085718303998455999",
+    "text": "@SL2056 @Sofigoodboy Good question! This something year-by-year, can't really predict shortages into 2030 from 2026, but it's definitely a structural multi-year demand cycle.  \n\nSomething that I want to flag is that it looks like lasers in specific would likely have extreme shortages for the next 2-3 years, especially during CPO scale up at the very least. \n\neg. CPO laser market would require capacity \"8 to 10x bigger compared to  today,\" and added, \"I think… no effect at all because the demand is much  bigger than the worldwide capacity.\"\n\nAs for InP substrates, $AAOI said they were fine for 2027 calendar year but wanted to form JVs because of likely how critical they are since. \n\n$AXTI looked like they were just multiplying capacity year after year and depends on who you ask.. \n\nSome of the Taiwan epiwafer players say it's extreme shortages for InP substrates, when they feed into your laser players. \n\nYour laser players like $AAOI and $MTSI say they're fine. \n\nRegardless, we see that convert into revenue inflection points with AXTI anyway (~$130m/quarter in 2027), but I'm expecting ASP to be hiked along the way given their positioning.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 67,
+      "retweets": 0,
+      "replies": 3,
+      "quotes": 0,
+      "views": 12817,
+      "bookmarks": 8
+    },
+    "createdAt": "Fri Aug 07 13:22:49 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2085715159717183868",
+    "inReplyToUserId": "1899154652559458304",
+    "conversationId": "2085711500875116887",
+    "createdAtISO": "2026-08-07T13:22:49+00:00",
+    "createdAtLocal": "2026-08-07 21:22"
+  },
+  {
+    "id": "2085711500875116887",
+    "text": "Some more TLDR takeaways from $AAOI ER:\n\n- They also flagged DSP and TIA bottlenecks, which is a positive industry read through for names like $MXL, then $SMTC and $MTSI. \n\n- For revenue growth, they're expecting more than $500 million revenue Q4, which is absurd growth. \n\nFor reference:\nQ2: $191.9M\nQ3: ~$255M-$290M\nQ4: $500M+\nBy mid-2027: ~$1.41B quarterly revenue run-rate\n\nAlways impressed by the revenue ramp from some of these optical players.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 849,
+      "retweets": 57,
+      "replies": 104,
+      "quotes": 4,
+      "views": 277012,
+      "bookmarks": 186
+    },
+    "createdAt": "Fri Aug 07 12:55:47 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHvF3jbMAAoaDE.jpg",
+        "width": 1924,
+        "height": 1479
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2085711500875116887",
+    "createdAtISO": "2026-08-07T12:55:47+00:00",
+    "createdAtLocal": "2026-08-07 20:55"
+  },
+  {
+    "id": "2085649654059016387",
+    "text": "I usually make fun of sellside, but Rosenblatt has pretty goated channel checks on optical names, and their reports are one of the few I like talking about. \n\n$AAOI, $LITE, $SIVE, and the laser party has started to recover around the est. timing windows. \n\neg. last month: \"Multiple short sellers told them they will likely close their positions... late July and early August\". \n\nThey might have missed that they believed $AMD would be $AAOI's first CPO customer... since AAOI said they would be missing from first-gen CPO (maybe future gen?)\n\nBut lot of their talking points about China CPO laser positioning (eg. 2-3 years behind) got corroborated word-for-word from AAOI earnings today.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1444,
+      "retweets": 78,
+      "replies": 114,
+      "quotes": 4,
+      "views": 286311,
+      "bookmarks": 310
+    },
+    "createdAt": "Fri Aug 07 08:50:01 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPG1sDXaoAADgCa.jpg",
+        "width": 1939,
+        "height": 1611
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPG2EeEbgAAyCJv.jpg",
+        "width": 1956,
+        "height": 1603
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPG2TdXaYAAXqas.png",
+        "width": 1963,
+        "height": 707
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2085649654059016387",
+    "createdAtISO": "2026-08-07T08:50:01+00:00",
+    "createdAtLocal": "2026-08-07 16:50"
+  },
+  {
+    "id": "2085644051446108223",
+    "text": "Unitree, China's humanoid leader, is set to IPO this month at a $9B valuation! (~$6.2B originally per March filing). \n\nDerivative markets are pricing open at an implied $36.04B MC, roughly ~4X listing price. \n\n$CCXI / Agility Robotics, the first US publicly listed pure play humanoid leader, is also going public later in Q4, at a ~$2.5B pre-money valuation.\n\nIt will be interesting to see how markets price in America vs. Chinese Humanoid leaders.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 872,
+      "retweets": 71,
+      "replies": 113,
+      "quotes": 11,
+      "views": 191883,
+      "bookmarks": 175
+    },
+    "createdAt": "Fri Aug 07 08:27:45 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGxv_va8AAFQ5O.jpg",
+        "width": 1415,
+        "height": 1026
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2085644051446108223",
+    "createdAtISO": "2026-08-07T08:27:45+00:00",
+    "createdAtLocal": "2026-08-07 16:27"
+  },
+  {
+    "id": "2085640966526922894",
+    "text": "@rektusd101 Unitree is being listed this month, and is expected to open around a $30B valuation (pre-IPO perps) from ~$5.6B -> $9B now.\n\nGiven Agility is valued at $2.5B premoney with $CCXI, I’m just watching what happens to the robotics sector and especially Agility, when Unitree goes public. \n\nI’ve already laid down my thesis with humanoids and I’m personally waiting for it to play out.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 84,
+      "retweets": 0,
+      "replies": 7,
+      "quotes": 0,
+      "views": 11538,
+      "bookmarks": 7
+    },
+    "createdAt": "Fri Aug 07 08:15:30 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2085633452917842215",
+    "inReplyToUserId": "805912508150247424",
+    "conversationId": "2085628664528662818",
+    "createdAtISO": "2026-08-07T08:15:30+00:00",
+    "createdAtLocal": "2026-08-07 16:15"
+  },
+  {
+    "id": "2085639100519088220",
+    "text": "@vas_203 Uhh I don’t want $SIVE to be acquired given how attractive their laser assets are. Since I see potential for them end up as the next $LITE.\n\nHonestly carving out OE solutions complete optical transceiver business or something similar that’s distressed from a private startup might be interesting.\n\nMy guess is it comes after Nasdaq listing within next few quarters or so. I think the CEO knows what to do, so I’m just tagging along for the ride.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 162,
+      "retweets": 11,
+      "replies": 8,
+      "quotes": 0,
+      "views": 13960,
+      "bookmarks": 15
+    },
+    "createdAt": "Fri Aug 07 08:08:05 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2085630050670358548",
+    "inReplyToUserId": "2193358987",
+    "conversationId": "2085628664528662818",
+    "createdAtISO": "2026-08-07T08:08:05+00:00",
+    "createdAtLocal": "2026-08-07 16:08"
+  },
+  {
+    "id": "2085633799824773480",
+    "text": "@homeboyrichie For now yes, because Lumilens has a direct hyperscaler customer and multi-billion dollar purchase agreements. While $SIVE is an upstream laser supplier.\n\nSivers needs to work its way downstream to capture more TAM with selling optical engines, ELS, or complete optical transceivers like $LITE did after M&A eg. Cloud Light.\n\nMy opinion is that it’s easier to move downstream than upstream as you seen with the limited amount of qualified laser suppliers out there.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 104,
+      "retweets": 1,
+      "replies": 7,
+      "quotes": 0,
+      "views": 12185,
+      "bookmarks": 9
+    },
+    "createdAt": "Fri Aug 07 07:47:01 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2085630427138597061",
+    "inReplyToUserId": "616643682",
+    "conversationId": "2085628664528662818",
+    "createdAtISO": "2026-08-07T07:47:01+00:00",
+    "createdAtLocal": "2026-08-07 15:47"
+  },
+  {
+    "id": "2085628664528662818",
+    "text": "Earlier today, optical interconnect company Lumilens \"emerges from stealth\" at a $5.5B valuation, after raising $700m.\n\nJust as a recap from $POET / $SIVE Linkedin OSINT mapping I shared earlier, Lumilens was supplying a top 3 hyperscaler customer. \n\nSo we got confirmation of that a month later, along with the material figure that Lumilens has a \"multi-billion-dollar customer agreement\". \n\nAnd just for reference, $POET has existing contracts with Lumilens ($50m purchase order, up to $500m) + contracts with $SIVE (depending on product lines). \n\nI actually took tiny positions in POET again after reading this news, since it finally gives them visibility into extremely well funded hyperscaler suppliers (on top of Poet's really large balance sheet). \n\nBut TLDR: \n> Lumilens around similar (or even higher) valuations as Lightmatter/Ayar, bigger than markets thought with hyperscaler customers. \n> nice read through upstream on $POET (derisking) /  $SIVE.\n> Great for optical valuations in general, seeing a company go to $5.5B in 2 years.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 771,
+      "retweets": 53,
+      "replies": 76,
+      "quotes": 9,
+      "views": 192928,
+      "bookmarks": 152
+    },
+    "createdAt": "Fri Aug 07 07:26:37 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGkNbmawAA-M4D.jpg",
+        "width": 1200,
+        "height": 702
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGkNbka8AAoRr1.jpg",
+        "width": 1200,
+        "height": 816
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGkNbma8AEsjpH.jpg",
+        "width": 1199,
+        "height": 730
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2085628664528662818",
+    "createdAtISO": "2026-08-07T07:26:37+00:00",
+    "createdAtLocal": "2026-08-07 15:26"
+  },
+  {
+    "id": "2085611633263710660",
+    "text": "@Financewisdom01 I’m just really excited personally since these little breadcrumbs validated a lot of the research I did months ago.\n\nWith CPO laser player dynamics and CW laser capacity bottlenecks.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 116,
+      "retweets": 1,
+      "replies": 4,
+      "quotes": 0,
+      "views": 14144,
+      "bookmarks": 3
+    },
+    "createdAt": "Fri Aug 07 06:18:56 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2085604089958940926",
+    "inReplyToUserId": "1734767681071636480",
+    "conversationId": "2085603590903902621",
+    "createdAtISO": "2026-08-07T06:18:56+00:00",
+    "createdAtLocal": "2026-08-07 14:18"
+  },
+  {
+    "id": "2085608520293154900",
+    "text": "@KhalidIshaq85 @00m00oo I literally and legally can't give you advice. \n\nI'm personally long and still bullish on $AXTI since I don't think InP substrate demand imbalance will be going anywhere over the next 2-3 years. \n\nAnd my InP substrate bottleneck thesis + AI buildout disruption got validated midway through the year from Reuters to other epiwafer earnings calls.  \n\nYou do you",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 83,
+      "retweets": 0,
+      "replies": 8,
+      "quotes": 1,
+      "views": 11358,
+      "bookmarks": 13
+    },
+    "createdAt": "Fri Aug 07 06:06:34 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2085607390033137864",
+    "inReplyToUserId": "1965013949197295616",
+    "conversationId": "2085603590903902621",
+    "createdAtISO": "2026-08-07T06:06:34+00:00",
+    "createdAtLocal": "2026-08-07 14:06"
+  },
+  {
+    "id": "2085607377374675122",
+    "text": "@pjtesus It's because $AAOI already has a massive 20-40% demand imbalance for their 800G/1.6T optical transceivers... \n\nThey can't make enough to satisfy demand. That's a positive thing. \n\nBut not being able to fulfill all demand, means there's market opportunities for smaller CPO laser players.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 101,
+      "retweets": 1,
+      "replies": 5,
+      "quotes": 0,
+      "views": 18054,
+      "bookmarks": 9
+    },
+    "createdAt": "Fri Aug 07 06:02:02 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2085604188919099611",
+    "inReplyToUserId": "1912539442759495681",
+    "conversationId": "2085603590903902621",
+    "createdAtISO": "2026-08-07T06:02:02+00:00",
+    "createdAtLocal": "2026-08-07 14:02"
+  },
+  {
+    "id": "2085606635834388515",
+    "text": "@00m00oo I'm extremely bullish on $AAOI, it's one of my top holdings? \n\nBut there's an unholy amount of things to unpack when AOI said they're not participating in first-gen CPO deployments because there's not enough capacity. \n\n1. Independent CW DFB capacity, even less than markets thought. \n\n2. Qualified CPO laser players, even less than markets thought. \n\n3. I remember Rosenblatt thought $AAOI would be $AMD's first CPO customer, but might not be the case anymore... \n\nAnd since $LITE and $COHR are in camp $NVDA and sold out for next 2 years... \n\nSome other CPO players might be more valuable than others think.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 167,
+      "retweets": 4,
+      "replies": 10,
+      "quotes": 0,
+      "views": 21846,
+      "bookmarks": 29
+    },
+    "createdAt": "Fri Aug 07 05:59:05 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2085604157457920032",
+    "inReplyToUserId": "1693183685020033024",
+    "conversationId": "2085603590903902621",
+    "createdAtISO": "2026-08-07T05:59:05+00:00",
+    "createdAtLocal": "2026-08-07 13:59"
+  },
+  {
+    "id": "2085603590903902621",
+    "text": "Wow, there's gem after gem in $AAOI earnings for $SIVE + other laser player readthrough.\n\n1. AAOI not meaningfully participating in CPO first-gen deployments.\n\n\"We just can’t make enough of them [CPO lasers] to be involved in their current first-generation [CPO] deployments because there’s just not enough capacity.   We have to prioritize our ability to make lasers for our own  transceivers first\"\n\nSo first-gen CPO laser deployments, might even be narrowed down further for Western players like $SIVE, $LITE, $AVGO, and $COHR.\n\nAnd independent CPO CW laser capacity became more valuable if $AAOI had to turn away more customers...\n\nAlso remember Trendforce was talking about $AMD singing CW LTAs? $COHR / $LITE have capacity signed with $NVDA ...\n\nI thought it would be $AAOI, but they might be out of the equation. $MTSI also doesn't look meaningful with early CPO participation (eg. no mention in ER aside from NPO, and removal from Ayar website).\n\nSo I wonder who players like $AMD is going to go with for Helios (eg. Sivers + Ayar more likely candidate now)?\n\nBtw, this is not bearish AAOI because they have too much demand for optical transceiver business. Just more bullish on the existing few qualified CPO laser names that have capacity. \n\n2. Demand imbalance and bottleneck for InP lasers / optical transceivers.\n\nAOI's CEO stated kinda supported that when they said: \"The customer demand is 20%-40% higher\" than expanded built out capacity.\n\n\"We are getting this kind of demand from several big customers almost every week. Lasers are the biggest bottleneck right now for the transceiver business\"\n\n3. China being years away from having CPO DWDM specification lasers.\n\nI covered this earlier when looking at CPO competition from channel checks.\n\nBut AAOI confirming that China is \"easily at least two, three years or even longer from having CPO lasers is incredible tread through on defensibility Western laser positioning in the CPO laser chokepoint.\n\nTLDR:\n\n- High demand imbalance for CW lasers and optical transceivers.\n\n- $AAOI not in first-gen CPO due to capacity constraints (not exactly bearish AAOI because they have too much demand for their optical transciver business, but even better news for the few independent players with capacity coming online like $SIVE)\n\n- China years behind in CPO lasers.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1509,
+      "retweets": 133,
+      "replies": 108,
+      "quotes": 20,
+      "views": 516877,
+      "bookmarks": 459
+    },
+    "createdAt": "Fri Aug 07 05:46:59 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGK8k-aUAAKysM.jpg",
+        "width": 1793,
+        "height": 712
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGK8i1b0AALg40.jpg",
+        "width": 1859,
+        "height": 1178
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2085603590903902621",
+    "createdAtISO": "2026-08-07T05:46:59+00:00",
+    "createdAtLocal": "2026-08-07 13:46"
+  },
+  {
     "id": "2085511646257332581",
     "text": "$MTSI earnings transcript: \n\n\"Customers are coming to us with urgency due to the general supply shortage of indium phosphide DFB lasers\"\n\nEmphasis on \"Urgency\", CW \"DFB lasers\", \"coming to us\".\n\nCW DFB names, such as like $SIVE and $LITE should be happy to hear about this laser bottleneck getting validated.",
     "author": {
