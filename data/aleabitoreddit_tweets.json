@@ -1,5 +1,242 @@
 [
   {
+    "id": "2086255168547652017",
+    "text": "@softmaxedx This is just laser array capacity modeling. \n\nThe bull case is $SIVE pulling their own Cloud Light acquisition and multiplying TAM starting from the laser chokepoint.\n\nI have much higher expectations personally, but people can make their own valuation estimates. https://t.co/sS372W0SYR",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 13,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0,
+      "views": 1520,
+      "bookmarks": 2
+    },
+    "createdAt": "Sun Aug 09 00:56:07 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2086253072704053288",
+    "inReplyToUserId": "71297057",
+    "conversationId": "2086247069900300393",
+    "createdAtISO": "2026-08-09T00:56:07+00:00",
+    "createdAtLocal": "2026-08-09 08:56"
+  },
+  {
+    "id": "2086247069900300393",
+    "text": "I think it’s a good time to revisit $SIVE ~$427m/yr midpoint capacity revenue modeled projections.\n\nGiven recent industry earnings:\n\n> $AAOI cited +20-40% demand imbalance for transceivers (with lasers as the bottleneck).\n\n> $MTSI saying many \"Customers are coming to us with urgency due to the general supply shortage of indium phosphide DFB lasers\" (in other product lines)\n\n> US proposal ban on new Chinese optical transceivers (Innolight/Eoptolink)\n\n> AOI no meaningful participation in first-gen CPO deployments due to lasers being allocated toward transceivers. \n\nThe read through is that it’s possible to apply the same capacity-demand absorption modeling applying to $AAOI, but for other laser players like Sivers too.\n\nGiven the widespread shortage and demand imbalance for InP CW DFB capacity.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 240,
+      "retweets": 15,
+      "replies": 42,
+      "quotes": 4,
+      "views": 59542,
+      "bookmarks": 59
+    },
+    "createdAt": "Sun Aug 09 00:23:56 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPPWpnhbUAA0kgU.jpg",
+        "width": 1250,
+        "height": 754
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2086247069900300393",
+    "createdAtISO": "2026-08-09T00:23:56+00:00",
+    "createdAtLocal": "2026-08-09 08:23"
+  },
+  {
+    "id": "2086167003879158031",
+    "text": "@sunmingjun4 Yep, I'm still bullish on Win. They're coming online with rare independent capacity for InP lasers (we know from Sivers) and maybe PiC foundry services (presentation slides) for AI DCs, during a time of a bottleneck.\n\nAnd my guess is its optical foundry might drive surprising revenue growth 2027 onward.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 56,
+      "retweets": 1,
+      "replies": 6,
+      "quotes": 1,
+      "views": 19125,
+      "bookmarks": 17
+    },
+    "createdAt": "Sat Aug 08 19:05:47 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2086162057423192304",
+    "inReplyToUserId": "1542051443951030274",
+    "conversationId": "2086157318065168490",
+    "createdAtISO": "2026-08-08T19:05:47+00:00",
+    "createdAtLocal": "2026-08-09 03:05"
+  },
+  {
+    "id": "2086159536084361667",
+    "text": "@MDjavanmard This is satire about Michael Burry's long $LULU short $NBIS trade if you didn't get the reference (don't actually take this post seriously).",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 384,
+      "retweets": 4,
+      "replies": 18,
+      "quotes": 1,
+      "views": 20345,
+      "bookmarks": 3
+    },
+    "createdAt": "Sat Aug 08 18:36:07 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2086158697558864320",
+    "inReplyToUserId": "1446313996995514368",
+    "conversationId": "2086157318065168490",
+    "createdAtISO": "2026-08-08T18:36:07+00:00",
+    "createdAtLocal": "2026-08-09 02:36"
+  },
+  {
+    "id": "2086157318065168490",
+    "text": "Today I'm writing a weekend guide on how to do DD when shorting $NBIS:\n\nFirst, you look at hyperscaler earnings for AI cloud read through: \n\n> $GOOGL: reports record AI cloud demand + backlog + margin increases from earnings\n\n> $AMZN: reports record AI Cloud demand + backlog + margin increases from earnings\n\n> $META: reports higher than expected prices for available capacity from earnings.\n\nNow, time to look at Nebius:\n\n-> $NBIS: Growing hundreds of percent to $7-9B ARR by Q4. Growing margins, and guided 4GW+ contracted power. \n-> Sees Uber/Waymo splitting, putting more focus on Avride\n-> Sees Clickhouse growing rapidly every quarter. \n\nOkay looks bad! But next, you need a hedge?\n\n-> Wow! A $NIKE brand executive, after the stock dropped 75% over the past 5 years, went to $LULU to save that brand next? Lululemon seems good.\n\nConclusion: Short Nebius and go long on $LULU",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1761,
+      "retweets": 79,
+      "replies": 174,
+      "quotes": 19,
+      "views": 250416,
+      "bookmarks": 459
+    },
+    "createdAt": "Sat Aug 08 18:27:18 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2086157318065168490",
+    "createdAtISO": "2026-08-08T18:27:18+00:00",
+    "createdAtLocal": "2026-08-09 02:27"
+  },
+  {
+    "id": "2086148557187461412",
+    "text": "Yes, I'm still bullish on memory like $MU / Samsung.\n\nAs I said earlier, markets tend to rotate from bottleneck to bottleneck.\n\nThis week it looks $AXTI to $LITE in the photonics sector is the focus again. \n\nThe thing is... the primary thing that changed are the stock prices, followed by some narratives + updates sprinkled in here and there.\n\nFor photonics:\n\n> We already knew $COHR / $LITE lasers were completely sold out for the next 2 years during July's drop. \n\n> We knew about demand imbalance from $AAOI from last quarter's earnings calls.\n\nNothing deteriorated fundamentally during July's crash, other than listed price after liquidations. \n\nYet tons of people called $AAOI a \"scam\" when it dropped to $75, or $AXTI a \"scam\" on its drop to $35... \n\nBut are bullish again at $140 or $80, when the transciver/InP substrate bottleneck hasn't changed at all, but maybe even got worse... (eg. draft for US ban on new china optical transceivers, scale up demand projections)\n\nFor Memory:\n\nI'm witnessing a lot of retail capitulation, but the same people I'm seeing were mega bullish after $MU signed 16 SCAs and gave exceptional projections a month ago. \n\nOr were celebrating Samsung having the highest operating profit in the world.\n\nThere's updates here and there eg. Rubin Ultra with memory optimizations (which Nvidia strives for every generation), with prices no longer being hiked way above expectations to the extreme. \n\nBut the operating income relative to MC is just absurd around current prices, especially memory becomes structural. \n\nAnd the demand imbalance should be even worse next year.  \n\nPeople tend to capitulate and follow narratives when a sector drops (eg. Helium/LNG back in Iran war), even if the bottleneck or fundamental situation hasn't really changed much (eg. $SPCX Elon earnings call reiterating memory tightness). \n\nI can't tell others what to to do: \n\nBut $AAOI at $140 and $AAOI at $75 are the same company.\n\nSamsung at a $1.5T MC and Samsung at a $980B MC are the same company. \n\nJust valuations and narratives (often noise) change, and markets rotate from sector to sector.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1654,
+      "retweets": 120,
+      "replies": 95,
+      "quotes": 21,
+      "views": 278920,
+      "bookmarks": 446
+    },
+    "createdAt": "Sat Aug 08 17:52:29 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPN5isfawAA4lXb.jpg",
+        "width": 1320,
+        "height": 711
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2086148557187461412",
+    "createdAtISO": "2026-08-08T17:52:29+00:00",
+    "createdAtLocal": "2026-08-09 01:52"
+  },
+  {
+    "id": "2085974141501612461",
+    "text": "I've mapped the entire Wall Street bear playbook on AI names:\n\nHave your favorite institution/media insert one of these name down below:\n\n1. < ______ [GPUs, Transcivers, MLCC, Memory...] are a commodity set to crash> \n\n2. < ______ [YMTC, CXMT, Dongshan...] from China will flood the market > \n\n3. < ______ [Micron, Nvidia, ...] from unverifiable channel checks is facing issues > \n\n4. < ______ [Kospi, Sivers, ...] is a bubble like the ____ [2007, 2021] crash> \n\n5. <____ [1,2,3, ...] unexpected rate hikes this year>\n\n6. < _____ [Google, Nvidia, Deepseek ...] optimization removes the need of this!>  \n\nin a new headline, and it's ready to go!",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1607,
+      "retweets": 90,
+      "replies": 138,
+      "quotes": 18,
+      "views": 342718,
+      "bookmarks": 470
+    },
+    "createdAt": "Sat Aug 08 06:19:25 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2085974141501612461",
+    "createdAtISO": "2026-08-08T06:19:25+00:00",
+    "createdAtLocal": "2026-08-08 14:19"
+  },
+  {
     "id": "2085823672569467005",
     "text": "There we go, White House finally invests in more breath in critical minerals/materials. Amazing policy move, as a TLDR:\n\n- $WWR receives $25M (graphite)\n- $SRL (ASX) receives $400M (Scandium)\n- $FEAM receives $8M (Boron)\n- $HREE receives $4.8M (magnet rare earths)\n\nout of the public companies. \n\nWith more private investments from $150 million into Niron Magnetics or $85 million into Standard Bauxite. \n\nIt's literally spare change to the US gov, for ENORMOUS amount of downstream applications. \n\nMore should be done with funding amounts to accelerate development and derisk supply chains (don't own any of the above, just support the policy move), but great announcement.",
     "author": {

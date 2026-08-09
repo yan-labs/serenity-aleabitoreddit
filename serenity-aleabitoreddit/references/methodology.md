@@ -36,6 +36,7 @@ dated example from the corpus. A runnable checklist is at the bottom.
   this as a policy/geopolitical overlay when evaluating AI infra, cyber tooling,
   and China-exposed AI supply-chain names. Source:
   [2071074680253911267](https://x.com/aleabitoreddit/status/2071074680253911267).
+- **Narrative short-playbook (Aug 8):** [2085974141501612461](https://x.com/aleabitoreddit/status/2085974141501612461) groups recurring bearish headlines into commodity collapse, Chinese supply flooding, unverifiable channel checks, bubble comparisons, surprise rate hikes, and optimization-removes-demand claims. Treat each label as a hypothesis: trace it to qualified capacity, customer demand, pricing, bookings, and actual earnings before accepting the headline as a thesis invalidation.
 
 ---
 

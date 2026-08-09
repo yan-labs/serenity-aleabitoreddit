@@ -32,6 +32,10 @@ The restored taxonomy below remains the full merged thesis base. This section
 preserves newer incremental live-feed updates that landed on `main` after the
 restore branch split.
 
+- **Aug 8-9 photonics / SIVE capacity update:** Posts [2086247069900300393](https://x.com/aleabitoreddit/status/2086247069900300393) and [2086255168547652017](https://x.com/aleabitoreddit/status/2086255168547652017) revisit a roughly `$427m/yr` midpoint capacity-revenue model for Sivers, citing `$AAOI`'s 20-40% transceiver demand imbalance, `$MTSI`'s reported InP DFB-laser shortage, a proposed U.S. restriction on new Chinese optical transceivers, and `$AAOI`'s lack of first-generation CPO participation. The Cloud Light acquisition is framed as a bull-case route to multiply TAM from the laser chokepoint. Treat this as Serenity's capacity model and supply-tightness read-through, not company guidance; verify capacity, customers, qualification, and revenue conversion.
+- **Aug 8 photonics / memory rotation:** [2086148557187461412](https://x.com/aleabitoreddit/status/2086148557187461412) keeps a bullish stance on `$MU` and Samsung while saying the focus rotated from `$AXTI` toward `$LITE`; the post argues that prices and narratives changed while the known laser sellouts and InP/transceiver imbalance did not. Use it as thesis-persistence and valuation-calibration evidence, not as a fresh entry signal.
+- **Aug 8 Win Semi extension:** [2086167003879158031](https://x.com/aleabitoreddit/status/2086167003879158031) adds rare independent InP capacity and possible photonic-integrated-circuit foundry services for AI datacenters, with possible revenue growth from 2027 onward. This extends Win Semi's existing foundry-bottleneck role; verify capacity ramp, customers, and contract economics.
+
 ## Optical / CPO basket and upstream glass substrates
 
 - **Latest signal**: Jul 15 quotes Jensen Huang saying Vera Rubin is already in production and large production is incoming, rebutting AI-server-delay reports. AEHR's guide and backlog are framed as a broader silicon-photonics ramp read-through, while its author explicitly stops short of calling it a direct CPO confirmation.
