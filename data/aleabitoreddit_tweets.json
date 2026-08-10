@@ -1,5 +1,69 @@
 [
   {
+    "id": "2086304269943419276",
+    "text": "All right chat, it’s that time of the month again.\n\nWhat’s your #1 highest conviction stock and why? \n\nI actually learn a lot from reading these, so share some cool ideas.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 2250,
+      "retweets": 81,
+      "replies": 909,
+      "quotes": 10,
+      "views": 685081,
+      "bookmarks": 1409
+    },
+    "createdAt": "Sun Aug 09 04:11:14 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2086304269943419276",
+    "createdAtISO": "2026-08-09T04:11:14+00:00",
+    "createdAtLocal": "2026-08-09 12:11"
+  },
+  {
+    "id": "2086264361002348621",
+    "text": "@wannabepanacea I’m actually kinda curious about $SIVE securing more foundry allocation given widespread CW DFB shortages now.\n\nSince I’m pretty confident it sells out once qualifications go into volume ramp.\n\nBut aside from that\n\n> reaffirm demand/supply imbalance from other earnings like $MTSI / $AAOI helps\n\n> new development/qualifications mentioned in previous earnings with pluggable players, probably most material\n\n> Progress with $JBL, ~ $AEVA, $POET, $GFS or other opportunities, maybe initial POs would be nice.\n\n> Nasdaq listing update reiterated (we already got updates it’s planned completion next few quarters). I still place that on priority personally since it unlocks more funding for their M&A efforts, hopefully down the pluggable stack.\n\nI think the revenue inflection starts around H1 2027, so current revenue/profit numbers are not very material. \n\nAn $AAOI statement like anything we make we expect to be sold in 2028 or something would be kinda goated.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 193,
+      "retweets": 13,
+      "replies": 11,
+      "quotes": 0,
+      "views": 20699,
+      "bookmarks": 22
+    },
+    "createdAt": "Sun Aug 09 01:32:39 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2086248096422310331",
+    "inReplyToUserId": "1931061774037704704",
+    "conversationId": "2086247069900300393",
+    "createdAtISO": "2026-08-09T01:32:39+00:00",
+    "createdAtLocal": "2026-08-09 09:32"
+  },
+  {
     "id": "2086255168547652017",
     "text": "@softmaxedx This is just laser array capacity modeling. \n\nThe bull case is $SIVE pulling their own Cloud Light acquisition and multiplying TAM starting from the laser chokepoint.\n\nI have much higher expectations personally, but people can make their own valuation estimates. https://t.co/sS372W0SYR",
     "author": {
