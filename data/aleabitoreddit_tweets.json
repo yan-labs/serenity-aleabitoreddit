@@ -1,5 +1,633 @@
 [
   {
+    "id": "2087329770879197549",
+    "text": "$LITE earnings transcript TLDRs:\n\n- \"Our visibility into the timing of CPO scale-up deployments has also sharpened. We remain confident in a demand ramp for our ultra-high-power  laser chips in the second half of calendar 2027\"\n\nH2 2027 start of CPO scale up ramp confirmed from Lumentum for their lead customer. \n\n- \"We were recently given our first external light source, or ELS, module purchase for delivery by the second half of calendar 2027\" \n\nELS industry ramp timelines\n\n- \"The NPO opportunity is completely additive for us, significantly increasing the optical TAM.\"\n\nMore TAM for laser chokepoint club\n\n- \"we expect the 1.6T transceiver uptake to intensify starting in fiscal Q1 and sustain through calendar 2027.\"\n\n- \"Even in CW, we’ve been surprised at our ability to price up\"\n\nPositive pricing power for $SIVE and the other CW laser players. \n\n- \"As a result, we are able to command a nice price premium that we expect  to sustain, as these Chinese if these Chinese guys come online. \n\nI caution people also, I think people are some of these Chinese laser suppliers are not delivering in the market today, so they have there is no recourse when they throw out these big numbers. We have not seen anything like that to date in terms of their output.\"\n\nChinese players are more behind than markets expect, corroborated by $AAOI and $LITE. \n\n- \"We are way behind in our shipments, unfortunately, on high-powered lasers\"\n\n\"The demand signal has increased, and we are very much further behind relative to our ability to supply.\"\n\nExtreme demand imbalance for UHP CW laser capacity, continued demand imbalance for EML. Shipping roughly +$50M year end -> $100m+ (\"triple digit quarter\") into much larger H2 2027 and 2028 scale up demand,.\n\n- \"So what we are trying to do, I think, really in the last three months is secure even more substrate supply\" (because of demand imbalance), \"we found additional substrate help from $AXTI They are a great partner.\"\n\nHello InP substrate bottleneck. \n\nTLDR:\n\n- Lumentum CPO scale up H2 2027 shipments got confirmed, dismissed any \"delay\" news as market \"noise\". (one delay report caused so much damage, and it took Nvidia, Lumentum, and all these companies weeks to do damage control). \n- CW lasers demand ramp second half of 2027\n- Extreme demand imbalance for UHP CW laser capacity surprised Lumentum\n- UHP lasers commands very high margins and is able to price up CW laser capacity. \n- China further behind in the laser/capacity angle. \n\nBasically just validated timelines + demand/pricing for Western CW laser players. \n\nCW laser scarcity is already happening before the main volume ramp even begins...",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 297,
+      "retweets": 27,
+      "replies": 31,
+      "quotes": 7,
+      "views": 81527,
+      "bookmarks": 76
+    },
+    "createdAt": "Wed Aug 12 00:06:12 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPerCxsboAAaPRP.jpg",
+        "width": 1634,
+        "height": 1040
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPerMETaAAAJZXr.jpg",
+        "width": 1672,
+        "height": 1120
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPerZNDaUAAeGNY.jpg",
+        "width": 1802,
+        "height": 1298
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2087329770879197549",
+    "createdAtISO": "2026-08-12T00:06:12+00:00",
+    "createdAtLocal": "2026-08-12 08:06"
+  },
+  {
+    "id": "2087285356999958663",
+    "text": "Insane earnings today for the AI theme with $CRWV, $SMCI, and $LITE. \n\nCoreweave: Absurd ~$104B+ backlog, which doesn't include $25B+ of new customer agreements added in early Q3. \n\nCompute demand read through for Neoclouds is enormous (For Nebius, Iren and others)\n\nSupermicro:  Absurd $65-72B in revenue guidance, adding $60B+ in new orders... \n\nAI DC buildout read through is just enormous. \n\nLumentum: $808M -> $1.01B -> $1.25B revenue ramp, with operating margins growing quarter after quarter. \n\nPhotonics players just keeps printing. \n\nTLDR: Every layer of the AI buildout goes brrrrr, and it's showing up in earnings.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1331,
+      "retweets": 88,
+      "replies": 79,
+      "quotes": 10,
+      "views": 185644,
+      "bookmarks": 206
+    },
+    "createdAt": "Tue Aug 11 21:09:43 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2087285356999958663",
+    "createdAtISO": "2026-08-11T21:09:43+00:00",
+    "createdAtLocal": "2026-08-12 05:09"
+  },
+  {
+    "id": "2087283272627998869",
+    "text": "@throw_away_9264 Yep, I still think markets are correct to apply discounts to $SMCI given history with compliance failures. \n\nDefinitely not for everyone",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 44,
+      "retweets": 0,
+      "replies": 6,
+      "quotes": 0,
+      "views": 9102,
+      "bookmarks": 1
+    },
+    "createdAt": "Tue Aug 11 21:01:26 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087281749776629852",
+    "inReplyToUserId": "2016940144721285120",
+    "conversationId": "2087280662802026931",
+    "createdAtISO": "2026-08-11T21:01:26+00:00",
+    "createdAtLocal": "2026-08-12 05:01"
+  },
+  {
+    "id": "2087282789473521833",
+    "text": "@KHqmjz If you apply their net margin for 2026 so far, $SMCI is around ~7.7%. \n\nIf they do $70B revenue for H1 2026 with the same net margins, would be round ~4.1x forward earnings.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 38,
+      "retweets": 0,
+      "replies": 8,
+      "quotes": 0,
+      "views": 8222,
+      "bookmarks": 5
+    },
+    "createdAt": "Tue Aug 11 20:59:31 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087280924916580806",
+    "inReplyToUserId": "2060056256006766592",
+    "conversationId": "2087280662802026931",
+    "createdAtISO": "2026-08-11T20:59:31+00:00",
+    "createdAtLocal": "2026-08-12 04:59"
+  },
+  {
+    "id": "2087280662802026931",
+    "text": "$SMCI 2027 guidance was actually unholy: $65-$72 billion FY 2027 revenue guidance... \n\nvs. ~$52.4B expected, a casual +$16.1B above consensus. \n\nSMCI logged a massive $60B+ in news order from this earnings. \n\nThat timeline is also interesting when they announced a plan to co-build $SPCX + xAI  DCs \"within a year\" back in June..\n\nBut if SMCI sustain 10-15% gross margins off that ~$70B revenue guidance... I think there's a lot of room for rerating given MC is ~$20B (NFA, I have short term positions in SMCI now from this ER). \n\nMost important thing is learning about 2027 margins from call today.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 453,
+      "retweets": 30,
+      "replies": 67,
+      "quotes": 8,
+      "views": 119833,
+      "bookmarks": 76
+    },
+    "createdAt": "Tue Aug 11 20:51:04 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2087280662802026931",
+    "createdAtISO": "2026-08-11T20:51:04+00:00",
+    "createdAtLocal": "2026-08-12 04:51"
+  },
+  {
+    "id": "2087274150054576424",
+    "text": "@Berlinergy $AAOI: \"We just can’t make enough of them [CPO lasers] to be involved in their current first-generation [CPO] deployments because there’s just not enough capacity.   \n\nWe have to prioritize our ability to make lasers for our own transceivers first\"\n\nThis is just for early CPO related deployment read through.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 90,
+      "retweets": 0,
+      "replies": 8,
+      "quotes": 0,
+      "views": 12614,
+      "bookmarks": 11
+    },
+    "createdAt": "Tue Aug 11 20:25:11 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087273490395111845",
+    "inReplyToUserId": "1305028419214815232",
+    "conversationId": "2087271842696593764",
+    "createdAtISO": "2026-08-11T20:25:11+00:00",
+    "createdAtLocal": "2026-08-12 04:25"
+  },
+  {
+    "id": "2087271842696593764",
+    "text": "$LITE earnings are out, very strong earnings:\n\nRevenue: $1.01B, +24.5% Q/Q, +109.3% Y/Y growth\nvs. ~$984.6M\nAdj. EPS: $3.23 vs. ~$2.95\nGross Margin (non-gaap): 50.4% / Operating margin (non-gaap) 36.6%\n\nQ1 FY2027 guidance is probably more important:\n\nRevenue: $1.225–1.275B vs. ~$1.16B\nAdj. EPS: $4.05–4.35 vs. ~$3.63\nOperating margin (non-gaap) of 39.5% - 40.5%\n\nIn terms of notes: \n\nSees: \"Increasing demand for ultra-high-power CPO lasers, an initial order for ELS modules\" \n\n- Great read through on other CPO players like $SIVEF, $COHR, and others. (maybe not AAOI since they're missing out on first-gen deployments)\n\n- \"Breath of NPO engagements are the first signs that optics are starting  to penetrate in-rack connectivity, significantly upping our optical TAM\"\n \n- Revenue projections \"reaching our target model more than a quarter ahead of schedule.\"\n\nExtremely strong earnings as expected, you have revenue going from:\n\n$808M -> $1.01B -> $1.25B while operating margin keeps increasing... Just my first impressions. \n\nMost important thing is the earnings call coming up soon.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1145,
+      "retweets": 81,
+      "replies": 73,
+      "quotes": 18,
+      "views": 248822,
+      "bookmarks": 145
+    },
+    "createdAt": "Tue Aug 11 20:16:01 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2087271842696593764",
+    "createdAtISO": "2026-08-11T20:16:01+00:00",
+    "createdAtLocal": "2026-08-12 04:16"
+  },
+  {
+    "id": "2087266070919012664",
+    "text": "@NicolaRussoIT Not as familiar with adoption read through with $ANET XPO MSA (ik $MSFT has been the most openly supportive).. so can't really give a good answer to implications on other players like $POET. https://t.co/Xi6zrmo5ha",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 27,
+      "retweets": 0,
+      "replies": 8,
+      "quotes": 0,
+      "views": 8764,
+      "bookmarks": 5
+    },
+    "createdAt": "Tue Aug 11 19:53:05 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087257800128815517",
+    "inReplyToUserId": "397892942",
+    "conversationId": "2087249406638862506",
+    "createdAtISO": "2026-08-11T19:53:05+00:00",
+    "createdAtLocal": "2026-08-12 03:53"
+  },
+  {
+    "id": "2087251017796837800",
+    "text": "@zzakzzak111 If I can deal with 0-10 Draven supports, I can deal with trolls in the comment sections on X.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 64,
+      "retweets": 0,
+      "replies": 13,
+      "quotes": 0,
+      "views": 11202,
+      "bookmarks": 1
+    },
+    "createdAt": "Tue Aug 11 18:53:16 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087249576495346027",
+    "inReplyToUserId": "1719057805",
+    "conversationId": "2087249406638862506",
+    "createdAtISO": "2026-08-11T18:53:16+00:00",
+    "createdAtLocal": "2026-08-12 02:53"
+  },
+  {
+    "id": "2087249406638862506",
+    "text": "Just putting it out there for people that think AAOI is a one year cycle...\n\n$AAOI projects their ELSFP capacity for CPO to be 400K/units a month in 2028.\n\n400k * ~$400 ELS ASP (GS assumptions) = + another ~$1.92B 2028 annualized revenue capacity added as a new distinct (>50% gross margin) product line. \n\nOn top of their existing 2027 projections (eg. ~$5.6B annualized transceiver revenue off $471m/month entering H2). \n\nTAM for 1.6T also goes brrr so I'd expect their end of H2 2027 projections to go up as more capacity comes online... \n\nFor certain optical names, it's one cycle (eg. 1.6T, CPO scale out/up, NPO etc. ), stacked on top of one another... stacked on top of another...  with TAM + margins stacking like minions after Anivia uses W in line. \n\nRather than one-and-done off of one year. \n\nThis is a stark contrast to some other sectors where growth is likely to decelerate after maybe 1 year of triple digit Y/Y revenue growth.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 953,
+      "retweets": 55,
+      "replies": 108,
+      "quotes": 11,
+      "views": 151512,
+      "bookmarks": 202
+    },
+    "createdAt": "Tue Aug 11 18:46:52 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2087249406638862506",
+    "createdAtISO": "2026-08-11T18:46:52+00:00",
+    "createdAtLocal": "2026-08-12 02:46"
+  },
+  {
+    "id": "2087093920564138002",
+    "text": "@pepemoonboy Thank you so much! It’s a pretty incredible milestone for me to reach 1M since I treat it as a reflection that my ideas are worth paying attention to!\n\nAnd always appreciate my early friends such as yourself for helping me getting started on this platform.\n\nI’d love to respond to all the encouraging messages from everyone else too, but there’s too many comments now haha.\n\nSo I’ll just try my best to than everyone here for the kind words.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 135,
+      "retweets": 1,
+      "replies": 12,
+      "quotes": 0,
+      "views": 16028,
+      "bookmarks": 3
+    },
+    "createdAt": "Tue Aug 11 08:29:01 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087051179595272342",
+    "inReplyToUserId": "1875040188159967232",
+    "conversationId": "2087030220213870632",
+    "createdAtISO": "2026-08-11T08:29:01+00:00",
+    "createdAtLocal": "2026-08-11 16:29"
+  },
+  {
+    "id": "2087030220213870632",
+    "text": "Holy... We've reached 1,000,000 followers! \n\nIt's genuinely incredible that so many people care to read about my ideas around AI chokepoints and bottlenecks.\n\nFrom substrates, lasers, actuators, memory, power to some of the most niche parts of upstream supply chains.\n\nI've had a lot of fun sharing free thoughts I've come across along the way and tracking whether they get validated over time. \n\nA lot worked out, some haven't, and some are still playing out!\n\nBut honestly, all of this attention has come as a massive surprise to me this year, especially globally, from Sweden, Japan, Korea, to China. \n\nThank you for all your support! I'll be announcing something soon to celebrate.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 2844,
+      "retweets": 44,
+      "replies": 327,
+      "quotes": 20,
+      "views": 432360,
+      "bookmarks": 44
+    },
+    "createdAt": "Tue Aug 11 04:15:54 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPaeXgGaEAA5gO1.jpg",
+        "width": 1193,
+        "height": 1034
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2087030220213870632",
+    "createdAtISO": "2026-08-11T04:15:54+00:00",
+    "createdAtLocal": "2026-08-11 12:15"
+  },
+  {
+    "id": "2087023848772534302",
+    "text": "@HenilPatel20864 Yes",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 67,
+      "retweets": 0,
+      "replies": 9,
+      "quotes": 0,
+      "views": 40815,
+      "bookmarks": 1
+    },
+    "createdAt": "Tue Aug 11 03:50:35 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "und",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087021992381645259",
+    "inReplyToUserId": "1720844505325133825",
+    "conversationId": "2087021031320072235",
+    "createdAtISO": "2026-08-11T03:50:35+00:00",
+    "createdAtLocal": "2026-08-11 11:50"
+  },
+  {
+    "id": "2087021031320072235",
+    "text": "We're almost there...",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1096,
+      "retweets": 16,
+      "replies": 108,
+      "quotes": 6,
+      "views": 760606,
+      "bookmarks": 40
+    },
+    "createdAt": "Tue Aug 11 03:39:23 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2087021031320072235",
+    "createdAtISO": "2026-08-11T03:39:23+00:00",
+    "createdAtLocal": "2026-08-11 11:39"
+  },
+  {
+    "id": "2087005313702805786",
+    "text": "@Yangyftz Looks like normal market volatility to me. I think a successful IPO from Unitree might bring up the robotics sector as a whole near-term. \n\nRegardless, I see Harmonic Drive long-term to have record revenue numbers coming from humanoid ramp as robots scale up to the millions.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 60,
+      "retweets": 1,
+      "replies": 6,
+      "quotes": 1,
+      "views": 18937,
+      "bookmarks": 10
+    },
+    "createdAt": "Tue Aug 11 02:36:56 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087001845776711847",
+    "inReplyToUserId": "2038628416917041152",
+    "conversationId": "2087000954742927390",
+    "createdAtISO": "2026-08-11T02:36:56+00:00",
+    "createdAtLocal": "2026-08-11 10:36"
+  },
+  {
+    "id": "2087000954742927390",
+    "text": "uhhh... the Unitree IPO is more than 8000 times oversubscribed by retail investors. \n\nThe demand for pure play humanoid companies is absolutely enormous?\n\nI'm personally in the US-based Agility Robotics club (Softbank, $NVDA, $AMZN, Foxconn, etc), at $2.5B premoney via $CCXI. \n\nAnd my take is that Unitree likely opening at $30B+ (from pre-ipo perps), might bring the leading US players some more attention in a week or two. \n\nRegardless that's just absurd demand.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1196,
+      "retweets": 76,
+      "replies": 127,
+      "quotes": 28,
+      "views": 265826,
+      "bookmarks": 280
+    },
+    "createdAt": "Tue Aug 11 02:19:36 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPaDKZEbgAE0KXX.jpg",
+        "width": 1965,
+        "height": 1074
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2087000954742927390",
+    "createdAtISO": "2026-08-11T02:19:36+00:00",
+    "createdAtLocal": "2026-08-11 10:19"
+  },
+  {
+    "id": "2086989780571832501",
+    "text": "@lichunhong1204 I’m just posting about stuff I find interesting, and some signals thematically in terms of revenue inflection points.\n\nI don’t own $RIOT myself and can’t give buy recommendations, so in the end up to you.\n\nThey did contract roughly ~$455M annual revenue from that deal, and a second catalyst to think about might be the 2028 Bitcoin.\n\nSo some of these names with dual exposure might get a lot of attention H1 2028.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 67,
+      "retweets": 0,
+      "replies": 12,
+      "quotes": 0,
+      "views": 16952,
+      "bookmarks": 13
+    },
+    "createdAt": "Tue Aug 11 01:35:12 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2086988460838223920",
+    "inReplyToUserId": "1412288555884314625",
+    "conversationId": "2086988264448409739",
+    "createdAtISO": "2026-08-11T01:35:12+00:00",
+    "createdAtLocal": "2026-08-11 09:35"
+  },
+  {
+    "id": "2086988264448409739",
+    "text": "Woah, $RIOT announced a $9.1B deal with Anthropic, with a possible contract extending to $16.1B, over 20Y.\n\n$AMD also exercised its option to expand its existing deal with Riot. (And they still have another 1 GW campus they have LOI with for a tenant)\n\nIn terms of timelines, seem like most of the Colo basket have their revenue inflections hit H2 2027? \n\n(Eg. Riot Anthropic deal targets Dec 2027 for first 96 MW, AMD full 50 MW - May 2027)\n\nIt’s cute to see all the former miners like $IREN and co. grow up.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 787,
+      "retweets": 38,
+      "replies": 97,
+      "quotes": 8,
+      "views": 228536,
+      "bookmarks": 118
+    },
+    "createdAt": "Tue Aug 11 01:29:11 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPZ4w07awAAFTPQ.jpg",
+        "width": 1197,
+        "height": 354
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPZ4w1AbEAAJTnW.jpg",
+        "width": 1233,
+        "height": 814
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPZ4w09aUAAWiBI.jpg",
+        "width": 1223,
+        "height": 1274
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2086988264448409739",
+    "createdAtISO": "2026-08-11T01:29:11+00:00",
+    "createdAtLocal": "2026-08-11 09:29"
+  },
+  {
     "id": "2086840511164514742",
     "text": "Be Barrons:\n\n- Wants to write about optical supply supply chains like $AAOI\n\n- Hiring DPT: who needs engineers to write about this something this simple?  Let’s find underpaid political philosophy backgrounds.\n\n- proceeds to find a new hire from nonprofit communication consulting\n\n- first day on job: gets paid to model revenue ramp/margins projections, CW laser bottlenecks, internal capacity\n\n- New hire: “I don’t understand this sht”, “looks like a memestock”\n\nBarrons: “Memestock? looks like our next article, I don’t understand either”.",
     "author": {
