@@ -1,5 +1,799 @@
 [
   {
+    "id": "2087677744280977660",
+    "text": "@stockprodigyman My takeaway was that $SIVE / Win, Sumitomo, Furukawa, and other qualified CW merchant laser suppliers... \n\nAre going to become a lot more important in the near future.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 100,
+      "retweets": 2,
+      "replies": 6,
+      "quotes": 0,
+      "views": 7625,
+      "bookmarks": 9
+    },
+    "createdAt": "Wed Aug 12 23:08:56 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087675951958102208",
+    "inReplyToUserId": "1920329917876875268",
+    "conversationId": "2087675367595380783",
+    "createdAtISO": "2026-08-12T23:08:56+00:00",
+    "createdAtLocal": "2026-08-13 07:08"
+  },
+  {
+    "id": "2087675367595380783",
+    "text": "My main takeaway was that your merchant CW laser suppliers seem to be EXTREMELY IMPORTANT now. \n\nBut TLDR of $COHR earnings:\n\n\"given the demand that we see in our DC business with transceivers, I don’t see any time in the near future where we would be selling indium phosphide lasers externally\"\n\n- Ton more value placed on companies that sell InP lasers externally if $AAOI can't doesn't enough capacity for first gen-CPO deployments, $COHR not selling externally...  \n\nI guess that's why $MTSI said a ton of customers are approaching them with urgency for InP CW DFB lasers (and they dont even have meaningful capacity coming online until EOY 2027)\n\n$AAOI -> Internal\n$COHR -> Internal\nBuyers -> fewer places to look for capacity. \n\n \"Our backlog now extends out, fiscal 2027 is basically completely booked out. We are booked really through the end of calendar 2027\" [ Massive massive demand visibility]\n\n- Coherent also mentioned LTAs spanning end of decade. So this kinda reinforces what $POET CEO said at their AGM that the \"big 3\" are fully sold out next 2 years.\n\n\"we’re not constrained in the assembly and test capacity right now. We’re really just constrained by the ramp of the indium phosphide production\"\n\n- Just for the bottleneck bros in terms of assembly/test not a bottleneck. \n\n\"absolutely no push-out of CPO demand. In fact, it has been the opposite. We have seen demand increase and request from customers’ demand getting pulled in\"\n\n\"we continue to expect revenue from CPO for scale-up applications to start to flow in the second half of calendar 2027\" \n\n- Big read through on other CPO players for scale up if $LITE, $COHR reaffirm revenue from CPO scale up coming h2027. \n\n- \"quarterly revenue exceeding $3 billion by the end of fiscal 2027\" \n\n- $COHR revenue go brrr\n\nSo for regular numbers it's:\n\n- $2.046B revenue (+13.3% Q/Q, +33.8% Y/Y), main revenue ramp looks to be happening entering Q4 into 2027\n- Non-GAAP gross margins: 40.2%\n\nNext quarter guide is:\n- Revenue: $2.2–$2.4B revenue\n- Non-GAAP gross margins: 39.5-41.5%\n\nBasically:\n$1.69B -> $1.81B -> $2.05B -> ~$2.30B -> $3.0B (end of FY 2027) \n~39% -> 39.6% -> 40.2% -> ~40.5% (gross margins)\n\nFor operating margins:\n18.0% -> 19.5% -> 19.9% -> 20.3% -> 21.8%\n\nLittle less impressed compared to $LITE margin growth in terms of profitability, but revenue scale for $COHR growing rapidly.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 432,
+      "retweets": 29,
+      "replies": 49,
+      "quotes": 6,
+      "views": 134097,
+      "bookmarks": 133
+    },
+    "createdAt": "Wed Aug 12 22:59:29 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPjk-y9aMAA0zbv.jpg",
+        "width": 1630,
+        "height": 1425
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPjlID2bYAAviBy.jpg",
+        "width": 1545,
+        "height": 1029
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2087675367595380783",
+    "createdAtISO": "2026-08-12T22:59:29+00:00",
+    "createdAtLocal": "2026-08-13 06:59"
+  },
+  {
+    "id": "2087655812831519075",
+    "text": "@LightLogix Yeah looking at $COHR earnings now, pretty excited about the implications, will post soon",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 55,
+      "retweets": 0,
+      "replies": 4,
+      "quotes": 0,
+      "views": 7171,
+      "bookmarks": 0
+    },
+    "createdAt": "Wed Aug 12 21:41:47 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087655268067008830",
+    "inReplyToUserId": "3785368101",
+    "conversationId": "2087515371750490383",
+    "createdAtISO": "2026-08-12T21:41:47+00:00",
+    "createdAtLocal": "2026-08-13 05:41"
+  },
+  {
+    "id": "2087655011253981410",
+    "text": "@mikealfred Bears are going back into hibernation after seeing all these AI earning reports from $NBIS to $LITE.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 121,
+      "retweets": 0,
+      "replies": 9,
+      "quotes": 0,
+      "views": 11586,
+      "bookmarks": 4
+    },
+    "createdAt": "Wed Aug 12 21:38:36 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087616994870956440",
+    "inReplyToUserId": "95257097",
+    "conversationId": "2087515371750490383",
+    "createdAtISO": "2026-08-12T21:38:36+00:00",
+    "createdAtLocal": "2026-08-13 05:38"
+  },
+  {
+    "id": "2087519803124969916",
+    "text": "@R42t0r I've been pretty vocally bearish on $CRWV since last year compared to $NBIS and other neoclouds. \n\nDemand isn't really much of a problem with their $100B+ backlog, their revenue + 59% adjusted EBITDA margin looks good. \n\nBut underlying financing methods is really bad... \n\nCoreweave's debt interest (eg. Q2 interest expense reached $640m), which eats into FCF way too much... \nThat figure is like 42% of Coreweaves $1.51B adjusted EBITDA for reference.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 104,
+      "retweets": 1,
+      "replies": 7,
+      "quotes": 0,
+      "views": 19451,
+      "bookmarks": 18
+    },
+    "createdAt": "Wed Aug 12 12:41:19 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087516626556002537",
+    "inReplyToUserId": "1824329771364519938",
+    "conversationId": "2087515371750490383",
+    "createdAtISO": "2026-08-12T12:41:19+00:00",
+    "createdAtLocal": "2026-08-12 20:41"
+  },
+  {
+    "id": "2087515371750490383",
+    "text": "$NBIS outlook is pretty insane yet again.\n\n$582.3M revenue (+454% Y/Y, +46% Q/Q) off ~50% adjusted EBITDA margin (AI Cloud). $8.04B cash on hand. \n\nReiterates financial guide (2026 revenue: $3.0–$3.4B\n2026 EoY ARR: $7–$9B), I was hoping for a raise, but it's already massive growth. \n\nNot really about this quarter financials, but these signals:\n\n- \"We could sell our entire 2027 capacity on these terms today.\" massive visibility on demand\n- \"4 customer agreements averaging over $1B+ each in contract value\"\n- Around 70% of Q2 deals included customer prepayments\n- Contracted power guidance was raised again, from more ~4+ GW to 5 GW. (this used to be a concern vs. $IREN debate, but Nebius power guidance keeps going through the roof). \n- Expects $9B+ of prepayments in 2026 and says it has $40B+ of commitments.\n- annual contract value per MW keeps going brrr (>$40M/mw for Q3 short term capacity deals)  \n\nSame bear story will always be there (eg. large $5.66B of capex with current GAAP net loss), but demand is extreme with massive visibility, with increasing AI Cloud adjusted EBITDA margins ( 24% -> 45% -> 50% progression)\n\nWe kinda got this read through from all your hyperscaler cloud earnings and $CRWV backlog yesterday, but glad it's showing up in Weebius's earnings.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 2191,
+      "retweets": 172,
+      "replies": 119,
+      "quotes": 17,
+      "views": 273944,
+      "bookmarks": 295
+    },
+    "createdAt": "Wed Aug 12 12:23:43 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhWh0LaQAAkfQl.jpg",
+        "width": 1366,
+        "height": 1262
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhW0cEaQAAwP-a.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhW0-0bcAAkxLc.jpg",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2087515371750490383",
+    "createdAtISO": "2026-08-12T12:23:43+00:00",
+    "createdAtLocal": "2026-08-12 20:23"
+  },
+  {
+    "id": "2087505570941239683",
+    "text": "$AEHR receives another $22M follow on order for AI processor wafer level burn in systems.\n\nBy their lead AI processor company.\n\nIt’s cool to see this tiny company grow up so fast across so many verticals (memory, silicon photonics, etc).\n\nUp +5.39% premarket off the news. https://t.co/YkOtELzkmo",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 674,
+      "retweets": 35,
+      "replies": 72,
+      "quotes": 12,
+      "views": 230804,
+      "bookmarks": 82
+    },
+    "createdAt": "Wed Aug 12 11:44:46 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhPP0cagAAcE5y.jpg",
+        "width": 1237,
+        "height": 1021
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhPP0bboAAjeK3.jpg",
+        "width": 1205,
+        "height": 1221
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2087505570941239683",
+    "createdAtISO": "2026-08-12T11:44:46+00:00",
+    "createdAtLocal": "2026-08-12 19:44"
+  },
+  {
+    "id": "2087457633175507424",
+    "text": "@tontonborland @Sofigoodboy Pretty sure $SIVE had Lightmatter, Celestial, Lightelligence, and Ayar as customers way early on before. \n\nAnd they all ended up ~4B+ companies after starting off small. So I'm sure they know what to do with promising private company acquisitions. \n\nThere's not really much distressed public companies that offer optical transceiver designs other than maybe OE Solutions I think around ~$200m, but not sure how their progress is going with 800g/1.6T pluggables.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 141,
+      "retweets": 4,
+      "replies": 7,
+      "quotes": 0,
+      "views": 14819,
+      "bookmarks": 10
+    },
+    "createdAt": "Wed Aug 12 08:34:17 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087449599992549568",
+    "inReplyToUserId": "432945736",
+    "conversationId": "2087447527595692180",
+    "createdAtISO": "2026-08-12T08:34:17+00:00",
+    "createdAtLocal": "2026-08-12 16:34"
+  },
+  {
+    "id": "2087454919729308015",
+    "text": "@Mathieuber61726 Not really, I'm pretty sure Win Semi procures their own material/substrate supply. \n\nGiven it's position in Taiwan, Win is probably well connected to epi foundries like Landmark for additional sourcing options.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 94,
+      "retweets": 1,
+      "replies": 7,
+      "quotes": 0,
+      "views": 13796,
+      "bookmarks": 4
+    },
+    "createdAt": "Wed Aug 12 08:23:30 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087451028526448844",
+    "inReplyToUserId": "2037516366228373504",
+    "conversationId": "2087447527595692180",
+    "createdAtISO": "2026-08-12T08:23:30+00:00",
+    "createdAtLocal": "2026-08-12 16:23"
+  },
+  {
+    "id": "2087453528692600936",
+    "text": "@x4tsr No, because $AAOI said that their scarce capacity is dedicated internally toward making their own 800G/1.6T optical transceivers. \n\nWhich they said would be a 20-40% demand imbalance even if all their capacity come online. \n\nIt's not a bad thing to have too much demand, that you can't expand to new product lines.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 84,
+      "retweets": 0,
+      "replies": 8,
+      "quotes": 0,
+      "views": 13394,
+      "bookmarks": 5
+    },
+    "createdAt": "Wed Aug 12 08:17:58 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087448856875163793",
+    "inReplyToUserId": "3860756233",
+    "conversationId": "2087447527595692180",
+    "createdAtISO": "2026-08-12T08:17:58+00:00",
+    "createdAtLocal": "2026-08-12 16:17"
+  },
+  {
+    "id": "2087452367902159041",
+    "text": "@Malinrec - Because newer 1.6T optical transceivers and CPO volumes haven't ramped yet. $SIVE is targeting all the next generation optical shifts.\n\nThis comes from a misunderstanding of architectural shifts, you won't get 9 figure revenue in 2024 if customer CPO scale up deployments start in 2028. \n\n- $SIVE has 130+ employees and if I remember correctly, 1/4th to 1/3d were PHDs. \n\nLot of what they do is IP and they use Win Semi, external foundries for volume ramp. If they did assembly like $FN or $COHR, you would see employee count balloon. \n\nNot quite sure why you say a customer supplying to $JBL, $GFS, Ayar, $POET, and many other hyperscaler suppliers is a hopeless case. \n\nProbably one of the most unique ones I've seen.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 227,
+      "retweets": 3,
+      "replies": 7,
+      "quotes": 2,
+      "views": 18296,
+      "bookmarks": 23
+    },
+    "createdAt": "Wed Aug 12 08:13:22 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087449559685288010",
+    "inReplyToUserId": "2025183662929592320",
+    "conversationId": "2087447527595692180",
+    "createdAtISO": "2026-08-12T08:13:22+00:00",
+    "createdAtLocal": "2026-08-12 16:13"
+  },
+  {
+    "id": "2087450836616298968",
+    "text": "@Berlinergy I said $LITE went from $3b to $60B+ over a 2-3 year timeframe, especially due from Cloud Light acquisition in late 2023, that multiplied TAM by 5x+.  \n\nSince they started off in the EML laser / optical component chokepoint originally before M&A. \n\n$SIVE has the potential to do the same starting off in the CW laser chokepoint. \n\nBut it does require something like a successful M&A down pluggables or optical engines/ELS. \n\nTo capture more revenue off things like completed transceivers $AAOI, if they want to get to a similar scale. And my take was NASDAQ listing is necessary to unlock more funding to do so.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 208,
+      "retweets": 6,
+      "replies": 17,
+      "quotes": 4,
+      "views": 27547,
+      "bookmarks": 23
+    },
+    "createdAt": "Wed Aug 12 08:07:17 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087448286873501736",
+    "inReplyToUserId": "1305028419214815232",
+    "conversationId": "2087447527595692180",
+    "createdAtISO": "2026-08-12T08:07:17+00:00",
+    "createdAtLocal": "2026-08-12 16:07"
+  },
+  {
+    "id": "2087447527595692180",
+    "text": "So this is just what I'm seeing with $SIVE and the CW DFB laser chokepoint right now. \n\nFrom optical earnings: \n\n1. $LITE: unexpected demand and imbalance for UHP CW lasers. \n\n- Had ability to price up ASP for lasers. \n- Scale up CPO on track for H2 2027 shipments, called out any CPO scale up delay rumors as noise. \n\nLumentum confirmed timelines (that CPO players like Sivers sold off of misleading reports from), high margins, and extreme demand for qualified CW lasers. \n\n2. $AAOI: doesn’t have enough CW laser capacity because of too much optical transceiver demand.\n\n-  Not meaningfully participating in first-gen CPO deployments, with $MTSI not looking like they're in it either but focusing on NPO. Haven't seen much with $SMTC after their HieFo acqusition. \n- Called lasers as the bottleneck within a 20-40% demand imbalance for transceivers. \n- Says customers approaching them every week asking them for supply + to move faster.\n\nAOI confirmed demand imbalances  + bottlenecks for lasers. And we got an even smaller pool for first-gen CPO players. \n\n3. Both $AAOI and $LITE claimed Chinese players were years behind for CPO lasers and far behind stated claims in qualified capacity. \n\n- $AAOI said 2-3 years+ behind with CPO lasers. \n- $LITE said they haven't seen anything like Chinese claims in terms of outputs (and no recourse if it's false). \n\nReaffirms moat for CPO related lasers, and no flooding from some shortseller claims on the optical sector.  \n\n4. $MTSI said that many customers are approaching them with urgency due to the general supply shortage of indium phosphide DFB lasers. \n\nAgain, puts Sivers in the that bottleneck, giving them likely more customer demand .\n\nAmong $COHR ($72.54B), $LITE ($66.57B), $AVGO ($2.13T): \n\nIt's very special you get one of the public 4 Western CPO leaders at a ~$1.5B MC with $SIVE.  \n\nFeels like my thesis with both:\n\n- The CW bottleneck that I predicted\n- CW laser chokepoint (where there's only a few CPO players, at least for gen-1)\n\nGot validated from earnings, now it's just waiting for the inflection points of next optical architecture shifts.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1301,
+      "retweets": 92,
+      "replies": 90,
+      "quotes": 14,
+      "views": 271853,
+      "bookmarks": 354
+    },
+    "createdAt": "Wed Aug 12 07:54:08 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2087447527595692180",
+    "createdAtISO": "2026-08-12T07:54:08+00:00",
+    "createdAtLocal": "2026-08-12 15:54"
+  },
+  {
+    "id": "2087444385164386442",
+    "text": "@Schulz_Research They went from 16.61% -&gt; 15.22% -&gt; 4.41% apparently, which was likely the margin liquidation. \n\nMaybe they could have pushed for activist style price hikes if we didn't see a surprising drop.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 51,
+      "retweets": 0,
+      "replies": 8,
+      "quotes": 0,
+      "views": 10780,
+      "bookmarks": 3
+    },
+    "createdAt": "Wed Aug 12 07:41:38 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087425644548538619",
+    "inReplyToUserId": "2015753413418762240",
+    "conversationId": "2087424400811507963",
+    "createdAtISO": "2026-08-12T07:41:38+00:00",
+    "createdAtLocal": "2026-08-12 15:41"
+  },
+  {
+    "id": "2087426268841361497",
+    "text": "@MaxChua16 The Serenity Awarness Fund would have bought 1/6th of $SIVE and $AAOI",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 212,
+      "retweets": 11,
+      "replies": 18,
+      "quotes": 3,
+      "views": 25440,
+      "bookmarks": 11
+    },
+    "createdAt": "Wed Aug 12 06:29:39 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087424809898787128",
+    "inReplyToUserId": "1358360642856517640",
+    "conversationId": "2087424400811507963",
+    "createdAtISO": "2026-08-12T06:29:39+00:00",
+    "createdAtLocal": "2026-08-12 14:29"
+  },
+  {
+    "id": "2087424400811507963",
+    "text": "What a legend, Situational Awareness bought 1/6th of the entire company of Taiyo Yuden.\n\nPretty wild to see this unfolding. https://t.co/nBQW5DOZ5f",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 733,
+      "retweets": 33,
+      "replies": 44,
+      "quotes": 13,
+      "views": 321076,
+      "bookmarks": 163
+    },
+    "createdAt": "Wed Aug 12 06:22:14 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgFbTvakAA0kbj.jpg",
+        "width": 1214,
+        "height": 1004
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2087424400811507963",
+    "createdAtISO": "2026-08-12T06:22:14+00:00",
+    "createdAtLocal": "2026-08-12 14:22"
+  },
+  {
+    "id": "2087411390671941939",
+    "text": "@zephyr_z9 Feels bad, I remember there was an update that he just removed margin/leverage but was able to still have public company exposure",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 66,
+      "retweets": 0,
+      "replies": 11,
+      "quotes": 0,
+      "views": 19712,
+      "bookmarks": 2
+    },
+    "createdAt": "Wed Aug 12 05:30:32 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087409870492623064",
+    "inReplyToUserId": "1695126229446479872",
+    "conversationId": "2087397768314999183",
+    "createdAtISO": "2026-08-12T05:30:32+00:00",
+    "createdAtLocal": "2026-08-12 13:30"
+  },
+  {
+    "id": "2087397768314999183",
+    "text": "It was reported today that Leopold’s Situational Awareness acquired 11.62% of Taiyo Yuden (6976).\n\nUp from 5.99% as of July 16th. \n\nI do agree with his position (if he still has it) in terms of how valuable this MLCC manufacturer is to global AI supply chains. https://t.co/fAQNpAFfhU",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 793,
+      "retweets": 40,
+      "replies": 45,
+      "quotes": 12,
+      "views": 605866,
+      "bookmarks": 274
+    },
+    "createdAt": "Wed Aug 12 04:36:24 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPftNHKaQAAoWy7.jpg",
+        "width": 1231,
+        "height": 1561
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPftNHIbMAAbGxC.jpg",
+        "width": 1236,
+        "height": 1120
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2087397768314999183",
+    "createdAtISO": "2026-08-12T04:36:24+00:00",
+    "createdAtLocal": "2026-08-12 12:36"
+  },
+  {
+    "id": "2087357522093260938",
+    "text": "I didn’t know Leopold was a fellow MLCC bottleneck investor in Taiyo Yuden (6976)\n\nIt’s been disclosed today that Situational Awareness owns 5.99% of the company with a ~ ¥17,446/share avg as of June 29th. \n\nCurrent prices are ¥9,797. \n\nI actually added some today to show support since Taiyo Yuden is one of the largest % MLCC manufacturers globally.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1407,
+      "retweets": 100,
+      "replies": 84,
+      "quotes": 28,
+      "views": 632826,
+      "bookmarks": 631
+    },
+    "createdAt": "Wed Aug 12 01:56:29 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPfImFHbAAEzDAK.jpg",
+        "width": 1207,
+        "height": 1166
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPfImE9bYAAxjRW.jpg",
+        "width": 1200,
+        "height": 1224
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPfImE5acAAmHtU.jpg",
+        "width": 1233,
+        "height": 1306
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2087357522093260938",
+    "createdAtISO": "2026-08-12T01:56:29+00:00",
+    "createdAtLocal": "2026-08-12 09:56"
+  },
+  {
+    "id": "2087352370212876390",
+    "text": "@PatientGS Nah, $SMCI gave blowout projections for 2027 with that ~$70B revenue guidance relative to their $20B MC.\n\nI still think it should get rerated. Just a bit annoying I couldn’t get clear answers for margin estimates.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 97,
+      "retweets": 0,
+      "replies": 16,
+      "quotes": 1,
+      "views": 16674,
+      "bookmarks": 10
+    },
+    "createdAt": "Wed Aug 12 01:36:00 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087350385342112084",
+    "inReplyToUserId": "1969545088855654400",
+    "conversationId": "2087345398130282801",
+    "createdAtISO": "2026-08-12T01:36:00+00:00",
+    "createdAtLocal": "2026-08-12 09:36"
+  },
+  {
+    "id": "2087346666508861510",
+    "text": "@zcelestialbaby https://t.co/ycw8XCCGzy",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 145,
+      "retweets": 3,
+      "replies": 15,
+      "quotes": 2,
+      "views": 23236,
+      "bookmarks": 2
+    },
+    "createdAt": "Wed Aug 12 01:13:20 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "qme",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087346115373052320",
+    "inReplyToUserId": "1482889003972112384",
+    "conversationId": "2087345398130282801",
+    "createdAtISO": "2026-08-12T01:13:20+00:00",
+    "createdAtLocal": "2026-08-12 09:13"
+  },
+  {
+    "id": "2087345398130282801",
+    "text": "Bro Charles the $SMCI CEO needs to become a politician.\n\nI’ve never seen a guy dodge so many questions on a Q&A earnings transcript before.\n\n- “what’s your 2027 gross margins”\n\nA: “we look forward to growing them\n\n- “do you anticipate margins to improve September?”\n\nA: September. Which is September?",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1203,
+      "retweets": 26,
+      "replies": 120,
+      "quotes": 12,
+      "views": 240104,
+      "bookmarks": 90
+    },
+    "createdAt": "Wed Aug 12 01:08:18 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2087345398130282801",
+    "createdAtISO": "2026-08-12T01:08:18+00:00",
+    "createdAtLocal": "2026-08-12 09:08"
+  },
+  {
     "id": "2087329770879197549",
     "text": "$LITE earnings transcript TLDRs:\n\n- \"Our visibility into the timing of CPO scale-up deployments has also sharpened. We remain confident in a demand ramp for our ultra-high-power  laser chips in the second half of calendar 2027\"\n\nH2 2027 start of CPO scale up ramp confirmed from Lumentum for their lead customer. \n\n- \"We were recently given our first external light source, or ELS, module purchase for delivery by the second half of calendar 2027\" \n\nELS industry ramp timelines\n\n- \"The NPO opportunity is completely additive for us, significantly increasing the optical TAM.\"\n\nMore TAM for laser chokepoint club\n\n- \"we expect the 1.6T transceiver uptake to intensify starting in fiscal Q1 and sustain through calendar 2027.\"\n\n- \"Even in CW, we’ve been surprised at our ability to price up\"\n\nPositive pricing power for $SIVE and the other CW laser players. \n\n- \"As a result, we are able to command a nice price premium that we expect  to sustain, as these Chinese if these Chinese guys come online. \n\nI caution people also, I think people are some of these Chinese laser suppliers are not delivering in the market today, so they have there is no recourse when they throw out these big numbers. We have not seen anything like that to date in terms of their output.\"\n\nChinese players are more behind than markets expect, corroborated by $AAOI and $LITE. \n\n- \"We are way behind in our shipments, unfortunately, on high-powered lasers\"\n\n\"The demand signal has increased, and we are very much further behind relative to our ability to supply.\"\n\nExtreme demand imbalance for UHP CW laser capacity, continued demand imbalance for EML. Shipping roughly +$50M year end -> $100m+ (\"triple digit quarter\") into much larger H2 2027 and 2028 scale up demand,.\n\n- \"So what we are trying to do, I think, really in the last three months is secure even more substrate supply\" (because of demand imbalance), \"we found additional substrate help from $AXTI They are a great partner.\"\n\nHello InP substrate bottleneck. \n\nTLDR:\n\n- Lumentum CPO scale up H2 2027 shipments got confirmed, dismissed any \"delay\" news as market \"noise\". (one delay report caused so much damage, and it took Nvidia, Lumentum, and all these companies weeks to do damage control). \n- CW lasers demand ramp second half of 2027\n- Extreme demand imbalance for UHP CW laser capacity surprised Lumentum\n- UHP lasers commands very high margins and is able to price up CW laser capacity. \n- China further behind in the laser/capacity angle. \n\nBasically just validated timelines + demand/pricing for Western CW laser players. \n\nCW laser scarcity is already happening before the main volume ramp even begins...",
     "author": {
