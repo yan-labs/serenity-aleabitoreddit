@@ -1,5 +1,470 @@
 [
   {
+    "id": "2087908137831698627",
+    "text": "@Highonstocks_ Yeah I personally bought $SMCI on earnings day after I saw the guidance. \n\nAt a certain point, hairdryers should only weigh down a stock so much right?",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 70,
+      "retweets": 0,
+      "replies": 8,
+      "quotes": 0,
+      "views": 12911,
+      "bookmarks": 6
+    },
+    "createdAt": "Thu Aug 13 14:24:26 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087903094935875867",
+    "inReplyToUserId": "1898087778857926656",
+    "conversationId": "2087902683474891106",
+    "createdAtISO": "2026-08-13T14:24:26+00:00",
+    "createdAtLocal": "2026-08-13 22:24"
+  },
+  {
+    "id": "2087870374751187320",
+    "text": "@Papsytwinz Uhh nothing really too interesting aside from a new $2.3M purchase order for $POET\n\nWill need to wait for earnings call.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 41,
+      "retweets": 1,
+      "replies": 8,
+      "quotes": 0,
+      "views": 14667,
+      "bookmarks": 2
+    },
+    "createdAt": "Thu Aug 13 11:54:22 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087868317763588569",
+    "inReplyToUserId": "1514538478327021573",
+    "conversationId": "2087867722784805170",
+    "createdAtISO": "2026-08-13T11:54:22+00:00",
+    "createdAtLocal": "2026-08-13 19:54"
+  },
+  {
+    "id": "2087867722784805170",
+    "text": "In IPO news… Vantage Data Centers is exploring going public at an enormous $100B valuation. \n\nIf you’re not familiar, $ORCL is their anchor tenant for Stargate (OpenAI end user), and Vantage develops/operates hyperscaler DCs.\n\nAnthropic IPO is also expected, with investors expecting $2T valuation, eclipsing $SPCX per FT.\n\nYeah… idk about Anthropic valuations. Jim Cramer defending that valuation is never a good sign. \n\nOn a side note, Opus 5 is probably the worst consumer LLM I’ve used to date, it’s like a 5 IQ LLM operating off terrible data retrieval. With a Fable-like God complex on top.\n\nEnterprise is probably having a better time though. \n\nUnitree IPO is also expected this month and priced it at a $9B valuation. Which is a positive tailwind for Unitree for the humanoid sectors. \n\nNot really an AI name but SHEIN is going public as soon as the 19th this month.\n\nGo ask any girl you know and they’re probably familiar with this platform.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 552,
+      "retweets": 31,
+      "replies": 90,
+      "quotes": 6,
+      "views": 169342,
+      "bookmarks": 103
+    },
+    "createdAt": "Thu Aug 13 11:43:50 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmYnwJbAAAP-VR.jpg",
+        "width": 1234,
+        "height": 1007
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmYnwFbEAAbOFT.jpg",
+        "width": 1239,
+        "height": 1216
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmYnwOa4AAURCt.jpg",
+        "width": 1216,
+        "height": 519
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmYnwaaQAAwRDV.jpg",
+        "width": 1233,
+        "height": 797
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2087867722784805170",
+    "createdAtISO": "2026-08-13T11:43:50+00:00",
+    "createdAtLocal": "2026-08-13 19:43"
+  },
+  {
+    "id": "2087857563354476920",
+    "text": "@blkslymn I'm not sure if it's just me, but I'm just seeing enormous CW demand imbalance right now (thank you $NVDA). \n\nAnd this is before scale up and other 1.6T ramps even arrive. Then you have $AAOI and $SIVE appear with scarce, independent CW laser or transceiver capacity... \n\nThat usually leads forces your other major players like $AMD and hyperscalers to look at them. $MTSI said their capacity only starts to come online H2 2027 and customers are already approaching them with urgency...\n\nCW lasers is one of my favorite bottlenecks right now.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 132,
+      "retweets": 4,
+      "replies": 5,
+      "quotes": 1,
+      "views": 22045,
+      "bookmarks": 15
+    },
+    "createdAt": "Thu Aug 13 11:03:28 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087852172394344752",
+    "inReplyToUserId": "1499006696441716736",
+    "conversationId": "2087846074027295020",
+    "createdAtISO": "2026-08-13T11:03:28+00:00",
+    "createdAtLocal": "2026-08-13 19:03"
+  },
+  {
+    "id": "2087852125334413822",
+    "text": "@dra99aso I usually just post research along the way as new news comes out (eg. Lumilens $5.5B valuation announcement + hyperscaler contracts). \n\nBut I'll drop it in disclosures if I have a position on something like $POET or $SMCI earlier. Maybe I'll do a roundup TLDR later.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 60,
+      "retweets": 0,
+      "replies": 5,
+      "quotes": 0,
+      "views": 10953,
+      "bookmarks": 1
+    },
+    "createdAt": "Thu Aug 13 10:41:51 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087850783442104787",
+    "inReplyToUserId": "1436935885342351371",
+    "conversationId": "2087846074027295020",
+    "createdAtISO": "2026-08-13T10:41:51+00:00",
+    "createdAtLocal": "2026-08-13 18:41"
+  },
+  {
+    "id": "2087849557829046296",
+    "text": "@SammmXBT If I had to categorize it: \n\n$SIVE = Waiting for Revenue Conversion\n\nTons of hyperscaler suppliers + demand visibility for the CW DFB. How do markets want to price in or assign a premium on the waiting game for 1.6T H1 2027 to CPO scale up for H2 2027? \n\n$AAOI = Waiting for Capacity Execution\n\nExtreme demand visibility for transceivers. Can they ramp up capacity to meet their $471m/month projections? \n\n$POET = Waiting for Customers\n\nToo much cash relative to MC + heavily funded supply chain capacity setup, little demand visbility.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 157,
+      "retweets": 11,
+      "replies": 6,
+      "quotes": 1,
+      "views": 17330,
+      "bookmarks": 29
+    },
+    "createdAt": "Thu Aug 13 10:31:39 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087846210510217647",
+    "inReplyToUserId": "1424428266597666817",
+    "conversationId": "2087846074027295020",
+    "createdAtISO": "2026-08-13T10:31:39+00:00",
+    "createdAtLocal": "2026-08-13 18:31"
+  },
+  {
+    "id": "2087846074027295020",
+    "text": "Okay here's my take on $POET, since apparently people are celebrating on the subreddit that I took small positions. \n\n- I have 0 idea. ZERO. How they convinced shareholders to allow them dilute SO MUCH to the point:\n\nThey have an absurd ~$830m cash on hand now. \n\nAnd my guess is that they're close to done, since I would be in disbelief if they needed more. \n\nSo now... they have ~$830m to grow their business like M&A, and EV actually dropped really low recently (eg. $1.25B MC vs. $830m cash on hand), that I thought it was compelling to take a risk. \n\n- Annualized production capacity target is 12M optical engines/year for 2027, which is pretty absurd ramp. \n\nNeed to do more research into ASP for Poet's products, but maybe $125-$200? So at ~$150 ASP, $1.8B revenue ceiling. \n\nBut they're like inverse AAOI right now: no visible demand to fill all that capacity. Aside from Lumilens, which is now a highly valued hyperscaler supplier (probably Amazon or Microsoft), with billions in customer agreements. \n\nThe interesting thing is if Poet signed prepayment EML agreements with players like Mitsubishi, or CW agreements with Sivers behind the scenes with that balance sheet. \n\nAnd given the current bottleneck, players might use Poet as a workaround for supply procurement. \n\nBut basically, you have a super cash-rich company with a ton of capacity coming online. And they're not really disappearing anytime soon with their financials. \n\nI don't quite think it's as technically defensible compared to upstream laser chokepoints with something like $SIVE around the same valuation in terms of technical moat for CW lasers vs. OE packaging side. As you've seen recently with Celestial and Poet. \n\nBut maybe... there's a chance some hyperscaler or downstream company announces a volume agreement sometime in the future. and $POET takes off. And they do have the supply chain setup for ramp with that.  \n\nThat's the risk I ended up taking, but it's not exactly a clear as day long for me like $AAOI.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 611,
+      "retweets": 23,
+      "replies": 54,
+      "quotes": 1,
+      "views": 288988,
+      "bookmarks": 163
+    },
+    "createdAt": "Thu Aug 13 10:17:49 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmEhJ_aQAEn_zO.jpg",
+        "width": 1522,
+        "height": 426
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2087846074027295020",
+    "createdAtISO": "2026-08-13T10:17:49+00:00",
+    "createdAtLocal": "2026-08-13 18:17"
+  },
+  {
+    "id": "2087838176677376186",
+    "text": "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)  \n\nSo I stopped covering them as much. But TLDR on  updates:\n\nEarly this year, IQE was a distressed but critical chokepoint in the optical supply chain with links to $LITE and others when I published my thesis on it.\n\nSince then:\n\n- $MTSI signed long term epiwafer supply agreements, took a stake in the company, now IQE is bank debt free (Macom has convertibles, but that's positive)\n- $TSEM signed agreements for InP epiwafers. \n- Management explicitly said its IQE agreement was signed to secure the \"strategic III-V epiwafer supply required for that roadmap\"\n- IQE signed another ~$14M mysterious AI DC contract. \n\nThe only part that's still playing out with my earlier thesis is IQE converting their latent/underutilized capacity toward AI DC segment, to match peers like Landmark in the space (which takes time, like slightly over a year if I remember correctly). \n\nThere's some national security implications that I'll avoid talking about that makes them more important.\n\nBut basically:\nFY2025 revenue: £97.3m\nFY2026 guidance: over £126.5m\n\nThey're rapidly growing again in the optical sector, out of bank debt/distressed liquidation state, and remains a critical chokepoint in Western optical supply chains. \n\nNow... with new agreements with your leading photonics companies for revenue growth, and players like Macom serving as a soft backstop.  \n\nAfter a thesis gets validated, typically I just sit back and enjoy growth of a business.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 475,
+      "retweets": 22,
+      "replies": 53,
+      "quotes": 2,
+      "views": 209304,
+      "bookmarks": 94
+    },
+    "createdAt": "Thu Aug 13 09:46:26 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPl6Yhua0AATojC.jpg",
+        "width": 1686,
+        "height": 1368
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2087838176677376186",
+    "createdAtISO": "2026-08-13T09:46:26+00:00",
+    "createdAtLocal": "2026-08-13 17:46"
+  },
+  {
+    "id": "2087817506711011688",
+    "text": "@dankdrankkz Sivers found a small Series B company that raised $3m last year that achieved 200-250mw per emitter apparently.\n\n$SIVE can maybe combine that with their high wavelength DFB array, and maybe make something extremely high power like eg. 8/16 × 200-250mw for high aggregate output. \n\nProgram was focused on \"need for higher power, more wavelengths\" for CPO, so that's my guess.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 144,
+      "retweets": 2,
+      "replies": 11,
+      "quotes": 0,
+      "views": 14998,
+      "bookmarks": 8
+    },
+    "createdAt": "Thu Aug 13 08:24:18 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087809246201270422",
+    "inReplyToUserId": "1249508095639732224",
+    "conversationId": "2087807614172488131",
+    "createdAtISO": "2026-08-13T08:24:18+00:00",
+    "createdAtLocal": "2026-08-13 16:24"
+  },
+  {
+    "id": "2087809348596814191",
+    "text": "@JoelLikesTurtle That's literally the earliest timeframe possible for CPO scale up early volumes if you look at $LITE and $COHR earnings. \n\nAnd giving that specific timeframe is actually extremely bullish.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 115,
+      "retweets": 2,
+      "replies": 8,
+      "quotes": 0,
+      "views": 15029,
+      "bookmarks": 5
+    },
+    "createdAt": "Thu Aug 13 07:51:52 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087808168550170731",
+    "inReplyToUserId": "441185322",
+    "conversationId": "2087807614172488131",
+    "createdAtISO": "2026-08-13T07:51:52+00:00",
+    "createdAtLocal": "2026-08-13 15:51"
+  },
+  {
+    "id": "2087807614172488131",
+    "text": "$SIVE announces a $3.4M development program with SemiNex!\n\nFor CPO, DFB laser arrays, and optical amplifiers. \n\nEarly production is targeted H2 2027 (in line with early scale up CPO timelines)\n\nSeemed weird to me at first given product overlap, since SemiNex is a much smaller Series B company... \n\nBut then I got reminded of a less explicit version of $SPCX + Cursor relationship (derisking by working together first). \n\nThere's probably something interesting Sivers found in this company.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1067,
+      "retweets": 57,
+      "replies": 88,
+      "quotes": 12,
+      "views": 193312,
+      "bookmarks": 109
+    },
+    "createdAt": "Thu Aug 13 07:44:59 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPle0uUbwAAITX3.jpg",
+        "width": 1645,
+        "height": 1564
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2087807614172488131",
+    "createdAtISO": "2026-08-13T07:44:59+00:00",
+    "createdAtLocal": "2026-08-13 15:44"
+  },
+  {
+    "id": "2087734641994448935",
+    "text": "@sfproof I’m advocating for longer 4 letter words instead of 3, like TFLN.\n\nRather than adding to the list with BTO or MTP.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 56,
+      "retweets": 0,
+      "replies": 13,
+      "quotes": 0,
+      "views": 16343,
+      "bookmarks": 2
+    },
+    "createdAt": "Thu Aug 13 02:55:01 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2087734018985054649",
+    "inReplyToUserId": "228942211",
+    "conversationId": "2087733927930929435",
+    "createdAtISO": "2026-08-13T02:55:01+00:00",
+    "createdAtLocal": "2026-08-13 10:55"
+  },
+  {
+    "id": "2087733927930929435",
+    "text": "Is it just me, or is the list of 3 letter optical jargon never ending?\n\nWe have LPO, LRO, NPO, XPO, CPO, OBO, and others for approaches.\n\nThen InP, EML, ELS, OCS, SOI, and others to add to the random terms.\n\nEven the industry events with OCP or OFC get their three letter names.\n\nPeople who have followed me on my optical bottleneck scavenger hunt with $SOI or $IQE might know a lot by now.\n\nBut wouldn’t new followers might be super confused…",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 738,
+      "retweets": 19,
+      "replies": 88,
+      "quotes": 4,
+      "views": 227675,
+      "bookmarks": 105
+    },
+    "createdAt": "Thu Aug 13 02:52:11 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2087733927930929435",
+    "createdAtISO": "2026-08-13T02:52:11+00:00",
+    "createdAtLocal": "2026-08-13 10:52"
+  },
+  {
     "id": "2087677744280977660",
     "text": "@stockprodigyman My takeaway was that $SIVE / Win, Sumitomo, Furukawa, and other qualified CW merchant laser suppliers... \n\nAre going to become a lot more important in the near future.",
     "author": {
