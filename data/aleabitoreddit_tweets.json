@@ -1,5 +1,246 @@
 [
   {
+    "id": "2088610457104109828",
+    "text": "@LcubedInvest @logeonli16 $AAOI blended gross margins goes up when they sell ELSFP and 1.6T optical transceivers.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 55,
+      "retweets": 0,
+      "replies": 4,
+      "quotes": 0,
+      "views": 10442,
+      "bookmarks": 6
+    },
+    "createdAt": "Sat Aug 15 12:55:12 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2088603014940737939",
+    "inReplyToUserId": "1945685056854376448",
+    "conversationId": "2088501133543407959",
+    "createdAtISO": "2026-08-15T12:55:12+00:00",
+    "createdAtLocal": "2026-08-15 20:55"
+  },
+  {
+    "id": "2088575798664110367",
+    "text": "@logeonli16 It’s fully up to you. But I’m expecting $AAOI to get close or maybe a 20% chance to surpass $LITE in revenue early H1 2028 if AOI fully executes on capacity projections.\n\nWhich is pretty interesting when you look at the $12B vs ~$80B valuations (lot of it is better margins for Lumentum)",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 125,
+      "retweets": 2,
+      "replies": 9,
+      "quotes": 2,
+      "views": 29100,
+      "bookmarks": 22
+    },
+    "createdAt": "Sat Aug 15 10:37:28 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2088553537538244647",
+    "inReplyToUserId": "1586771538711556096",
+    "conversationId": "2088501133543407959",
+    "createdAtISO": "2026-08-15T10:37:28+00:00",
+    "createdAtLocal": "2026-08-15 18:37"
+  },
+  {
+    "id": "2088514723969159216",
+    "text": "@Jimbo_Jones_Jr You can look at the YTDs for: \n\n- $SIVE, $IQE, $AXTI, $ARM, $MRVL, $INTC, $SOI, solana:NBiSF3UaVUFtRzHwAfxyHsBCAZWGEKnMpewAE4oh7BG, $AAOI, $LITE, $EWY, $TSEM, $AEHR, $RPI, $MU that I did took positions on earlier in the year or last year. \n\nThen let me know if you still think that way.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 297,
+      "retweets": 7,
+      "replies": 31,
+      "quotes": 0,
+      "views": 37750,
+      "bookmarks": 120
+    },
+    "createdAt": "Sat Aug 15 06:34:47 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2088501664823357454",
+    "inReplyToUserId": "1316492735746961408",
+    "conversationId": "2088501133543407959",
+    "createdAtISO": "2026-08-15T06:34:47+00:00",
+    "createdAtLocal": "2026-08-15 14:34"
+  },
+  {
+    "id": "2088509060060741932",
+    "text": "@alexgoumas I don’t share USD amounts because % is what matters when validating if a thesis is correct.\n\nIf someone made $1M off $AAOI going up 1% because they’re wealthy and had a $100M position, that doesn’t mean their long idea is correct.\n\nBut I will say it’s bigger than people think.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 482,
+      "retweets": 5,
+      "replies": 35,
+      "quotes": 2,
+      "views": 55708,
+      "bookmarks": 12
+    },
+    "createdAt": "Sat Aug 15 06:12:17 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2088504491519680867",
+    "inReplyToUserId": "1721148633997877248",
+    "conversationId": "2088501133543407959",
+    "createdAtISO": "2026-08-15T06:12:17+00:00",
+    "createdAtLocal": "2026-08-15 14:12"
+  },
+  {
+    "id": "2088505825912631604",
+    "text": "@halldj00 Some fun statistics:\n\n- Round 69.2% is unrealized. ~2% of the unrealized options, 98% just pure shares.\n- Drawndown from peak was ~77.8%, not really any risk if liqudiation at the lows, but recovery was a lot slower \n- $EWY longs were up about 450% at the peak, those made up the largest portion of my earlier realized gains, but I still have a sizeable position in that.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 155,
+      "retweets": 3,
+      "replies": 16,
+      "quotes": 2,
+      "views": 54834,
+      "bookmarks": 25
+    },
+    "createdAt": "Sat Aug 15 05:59:26 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2088502042805612794",
+    "inReplyToUserId": "314335333",
+    "conversationId": "2088501133543407959",
+    "createdAtISO": "2026-08-15T05:59:26+00:00",
+    "createdAtLocal": "2026-08-15 13:59"
+  },
+  {
+    "id": "2088501133543407959",
+    "text": "说我归零的传闻未免也太夸张了吧 哈哈\n\n经历了7月份AI板块的崩盘后，我的YTD收益依然还有 +2,411.84% https://t.co/m49XcPRgC3",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 4970,
+      "retweets": 117,
+      "replies": 474,
+      "quotes": 77,
+      "views": 1374057,
+      "bookmarks": 482
+    },
+    "createdAt": "Sat Aug 15 05:40:47 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPvYtZybQAAkeWP.jpg",
+        "width": 1260,
+        "height": 980
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2088501133543407959",
+    "createdAtISO": "2026-08-15T05:40:47+00:00",
+    "createdAtLocal": "2026-08-15 13:40"
+  },
+  {
+    "id": "2088457278928412812",
+    "text": "US Government urges $AAPL not to buy Chinese memory chips. \n\n$MU, $SKHY, and Samsung are happy to hear this...\n\nHilariously enough, CXMT/YMTC is price hiking too, so it's not exactly \"cheap Chinese memory that floods the market\". \n\nApple once upon a time actually had extreme supplier leverage before the AI boom.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1920,
+      "retweets": 161,
+      "replies": 122,
+      "quotes": 35,
+      "views": 315966,
+      "bookmarks": 204
+    },
+    "createdAt": "Sat Aug 15 02:46:31 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPuvoAaaEAEId36.jpg",
+        "width": 1288,
+        "height": 567
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2088457278928412812",
+    "createdAtISO": "2026-08-15T02:46:31+00:00",
+    "createdAtLocal": "2026-08-15 10:46"
+  },
+  {
     "id": "2088302095997030514",
     "text": "@BakshJahed I don't want people to copytrade so I don't really actively share a breakdown. \n\nRather just post ideas along the way so people can make their own choices. \n\nBut I'll share some updates in a bit",
     "author": {
