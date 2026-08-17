@@ -1,5 +1,314 @@
 [
   {
+    "id": "2089151601969865160",
+    "text": "@MinuteMoola Just a guess, I'm going to watch Stripe create OpenRouter's moat...\n\nBy lobbying Congress to make API access across all frontier models require heavy KYC/DD like opening a bank account.\n\nThen require everyone else to get licenses to route inference requests to customers.\n\nWith something along the lines of: \"We care about user safety. If LLMs can generate nuke guides, bio weps, companies routing inference requests must have guardrails!\"",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 20,
+      "retweets": 1,
+      "replies": 2,
+      "quotes": 0,
+      "views": 2783,
+      "bookmarks": 2
+    },
+    "createdAt": "Mon Aug 17 00:45:31 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2089149219303002390",
+    "inReplyToUserId": "2400482101",
+    "conversationId": "2089148883838611460",
+    "createdAtISO": "2026-08-17T00:45:31+00:00",
+    "createdAtLocal": "2026-08-17 08:45"
+  },
+  {
+    "id": "2089148883838611460",
+    "text": "Stripe reportedly buys OpenRouter for $7 Billion.\n\nI think their orchestration is easy to replicate and switch from. And there's very little moat.\n\nBut atm, OpenRouter has the userbase, valuable dataset, + momentum. \n\nWhat's your take... Yay or Nay for the payments firm? https://t.co/AqOlKlwCzc",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 171,
+      "retweets": 8,
+      "replies": 53,
+      "quotes": 0,
+      "views": 44380,
+      "bookmarks": 23
+    },
+    "createdAt": "Mon Aug 17 00:34:43 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP4kjYIbYAEZuTs.jpg",
+        "width": 1348,
+        "height": 804
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2089148883838611460",
+    "createdAtISO": "2026-08-17T00:34:43+00:00",
+    "createdAtLocal": "2026-08-17 08:34"
+  },
+  {
+    "id": "2089058989787254911",
+    "text": "@Mohsen20Es Also just a disclaimer, this was a paraphrased joke, Elon did not in fact say roger roger.\n\nExact quote was “If you wanted to do all the things that a human can do, it turns out you need a humanoid robot.”\n\nRegardless excited for what Elon does for the future.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 51,
+      "retweets": 0,
+      "replies": 13,
+      "quotes": 0,
+      "views": 10995,
+      "bookmarks": 0
+    },
+    "createdAt": "Sun Aug 16 18:37:30 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2089058525699825811",
+    "inReplyToUserId": "1847749626851454976",
+    "conversationId": "2089057857652338993",
+    "createdAtISO": "2026-08-16T18:37:30+00:00",
+    "createdAtLocal": "2026-08-17 02:37"
+  },
+  {
+    "id": "2089057857652338993",
+    "text": "I think @elonmusk said it best: \n\n“Robots don’t all need to be humanoid. \n\nBut a general-purpose robot intended to replace human labor should fit the world humans already built.\n\nRoger, roger.”\n\nPersonally, I expect $TSLA Optimus form factor to converge to the right image. https://t.co/il7tND3n59",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 812,
+      "retweets": 27,
+      "replies": 94,
+      "quotes": 8,
+      "views": 224139,
+      "bookmarks": 62
+    },
+    "createdAt": "Sun Aug 16 18:33:00 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP3TDAHaAAA7i4a.jpg",
+        "width": 960,
+        "height": 940
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP3TDAGaIAAdqDe.jpg",
+        "width": 1023,
+        "height": 1483
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2089057857652338993",
+    "createdAtISO": "2026-08-16T18:33:00+00:00",
+    "createdAtLocal": "2026-08-17 02:33"
+  },
+  {
+    "id": "2089023480683757970",
+    "text": "@ram_blings If I mention $SIVE, people say I talk about it too much\n\nIf I don't mention $SIVE, people ask why it isn't mentioned\n\nI can't win",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 243,
+      "retweets": 2,
+      "replies": 19,
+      "quotes": 0,
+      "views": 23467,
+      "bookmarks": 11
+    },
+    "createdAt": "Sun Aug 16 16:16:24 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2088950046259896825",
+    "inReplyToUserId": "304719963",
+    "conversationId": "2088947694886920409",
+    "createdAtISO": "2026-08-16T16:16:24+00:00",
+    "createdAtLocal": "2026-08-17 00:16"
+  },
+  {
+    "id": "2088950546879111534",
+    "text": "@KhalidIshaq85 As for names Jensen / Nvidia directly invested in:\n\n- $MRVL (Celestial), $LITE, $COHR for photonics...\n- $CCXI (Agility) for humanoids. \n\nI tend to do more complex investing, for my own thought process:\n\n-> I know CPO theme is coming next\n-> Nvidia secures all CW laser capacity. \n-> Maybe, $AAOI, $MTSI, $AVGO, $SIVE, $SMTC are remaining CW western players. \n-> $SIVE probably the highest-beta exposure. SO that was my personal long.   \n\nCan probably do something similar for the other themes.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 755,
+      "retweets": 57,
+      "replies": 37,
+      "quotes": 6,
+      "views": 73993,
+      "bookmarks": 1183
+    },
+    "createdAt": "Sun Aug 16 11:26:35 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2088948814392557584",
+    "inReplyToUserId": "1965013949197295616",
+    "conversationId": "2088947694886920409",
+    "createdAtISO": "2026-08-16T11:26:35+00:00",
+    "createdAtLocal": "2026-08-16 19:26"
+  },
+  {
+    "id": "2088947694886920409",
+    "text": "I feel like AI investing is simpler than what people expect. \n\nBecause $NVDA + Jensen literally tells everyone what's coming. \n\nBut somehow. Almost every. single. time. Markets dismiss it until it actually happens? \n\nBe Nvidia in 2025:  Buys up EML and laser capacity. \n\nMarkets dismissing it: \"Photonics is a bubble and like quantum! ____ company is a scam with shady management\" \n\n1 year later: $LITE +678%, $AAOI +475.12%, $COHR +260.7%, $AXTI +3,843.9%.\n\n_\n\nNvidia in 2026: \n\nBuys up CW/EML capacity with LTAs. 800V shift. Extraordinary explicit about CPO shift. States Physical AI as the next theme. \n\nMarkets now: \"CW players are meme stocks! 800v, CPO is not coming anytime soon, Humanoids are not profitable!\" \n\nYeah... We'll see what happens in 2027. \n\nI think I'm putting my money on Jensen/Nvidia as the leading indicator.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 5297,
+      "retweets": 353,
+      "replies": 253,
+      "quotes": 45,
+      "views": 649204,
+      "bookmarks": 3984
+    },
+    "createdAt": "Sun Aug 16 11:15:15 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2088947694886920409",
+    "createdAtISO": "2026-08-16T11:15:15+00:00",
+    "createdAtLocal": "2026-08-16 19:15"
+  },
+  {
+    "id": "2088914739867115965",
+    "text": "@_stockResearch I also like really like $CCXI. I bought somewhere between .25-.75% of the company's float around the time it got announced. \n\nI think the Unitree IPO and other Chinese IPOs should give it a boost, since Agility has been a relative laggard to their expected open prices... https://t.co/o0GUaQtbh4",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 485,
+      "retweets": 17,
+      "replies": 32,
+      "quotes": 3,
+      "views": 96796,
+      "bookmarks": 230
+    },
+    "createdAt": "Sun Aug 16 09:04:18 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2088906198418681869",
+    "inReplyToUserId": "1968302536697217024",
+    "conversationId": "2088906198418681869",
+    "createdAtISO": "2026-08-16T09:04:18+00:00",
+    "createdAtLocal": "2026-08-16 17:04"
+  },
+  {
+    "id": "2088850910529323315",
+    "text": "Just some TLDRs of stuff I found interesting: \n\n- $SNDK 80% adjusted gross margins projections through 2030, ~75% operating margins and ~50% adjusted FCF margins from investor day. \n\nLTAs already 2/3rd of 2028 output. Minimum contracted revenue reaches $93B (MC is currently ~$239B)... Hard to be a cyclical stock when your revenue/targets are expected to continue 4Y later into 2030.\n\n- $CRWV signs contracts for 6Y old $NVDA A100 GPUs through 2029. \n\nFor Neoclouds like Nebius/Iren, this is positive, since it's a counterargument for eg. Burry depreciation short thesis\n\n- conventional DRAM gross margins eg. Micron is estimated to reach an unprecedented 95% by 2027, surpassing HBM GMs per UBS\n\nread through for legacy/standard dram players like Nanya/Winbond should go brrrr if projections  are correct. \n\n- Anthropic reportedly achieved 14x+ YoY growth and roughly 2.4x sequential revenue growth q2 to >$11.5B,. estimating growth to $190–200B in 2028r evenue numbers.\n\nYour frontier labs keep growing at stupidly fast paces, it would be worrisome if they didnt. \n\n- $NVDA reportedly in talks to invest $3B in SB Energy (Softbank subsidiary), creates a >$500B compute financing push with Apollo, BlackRock, Blackstone, Brookfield, Goldman, and others. $NVDA Feynman reportedly moves to TSMC A16 + SoIC + custom HBM + CPO in H2 2028\n\nJust more nvidia news every day\n\n- $MSFT Maia 300 discussed $TSM capacity for >300k units in 2027, with expansion to 1m+. Unveils as soon as September. \n\nLikely $MRVL should be more happy from this news. For what's happening right now:\n\n- maybe GUC for Microsoft current ASIC ramp. \n- For the Amazon party, stuff like Alchip (I do own shares), likely is ramping now with $AMZN ASIC program H2 2026...\n\nSo might be a good idea to look at hyperscaler ASIC ramp timelines + their beneficiaries. \n\n- $TSM VP of Advanced Packaging stated \"the industry is likely to face not only memory shortages but also tight ABF substrate supply over the next few years\"... \n\nEmphasis on few years for memory + ABF substrates for bottlenecks. \n\nEven upstream abf substrate equipment providers are happy, eg. Eternal Precision which uses vacuum lamination equipment stated orders surged, their plants have been running at full capacity, and 20%+ price hikes. \n\n- $AMAT expects advanced packaging revenue to grow >70% in 2026, versus prior >50%, and said customer discussions now extend all the way to 2030\n\n(not too familiar with this company, but found their growth rate from 2025 Q4 $6.8B ->$7.01B -> 7.91B -> $9.12B -> $10.25B Q4 2026 projections pretty interesting)\n\n- Google said at OCP APAC said conventional 48V is running out of headroom. $NVDA detailed an 800VDC MGX-compatible rack H2 2026 (timeline, Delta / Lite-On beneficaries)\n\n- Aside from $SNDK, Nanya LTAs cover 50% of capacity. CXMT signed multi-year DRAM agreements last month, so entire memory industry seems to be following same playbook as ur big 3. \n\n- Probe cards remain a bottleneck, MPI(6223) said their probe card capacity remains fully utilized because demand exceeds supply. \n\nAlready covered the CW laser bottleneck with $AAOI, $SIVE, and $LITE earlier this week, but that's another fun one.\n\n- some MLCC/component lead times have hit 36 weeks per Nichidenbo.\n\nYour Samsung Electro-Mechanics, Taiyo Yuden, Murata, players should be very happy to hear this. \n\nTLDR: AI supply chains go brrr.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1420,
+      "retweets": 99,
+      "replies": 104,
+      "quotes": 14,
+      "views": 298985,
+      "bookmarks": 664
+    },
+    "createdAt": "Sun Aug 16 04:50:40 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2088850910529323315",
+    "createdAtISO": "2026-08-16T04:50:40+00:00",
+    "createdAtLocal": "2026-08-16 12:50"
+  },
+  {
     "id": "2088610457104109828",
     "text": "@LcubedInvest @logeonli16 $AAOI blended gross margins goes up when they sell ELSFP and 1.6T optical transceivers.",
     "author": {
