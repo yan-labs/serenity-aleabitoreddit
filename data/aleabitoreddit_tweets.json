@@ -1,5 +1,82 @@
 [
   {
+    "id": "2089169716292342096",
+    "text": "@rektusd101 Everyone was giving me crap over $AXTI being a scam company last year.\n\nSo I think it got a lot more attention when it played out.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 49,
+      "retweets": 0,
+      "replies": 5,
+      "quotes": 0,
+      "views": 5199,
+      "bookmarks": 1
+    },
+    "createdAt": "Mon Aug 17 01:57:29 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2089167559073673298",
+    "inReplyToUserId": "805912508150247424",
+    "conversationId": "2089165155741622679",
+    "createdAtISO": "2026-08-17T01:57:29+00:00",
+    "createdAtLocal": "2026-08-17 09:57"
+  },
+  {
+    "id": "2089165155741622679",
+    "text": "\"Severe InP Shortage Triggers Largest Price Hike Ever\" - $AXTI. \n\nSuppliers have bluntly stated that \"even if you have the money, you still may not be able to get the material\" (lol). \n\n- Industry sources revealed that InP substrate prices began rising in Q4 last year and was the fourth consecutive substrate price hike. \n\n- The latest Q4 hike is expected to be >10%,\n\n- Meanwhile, prices for epitaxial wafers made from those substrates have already been raised two times, and the market is moving toward a 3rd consecutive increase in Q4. (I also wrote a thesis on $IQE, which benefits here too). \n\nArticle states VPEC, Landmark, IET benefits (Taiwan centric reporting). \n\nI did predict this last year... The bottleneck is real, but I do have higher expectations for price hikes that comes next. \n\nGlad it's starting to play out.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 467,
+      "retweets": 28,
+      "replies": 41,
+      "quotes": 6,
+      "views": 80604,
+      "bookmarks": 140
+    },
+    "createdAt": "Mon Aug 17 01:39:22 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP4zjqeawAARuiN.jpg",
+        "width": 1308,
+        "height": 1485
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP4zjtqaoAAy1Fr.jpg",
+        "width": 1368,
+        "height": 1426
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2089165155741622679",
+    "createdAtISO": "2026-08-17T01:39:22+00:00",
+    "createdAtLocal": "2026-08-17 09:39"
+  },
+  {
     "id": "2089151601969865160",
     "text": "@MinuteMoola Just a guess, I'm going to watch Stripe create OpenRouter's moat...\n\nBy lobbying Congress to make API access across all frontier models require heavy KYC/DD like opening a bank account.\n\nThen require everyone else to get licenses to route inference requests to customers.\n\nWith something along the lines of: \"We care about user safety. If LLMs can generate nuke guides, bio weps, companies routing inference requests must have guardrails!\"",
     "author": {
