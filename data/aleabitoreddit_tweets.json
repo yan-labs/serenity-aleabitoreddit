@@ -1,5 +1,457 @@
 [
   {
+    "id": "2089766053274661143",
+    "text": "My $AAOI TLDR notes at Rosenblatt summit:\n\n- Expected to get paid premiums for US production of 800g/1.6T (very positive for ASP/margins).\n\n- Several LTAs on the table, but doesn't want to sign to get capacity blocked by other customers (cough cough $NVDA). \n\n- Sold out at least through second half of next year and beyond. (High demand visibility like $LITE)\n\n- Has 300-400 mW lasers already. \n\n- Expects margins to be above 40%+ once CPO comes about (probably most material for rerating). \n\nI can't see how anyone can be bearish on this company...",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1141,
+      "retweets": 73,
+      "replies": 99,
+      "quotes": 11,
+      "views": 188008,
+      "bookmarks": 235
+    },
+    "createdAt": "Tue Aug 18 17:27:07 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBWr3easAADGzP.jpg",
+        "width": 1617,
+        "height": 1128
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBWuWKb0AARDST.jpg",
+        "width": 1861,
+        "height": 939
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBWxKGaQAAgUA4.jpg",
+        "width": 1874,
+        "height": 973
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBW8guaoAAZnru.jpg",
+        "width": 1807,
+        "height": 899
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2089766053274661143",
+    "createdAtISO": "2026-08-18T17:27:07+00:00",
+    "createdAtLocal": "2026-08-19 01:27"
+  },
+  {
+    "id": "2089755971187081354",
+    "text": "@Sigurd_Drivenes Don't think they're legally allowed to anyway https://t.co/BFfcCUZl8O",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 27,
+      "retweets": 0,
+      "replies": 3,
+      "quotes": 0,
+      "views": 9534,
+      "bookmarks": 5
+    },
+    "createdAt": "Tue Aug 18 16:47:03 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2089749288939036786",
+    "inReplyToUserId": "1963168432423370752",
+    "conversationId": "2089746797300432912",
+    "createdAtISO": "2026-08-18T16:47:03+00:00",
+    "createdAtLocal": "2026-08-19 00:47"
+  },
+  {
+    "id": "2089753753625018830",
+    "text": "@I_Am_Bloateds I still have positions in both companies? What I hold shouldn't affect your own decisions. \n\nTransformer bottlenecks are stalling the US AI buildout now and lead times are very long for both dry and liquid (which is more extreme). Backlog is +96.9% Y/Y for $HPS.A and given their market share... \n\nI don't they're going anywhere. \n\nPretty sure I shared this idea at ~170, it did 2x, but corrected back to 240 now, but cost average is different per person I guess.  \n\nThe Belgian company is primarily H1 2028 as a CPO/photonics volume ramp beneficary. And the work they're doing with MTP with IMEC for $NVDA as an end user in evaluation stage should be very interesting. \n\nTheir CHIP act facility for MEMS/photonics also comes online H2 2028 too, and 800V transitions should bring them material revenue growth for anything SiC adjacent next year. \n\nI'm down -31%, since my cost average is a lot higher. But they're approaching levels where replacement book value is a lot higher than MC.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 38,
+      "retweets": 0,
+      "replies": 7,
+      "quotes": 0,
+      "views": 10394,
+      "bookmarks": 10
+    },
+    "createdAt": "Tue Aug 18 16:38:15 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2089748248495784169",
+    "inReplyToUserId": "2034937344206544899",
+    "conversationId": "2089746797300432912",
+    "createdAtISO": "2026-08-18T16:38:15+00:00",
+    "createdAtLocal": "2026-08-19 00:38"
+  },
+  {
+    "id": "2089749225768915037",
+    "text": "@kevs_World02 Harmonic/LeaderDrive/Schaeffler seem to be in pretty much everywhere. \n\nThere's some more niche component suppliers like $VPG for maybe Optimus/Figure. But I think the scale is vastly different since Schaeffler claimed they were wokring with ~45 humanoid players. \n\nChinese suppliers to Agibot/Unitree probably hit revenue first though, I can do more research into that area soon.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 46,
+      "retweets": 1,
+      "replies": 6,
+      "quotes": 0,
+      "views": 13510,
+      "bookmarks": 18
+    },
+    "createdAt": "Tue Aug 18 16:20:15 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2089747512617820235",
+    "inReplyToUserId": "1891206988207378432",
+    "conversationId": "2089746797300432912",
+    "createdAtISO": "2026-08-18T16:20:15+00:00",
+    "createdAtLocal": "2026-08-19 00:20"
+  },
+  {
+    "id": "2089748568852799580",
+    "text": "@HowlStWoofer $CCXI is targeting commercialization first, since they're in places like $AMZN and $MELI warehouses for human automation.\n\nI don't think Agility's Robots need to do backflips to do deliveries or packaging. Same with Amazon warehouse workers.\n\nTwo different use cases, think Boston Dynamics is the closest peer in terms of breaking limits on what robotics can do. \n\n$TSLA is also targeting general purpose, but I don't quite think they can pull that off yet. \n\nRegardless, seeing if the US can catch up and leapfrog China will be very interesting.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 61,
+      "retweets": 3,
+      "replies": 8,
+      "quotes": 2,
+      "views": 13692,
+      "bookmarks": 7
+    },
+    "createdAt": "Tue Aug 18 16:17:39 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2089747675415494843",
+    "inReplyToUserId": "269661789",
+    "conversationId": "2089746797300432912",
+    "createdAtISO": "2026-08-18T16:17:39+00:00",
+    "createdAtLocal": "2026-08-19 00:17"
+  },
+  {
+    "id": "2089746797300432912",
+    "text": "I'm getting Vietnam flashbacks to the launch of OpenAi. \n\nWhere with every model, it just keeps getting better... but now with hunanoids. \n\nUnitree has claimed that their humanoids:\n\n- Can now run faster than Usain Bolt.\n- Can now jump higher than any human. \n\nAnd with their IPO tomorrow, it seems like China is leading the hardware race.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 774,
+      "retweets": 35,
+      "replies": 103,
+      "quotes": 10,
+      "views": 164068,
+      "bookmarks": 117
+    },
+    "createdAt": "Tue Aug 18 16:10:36 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBFGf1aQAIaETY.jpg",
+        "width": 1837,
+        "height": 1610
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBFKcra4AA-6yS.jpg",
+        "width": 1516,
+        "height": 1703
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2089746797300432912",
+    "createdAtISO": "2026-08-18T16:10:36+00:00",
+    "createdAtLocal": "2026-08-19 00:10"
+  },
+  {
+    "id": "2089717828916289860",
+    "text": "@abbysuyuyan $AAOI is actually the one stock I'm hoping goes back to $80 so I can acquire more. \n\nThe demand visibility is pretty insane for laser names throughout 2027...\n\nSame can be said with neoclouds like $NBIS or memory names like $SNDK.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 167,
+      "retweets": 4,
+      "replies": 16,
+      "quotes": 1,
+      "views": 18290,
+      "bookmarks": 44
+    },
+    "createdAt": "Tue Aug 18 14:15:30 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2089690301409673642",
+    "inReplyToUserId": "1962768085049593856",
+    "conversationId": "2089690098875130084",
+    "createdAtISO": "2026-08-18T14:15:30+00:00",
+    "createdAtLocal": "2026-08-18 22:15"
+  },
+  {
+    "id": "2089714869876764762",
+    "text": "@pkcapital_ The AI semi theme is down if you look at $AVGO to $TSM. Higher beta names seem to have been hit the hardest. \n\nFrom trends I've seen with  optical names, $LITE / $COHR recovered fastest, then larger still high beta names like $AAOI / $AXTI (halfway). \n\nThen your $SIVE / $POET type names have taken the longest. But I do see a sharper recovery when markets are more risk-on or when earnings forces re-ratings.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 140,
+      "retweets": 3,
+      "replies": 12,
+      "quotes": 1,
+      "views": 24225,
+      "bookmarks": 26
+    },
+    "createdAt": "Tue Aug 18 14:03:44 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2089708703423312069",
+    "inReplyToUserId": "1703850732003250177",
+    "conversationId": "2089690098875130084",
+    "createdAtISO": "2026-08-18T14:03:44+00:00",
+    "createdAtLocal": "2026-08-18 22:03"
+  },
+  {
+    "id": "2089690098875130084",
+    "text": "Looks like we're getting the Strait of America, a new US territory... https://t.co/HCQ139Ys4V",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 862,
+      "retweets": 28,
+      "replies": 136,
+      "quotes": 19,
+      "views": 214525,
+      "bookmarks": 26
+    },
+    "createdAt": "Tue Aug 18 12:25:18 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQARbaSbMAAZMR1.jpg",
+        "width": 1367,
+        "height": 1329
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2089690098875130084",
+    "createdAtISO": "2026-08-18T12:25:18+00:00",
+    "createdAtLocal": "2026-08-18 20:25"
+  },
+  {
+    "id": "2089609315061764473",
+    "text": "@RancicYaro4064 Japanese companies try to match industry rates, but they don't go out of their way to hike aggressively like 70% Q/Q...\n\nThere just needs to be a $SNDK in the industry to lead the way imo, maybe Samsung can be more aggresive here",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 49,
+      "retweets": 0,
+      "replies": 9,
+      "quotes": 1,
+      "views": 14550,
+      "bookmarks": 6
+    },
+    "createdAt": "Tue Aug 18 07:04:18 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2089587357401895126",
+    "inReplyToUserId": "1960648517040459777",
+    "conversationId": "2089547564249219163",
+    "createdAtISO": "2026-08-18T07:04:18+00:00",
+    "createdAtLocal": "2026-08-18 15:04"
+  },
+  {
+    "id": "2089551553992761810",
+    "text": "@darkseidzz I’m not sure how to tell people this… but the NAND/MLCCs/InP bottleneck doesnt disappear if $SNDK or Murata or $AXTI drops in price.\n\nSame group of folks who only look at price volatility on earnings release to see if it’s good or not.\n\nProbably better to look at the actual earnings report or what’s actually happening…",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 129,
+      "retweets": 3,
+      "replies": 10,
+      "quotes": 0,
+      "views": 21200,
+      "bookmarks": 17
+    },
+    "createdAt": "Tue Aug 18 03:14:47 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2089548165976383934",
+    "inReplyToUserId": "1486674552100896773",
+    "conversationId": "2089547564249219163",
+    "createdAtISO": "2026-08-18T03:14:47+00:00",
+    "createdAtLocal": "2026-08-18 11:14"
+  },
+  {
+    "id": "2089547564249219163",
+    "text": "So just tracking the MLCC cycle:\n\nComponentNews classified server MLCCs as “severe” shortage stage, with ETNews reporting:\n\n- Samsung has reached ~40 week lead times for some high capacitance MLCCs per DigiKey’s shipment data.\n\nEarlier this year, broader reports were ~20 weeks, so the AI server MLCC bottleneck keeps growing.\n\n- Murata was ~24 weeks in June. \n\nJuly was ~30 weeks. And now some at ~36 weeks. \n\nThis was interesting: \n\n“The expansion of new production capacity is being postponed from Q4 2026 to 2027”\n\nDoesn’t say which expansion… maybe Murata? But if capacity expansion reportedly gets stalled, the bottleneck should tighten short term.\n\nLead times are a good way to track demand imbalances.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 721,
+      "retweets": 54,
+      "replies": 87,
+      "quotes": 5,
+      "views": 251561,
+      "bookmarks": 187
+    },
+    "createdAt": "Tue Aug 18 02:58:55 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-QbGCa4AAJHGQ.jpg",
+        "width": 1200,
+        "height": 1080
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-QbGCaQAAQ6ID.jpg",
+        "width": 1218,
+        "height": 1725
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-QbIEbsAALGlO.jpg",
+        "width": 1209,
+        "height": 359
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2089547564249219163",
+    "createdAtISO": "2026-08-18T02:58:55+00:00",
+    "createdAtLocal": "2026-08-18 10:58"
+  },
+  {
     "id": "2089422562019393654",
     "text": "I've decided to name my next two pets Applied Optoelectronics and Sivers Semiconductors",
     "author": {
