@@ -1,5 +1,370 @@
 [
   {
+    "id": "2090510568474231045",
+    "text": "After seeing how the robotics and space sectors reacted to Unitree and $SPCX IPOs\n\nI’m not quite sure I want Anthropic to go public… https://t.co/hY6tM1r4Qb",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 728,
+      "retweets": 14,
+      "replies": 137,
+      "quotes": 7,
+      "views": 139038,
+      "bookmarks": 45
+    },
+    "createdAt": "Thu Aug 20 18:45:33 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQL8R9ga8AAwSQH.jpg",
+        "width": 1233,
+        "height": 629
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2090510568474231045",
+    "createdAtISO": "2026-08-20T18:45:33+00:00",
+    "createdAtLocal": "2026-08-21 02:45"
+  },
+  {
+    "id": "2090490101260591481",
+    "text": "Very positive. My opinion is that the optical sector underperformance recently from $AAOI to $SIVE has been absurd.\n\nThe demand visibility... is just way too stupidly high.\n\nAOI: “Even combined AOI, Coherent program altogether, is still very tough to meet the customer demand in the next 3 years” (2029)\n\nElazr GM: \"entire optical supply chain was facing major shortages.\" \"The shortage will continue to the next few years\"\n\nSivers CEO said the same thing about InP laser demand imbalances expected for the next 3-5 years.\n\nCan go on and on about $LITE, $MTSI and other comments.\n\nWe haven't even hit the inflection point with 1.6T, NPO, CPO scale out/up, and optics with memory (as seen with SK Hynix).\n\nYet the industry is already bottlenecked by EML/CW and all your other upstream components from PDs/TIA/DSPs, transceivers, and soon FAU + others when CPO scales… \n\nI'm personally extremely comfortable watching this all play out, but just a little confused that markets don't know how to math a year or two ahead.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1252,
+      "retweets": 90,
+      "replies": 120,
+      "quotes": 5,
+      "views": 251171,
+      "bookmarks": 295
+    },
+    "createdAt": "Thu Aug 20 17:24:14 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLpqgfakAARJe3.jpg",
+        "width": 1226,
+        "height": 653
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLpqgaaUAAl_DB.jpg",
+        "width": 1260,
+        "height": 1357
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2090490101260591481",
+    "createdAtISO": "2026-08-20T17:24:14+00:00",
+    "createdAtLocal": "2026-08-21 01:24"
+  },
+  {
+    "id": "2090380103268315584",
+    "text": "@KhalidIshaq85 @EnamelEquity My domain knowledge isn’t really about biotech, so can’t really comment there. \n\nIt’s hard for me to build conviction around themes or company’s I don’t fully understand.\n\nAnd that really shows if there’s ever a correction or drop.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 78,
+      "retweets": 0,
+      "replies": 4,
+      "quotes": 1,
+      "views": 14189,
+      "bookmarks": 5
+    },
+    "createdAt": "Thu Aug 20 10:07:08 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2090379404253753709",
+    "inReplyToUserId": "1965013949197295616",
+    "conversationId": "2090374603264929981",
+    "createdAtISO": "2026-08-20T10:07:08+00:00",
+    "createdAtLocal": "2026-08-20 18:07"
+  },
+  {
+    "id": "2090377797441323097",
+    "text": "@EnamelEquity Nope, all my thematic baskets were picked earlier this year with memory like $EWY and CPO like $SIVE. \n\nOnly recent was kinda humanoids with $CCXI, but that's one-off. \n\nI'm just waiting for everything to play out, not a fan of jumping ship to ship.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 217,
+      "retweets": 9,
+      "replies": 13,
+      "quotes": 6,
+      "views": 34736,
+      "bookmarks": 23
+    },
+    "createdAt": "Thu Aug 20 09:57:58 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2090376650781540624",
+    "inReplyToUserId": "1779944888358072320",
+    "conversationId": "2090374603264929981",
+    "createdAtISO": "2026-08-20T09:57:58+00:00",
+    "createdAtLocal": "2026-08-20 17:57"
+  },
+  {
+    "id": "2090374603264929981",
+    "text": "I'm glad the leverage bros moved from AI stocks back to Hyerliquid and biotech like $MRNA, so maybe we'll see a faster recovery. \n\nAside from that just some TLDR stuff:\n\n- $EWY up, primarily from SK Hynix buybacks (they're just too profitable), and Samsung Foundry roughly ~10-15% price hikes. \n\n- $SKHY unveils CPO roadmap?? Apparently they're doing something with photonic interposer that links to memory, so I gotta look a bit deeper into this\n\nProbably going to be more TAM expansion, more supply chain beneficiaries (eg. lasers, PICs, packaging) off this.\n\n- $YMTC pursuing IPO next quarter following CMXT's successful IPO. \n\nThe Chinese IPO market is just going brrr from Unitree to memory makers. \n\nUS needs to do something similar rather than IPOing companies at trillion dollar valuations already. \n\n- Tyntek limit up there's now order visibility through 2028, given photodiode demand imbalance for photonics. \n\nElazr GM did say the entire optical supply chain was facing major shortages... I'll probably look more at high-end PD bottlenecks next.\n\n- MS forecasts a 50% Q/Q price increase for DDR4 for Q3, and 10%+ increase for Q4 2026. (Nanya/2408, Windbond/2344, should be happy). \n\n- China reportedly delays clearance from germanium, quartz-based materials, and neodymium magnets To taiwan. \n\nSo I'll probably have some fun looking into supply chains disruptions there over cup noodles.\n\n- High-end PCB drill shortage (still ongoing), Kawei (5498) said AI DCs, servers and optical communications are driving demand for PCBs, HDI and package substrates, while tungsten prices are rising. \n\nThough the world's five largest drill manufacturers are aggressively expanding capacity, supply remains far below overall market demand\n\nJust stuff I found interesting recently, obviously $MRNA stuff is too.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 997,
+      "retweets": 37,
+      "replies": 94,
+      "quotes": 7,
+      "views": 274760,
+      "bookmarks": 209
+    },
+    "createdAt": "Thu Aug 20 09:45:17 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2090374603264929981",
+    "createdAtISO": "2026-08-20T09:45:17+00:00",
+    "createdAtLocal": "2026-08-20 17:45"
+  },
+  {
+    "id": "2090120128805691484",
+    "text": "@200pipss Is there something wrong with $GOOGL and $MRVL?",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 46,
+      "retweets": 0,
+      "replies": 7,
+      "quotes": 0,
+      "views": 24402,
+      "bookmarks": 1
+    },
+    "createdAt": "Wed Aug 19 16:54:05 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2090104618982555969",
+    "inReplyToUserId": "3167814018",
+    "conversationId": "2090103899302826302",
+    "createdAtISO": "2026-08-19T16:54:05+00:00",
+    "createdAtLocal": "2026-08-20 00:54"
+  },
+  {
+    "id": "2090103899302826302",
+    "text": "$MRVL gives $GOOGL options to buy $12.2B of the company. \n\n\"The Marvell-Google deal covers a broad range of technologies used ​with TPUs, including processors that run AI models, manage data storage ​and  move information ⁠across networks.\"\n\nWhich could translate into ~$120 billion ​in revenue through 2033. \n\nMarvell also has separate warrants with $AMZN after their Celestial acquisition (for purchases of photonic fabric).\n\nRemember the good times when Jensen said Marvell would be the next $1T+ company?  \n\nSeems Nvidia knew Marvell was \"networking\" its way into all the hyperscalers with warrants.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1167,
+      "retweets": 91,
+      "replies": 116,
+      "quotes": 12,
+      "views": 291000,
+      "bookmarks": 159
+    },
+    "createdAt": "Wed Aug 19 15:49:36 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGI7MSbMAAi0pJ.jpg",
+        "width": 1626,
+        "height": 919
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2090103899302826302",
+    "createdAtISO": "2026-08-19T15:49:36+00:00",
+    "createdAtLocal": "2026-08-19 23:49"
+  },
+  {
+    "id": "2089978707830280655",
+    "text": "@Blazedsin Yeah, $SIVE is my favorite high-beta optical long. \n\nYou have a small company supplying lasers for: \n- Hyperscaler suppliers like $JBL with pluggables. \n- ELS + optical engines with $POET / O-Net. \n- Scale up with optical I/O with Ayar and others. \n- Photonic Foundries like $GFS across all architectures like NPO/pluggables/CPO. \n\nwith independent CW capacity coming online with Win Semi during a structural bottleneck... NASDAQ listing likely in the next few quarters. \n\nAnd the CEO actually knows what he's doing + aligned with shareholders (in terms of buying stock on the open market), with low dilution to get all of this done.   \n\nAnd they hinted at M&A, which is ideal for TAM expansion (look at what happened with Lumentum after Cloud Light H2 2023 M&A). \n\nThen you have $MTSI, $AAOI likely no meaningful participating in first-gen CPO deployments (smaller pool of players)... Industry CW shortages currently before volume ramp. Regulation tailwinds targeting Chinese competition. \n\nI'm not sure if it's just me but they have the ideal setup, main downside is that it's just listed on some small Swedish exchange and that harms valuations.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 485,
+      "retweets": 58,
+      "replies": 22,
+      "quotes": 5,
+      "views": 88914,
+      "bookmarks": 126
+    },
+    "createdAt": "Wed Aug 19 07:32:08 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2089974271862788323",
+    "inReplyToUserId": "896851975291142144",
+    "conversationId": "2089973586425766134",
+    "createdAtISO": "2026-08-19T07:32:08+00:00",
+    "createdAtLocal": "2026-08-19 15:32"
+  },
+  {
+    "id": "2089973586425766134",
+    "text": "We got $LITE, $MTSI, $AAOI all pointing to extreme demand imbalances with lasers/TIA/DSP/etc from earnings... \n\nAnd now Elazr GM at their investor conference stated: \n\nOptical supply is still far behind the market demand, the expected AI optical supply chain are likely to continue for years.\n\n- \"the entire supply chain is out of stock\"\n\n- \"the supply is still far behind the market demand\"\n\n- \"the shortage will continue to the next few years\"\n\n\"Whether it is PCB, carrier board, laser chip, or even related packaging  capacity, as long as the AI supply chain link, almost all are in short supply.\" \n\nWhen demand visibility extends for years with the supply chain bottlenecked:\n\nIt's getting difficult not to see photonics echoing the memory supercycle entering 2027.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1317,
+      "retweets": 91,
+      "replies": 112,
+      "quotes": 11,
+      "views": 239070,
+      "bookmarks": 302
+    },
+    "createdAt": "Wed Aug 19 07:11:47 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQERXhQbYAAQGR4.jpg",
+        "width": 1583,
+        "height": 792
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQERcy6aoAAbzQz.jpg",
+        "width": 1579,
+        "height": 471
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2089973586425766134",
+    "createdAtISO": "2026-08-19T07:11:47+00:00",
+    "createdAtLocal": "2026-08-19 15:11"
+  },
+  {
+    "id": "2089908198694351064",
+    "text": "Unitree (688836) is now public.\n\nAnd is valued at ~$53.3B, after rising +492.18%\n\nWe finally have a major public company benchmark for humanoids.\n\nFor reference, Agility (backed by $NVDA, $AMZN) via $CCXI is expected to go public at $2.5B premoney valuation Q4. \n\n$TSLA is $1T+, but Optimus is wrapped inside a much larger company.\n\nBut I think Unitree showed that the demand for pure play humanoid players is much larger… than people expected in public markets.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1806,
+      "retweets": 119,
+      "replies": 294,
+      "quotes": 40,
+      "views": 543132,
+      "bookmarks": 432
+    },
+    "createdAt": "Wed Aug 19 02:51:57 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQDYbZWbQAAYiNj.jpg",
+        "width": 1217,
+        "height": 834
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2089908198694351064",
+    "createdAtISO": "2026-08-19T02:51:57+00:00",
+    "createdAtLocal": "2026-08-19 10:51"
+  },
+  {
     "id": "2089766053274661143",
     "text": "My $AAOI TLDR notes at Rosenblatt summit:\n\n- Expected to get paid premiums for US production of 800g/1.6T (very positive for ASP/margins).\n\n- Several LTAs on the table, but doesn't want to sign to get capacity blocked by other customers (cough cough $NVDA). \n\n- Sold out at least through second half of next year and beyond. (High demand visibility like $LITE)\n\n- Has 300-400 mW lasers already. \n\n- Expects margins to be above 40%+ once CPO comes about (probably most material for rerating). \n\nI can't see how anyone can be bearish on this company...",
     "author": {
