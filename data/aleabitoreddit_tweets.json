@@ -1,5 +1,185 @@
 [
   {
+    "id": "2091618989743190211",
+    "text": "@vincent_wong_ what did i just read",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 156,
+      "retweets": 0,
+      "replies": 11,
+      "quotes": 0,
+      "views": 15743,
+      "bookmarks": 0
+    },
+    "createdAt": "Sun Aug 23 20:10:02 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2091614370933690858",
+    "inReplyToUserId": "990007106",
+    "conversationId": "2091612406900564407",
+    "createdAtISO": "2026-08-23T20:10:02+00:00",
+    "createdAtLocal": "2026-08-24 04:10"
+  },
+  {
+    "id": "2091612406900564407",
+    "text": "After watching clips of China's humanoid Olympics... \n\nI think we're cooked chat. \n\nStill can't believe $GOOGL sold Boston Dynamics, don't think we have another humanoid that can backflip. https://t.co/uERCqW85F5",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 871,
+      "retweets": 36,
+      "replies": 191,
+      "quotes": 11,
+      "views": 165802,
+      "bookmarks": 65
+    },
+    "createdAt": "Sun Aug 23 19:43:52 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQbd2eqaoAApVvX.jpg",
+        "width": 860,
+        "height": 573
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQbd5tQbMAAiM0c.jpg",
+        "width": 1883,
+        "height": 1082
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQbhPRpbMAARuHm.jpg",
+        "width": 1200,
+        "height": 800
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2091612406900564407",
+    "createdAtISO": "2026-08-23T19:43:52+00:00",
+    "createdAtLocal": "2026-08-24 03:43"
+  },
+  {
+    "id": "2091508238823112749",
+    "text": "@Benedict542440 I mean my Chinese fanbase gave my AI chokepoint investing style its own name apparently. \n\n紫苏叶理论”, the “Perilla Leaf Theory” / “Shiso Leaf Theory”, so I’ll say close enough? https://t.co/cy44L7WPrW",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 70,
+      "retweets": 4,
+      "replies": 7,
+      "quotes": 1,
+      "views": 19010,
+      "bookmarks": 6
+    },
+    "createdAt": "Sun Aug 23 12:49:57 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2091505138305241253",
+    "inReplyToUserId": "1790452147588321281",
+    "conversationId": "2091488091110531106",
+    "createdAtISO": "2026-08-23T12:49:57+00:00",
+    "createdAtLocal": "2026-08-23 20:49"
+  },
+  {
+    "id": "2091489257059958801",
+    "text": "@ethics3606 Renaming Hormuz to the Strait of Serenity is still on my bucket list don’t worry",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 249,
+      "retweets": 2,
+      "replies": 14,
+      "quotes": 0,
+      "views": 23296,
+      "bookmarks": 1
+    },
+    "createdAt": "Sun Aug 23 11:34:31 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2091488261407486152",
+    "inReplyToUserId": "1654853100643971072",
+    "conversationId": "2091488091110531106",
+    "createdAtISO": "2026-08-23T11:34:31+00:00",
+    "createdAtLocal": "2026-08-23 19:34"
+  },
+  {
+    "id": "2091488091110531106",
+    "text": "Having a mid-X identity crisis rn:\n\n✓ saw 2025 ideas from $AXTI to $NBIS play out with everyone\n✓ we got $AMD bandanas\n✓ #1 most subscribed person on X by accident\n✓ Chinese “White Hair” nicknames\n✓ 1M followers\n\nStill here to track ideas, but what’s the next side quest?",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1439,
+      "retweets": 12,
+      "replies": 269,
+      "quotes": 3,
+      "views": 257621,
+      "bookmarks": 134
+    },
+    "createdAt": "Sun Aug 23 11:29:53 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2091488091110531106",
+    "createdAtISO": "2026-08-23T11:29:53+00:00",
+    "createdAtLocal": "2026-08-23 19:29"
+  },
+  {
     "id": "2091265545027150188",
     "text": "@wannabepanacea I’m expecting a Rosenblatt analyst to ask Marvel about their Spider-Man box office sales revenue vs. networking growth.",
     "author": {
