@@ -1,5 +1,237 @@
 [
   {
+    "id": "2092411208100085775",
+    "text": "@AheadOfTmrw I also misspelled Semtech 2 times, mistakes happen",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 11,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "views": 2835,
+      "bookmarks": 0
+    },
+    "createdAt": "Wed Aug 26 00:38:01 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2092409256699977764",
+    "inReplyToUserId": "2062235832161857536",
+    "conversationId": "2092408620277457255",
+    "createdAtISO": "2026-08-26T00:38:01+00:00",
+    "createdAtLocal": "2026-08-26 08:38"
+  },
+  {
+    "id": "2092409726516748313",
+    "text": "@equityclimb1 Yeah I missed this quote:\n\n\"The industry is forecasting  50 million transceiver units to be consumed. Now we are hearing the number 80, 90 million\" https://t.co/WWFP09AP74",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 32,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0,
+      "views": 3475,
+      "bookmarks": 2
+    },
+    "createdAt": "Wed Aug 26 00:32:08 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2092408911185707204",
+    "inReplyToUserId": "1973942344274882564",
+    "conversationId": "2092408620277457255",
+    "createdAtISO": "2026-08-26T00:32:08+00:00",
+    "createdAtLocal": "2026-08-26 08:32"
+  },
+  {
+    "id": "2092408620277457255",
+    "text": "All right back to $SMTC movie: \"The bottleneck go Brrr\":\n\nMy favorite quote was: \"availability currently matters more than pricing\". \n\nIn the current market for optical products. \n\n- No near-term erosion is expected on booked optical orders, which signals they're passing cost increases through fine.\n\n- I was actually curious most about Semtec's CW laser products after the HieFo takeover:\n\nSemtech expects CW-laser revenue for transceivers to begin H1 FY28. Explicitly said capacity is limited.\n\nThey still seem materially further behind compared to the laser leaders, but they're making progress for 2027 ramp. \n\n- TIA and driver solutions remain in exceptionally strong demand (confirmed from $AAOI earnings). \n\nContinues to deepen engagement across all the leading hyperscalers.  \n\n\"We are now designing to every module provider\", expected 50%+ market share for 1.6T FiberEdge (TIA + driver) by years end. \n\nVery strong statement to make about being majority market share. \n\n- 1.6T FiberEdge qualifications finishing earlier than expected (good read through for your pluggable makers eg. AOI)\n\nq: \"quick thoughts on how long into 2028 does that backlog extend?\"\n\na: The backlog for the remaining of this fiscal year, I would say for our  target is all booked. For the next year, we probably over 70% there.\n\nManagement said current capacity may not be enough for fiscal 2028, especially in the second half (great demand visibility)\n\nQ2 revenue: \n- $341.9M vs. ~$329M expected\n- adjusted EPS was $0.71 vs. $0.61\n\nQ3 guidance was most exciting:\n$410M revenue vs. ~$360M revenue\n$1.05 EPS vs. $0.73 EPS. \n\nyeah... just look at that beautiful revenue inflection Q/Q. \n\nSo gigantic beat, great read through on 1.6T ramp. I don't own Semtec, but these were amazing earnings.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 145,
+      "retweets": 7,
+      "replies": 20,
+      "quotes": 4,
+      "views": 45333,
+      "bookmarks": 39
+    },
+    "createdAt": "Wed Aug 26 00:27:44 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQm2_0GaMAAeKwc.jpg",
+        "width": 1699,
+        "height": 565
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2092408620277457255",
+    "createdAtISO": "2026-08-26T00:27:44+00:00",
+    "createdAtLocal": "2026-08-26 08:27"
+  },
+  {
+    "id": "2092354322432684098",
+    "text": "Lost interest in $SMTC and every other earnings report today after finding a memory name way too interesting not to research...",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 511,
+      "retweets": 10,
+      "replies": 118,
+      "quotes": 1,
+      "views": 156147,
+      "bookmarks": 78
+    },
+    "createdAt": "Tue Aug 25 20:51:59 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2092354322432684098",
+    "createdAtISO": "2026-08-25T20:51:59+00:00",
+    "createdAtLocal": "2026-08-26 04:51"
+  },
+  {
+    "id": "2092282362289926612",
+    "text": "@jusmentrades uhh, pretty sure $GFS is a 2027-2028 type optical rerating story... \n\nfyi they're like 11.5 fwd p/e ending 2028 and 7.5x longer term, so idk about betting on a 1 1/2 month timeframe in 2026. https://t.co/V9i8BNhlyR",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 137,
+      "retweets": 4,
+      "replies": 10,
+      "quotes": 0,
+      "views": 26685,
+      "bookmarks": 39
+    },
+    "createdAt": "Tue Aug 25 16:06:02 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2092119964253897007",
+    "inReplyToUserId": "2082389584101703681",
+    "conversationId": "2092119964253897007",
+    "createdAtISO": "2026-08-25T16:06:02+00:00",
+    "createdAtLocal": "2026-08-26 00:06"
+  },
+  {
+    "id": "2092226228942241975",
+    "text": "@HealytheGOATT Price took a hit largely due to Boostrap Europe converting 7% of shares outstanding and selling that into the Swedish market from ~July 3rd to maybe ~August 18th completion. \n\nThat happened alongside the overall AI sector drop + incorrect reports of CPO delays + short sellers with timing. \n\nThere was the final 1.659M in warrants from 2 weeks ago, and looks like it got sold into market strength.  \n\nThat overhang is largely exhausted, so I think $SIVE will go back to normal after a catalyst (like earnings).",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 209,
+      "retweets": 10,
+      "replies": 8,
+      "quotes": 4,
+      "views": 37437,
+      "bookmarks": 26
+    },
+    "createdAt": "Tue Aug 25 12:22:59 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2092196444669157874",
+    "inReplyToUserId": "1659611427307503627",
+    "conversationId": "2092186856792506435",
+    "createdAtISO": "2026-08-25T12:22:59+00:00",
+    "createdAtLocal": "2026-08-25 20:22"
+  },
+  {
+    "id": "2092186856792506435",
+    "text": "Lot of people were wondering about $SIVE earnings in 2 days. \n\nWhat I'm watching out for: \n\n1. I'm hoping for more visibility on photonics co-development/qualifications/contracts. \n\n-> $AAOI stated multiple customers approaching them for CPO lasers (but had to turn them away)\n-> $MTSI stated many customers approaching them for CW capacity (but doesn't come online until H2 2027)\n\nSo read through for a company serving as $GFS reference laser, $JBL for pluggables (ex. intel siph), to Ayar for CPO.\n\nAnd in a merchant position:\n-> with independent CW DFB supply (with Win semi)\n-> CPO-grade lasers. \n\nIs incredibly positive for more customers approaching Sivers.  \n\n2. Ongoing developments turning into volume\n\n-> I'm most excited about $JBL, which would probably be the main revenue ramp in H1 2027. \n-> $AEVA is likely much smaller in comparison, but should be a contributor H2 2026. \n-> Ayar and optical I/O players already stated 2028 for HVM, so not really expecting much there. \n-> Co-developments from their other pluggable players (from last ER) turning into qualifications -> volume).\n\nAside from that:\n\n3. NASDAQ listing \n\n-> We already got timelines for that \"next few quarters\", so it's not really a focus to narrow that down further. Always nice to get an update. \n\n4. Financials\n\n-> Again, current financials aren't a focus for qualification-cycle players. Just a heads up, there's some one-time accounting this quarter, which affects things optically. \n\nMain thing is volume ramps for future quarters. \n\n-> revenue pipeline increase\n-> any early volume contracts signed\n\nBalance sheet concerns should be cleared now given their recent $70m fundraising + bootstrap dilution overhang gone. \n\nBonus cookies: \n-> Any information about allocations secured \"eg. we have substantial CW capacity secured -> would be extremely high signal given current shortages. \n\n-> Reiterate demand that AOI, Macom, Lumentum, Coherent stated. \"eg. any capacity we get would be filled from demand\"\n\n$AAOI had their massive $30 -> $220 rally after they stated like $471M expected capacity in 2027, and reiterated that into revenue guidance. (but then had a lot of ATMs) \n\nAn ambitious bull case + full capacity revenue statement for future timelines like H1 2028 for Sivers would be nice, but not expected. \n\nA further re-rating would help for M&A with a Cloud Light type acquisition for revenue acceleration in future earnings. \n\nObviously Sivers has other volume ramps, but I think photonics is what the market is primarily underwriting.\n\nRegardless, excited for what's up and coming.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 672,
+      "retweets": 44,
+      "replies": 70,
+      "quotes": 5,
+      "views": 220466,
+      "bookmarks": 137
+    },
+    "createdAt": "Tue Aug 25 09:46:32 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2092186856792506435",
+    "createdAtISO": "2026-08-25T09:46:32+00:00",
+    "createdAtLocal": "2026-08-25 17:46"
+  },
+  {
     "id": "2091967826764632087",
     "text": "@Meatusmax @adiradir734145 Good question, it's mainly third party commentary + actions around $SIVE. \n\nAyar probably speaks volumes to me most removing $LITE / $MTSI from their supply chain section of their site. Then just featuring Sivers by itself for the laser suppliers. \n\nVP at Ayar also said Sivers was ... \"essential to powering our optical I/O solution\", which is pretty high signal commentary. \n\nThen you have $JBL that built a 1.6T LRO after selecting Sivers, which is very rare. And bragged about their technological moat at one of the fireside chats. \n\nThen $GFS choosing Sivers as the reference laser too and featuring them in their presentations... \n\nFeels like all your leading players are moving forward with Sivers for some reason? And I'd assume these leading companies did their DD",
     "author": {
