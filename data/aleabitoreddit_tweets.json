@@ -1,5 +1,372 @@
 [
   {
+    "id": "2092727372361638025",
+    "text": "@JonahLupton $NVDA stated demand is much greater than 70%.\n\nIt's just that their capacity allows them to deliver 70% revenue growth, which is absurd. https://t.co/NtZqCXdaRU",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 116,
+      "retweets": 1,
+      "replies": 3,
+      "quotes": 0,
+      "views": 12297,
+      "bookmarks": 4
+    },
+    "createdAt": "Wed Aug 26 21:34:21 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2092726836987883632",
+    "inReplyToUserId": "14579415",
+    "conversationId": "2092723047107355133",
+    "createdAtISO": "2026-08-26T21:34:21+00:00",
+    "createdAtLocal": "2026-08-27 05:34"
+  },
+  {
+    "id": "2092723959938818537",
+    "text": "@StormDirac I think AI is back",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 183,
+      "retweets": 9,
+      "replies": 9,
+      "quotes": 2,
+      "views": 14591,
+      "bookmarks": 8
+    },
+    "createdAt": "Wed Aug 26 21:20:47 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2092723375093215382",
+    "inReplyToUserId": "208500614",
+    "conversationId": "2092718416683819292",
+    "createdAtISO": "2026-08-26T21:20:47+00:00",
+    "createdAtLocal": "2026-08-27 05:20"
+  },
+  {
+    "id": "2092723737263235378",
+    "text": "@Yolo365247isme Yeah I'm genuinely shocked at those projections, it's like ~$103B revenue beat above consensus lol. \n\n$NVDA is just printing, holy.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 81,
+      "retweets": 2,
+      "replies": 3,
+      "quotes": 0,
+      "views": 11217,
+      "bookmarks": 4
+    },
+    "createdAt": "Wed Aug 26 21:19:54 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2092723277945008422",
+    "inReplyToUserId": "1981767739753869321",
+    "conversationId": "2092723047107355133",
+    "createdAtISO": "2026-08-26T21:19:54+00:00",
+    "createdAtLocal": "2026-08-27 05:19"
+  },
+  {
+    "id": "2092723047107355133",
+    "text": "$NVDA: \"We expect to grow revenue by approximately 70% in fiscal 2028. This is a supply constrained outlook\"\n\nThat statement alone is probably more important than the entire earnings beat just now? \n\nInsane upward revision beat from +43.9% expected to 70%. \n\n\"With cloud industry backlog now greater than 2 trillion, CapEx by the top five hyperscalers is expected to reach nearly $800 Billion in 2026 and 1.3 Trillion in 2027\"\n\n$1.3 Trillion in 2027. (MS was around $1.2T June, so this is upward projection revisions)\n\nYeah the high-beta parts of the supply chain growth is going to like this.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1305,
+      "retweets": 97,
+      "replies": 72,
+      "quotes": 29,
+      "views": 230854,
+      "bookmarks": 194
+    },
+    "createdAt": "Wed Aug 26 21:17:10 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQrXKEIaEAAbYR4.jpg",
+        "width": 1488,
+        "height": 313
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2092723047107355133",
+    "createdAtISO": "2026-08-26T21:17:10+00:00",
+    "createdAtLocal": "2026-08-27 05:17"
+  },
+  {
+    "id": "2092718416683819292",
+    "text": "$NVDA earnings TLDR:\n\nRevenue: $96.22B vs. ~$92.17B (beat)\nAdj. EPS: $2.22 vs. $2.09-$2.10 (beat)\nDC: $89.0B vs. ~$86.3B (beat)\nAdj. gross margin: 75% vs. 75%\n\nHyperscaler Revenue: $48.71B from $43.05B last quarter (custom ASIC growth hasn't really prevented this revenue from accelerating)\n\nFor guidance:\nRevenue: $108B vs. ~$104.2B\nAdj. gross margin: 74% vs. 75% (kinda the only soft spot)\n\nRevenue ramp has been genuinely absurd over last 4 quarters. \n-> $68.1B\n-> $81.6B\n-> $96.2B (we are here)\n-> next quarter guidance: $108B, despite assuming zero China DC compute revenue. \n\nFun thing to note is Nvidia says its commitments jumped from $119B last quarter to $279B, primarily related to procurement of memory (for next few years).. So memory goes brrr. \n\nTLDR: AI keeps on going brrr. Nvidia is clearly leading the charge and no obvious signs of demand slowing. \n\nGiven Nvidia is already a $5T+ company, I think most of the alpha comes from how Nvidia's architecture/capacity decisions impact elsewhere in the supply chain (eg. CPO, memory, 800V) nowadays.\n\nRather than simply finding mispricing in Nvidia itself.\n\nRegardless, all the fun stuff happens in the earnings call in a few min.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 992,
+      "retweets": 53,
+      "replies": 70,
+      "quotes": 15,
+      "views": 379109,
+      "bookmarks": 143
+    },
+    "createdAt": "Wed Aug 26 20:58:46 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2092718416683819292",
+    "createdAtISO": "2026-08-26T20:58:46+00:00",
+    "createdAtLocal": "2026-08-27 04:58"
+  },
+  {
+    "id": "2092710854290764161",
+    "text": "I know everyone’s watching $NVDA earnings right now…\n\nBut did you know Landmark signed a 4 year CW agreement with US customer to ensure “sufficient supply”?\n\nSo now you have:\n\n- $LITE (capacity gone)\n- $COHR (capacity gone)\n- Landmark (capacity committed)\n- $AAOI (capacity for transceivers)\n- $MTSI (not online)\n- $SMTC (limited)\n\nI remember saying earlier this year CW lasers would be the next optical shift and heavily bottlenecked by Nvidia?\n\nSo fun watching this play out, with players signing LTAs already to 2030 (signaling less availability for other players).\n\nImplications for $SIVE / Win Semi are very material as one of the few remaining CW merchant suppliers with capacity (+ CPO-grade lasers).\n\nLet’s see how they execute.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 800,
+      "retweets": 68,
+      "replies": 49,
+      "quotes": 7,
+      "views": 154062,
+      "bookmarks": 243
+    },
+    "createdAt": "Wed Aug 26 20:28:43 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQrNbZ3bQAArOPC.jpg",
+        "width": 1228,
+        "height": 799
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2092710854290764161",
+    "createdAtISO": "2026-08-26T20:28:43+00:00",
+    "createdAtLocal": "2026-08-27 04:28"
+  },
+  {
+    "id": "2092705618448748697",
+    "text": "@4intheflames I’ve been too excited about DDR3/DDR2 implications to look at $NVDA earnings or sleep.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 34,
+      "retweets": 0,
+      "replies": 3,
+      "quotes": 0,
+      "views": 9017,
+      "bookmarks": 2
+    },
+    "createdAt": "Wed Aug 26 20:07:54 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2092688606192341215",
+    "inReplyToUserId": "1575819614583369728",
+    "conversationId": "2092665229880836597",
+    "createdAtISO": "2026-08-26T20:07:54+00:00",
+    "createdAtLocal": "2026-08-27 04:07"
+  },
+  {
+    "id": "2092667576954532213",
+    "text": "@embgaspbaud The enormous Q2/Q3 DDR2 hike pricing points to it https://t.co/CS770NbwNz",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 40,
+      "retweets": 1,
+      "replies": 4,
+      "quotes": 0,
+      "views": 11005,
+      "bookmarks": 3
+    },
+    "createdAt": "Wed Aug 26 17:36:44 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2092665787735556416",
+    "inReplyToUserId": "1916447090084888576",
+    "conversationId": "2092665229880836597",
+    "createdAtISO": "2026-08-26T17:36:44+00:00",
+    "createdAtLocal": "2026-08-27 01:36"
+  },
+  {
+    "id": "2092665229880836597",
+    "text": "The concept of “cascading bottlenecks” is just super cool.\n\nBecause of DDR4 supply shocks and costs:\n\nLot of ODMs are redesigning downward from DDR4 -&gt; DDR3 -&gt; DDR2.\n\nBut even the legacy players themselves like Winbond are withdrawing from DDR2.\n\nMaking the bottleneck even worse",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 417,
+      "retweets": 7,
+      "replies": 70,
+      "quotes": 4,
+      "views": 125991,
+      "bookmarks": 56
+    },
+    "createdAt": "Wed Aug 26 17:27:25 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2092665229880836597",
+    "createdAtISO": "2026-08-26T17:27:25+00:00",
+    "createdAtLocal": "2026-08-27 01:27"
+  },
+  {
+    "id": "2092543905271345187",
+    "text": "@Mengmengeth I don't use external platforms, only X!",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 38,
+      "retweets": 0,
+      "replies": 4,
+      "quotes": 0,
+      "views": 12379,
+      "bookmarks": 0
+    },
+    "createdAt": "Wed Aug 26 09:25:19 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2092521636381835511",
+    "inReplyToUserId": "1957772481370157058",
+    "conversationId": "2092517102339162263",
+    "createdAtISO": "2026-08-26T09:25:19+00:00",
+    "createdAtLocal": "2026-08-26 17:25"
+  },
+  {
+    "id": "2092517102339162263",
+    "text": "I love how so many people requested  $SIVE that Saxo Japan went out of their way to list it!\n\nJust goes to show how much demand there is for this laser company.\n\nSpecial shoutout to Saxo. And of course, excited for Sivers earnings + planned Nasdaq listing coming up.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1056,
+      "retweets": 52,
+      "replies": 67,
+      "quotes": 9,
+      "views": 306938,
+      "bookmarks": 84
+    },
+    "createdAt": "Wed Aug 26 07:38:48 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2092517102339162263",
+    "createdAtISO": "2026-08-26T07:38:48+00:00",
+    "createdAtLocal": "2026-08-26 15:38"
+  },
+  {
     "id": "2092411208100085775",
     "text": "@AheadOfTmrw I also misspelled Semtech 2 times, mistakes happen",
     "author": {

@@ -1,4 +1,87 @@
 id,url,createdAtISO,createdAtLocal,lang,isRetweet,retweetedBy,likes,retweets,replies,quotes,views,bookmarks,media_count,media_urls,link_urls,quoted_id,quoted_author,quoted_text,text
+2092727372361638025,https://x.com/aleabitoreddit/status/2092727372361638025,2026-08-26T21:34:21+00:00,2026-08-27 05:34,en,False,,116,1,3,0,12297,4,0,,,,,,"@JonahLupton $NVDA stated demand is much greater than 70%.
+
+It's just that their capacity allows them to deliver 70% revenue growth, which is absurd. https://t.co/NtZqCXdaRU"
+2092723959938818537,https://x.com/aleabitoreddit/status/2092723959938818537,2026-08-26T21:20:47+00:00,2026-08-27 05:20,en,False,,183,9,9,2,14591,8,0,,,,,,@StormDirac I think AI is back
+2092723737263235378,https://x.com/aleabitoreddit/status/2092723737263235378,2026-08-26T21:19:54+00:00,2026-08-27 05:19,en,False,,81,2,3,0,11217,4,0,,,,,,"@Yolo365247isme Yeah I'm genuinely shocked at those projections, it's like ~$103B revenue beat above consensus lol.
+
+$NVDA is just printing, holy."
+2092723047107355133,https://x.com/aleabitoreddit/status/2092723047107355133,2026-08-26T21:17:10+00:00,2026-08-27 05:17,en,False,,1305,97,72,29,230854,194,1,https://pbs.twimg.com/media/HQrXKEIaEAAbYR4.jpg,,,,,"$NVDA: ""We expect to grow revenue by approximately 70% in fiscal 2028. This is a supply constrained outlook""
+
+That statement alone is probably more important than the entire earnings beat just now?
+
+Insane upward revision beat from +43.9% expected to 70%.
+
+""With cloud industry backlog now greater than 2 trillion, CapEx by the top five hyperscalers is expected to reach nearly $800 Billion in 2026 and 1.3 Trillion in 2027""
+
+$1.3 Trillion in 2027. (MS was around $1.2T June, so this is upward projection revisions)
+
+Yeah the high-beta parts of the supply chain growth is going to like this."
+2092718416683819292,https://x.com/aleabitoreddit/status/2092718416683819292,2026-08-26T20:58:46+00:00,2026-08-27 04:58,en,False,,992,53,70,15,379109,143,0,,,,,,"$NVDA earnings TLDR:
+
+Revenue: $96.22B vs. ~$92.17B (beat)
+Adj. EPS: $2.22 vs. $2.09-$2.10 (beat)
+DC: $89.0B vs. ~$86.3B (beat)
+Adj. gross margin: 75% vs. 75%
+
+Hyperscaler Revenue: $48.71B from $43.05B last quarter (custom ASIC growth hasn't really prevented this revenue from accelerating)
+
+For guidance:
+Revenue: $108B vs. ~$104.2B
+Adj. gross margin: 74% vs. 75% (kinda the only soft spot)
+
+Revenue ramp has been genuinely absurd over last 4 quarters.
+-> $68.1B
+-> $81.6B
+-> $96.2B (we are here)
+-> next quarter guidance: $108B, despite assuming zero China DC compute revenue.
+
+Fun thing to note is Nvidia says its commitments jumped from $119B last quarter to $279B, primarily related to procurement of memory (for next few years).. So memory goes brrr.
+
+TLDR: AI keeps on going brrr. Nvidia is clearly leading the charge and no obvious signs of demand slowing.
+
+Given Nvidia is already a $5T+ company, I think most of the alpha comes from how Nvidia's architecture/capacity decisions impact elsewhere in the supply chain (eg. CPO, memory, 800V) nowadays.
+
+Rather than simply finding mispricing in Nvidia itself.
+
+Regardless, all the fun stuff happens in the earnings call in a few min."
+2092710854290764161,https://x.com/aleabitoreddit/status/2092710854290764161,2026-08-26T20:28:43+00:00,2026-08-27 04:28,en,False,,800,68,49,7,154062,243,1,https://pbs.twimg.com/media/HQrNbZ3bQAArOPC.jpg,,,,,"I know everyone’s watching $NVDA earnings right now…
+
+But did you know Landmark signed a 4 year CW agreement with US customer to ensure “sufficient supply”?
+
+So now you have:
+
+- $LITE (capacity gone)
+- $COHR (capacity gone)
+- Landmark (capacity committed)
+- $AAOI (capacity for transceivers)
+- $MTSI (not online)
+- $SMTC (limited)
+
+I remember saying earlier this year CW lasers would be the next optical shift and heavily bottlenecked by Nvidia?
+
+So fun watching this play out, with players signing LTAs already to 2030 (signaling less availability for other players).
+
+Implications for $SIVE / Win Semi are very material as one of the few remaining CW merchant suppliers with capacity (+ CPO-grade lasers).
+
+Let’s see how they execute."
+2092705618448748697,https://x.com/aleabitoreddit/status/2092705618448748697,2026-08-26T20:07:54+00:00,2026-08-27 04:07,en,False,,34,0,3,0,9017,2,0,,,,,,@4intheflames I’ve been too excited about DDR3/DDR2 implications to look at $NVDA earnings or sleep.
+2092667576954532213,https://x.com/aleabitoreddit/status/2092667576954532213,2026-08-26T17:36:44+00:00,2026-08-27 01:36,en,False,,40,1,4,0,11005,3,0,,,,,,@embgaspbaud The enormous Q2/Q3 DDR2 hike pricing points to it https://t.co/CS770NbwNz
+2092665229880836597,https://x.com/aleabitoreddit/status/2092665229880836597,2026-08-26T17:27:25+00:00,2026-08-27 01:27,en,False,,417,7,70,4,125991,56,0,,,,,,"The concept of “cascading bottlenecks” is just super cool.
+
+Because of DDR4 supply shocks and costs:
+
+Lot of ODMs are redesigning downward from DDR4 -&gt; DDR3 -&gt; DDR2.
+
+But even the legacy players themselves like Winbond are withdrawing from DDR2.
+
+Making the bottleneck even worse"
+2092543905271345187,https://x.com/aleabitoreddit/status/2092543905271345187,2026-08-26T09:25:19+00:00,2026-08-26 17:25,en,False,,38,0,4,0,12379,0,0,,,,,,"@Mengmengeth I don't use external platforms, only X!"
+2092517102339162263,https://x.com/aleabitoreddit/status/2092517102339162263,2026-08-26T07:38:48+00:00,2026-08-26 15:38,en,False,,1056,52,67,9,306938,84,0,,,,,,"I love how so many people requested  $SIVE that Saxo Japan went out of their way to list it!
+
+Just goes to show how much demand there is for this laser company.
+
+Special shoutout to Saxo. And of course, excited for Sivers earnings + planned Nasdaq listing coming up."
 2092411208100085775,https://x.com/aleabitoreddit/status/2092411208100085775,2026-08-26T00:38:01+00:00,2026-08-26 08:38,en,False,,11,0,1,0,2835,0,0,,,,,,"@AheadOfTmrw I also misspelled Semtech 2 times, mistakes happen"
 2092409726516748313,https://x.com/aleabitoreddit/status/2092409726516748313,2026-08-26T00:32:08+00:00,2026-08-26 08:32,en,False,,32,1,0,0,3475,2,0,,,,,,"@equityclimb1 Yeah I missed this quote:
 
