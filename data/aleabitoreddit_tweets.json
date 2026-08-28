@@ -1,5 +1,713 @@
 [
   {
+    "id": "2093087267594314182",
+    "text": "Nah, $SIVE is the most unusual $1B photonics company I've ever seen. \n\nJust for AI DCs alone:\n\n- Reference laser for $GFS SCALE (CPO/NPO/pluggable)\n- 7 pluggable engagements disclosed, with $JBL as primary ramp (with H1 2027 timeline)\n- ELS path with O-Net\n- ELS path with $POET \n- Lasers to Ayar for CPO I/O (now in $NVDA nvlink ecosystem)\n- Lasers for $AEVA (which now has NPO agreements with optical engine providers for hyperscalers)\n- Celestial/Lightmatter/Lightelligence (likely customers in 2023/2024)\n- InP lasers on TFLN with Lightium\n\nThen it has 2 substantial allocations for CW DFB laser capacity during an industry shortage. \n\nAs well as one of the few CPO-grade laser suppliers out in the industry. \n\nLet me know what other player around this range has so many ongoing qualifications, a large TAM, and in photonics. \n\n$SIVE is the #1 for me in terms of MC relative to qualifications paths across the industry.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 667,
+      "retweets": 44,
+      "replies": 71,
+      "quotes": 5,
+      "views": 159240,
+      "bookmarks": 138
+    },
+    "createdAt": "Thu Aug 27 21:24:26 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2093087267594314182",
+    "createdAtISO": "2026-08-27T21:24:26+00:00",
+    "createdAtLocal": "2026-08-28 05:24"
+  },
+  {
+    "id": "2093062500862644454",
+    "text": "@Kr_Soze I've never seen someone say new \"tremendous capacity allocation for Sivers\" for laser supply... \"available now\" during a bottleneck. \n\nAnd a disclosure working with 6 new pluggable manufacturers beyond $JBL (so 7). \n\n\"was awful\". Think majority of people like yourself just misunderstand evaluating qualification cycle players.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 131,
+      "retweets": 3,
+      "replies": 4,
+      "quotes": 0,
+      "views": 11184,
+      "bookmarks": 9
+    },
+    "createdAt": "Thu Aug 27 19:46:02 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093058375323971930",
+    "inReplyToUserId": "1402274752652365838",
+    "conversationId": "2093054882282651723",
+    "createdAtISO": "2026-08-27T19:46:02+00:00",
+    "createdAtLocal": "2026-08-28 03:46"
+  },
+  {
+    "id": "2093060723845067194",
+    "text": "@carrioresearch You're conflating custom products with regular timelines (eg. pluggable players). \n\nAnd this makes sense when you look at their post about Lightmatter, Lightelligence, and Celestial back in 2023-2024 (where these players take off 2028) \n\nFor the pluggable players they mentioned \"some can achieve\" very rapid qualification and ramp\" likely in 2027.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 78,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0,
+      "views": 11555,
+      "bookmarks": 4
+    },
+    "createdAt": "Thu Aug 27 19:38:58 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093055581569556501",
+    "inReplyToUserId": "2007678105008398336",
+    "conversationId": "2093054882282651723",
+    "createdAtISO": "2026-08-27T19:38:58+00:00",
+    "createdAtLocal": "2026-08-28 03:38"
+  },
+  {
+    "id": "2093059740406583545",
+    "text": "Massive CW laser bottleneck ongoing.\n\n-> 2 foundries (Win + another major player) with substantial capacity for $SIVE\n-> $JBL clear ramp timing \n- 6 new pluggable players in eval/later stage disc for near term opportunities\n-> $GFS, Ayar, $POET, (potentially Celestial + other CPO players).\n-> not even including the other work they do with TFLN and others.\n\nI'm very positive fundamentally after this.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 146,
+      "retweets": 2,
+      "replies": 5,
+      "quotes": 0,
+      "views": 11746,
+      "bookmarks": 14
+    },
+    "createdAt": "Thu Aug 27 19:35:03 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093057268463939968",
+    "inReplyToUserId": "898549024067915777",
+    "conversationId": "2093054882282651723",
+    "createdAtISO": "2026-08-27T19:35:03+00:00",
+    "createdAtLocal": "2026-08-28 03:35"
+  },
+  {
+    "id": "2093056981225615381",
+    "text": "@sebiisb Yeah, usually new foundry qualifications might take a lot of time if they started now... \n\nBut they said tremendous capacity is \"available now\" for CW DFB laser production.\n\nWhich is amazing news given CW laser shortages.\n\nJust to support that too, management was asked if Sivers could sell lasers right away using the new partner capacity. \n\nThe CEO said yes, that they have been working with the partner \"for a while.\"",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 111,
+      "retweets": 3,
+      "replies": 5,
+      "quotes": 0,
+      "views": 11016,
+      "bookmarks": 4
+    },
+    "createdAt": "Thu Aug 27 19:24:06 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093055317697274237",
+    "inReplyToUserId": "1106965956193107973",
+    "conversationId": "2093054882282651723",
+    "createdAtISO": "2026-08-27T19:24:06+00:00",
+    "createdAtLocal": "2026-08-28 03:24"
+  },
+  {
+    "id": "2093054882282651723",
+    "text": "$SIVE ER transcript just dropped, TLDR:\n\n- 6 NEW pluggable players working with Sivers now.\n\nProbably the biggest news of the entire ER next to new foundry allocations. \n\n\"3 are in alpha sample evaluation stage\" and another 3 in technical engagement / supply assessment stage.\"\n\nAnd now it makes more sense why their $1.2B revenue pipeline ballooned (since this was a bigger leap than Jabil). \n\n- Initial production orders with $JBL expected in the first half of 2027, with the production ramp planned second half of 2027\n\nLFG, Jabil is a massive hyperscaler supplier and finally got clear timelines on revenue from volume ramp.\n\n- \"new foundry partner who has brought on tremendous capacity that is available now\"\n\nThis is what I wanted to hear. Apparently they've been in the works for this for awhile since it's \"available now\", and THIS IS VERY MATERIAL. \n\nCW lasers are in a massive shortage and $SIVE brought on new supply outside of Win Semi (also de-risks).\n\nAs you hear with other qualified CW players (anything they make gets sold), so as Sivers partners finishes their qualifications, I'm expecting the same.\n\n- \"long-term capacity model where one-third of manufacturing capacity will be internal, while two-thirds will come from our foundry partners\"\n\nLukewarm on this, it makes sense they need to be vertically integrated like $AAOI / $LITE eventually but implies more capex (better after NASDAQ listing).\n\nAs you see with ESMT + DDR2 bottlenecks, the operating income they get from just securing wafers during shortages and doing fabless models is incredible. \n\nAnd it would make more sense to fund this with cashflow down the road.\n\n- NASDAQ listing ongoing. CFO gave a very lawyer like answer, but on track as usual.\n\n- \"We do not see production capacity as a bottleneck at this point in time\"\n\nThis is very meaningful since with their new foundry partners, implies $SIVE is coming online with a very material CW laser supply to a bottlenecked market.\n\nTLDR:\n- NEW substantial FOUNDRY ALLOCATION! (very, very material during CW laser shortage)\n- 6 new pluggable players outside of $JBL \n- Clear revenue ramp timelines from Jabil\n\nHeavy focus on pluggables -> NPO -> CPO seems like the progression.  Only lukewarm piece was building up internal capacity but it's long term positive.  \n\nAnyway, very happy after reading the transcript aside from potential capex prioritizing laser capacity (which is fine too during an industry shortage) over IP acquisition.\n\nThe 6 new pluggable players + substantial wafer allocation \"available now\" is a pretty insane disclosure.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 939,
+      "retweets": 74,
+      "replies": 84,
+      "quotes": 11,
+      "views": 170688,
+      "bookmarks": 216
+    },
+    "createdAt": "Thu Aug 27 19:15:45 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQwEmz2bAAAYQG0.jpg",
+        "width": 1721,
+        "height": 844
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQwFPFVacAAmBh_.jpg",
+        "width": 1932,
+        "height": 1112
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2093054882282651723",
+    "createdAtISO": "2026-08-27T19:15:45+00:00",
+    "createdAtLocal": "2026-08-28 03:15"
+  },
+  {
+    "id": "2093045300600672389",
+    "text": "@degenlurker_ @nimishx $GFS has $SIVE as their reference laser design and showcased them as a laser supplier for CPO/NPO/pluggables for GFS scale. \n\nAyar (leading CPO player) has $SIVE listed as their primary laser supplier. \n\nAgain all these newer 1.6T and CPO (scale up) architectures ramp in 2027/2028, it's hard to provide concrete volume contracts/projections if players like $JBL haven't qualification with their hyperscaler customers.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 116,
+      "retweets": 3,
+      "replies": 5,
+      "quotes": 3,
+      "views": 18561,
+      "bookmarks": 13
+    },
+    "createdAt": "Thu Aug 27 18:37:41 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093043324802281624",
+    "inReplyToUserId": "1334872097944973313",
+    "conversationId": "2093014569279189295",
+    "createdAtISO": "2026-08-27T18:37:41+00:00",
+    "createdAtLocal": "2026-08-28 02:37"
+  },
+  {
+    "id": "2093043338882805767",
+    "text": "@Ingeltun Maybe because $NVDA is a $5+ trillion dollar company.\n\nAnd then you're comparing that to a qualification stage $1B photonics company where all their ramps happen 2027/2028.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 64,
+      "retweets": 0,
+      "replies": 5,
+      "quotes": 1,
+      "views": 9639,
+      "bookmarks": 2
+    },
+    "createdAt": "Thu Aug 27 18:29:53 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093024679443259700",
+    "inReplyToUserId": "83450447",
+    "conversationId": "2093014569279189295",
+    "createdAtISO": "2026-08-27T18:29:53+00:00",
+    "createdAtLocal": "2026-08-28 02:29"
+  },
+  {
+    "id": "2093042867916968058",
+    "text": "@nimishx KPI has always been the consistent. It's just an indicator of how things would ramp. \n\nMain thing analysts look at are their hyperscaler suppliers like $GFS, $JBL, Ayar, $POET, and other pluggable/CPO partners. \n\nAnd how their programs scale, with $SIVE sitting upstream. \n\nRather than trying to argue with what opportunity pipelines mean.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 83,
+      "retweets": 3,
+      "replies": 5,
+      "quotes": 0,
+      "views": 12136,
+      "bookmarks": 7
+    },
+    "createdAt": "Thu Aug 27 18:28:01 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093027928930189417",
+    "inReplyToUserId": "2953602446",
+    "conversationId": "2093014569279189295",
+    "createdAtISO": "2026-08-27T18:28:01+00:00",
+    "createdAtLocal": "2026-08-28 02:28"
+  },
+  {
+    "id": "2093038129393627218",
+    "text": "@CryptoVandelay $SIVE primary exchange is closed. An OTC market is extremely thin and a small sell order can trigger a large % move.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 152,
+      "retweets": 2,
+      "replies": 11,
+      "quotes": 0,
+      "views": 17155,
+      "bookmarks": 7
+    },
+    "createdAt": "Thu Aug 27 18:09:11 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093034215772139527",
+    "inReplyToUserId": "1357700663430496256",
+    "conversationId": "2093014569279189295",
+    "createdAtISO": "2026-08-27T18:09:11+00:00",
+    "createdAtLocal": "2026-08-28 02:09"
+  },
+  {
+    "id": "2093036861963075719",
+    "text": "@whatdahellson It's slightly different since $LPK revenue has likely been delayed given industry GCS delays with Samsung Electro-mechanics/SKC Absolics\n\n$SIVE is the laser supplier to $JBL 1.6T LRO, Ayar for CPO, and others. \n\nThere's been no credible delays to 1.6T/CPO, it's just waiting for their qualifications to finish before volume contracts flow. Those architectures are 2027-2028.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 115,
+      "retweets": 4,
+      "replies": 9,
+      "quotes": 0,
+      "views": 15877,
+      "bookmarks": 4
+    },
+    "createdAt": "Thu Aug 27 18:04:09 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093027891348992322",
+    "inReplyToUserId": "2766631196",
+    "conversationId": "2093014569279189295",
+    "createdAtISO": "2026-08-27T18:04:09+00:00",
+    "createdAtLocal": "2026-08-28 02:04"
+  },
+  {
+    "id": "2093034809069379783",
+    "text": "@Robertff8n Pipeline grew to $1.2B from $799m from $400m in less than a year, not quite sure how someone expects more. \n\nThe revenue quality is different than others, since $SIVE was 55-60% long term gross margins est. off InP lasers. \n\nIt's not the same as 30% transceiver margins (with more revenue). \n\nAlso you can't suddenly escape qualification cycles and sell out to 2030, especially when they're targeting newer architectures for scale up in H2 2027",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 179,
+      "retweets": 4,
+      "replies": 7,
+      "quotes": 0,
+      "views": 17621,
+      "bookmarks": 12
+    },
+    "createdAt": "Thu Aug 27 17:55:59 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093016243557052434",
+    "inReplyToUserId": "2059417078306664448",
+    "conversationId": "2093014569279189295",
+    "createdAtISO": "2026-08-27T17:55:59+00:00",
+    "createdAtLocal": "2026-08-28 01:55"
+  },
+  {
+    "id": "2093031636678090891",
+    "text": "@Finishurbkfst23 Because they're qualification stage.\n\nSame thing with $AAOI or $AEHR before their volume inflections. \n\nIt's just understanding semi ramp cycles from development -&gt; qualification -&gt; volume ramp.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 117,
+      "retweets": 4,
+      "replies": 7,
+      "quotes": 1,
+      "views": 18526,
+      "bookmarks": 9
+    },
+    "createdAt": "Thu Aug 27 17:43:23 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093029694241222734",
+    "inReplyToUserId": "1588933614108119041",
+    "conversationId": "2093014569279189295",
+    "createdAtISO": "2026-08-27T17:43:23+00:00",
+    "createdAtLocal": "2026-08-28 01:43"
+  },
+  {
+    "id": "2093014569279189295",
+    "text": "$SIVE earnings just got released:\n\n$1.2 billion revenue opportunity pipeline growth up 268% from December (incredible growth). \n\nLast ER: $799M (this was a surprise, likely linked to Jabil)\n\nJuly 2026: ~$1.2B (hinting more either more customer engagements than what's announced or larger volume ramps within programs). \n\n\"Sivers continued to reallocate resources from NRE projects toward product ramp preparation. \n\nSivers expects the impact of this transition to become visible in Q4 2026 and accelerate through 2027 as multiple programs progress toward volume production.\"\n\nMakes sense on timelines. \n\nCurrent financials reflect a qualification-stage player before volume ramp: \n\n- $5.64M in revenue (reducing NRE activity, shifting to volume ramps soon) \n-$3.72M in adjusted EBITDA (what to look at given one-off charges, eg. social security accounting expense)\n\nKey thing to look at is earnings call in 30 minutes, very excited so far.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1389,
+      "retweets": 82,
+      "replies": 177,
+      "quotes": 17,
+      "views": 273899,
+      "bookmarks": 195
+    },
+    "createdAt": "Thu Aug 27 16:35:34 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQveoweacAA9FAm.jpg",
+        "width": 1404,
+        "height": 880
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2093014569279189295",
+    "createdAtISO": "2026-08-27T16:35:34+00:00",
+    "createdAtLocal": "2026-08-28 00:35"
+  },
+  {
+    "id": "2092882951256346730",
+    "text": "@Sunwukong512 https://t.co/IQ6RIcirOq",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 723,
+      "retweets": 42,
+      "replies": 77,
+      "quotes": 27,
+      "views": 117944,
+      "bookmarks": 18
+    },
+    "createdAt": "Thu Aug 27 07:52:34 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "qme",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2092881337250419060",
+    "inReplyToUserId": "1746693439679508480",
+    "conversationId": "2092872500829098165",
+    "createdAtISO": "2026-08-27T07:52:34+00:00",
+    "createdAtLocal": "2026-08-27 15:52"
+  },
+  {
+    "id": "2092878240826490970",
+    "text": "@OliverDingXin 可以，但以后中文写错了不许做空我",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 519,
+      "retweets": 0,
+      "replies": 57,
+      "quotes": 1,
+      "views": 56548,
+      "bookmarks": 3
+    },
+    "createdAt": "Thu Aug 27 07:33:51 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2092876889870549312",
+    "inReplyToUserId": "1930787745431183360",
+    "conversationId": "2092872500829098165",
+    "createdAtISO": "2026-08-27T07:33:51+00:00",
+    "createdAtLocal": "2026-08-27 15:33"
+  },
+  {
+    "id": "2092874483694751975",
+    "text": "@Tree30068 前几分钟的评论真的太多了。我觉得我的感觉果然没错…",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 102,
+      "retweets": 0,
+      "replies": 12,
+      "quotes": 0,
+      "views": 44325,
+      "bookmarks": 0
+    },
+    "createdAt": "Thu Aug 27 07:18:55 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2092872733650714898",
+    "inReplyToUserId": "1977687111768940544",
+    "conversationId": "2092872500829098165",
+    "createdAtISO": "2026-08-27T07:18:55+00:00",
+    "createdAtLocal": "2026-08-27 15:18"
+  },
+  {
+    "id": "2092872500829098165",
+    "text": "我感觉我现在大部分粉丝都是讲中文的…",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 2855,
+      "retweets": 24,
+      "replies": 1599,
+      "quotes": 17,
+      "views": 595817,
+      "bookmarks": 78
+    },
+    "createdAt": "Thu Aug 27 07:11:02 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2092872500829098165",
+    "createdAtISO": "2026-08-27T07:11:02+00:00",
+    "createdAtLocal": "2026-08-27 15:11"
+  },
+  {
+    "id": "2092858955404099896",
+    "text": "@Berlinergy Winbond is actually withdrawing from DDR2 to focus on DDR4/DDR3 and said they expect 2027 to be even tighter. \n\nThey're beginning capacity discussions for 2029-2030 + moving toward higher end, so don't quite see them having much to allocate toward older lines again. \n\nAs for other players moving toward older lines, qualification takes a lot of time... and there's just very low incentive to. \n\nI looked for foundry dependence, PSMC is Taiwanese, so all good geopolitically. \n\nAs for wafer allocations, if I had to put my supply chain hat resiliency hat on, if ESMT stopped supplying DDR2, it would just be absolute destruction downstream, so don't see that scenario (since they're probably the world's largest merchant supplier for this line if Winbond exits)\n\nSo don't quite think it would happen... but if they get less wafer allocations, the ASP just gets hiked even more, so earnings would likely remain strong.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 45,
+      "retweets": 0,
+      "replies": 4,
+      "quotes": 0,
+      "views": 17774,
+      "bookmarks": 9
+    },
+    "createdAt": "Thu Aug 27 06:17:13 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2092856337638002810",
+    "inReplyToUserId": "1305028419214815232",
+    "conversationId": "2092851118233764178",
+    "createdAtISO": "2026-08-27T06:17:13+00:00",
+    "createdAtLocal": "2026-08-27 14:17"
+  },
+  {
+    "id": "2092851118233764178",
+    "text": "I've always been bullish on memory with $MU / Samsung / solana:SKHYhSjuRWHgikq8eRKbtBbpABgJSkd7ytQV14i9EQ3 for the 2026-2027 period.  \n\nSame opinion, even after $NVDA call. \n\nAnd I've been fervently defending how high end memory demand is structural + OP for operating income (especially during Iran tensions around LNG/Helium). \n\nNvidia earnings just reaffirms what we know about extreme demand since commitments went from $119B -> $279B largely driven by memory procurement. \n\nNvidia's CFO also said: \"We are experiencing extreme pricing conditions in memory.\"\n\nAs for what I've done, H1 2026 I was extremely overweight in memory: \n\nWith $MU, $SNDK, Phison, $SIMO, Nanya, Macronix, Winbond, and $EWY / SK Hynix (HBM/DRAM + NAND + legacy DRAM/NAND + controllers + NOR Flash).\n\nI trimmed down those positions aside from Samsung/SK Hynix longs, since I do believe many have been rerated (eg. Micron $300 -> $1000+ already).\n\nI think the largest price discovery period has played out, but just a waiting game for the operating income to catch up (esp u samsung)\n\nAnd I used that period to go overweight on photonics. \n\nBut I do believe we're seeing a relatively newer cascade down into the \"legacy legacy\" memory like DDR2/DDR3 with the \"legacy\" players like Winbond leaving some of those segments.  \n\nWhere the price hikes finally hit the 40-60% Q/Q mark, which reminds me of the extreme $SNDK days, across  DDR2/DDR3.  \n\nWhich is why I started up positions in ESMT (1.9x P/E from July annualized) and Etron. \n\nMaybe we'll see a price discovery moment further down the legacy memory stack (could be wrong), but that's the area I've focused on recently.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1169,
+      "retweets": 46,
+      "replies": 93,
+      "quotes": 16,
+      "views": 467865,
+      "bookmarks": 410
+    },
+    "createdAt": "Thu Aug 27 05:46:04 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2092851118233764178",
+    "createdAtISO": "2026-08-27T05:46:04+00:00",
+    "createdAtLocal": "2026-08-27 13:46"
+  },
+  {
+    "id": "2092789800428622128",
+    "text": "I wanted exposure to DDR2/DDR3 bottleneck ongoing and found ESMT (3006). \n\nA $2.5B MC fabless company with PSMC wafer allocation (esp. focused on DDR2). \n\nLast month's net income was: $109.5M (July month), which annualized is $1.31B net profit (1.9x runrate P/E). \n\nIf we look at net profit throughout the months tracking legacy DRAM price hikes:\n\nJan 2026: ~$16M (est)\nFeb 2026: ~$17M\nMar 2026: ~$31M (est)\nApril 2026: ~$58M\nMay 2026: ~$60M (est)\nJune 2026: ~$67M (est)\nJul 2026: ~$110M\n(Estimated months are inferred from reported quarterly totals. July is company reported)\n\nThis earnings progression reminds me of $SNDK style price hikes + earnings inflection (esp. the report released this month). \n\nAnd I do expect DDR2/DDR3 capacity to remain constrained throughout 2027 (with legacy players like Winbond withdrawing from certain lines too like DDR2).\n\nIt's not quite all inventory liquidation like the other peers. Sure lower cost inventory helped, but the primary driver seems to be the widening spread between wafer costs/supply and legacy dram ASPs?\n\nTheir balance sheet is extremely solid as well:\n\n- Cash on hand: ~$395.9M net cash\n- $249.6M inventory, $146.3M receivables\n\nAnd the net income progression... is before further legacy DRAM hikes expected in Q3. \n\n*disclosure own positions, NFA\n\nIt's always a bit daunting being early without much commentary around the idea. Wondering if anyone can stress test this thesis?\n\nSince a company that grew monthly net income from $16M -> $100m this year alone (July Annualized would be 1.9x P/E). \n\nAnd benefits from another projected wave of DDR2/DDR3 hikes this quarter... maybe like 35-40% for DDR2 lines per Trendforce, and DDR3 likely continuing to rise. \n\nDo markets just not know about this bottleneck/company or am I missing something from my research?",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 777,
+      "retweets": 39,
+      "replies": 69,
+      "quotes": 4,
+      "views": 247342,
+      "bookmarks": 479
+    },
+    "createdAt": "Thu Aug 27 01:42:25 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQsOcndbgAAGsBT.jpg",
+        "width": 1719,
+        "height": 1202
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2092789800428622128",
+    "createdAtISO": "2026-08-27T01:42:25+00:00",
+    "createdAtLocal": "2026-08-27 09:42"
+  },
+  {
     "id": "2092727372361638025",
     "text": "@JonahLupton $NVDA stated demand is much greater than 70%.\n\nIt's just that their capacity allows them to deliver 70% revenue growth, which is absurd. https://t.co/NtZqCXdaRU",
     "author": {
