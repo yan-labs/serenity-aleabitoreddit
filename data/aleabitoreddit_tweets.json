@@ -1,5 +1,446 @@
 [
   {
+    "id": "2093327851957461082",
+    "text": "@dBooray @SoundResponse I use pipeline revenue as a measure est. quality of their customers relative to previous pipeline revenue estimates.\n\nEg. Q1 $JBL / $GFS $700M+, vs. Q2. 6 pluggable partners added. \n\nNot really a good figure to go off for revenue projections, since I’d expect addressable market + ramp to be much better once they expand product lines (eg. More downstream into optical engines or complete pluggables).\n\nIn the meantime I think it’s better to track $JBL / qualification ramps and wafer capacity modeled into revenue, and assume it gets sold given shortages.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 66,
+      "retweets": 2,
+      "replies": 5,
+      "quotes": 0,
+      "views": 13481,
+      "bookmarks": 7
+    },
+    "createdAt": "Fri Aug 28 13:20:26 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093312011601858787",
+    "inReplyToUserId": "1440762403923263491",
+    "conversationId": "2093087267594314182",
+    "createdAtISO": "2026-08-28T13:20:26+00:00",
+    "createdAtLocal": "2026-08-28 21:20"
+  },
+  {
+    "id": "2093301667328651360",
+    "text": "@KongJiJustin https://t.co/opsLQ2g1Ld",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 43,
+      "retweets": 2,
+      "replies": 5,
+      "quotes": 0,
+      "views": 14309,
+      "bookmarks": 0
+    },
+    "createdAt": "Fri Aug 28 11:36:23 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "qme",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093285822930076075",
+    "inReplyToUserId": "701629079838072838",
+    "conversationId": "2093281270063337833",
+    "createdAtISO": "2026-08-28T11:36:23+00:00",
+    "createdAtLocal": "2026-08-28 19:36"
+  },
+  {
+    "id": "2093282634155831707",
+    "text": "@Moon1ightSt 太美了😭",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 61,
+      "retweets": 0,
+      "replies": 9,
+      "quotes": 0,
+      "views": 17568,
+      "bookmarks": 0
+    },
+    "createdAt": "Fri Aug 28 10:20:45 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "ja",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093281542252503385",
+    "inReplyToUserId": "1476740293567426573",
+    "conversationId": "2093281270063337833",
+    "createdAtISO": "2026-08-28T10:20:45+00:00",
+    "createdAtLocal": "2026-08-28 18:20"
+  },
+  {
+    "id": "2093281270063337833",
+    "text": "只是因为这张图浏览量太高了…\n\n白毛牛来 https://t.co/WiHhXVqtK5",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1327,
+      "retweets": 54,
+      "replies": 296,
+      "quotes": 42,
+      "views": 361013,
+      "bookmarks": 40
+    },
+    "createdAt": "Fri Aug 28 10:15:20 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQzUN0raAAAiMWY.jpg",
+        "width": 1260,
+        "height": 452
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2093281270063337833",
+    "createdAtISO": "2026-08-28T10:15:20+00:00",
+    "createdAtLocal": "2026-08-28 18:15"
+  },
+  {
+    "id": "2093265972207718782",
+    "text": "Are Frontier lab relative valuations are too absurd nowadays?\n\nIf Anthropic IPOs at $2T… 10% of that can buy up almost every major established consumer brand:\n\nFrom: \n\nTaco Bell/Pizza Hut/KFC, GAP, American eagle, Levi’s, Victoria’s Secret, Cheesecake Factory, Krispy Kreme…\n\nCalvin Klein, Kohls, AMC, Kura Sushi, Dennys, Nike, Build a Bear, Jack in the Box, IHOP, Papa John’s…\n\nShake Shack, Apple Bees, Dave & Busters, Under Armour, Petco, Canada Goose.\n\nAll together. Using 10% of Anthropic.\n\nAnd they’d still have $51.6B leftover.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 696,
+      "retweets": 19,
+      "replies": 105,
+      "quotes": 7,
+      "views": 227040,
+      "bookmarks": 47
+    },
+    "createdAt": "Fri Aug 28 09:14:33 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2093265972207718782",
+    "createdAtISO": "2026-08-28T09:14:33+00:00",
+    "createdAtLocal": "2026-08-28 17:14"
+  },
+  {
+    "id": "2093259769339605314",
+    "text": "@iammichaelz 取决于你看的是哪一层存储\n\n很多传统 DRAM/NAND 和 NOR Flash 厂商目前的远期 P/E 仍然只有 1.8-3 倍",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 69,
+      "retweets": 0,
+      "replies": 4,
+      "quotes": 0,
+      "views": 19633,
+      "bookmarks": 7
+    },
+    "createdAt": "Fri Aug 28 08:49:54 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093257748628591076",
+    "inReplyToUserId": "421772047",
+    "conversationId": "2093252439973777674",
+    "createdAtISO": "2026-08-28T08:49:54+00:00",
+    "createdAtLocal": "2026-08-28 16:49"
+  },
+  {
+    "id": "2093252439973777674",
+    "text": "所以… 回到存储这边我们现在有：\n\n$SKHY CEO 表示: “我们预计[存储]短缺将持续到 2030 年底”\n\n$SNDK 表示: “我们看到直到 2030 年，NAND 都存在结构性的巨大需求”非 GAAP 毛利率将维持在约 80%.\n\n$NVDA 表示 供应承诺从 1,190 亿美元增加到 2,790 亿美元，主要由存储采购推动…与此同时, 存储定价处于“极端”水平 而且还在继续上涨.\n\nWinbond 正在与多家客户就延伸至 2029-2030 年的配额展开讨论.\n\n我之前就说过, 存储需求看起来是结构性的, 而现在从传统 DRAM 到 HBM，需求可见度已经延伸到了未来数年..\n\n所以我确实认为, 整个板块的远期 p/e 倍数都有进一步上升的机会.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1202,
+      "retweets": 72,
+      "replies": 183,
+      "quotes": 20,
+      "views": 325768,
+      "bookmarks": 229
+    },
+    "createdAt": "Fri Aug 28 08:20:47 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQy5_OEagAACgqX.jpg",
+        "width": 1180,
+        "height": 462
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQy5_ORbMAA8xB-.jpg",
+        "width": 1237,
+        "height": 698
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2093252439973777674",
+    "createdAtISO": "2026-08-28T08:20:47+00:00",
+    "createdAtLocal": "2026-08-28 16:20"
+  },
+  {
+    "id": "2093247980010917902",
+    "text": "@Ice_Tradingg The market also strongly disagreed when $AXTI was $13.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 177,
+      "retweets": 3,
+      "replies": 1,
+      "quotes": 1,
+      "views": 17804,
+      "bookmarks": 6
+    },
+    "createdAt": "Fri Aug 28 08:03:03 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093245468826386433",
+    "inReplyToUserId": "1773135866497478657",
+    "conversationId": "2093230562261823905",
+    "createdAtISO": "2026-08-28T08:03:03+00:00",
+    "createdAtLocal": "2026-08-28 16:03"
+  },
+  {
+    "id": "2093245981685092439",
+    "text": "@shawnyang1128 This was disclosed wafer capacity from their foundry partners back in 2024. Maybe one of the US players got added. \n\nI’m not a fan of Sivers switching to hybrid manufacturing at this stage though (think it targeted 1/3rd of capacity). \n\nBut I do agree it’s needed to be vertically integrated like $AAOI or $LITE.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 85,
+      "retweets": 2,
+      "replies": 0,
+      "quotes": 0,
+      "views": 16339,
+      "bookmarks": 10
+    },
+    "createdAt": "Fri Aug 28 07:55:07 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093243504768253961",
+    "inReplyToUserId": "1576282413340459009",
+    "conversationId": "2093230562261823905",
+    "createdAtISO": "2026-08-28T07:55:07+00:00",
+    "createdAtLocal": "2026-08-28 15:55"
+  },
+  {
+    "id": "2093245069575012529",
+    "text": "@sokarsokk Mix of algorithms, short sellers, dozens of repurposed/dormant accounts dedicated toward spreading negative news about $SIVE \n\nHard to believe accounts used for marketing during 2016 Asian ICOs or new X accounts would just start posting 50 negative comments only about Sivers.\n\nRegardless of near term volatility these things cause, fundamentals will catch up. \n\nThe materially bearish thing I see is implications of increased capex spend from going to a hybrid manufacturing model from fablite (but it’s inevitable in the long run)\n\nI haven’t really seen much people comment on that",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 165,
+      "retweets": 5,
+      "replies": 2,
+      "quotes": 0,
+      "views": 18109,
+      "bookmarks": 16
+    },
+    "createdAt": "Fri Aug 28 07:51:29 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093241099280335072",
+    "inReplyToUserId": "1189366704037609473",
+    "conversationId": "2093230562261823905",
+    "createdAtISO": "2026-08-28T07:51:29+00:00",
+    "createdAtLocal": "2026-08-28 15:51"
+  },
+  {
+    "id": "2093237022462980153",
+    "text": "@ethics3606 If you take Q2 operating cash outflow and the $70m they raised.\n\nThat amount alone would last around 2.5 years, even if you ignore income that flows in from quals -&gt; HVM.\n\nThey also have no interest debt after bootstrap conversion + exit. They’re more than fine",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 147,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0,
+      "views": 16075,
+      "bookmarks": 11
+    },
+    "createdAt": "Fri Aug 28 07:19:31 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093231675413033035",
+    "inReplyToUserId": "1654853100643971072",
+    "conversationId": "2093230562261823905",
+    "createdAtISO": "2026-08-28T07:19:31+00:00",
+    "createdAtLocal": "2026-08-28 15:19"
+  },
+  {
+    "id": "2093230562261823905",
+    "text": "Here's the angle I'm looking at $SIVE at: \n\nCompanies/CSPs have been going out of their way way to lock up any qualified CW laser capacity for optical transceivers. \n\nSo now, Sivers is coming into the industry with:\n\n- Large capacity from Win Semi\n- \"tremendous capacity that is available now\" from a new foundry (likely qualifications since 2024) since it's engaged \"for a while\"\n\nAnd what excited me from this earnings was the \"6 pluggable/module\" engagements (which is an enormous amount).\n\nThe nuance I'm reading is: \n\n- $COHR said it sees no near term ability to sell InP lasers externally because internal transceiver demand consumes all available\n- $AAOI said the same about consuming laser capacity internally (wasn't a major merchant supplier before though).\n- $LITE has been bottlenecked and been buying lasers off the open market \n\nYour previous merchant players rerouted laser capacity internally. \n\nSo a lot of the bigger names (eg. Eoptolink/Innolight as just a random example) are probably looking to source more lasers. \n\nAnd that kinda matches the quote \"capable of very rapid qualification and ramp\" (which would not match Series B startup)...\n\nLot of people are asking why aren't there LTAs to 2030 then? \n\n-> You can't just randomly escape the qualification process that established players have already completed. \n\nWhy aren't the customers disclosed?\n\nAnd as seen with the $MRVL + $POET engagement, you can't just disclose the vendors you're working with.\n\nBut the \"$1.2B opportunity pipeline\" almost doubled  relative to the jump of $JBL + $GFS. So it's signals that the new pluggable engagements might be pretty substantial relative to Jabil. \n\nSo if $SIVE comes along with enormous amounts of  CW DFB laser capacity during a supply shortage...\n\nThe  industry conditions have changed in a major way that increases conversion rates of engagements. \n\nAnd with the sheer size from all your ~est. customers jabil, globalfoundries, poet, aeva, lightium, ayar, (maybe lightmatter, celestial, lightelligence), 6 other pluggable players, and others. \n\nI think Sivers is going to cook after connecting the dots.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 896,
+      "retweets": 52,
+      "replies": 40,
+      "quotes": 10,
+      "views": 309283,
+      "bookmarks": 205
+    },
+    "createdAt": "Fri Aug 28 06:53:51 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2093230562261823905",
+    "createdAtISO": "2026-08-28T06:53:51+00:00",
+    "createdAtLocal": "2026-08-28 14:53"
+  },
+  {
+    "id": "2093207461314597108",
+    "text": "@SoundResponse Lot of critiques are from people who don’t understand how to evaluate qualification cycle semi players. \n\nGot the same thing with $AAOI back at $30 or $AEHR at $30.\n\nGoes to show when people look hard into development contract revenues, one-off accounting charges, rather than how hyperscaler supplier qualification timelines are going",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 183,
+      "retweets": 3,
+      "replies": 12,
+      "quotes": 1,
+      "views": 44552,
+      "bookmarks": 20
+    },
+    "createdAt": "Fri Aug 28 05:22:03 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093089994730598888",
+    "inReplyToUserId": "768023238744178689",
+    "conversationId": "2093087267594314182",
+    "createdAtISO": "2026-08-28T05:22:03+00:00",
+    "createdAtLocal": "2026-08-28 13:22"
+  },
+  {
     "id": "2093087267594314182",
     "text": "Nah, $SIVE is the most unusual $1B photonics company I've ever seen. \n\nJust for AI DCs alone:\n\n- Reference laser for $GFS SCALE (CPO/NPO/pluggable)\n- 7 pluggable engagements disclosed, with $JBL as primary ramp (with H1 2027 timeline)\n- ELS path with O-Net\n- ELS path with $POET \n- Lasers to Ayar for CPO I/O (now in $NVDA nvlink ecosystem)\n- Lasers for $AEVA (which now has NPO agreements with optical engine providers for hyperscalers)\n- Celestial/Lightmatter/Lightelligence (likely customers in 2023/2024)\n- InP lasers on TFLN with Lightium\n\nThen it has 2 substantial allocations for CW DFB laser capacity during an industry shortage. \n\nAs well as one of the few CPO-grade laser suppliers out in the industry. \n\nLet me know what other player around this range has so many ongoing qualifications, a large TAM, and in photonics. \n\n$SIVE is the #1 for me in terms of MC relative to qualifications paths across the industry.",
     "author": {
