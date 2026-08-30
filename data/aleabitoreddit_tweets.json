@@ -1,5 +1,607 @@
 [
   {
+    "id": "2093813217223188882",
+    "text": "@CryptoBankz_65 Two things: I'm hungry for carrots now. The second was was that... this was simplified TLDR.\n\nSince I didn't include the implications of more carrot demand across red (2), green (3), blue (4) carrots and how people who only ate blue carrots.\n\nStarted to eat green carrots because they were so hungry.  \n\nAnd people who only preferred green carrots started to eat red carrots. \n\nOr the famous carrot farmer named Winbond, ditching one of their older red carrot farms, causing more carrot shortages.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 33,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "views": 9289,
+      "bookmarks": 4
+    },
+    "createdAt": "Sat Aug 29 21:29:06 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093811612234793133",
+    "inReplyToUserId": "746037330",
+    "conversationId": "2093811019823132903",
+    "createdAtISO": "2026-08-29T21:29:06+00:00",
+    "createdAtLocal": "2026-08-30 05:29"
+  },
+  {
+    "id": "2093811019823132903",
+    "text": "Okay just to simplify this:\n\nThere is a guy who eats a lot called $NVDA. Nvidia only wants to buy high-priced potatos off the farmers.\n\nA potato farmer $MU, that was selling carrots... now shifted farmland to potatos. \n\nNvidia caused a great potato famine cause they can eat a lot. So everyone else who farmed carrots like SK Hynix and Samsung moved their farmland capacity to grow potato. \n\nBut... people still need to eat. And carrots are a healthy part of their everyday diet..\n\nNow there's no more carrots aside from a player like \"ESMT\", the legacy carrot farmer. \n\nSo now, because everyone buys carrots off ESMT, there's a shortage and the price goes up.\n\nSo ESMT needs more carrot seeds (from PSMC). But PSMC is running low on carrot seeds to grow the carrots. \n\nSo PSMC charges ESMT more for the seeds.\n\nBut the price ESMT sells the carrots at are much higher than what PSMC hikes the carrod seed price. \n\nnow... ESMT is making enough from selling carrots that it traded 1.9x P/E off July's earnings. \n\nCan ESMT keep selling these carrots through 2027?\n\nAll the other farmers thinks so since it's both hard + low incentive to migrate their valuable potato farms back to carrot farms.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 544,
+      "retweets": 28,
+      "replies": 52,
+      "quotes": 4,
+      "views": 146559,
+      "bookmarks": 250
+    },
+    "createdAt": "Sat Aug 29 21:20:22 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2093811019823132903",
+    "createdAtISO": "2026-08-29T21:20:22+00:00",
+    "createdAtLocal": "2026-08-30 05:20"
+  },
+  {
+    "id": "2093805166655143988",
+    "text": "Yep, ESMT (3006) has exposure to multiple legacy memory segments.\n\nHas a portfolio of: SLC/SPI NAND, NOR Flash, DDR2/DDR3, MCP/eMCP, so all the fun legacy stuff.\n\nIf you want to look at broader industry price hikes coming up that ESMT has exposure to:  \n\n1. SLC NAND: ~120-170% for H2 2026.\n2. DDR2: ~35-40% for Q3 2026.\n3. DDR4: +30–40% Q3 (with DDR3 tightening)\n4. NOR +60–65%+ for H2 (high density)\n5. MCP/eMCP: maybe ~+15–25% QoQ for ESMT from my own estimate\n\nFor official breakdown:\n\nDDR2 + DDR3: ~45% of revenue\nDDR4/other DRAM ~ 10% of revenue\neMCP/MCP ≈30%\nAnalog + other ≈15%\n\nRegardless, duration/hikes is the key: \n\n-> \"none of the major global SLC NAND suppliers plan to add new production capacity in the near term.\"\n-> TrendForce specifically expects depleted inventories to make SLC NAND even tighter in Q4.\n-> Winbond withdrawing DDR2, would make inventory even tighter (and they're doing allocations into 2029-2030)\n-> ESMT management said the market's main problem was supply, not demand; the company's foundry allocations covered only roughly 60–70% of customer orders\n-> Nanya: \"memory shortages could last through the end of 2027, with supply and demand still tight in 2028\"\n->Nanya explicitly said capacity constraints could cause shortages across DDR5, LPDDR5, DDR4, LPDDR4 and DDR3. \n-> ESMT included eMCP among the products receiving order-transfer benefits as mature node resources were being pulled elsewhere\n______\n\nIf I had to state my thoughts again:\n\nI think ESMT's ~1.9x July annualized run-rate P/E could compress further, despite factoring in PSMC's 45% wafer hike due to further legacy memory price hikes. \n\nIndustry commentary supports durability throughout 2027. \n\nCherry on top is if we start seeing LTAs and visibility into 2029-2030 (but not factored in). \n\nI think markets either don't know about this, are mispricing duration, or overestimating PSMC's wafer hike effects. \n\nMaybe playing duoQ with Rank 1 Challenger \"ESMT\" in LoL classic... Is more fun than playing with hardstuck \"Micron\" in League?",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 133,
+      "retweets": 6,
+      "replies": 11,
+      "quotes": 3,
+      "views": 208535,
+      "bookmarks": 62
+    },
+    "createdAt": "Sat Aug 29 20:57:07 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2093805166655143988",
+    "createdAtISO": "2026-08-29T20:57:07+00:00",
+    "createdAtLocal": "2026-08-30 04:57"
+  },
+  {
+    "id": "2093763407308812702",
+    "text": "@he8496 $AXTI would need to hike ASPs of InP substrates to extreme levels you see in memory to see further rerating eg. $20-30B valuations. \n\nI think the bottleneck is proven, their chokepoint is proven. \n\nHowever, I don't know what the contracts or LTAs with $LITE and $COHR entail. We'll find out over time (disclosure* own AXT shares).",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 42,
+      "retweets": 0,
+      "replies": 3,
+      "quotes": 1,
+      "views": 17112,
+      "bookmarks": 10
+    },
+    "createdAt": "Sat Aug 29 18:11:11 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093761766350299623",
+    "inReplyToUserId": "1999187823543615490",
+    "conversationId": "2093760498072485919",
+    "createdAtISO": "2026-08-29T18:11:11+00:00",
+    "createdAtLocal": "2026-08-30 02:11"
+  },
+  {
+    "id": "2093760498072485919",
+    "text": "$MU: goes from $133B -&gt; $1T+ in a year.\n\n$RDDT after a 2-month correction: \"Garbage stock\" https://t.co/HlIXwJ7ZdB",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 878,
+      "retweets": 17,
+      "replies": 66,
+      "quotes": 5,
+      "views": 203825,
+      "bookmarks": 102
+    },
+    "createdAt": "Sat Aug 29 17:59:37 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ6HwDcbkAAuqYK.jpg",
+        "width": 1590,
+        "height": 1901
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ6H06yawAAw07-.jpg",
+        "width": 1294,
+        "height": 1129
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2093760498072485919",
+    "createdAtISO": "2026-08-29T17:59:37+00:00",
+    "createdAtLocal": "2026-08-30 01:59"
+  },
+  {
+    "id": "2093744291139272901",
+    "text": "@dxleolibra1003 Cool to see you reaching out to $SIVE IR and it's even better you got a response back from the CEO himself!\n\nI do think Sivers' CEO is amazing, just gotta escape local markets.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 210,
+      "retweets": 5,
+      "replies": 7,
+      "quotes": 0,
+      "views": 15768,
+      "bookmarks": 10
+    },
+    "createdAt": "Sat Aug 29 16:55:13 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093742132297122054",
+    "inReplyToUserId": "826411869598601216",
+    "conversationId": "2093742132297122054",
+    "createdAtISO": "2026-08-29T16:55:13+00:00",
+    "createdAtLocal": "2026-08-30 00:55"
+  },
+  {
+    "id": "2093734788737998852",
+    "text": "@handz18 我只是在列最近到处出现的新瓶颈\n\n以后我会尽量少用太技术性的术语",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 23,
+      "retweets": 0,
+      "replies": 6,
+      "quotes": 0,
+      "views": 8285,
+      "bookmarks": 0
+    },
+    "createdAt": "Sat Aug 29 16:17:28 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093719577775726958",
+    "inReplyToUserId": "156741162",
+    "conversationId": "2093712497949950242",
+    "createdAtISO": "2026-08-29T16:17:28+00:00",
+    "createdAtLocal": "2026-08-30 00:17"
+  },
+  {
+    "id": "2093721035673923743",
+    "text": "@piyush1337 $AMKR has existing traditional packaging capacity underutilized (like in Philippines), so if that 20%+ deficit is true\n\nProbably fills that up at higher prices so that's brrr to nearer term revenue. \n\nI still think the main ramp is early 2028 with Arizona once their $TSM + $NVDA stuff takes off.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 24,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "views": 9157,
+      "bookmarks": 6
+    },
+    "createdAt": "Sat Aug 29 15:22:49 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093718875288539255",
+    "inReplyToUserId": "2438280517",
+    "conversationId": "2093712497949950242",
+    "createdAtISO": "2026-08-29T15:22:49+00:00",
+    "createdAtLocal": "2026-08-29 23:22"
+  },
+  {
+    "id": "2093712497949950242",
+    "text": "Missed this mention earlier but IC design insiders reveal that OSAT providers have already warned clients:\n\n\"traditional packaging capacity could face a deficit exceeding 20% by 2027\" (eg. $AMKR, ethereum:0x041ff0e49f6f774e7dc7bd10ee4a14c00b1d80b2, Powertech as potential beneficaries)\n\nWith: \"wire bonding equipment\" emerging as the primary bottleneck (ASMPT, $KLIC)\n\n-> influx of AI server shipments has triggered a spike in demand for mature chips\n-> existing mature packaging capacity at OSATs is being rapidly absorbed\n-> securing early access to traditional packaging capacity is now becoming a challenge \n\nCascading bottleneck patterns are occurring across memory (eg. DDR2, DDR3) and now packaging capacity I guess.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 374,
+      "retweets": 25,
+      "replies": 43,
+      "quotes": 6,
+      "views": 129887,
+      "bookmarks": 126
+    },
+    "createdAt": "Sat Aug 29 14:48:53 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ5aot8akAAzTkW.jpg",
+        "width": 1787,
+        "height": 1029
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2093712497949950242",
+    "createdAtISO": "2026-08-29T14:48:53+00:00",
+    "createdAtLocal": "2026-08-29 22:48"
+  },
+  {
+    "id": "2093682719612145928",
+    "text": "@maroonjacket1 Nah $SIVE CEO is goated, but if you go to a fishermen's market, don't expect many questions outside of fish.  \n\nSivers needs to both start treating and communicating themselves as a hypergrowth optical company. \n\nRather than being weighed down by local markets.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 147,
+      "retweets": 3,
+      "replies": 12,
+      "quotes": 1,
+      "views": 39051,
+      "bookmarks": 7
+    },
+    "createdAt": "Sat Aug 29 12:50:33 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093680196209807862",
+    "inReplyToUserId": "308315657",
+    "conversationId": "2093678493335011831",
+    "createdAtISO": "2026-08-29T12:50:33+00:00",
+    "createdAtLocal": "2026-08-29 20:50"
+  },
+  {
+    "id": "2093680360920105154",
+    "text": "@dBooray No I'm still very bullish operationally on $SIVE, and much more so with the additional foundry allocation + 6 pluggable disclosure. \n\nI just couldn't get the answers I wanted to from these calls, because the leading questions asked were crap or focused on the wrong things.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 125,
+      "retweets": 5,
+      "replies": 10,
+      "quotes": 0,
+      "views": 12364,
+      "bookmarks": 8
+    },
+    "createdAt": "Sat Aug 29 12:41:11 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093679552371278088",
+    "inReplyToUserId": "1440762403923263491",
+    "conversationId": "2093678493335011831",
+    "createdAtISO": "2026-08-29T12:41:11+00:00",
+    "createdAtLocal": "2026-08-29 20:41"
+  },
+  {
+    "id": "2093678493335011831",
+    "text": "Yes. I genuinely don't have a clue why $SIVE still focuses on local Swedish markets for communication/private fundraising. \n\nOver the US. \n\nThe questions you get from Swedish heavy audiences include:\n\n- Leading questions like how would you \"stop the bleeding\" \n- \"Why can't you disclosure your private customers\"\n- Why focus on transceivers (it's obvious)\n- Implications for non-photonics orders\n\nSo 1/3rd of the time, the CEO needs to be defending leading/accusatory questions around what \"opportunity pipeline means\" \n\nUS analysts would have pressed:\n\n- Economic implications from 2 foundry allocations during a bottleneck + ASP hike/operating leverage  \n- Around much capacity revenue would those allocations lead to (half of AOI calls are around those from US analysts) \n- $GFS NPO/CPO/pluggable scale implications and downstream end customers opportunities  \n- Ayar / CPO player 2028 ramp (that happened to raise $500m+) or other products like ELS production with O-net and TAM opportunities there.   \n- How big those 6 new pluggable players were, rather than asking \"why can't you disclosure them\"  \n- Clarifying CFO legalposts around listing timeline and M&A TAM expansion opportunities\n\nSo investors can get a sense of future growth for 2027-2028.\n\nInstead, the way leading questions are framed/answers, the entire calls were focused around current financials (which US investors don't care about), non-photonic implications, or skepticism of wording.\n\nRather than exciting US investors about economic implications from their time in a CW laser bottleneck. \n\nThe more time $SIVE spends in Swedish markets, the more they will be valued as such.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 722,
+      "retweets": 26,
+      "replies": 73,
+      "quotes": 9,
+      "views": 219379,
+      "bookmarks": 101
+    },
+    "createdAt": "Sat Aug 29 12:33:46 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2093678493335011831",
+    "createdAtISO": "2026-08-29T12:33:46+00:00",
+    "createdAtLocal": "2026-08-29 20:33"
+  },
+  {
+    "id": "2093664082905935963",
+    "text": "@Happy_Chachi $SIVE direction has already been shared and aligned with what I've agreed with:\n\n-> M&A focus (they brought on 2 new related board members)\n-> NASDAQ listing (already announced plan)\n-> Capacity during bottleneck (announced new foundry partner)\n-> Many development/qualifications ongoing\n\nTheir communication was super far off in this quarter's call. \n\nThey shouldn't need to spend all their time defending against the useless Swedish market accusations about  \"opportunity pipeline\". \n\nAnd just focus on economic impact of forward growth opportunities + accelerate NASDAQ listing process rather than giving lawyer like disclousres.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 126,
+      "retweets": 5,
+      "replies": 7,
+      "quotes": 1,
+      "views": 12284,
+      "bookmarks": 8
+    },
+    "createdAt": "Sat Aug 29 11:36:30 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093654706325233741",
+    "inReplyToUserId": "1488465068190744576",
+    "conversationId": "2093652781928448279",
+    "createdAtISO": "2026-08-29T11:36:30+00:00",
+    "createdAtLocal": "2026-08-29 19:36"
+  },
+  {
+    "id": "2093661559503679598",
+    "text": "@sebiisb Look at the contrast of how Elon Musk communicates in his transcripts. Very forward looking and visionary. \n\nAnd focuses around economic implications of GROWTH areas (eg. humanoids), not weak parts of $TSLA earnings.  \n\nSivers transcripts felt like lawyer like disclosures and just going on the defensive defending opportunity pipelines usage with their allspace type contracts.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 106,
+      "retweets": 1,
+      "replies": 7,
+      "quotes": 0,
+      "views": 11284,
+      "bookmarks": 5
+    },
+    "createdAt": "Sat Aug 29 11:26:28 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093654159870365796",
+    "inReplyToUserId": "1106965956193107973",
+    "conversationId": "2093652781928448279",
+    "createdAtISO": "2026-08-29T11:26:28+00:00",
+    "createdAtLocal": "2026-08-29 19:26"
+  },
+  {
+    "id": "2093658020526096444",
+    "text": "@platochi Communication 100% needs to be better. The CFO statement made me want to throw my phone out the window. \n\n\"the decision becomes much more a question of market conditions, of  investor demand on business momentum and on whether we believe the  listing at that moment would create the long-term value for shareholders\"\n\nThis isn't a courtroom??? \n\nEven I wouldn't hold the stock if I heard the CFO reiterate this one more time.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 128,
+      "retweets": 1,
+      "replies": 15,
+      "quotes": 0,
+      "views": 14244,
+      "bookmarks": 6
+    },
+    "createdAt": "Sat Aug 29 11:12:25 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093654916766007502",
+    "inReplyToUserId": "1943723140682833920",
+    "conversationId": "2093652781928448279",
+    "createdAtISO": "2026-08-29T11:12:25+00:00",
+    "createdAtLocal": "2026-08-29 19:12"
+  },
+  {
+    "id": "2093656507745485237",
+    "text": "@CryptoVandelay Fully dependent on $SIVE execution and int. audience communication. \n\nThey have:\n-> tremendous laser capacity during a bottleneck from 2 foundries\n-> many ongoing qualifications\n-> capital from $70M fundraise\n\nIf they want to leverage their way to a Cloud Light/Ayar/Lightmatter type acquisition of a private company. \n\nAnd pull forward NASDAQ listing process by pouring resources to do so, I can see Sivers pulling a fast recovery.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 146,
+      "retweets": 4,
+      "replies": 8,
+      "quotes": 0,
+      "views": 13027,
+      "bookmarks": 8
+    },
+    "createdAt": "Sat Aug 29 11:06:24 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093653351858663848",
+    "inReplyToUserId": "1357700663430496256",
+    "conversationId": "2093652781928448279",
+    "createdAtISO": "2026-08-29T11:06:24+00:00",
+    "createdAtLocal": "2026-08-29 19:06"
+  },
+  {
+    "id": "2093655580787564803",
+    "text": "@NieMehrKrieg Operationally, Sivers has been doing amazing. Communication wise, it's been subpar and atrocious from the CFO.\n\nJust to give you a sense of valuations:\n\n$SIVE is cheap enough now that $MRVL could just blow spare change to buy it and vertically integrate their Celestial acquisition.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 144,
+      "retweets": 2,
+      "replies": 2,
+      "quotes": 0,
+      "views": 12861,
+      "bookmarks": 4
+    },
+    "createdAt": "Sat Aug 29 11:02:43 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093653563100553351",
+    "inReplyToUserId": "1681400766542561293",
+    "conversationId": "2093652781928448279",
+    "createdAtISO": "2026-08-29T11:02:43+00:00",
+    "createdAtLocal": "2026-08-29 19:02"
+  },
+  {
+    "id": "2093652781928448279",
+    "text": "If I had to be critical of $SIVE earnings:\n\n1. Management underweighted the two disclosures that matter most.\n\n-> 6 pluggable engagements \n-> Foundry capacity (during an industry bottleneck)\n\nThat's the most important part of the call and should have been the focus to provide economic scale of them. But we got 2-3 sentences about it.  \n\nAnd it shouldn't take an Anime avatar on X to talk most about the implications of those. \n\n2. CFO needs retraining or bring on a new one.\n\nThe lawyer like answers were infuriating to listen to as a shareholder. Even I got pissed off with this statement:\n\n\"we will evaluate the timing and decide whether the conditions are right to move forward at that particular time.\" \n\nIt should be a 100% given by now they file for dual listing to escape hostile Swedish markets. \n\nShareholders didn't fund a future growth type company to hear lawyer-like answers. \n\nAgain, this was probably one of the worst answers the CFO could have gave and there needs to be firm commitment along with faster timelines. \n\n3. $70M should have gone toward M&A and dual listing. \n\n-> Brutally honestly speaking, it's a waste of capital to focus on hybrid manufacturing at this stage and I was disappointed to hear this during this timeframe.  \n\nIt's eventually needed but with 2 foundry suppliers \n\n-> You have a ton of new capital and large marketcap. \n\nUse it to pull $AVGO style acquisitions of Cloud Light style IP for pluggables or optical engines. \n\nLumilens went from 0 -> $5.5B in 2 years and now with hyperscaler engagements. \n\nSivers should expand out of the laser chokepoint as fast as possible and not stay just a component vendor. \n\nAnd most of all, who cares about competing with customers? If a customer says: \"if you do pluggables, we'll go with other players for lasers\"\n\nwho?? $LITE / $COHR / $AAOI reroutes their lasers to internal usage. Lot of your Asian players already allocated. \n\nAbuse the current bottleneck as much as possible because there's almost no qualified choices left.\n\nAnd I'm certain all the partners are trying to vertically integrate upward toward the laser level too and compete.  \n\nIf there was a new OE/pluggable accusation attempted during the Q2 time frame, things would have been a lot different. \n\n_\n\nTLDR: \n\n$SIVE should aim to be the next $LITE and blitzscale like a Silicon Valley company.\n\nUse that $70m capital to move faster H2, and at the bare minimum finish readiness then. And expect NASDAQ listing to be finished H1 2027. \n\nNot \"evaluation\" at that timeframe. \n\nAnd use the capital + equity to expand downward into optical engines/ELS/optical transceivers using your equity valuation, and buy a Celestial/Ayar/Cloud Lite type startup. \n\nAs for the wording of the call, markets care about economic value of the foundry allocation + 6 pluggable players, not other business segments.\n\n$SIVE has been extremely conservative to date, but \n they need to speed up and communicate to forward looking US/Int shareholders. \n\nNot geared toward local Swedish audiences who care about Q2/TTM revenue. \n\nOtherwise they'll be treated like an Asian component supplier and eventually be valued like an EU one.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 956,
+      "retweets": 46,
+      "replies": 125,
+      "quotes": 13,
+      "views": 290460,
+      "bookmarks": 216
+    },
+    "createdAt": "Sat Aug 29 10:51:36 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2093652781928448279",
+    "createdAtISO": "2026-08-29T10:51:36+00:00",
+    "createdAtLocal": "2026-08-29 18:51"
+  },
+  {
     "id": "2093327851957461082",
     "text": "@dBooray @SoundResponse I use pipeline revenue as a measure est. quality of their customers relative to previous pipeline revenue estimates.\n\nEg. Q1 $JBL / $GFS $700M+, vs. Q2. 6 pluggable partners added. \n\nNot really a good figure to go off for revenue projections, since I’d expect addressable market + ramp to be much better once they expand product lines (eg. More downstream into optical engines or complete pluggables).\n\nIn the meantime I think it’s better to track $JBL / qualification ramps and wafer capacity modeled into revenue, and assume it gets sold given shortages.",
     "author": {
