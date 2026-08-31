@@ -1,4 +1,219 @@
 id,url,createdAtISO,createdAtLocal,lang,isRetweet,retweetedBy,likes,retweets,replies,quotes,views,bookmarks,media_count,media_urls,link_urls,quoted_id,quoted_author,quoted_text,text
+2094129989071536351,https://x.com/aleabitoreddit/status/2094129989071536351,2026-08-30T18:27:51+00:00,2026-08-31 02:27,en,False,,380,10,56,4,115540,44,1,https://pbs.twimg.com/media/HQ_Xke8a0AA4VwK.jpg,,,,,"I'm going to miss the days of Korean retail reacting heavily to $EWY / Samsung / $SKHY daily volatility.
+
+New piece: ""Korean day traders flee leveraged chip ETFs as regulatory curbs bite""
+
+- Trading value in ETFs designed to deliver 2x daily returns of Samsung / SK Hynix has fallen to just 4% of its June peak
+
+- The requirement follows earlier measures, including a higher minimum deposit, aimed at cooling speculative activity
+
+- And then came the final boss... A 5 day trading course where:
+
+""Investors must download a Windows-only program  and spend at least one hour each day trading with virtual funds""
+
+$MSFT Windows wiped out the Korean retail."
+2094112192463593781,https://x.com/aleabitoreddit/status/2094112192463593781,2026-08-30T17:17:08+00:00,2026-08-31 01:17,und,False,,23,0,3,0,8826,0,0,,,,,,@KostasMoschovas Yes
+2094098755415114118,https://x.com/aleabitoreddit/status/2094098755415114118,2026-08-30T16:23:44+00:00,2026-08-31 00:23,zh,False,,23,0,5,0,9091,3,0,,,,,,"@Myv3rz 如果你在 $IBKR 搜尋 &lt;3006&gt;並啟用台灣證券交易所，就可以找到。
+
+不過這不是投資建議。"
+2094083798204047577,https://x.com/aleabitoreddit/status/2094083798204047577,2026-08-30T15:24:18+00:00,2026-08-30 23:24,en,False,,261,10,40,3,169223,77,1,https://pbs.twimg.com/media/HQ-nasmakAAxt-0.jpg,,,,,"The more I look at ESMT, the more excited I get researching legacy memory themes.
+
+So looked through H1 sellside models...
+
+From March ESMT reports:
+Huanan: DDR3 4Gb ASP +50% QoQ in Q2
+Fubon: cited roughly +40% Q2 DRAM pricing
+
+By August... Huanan was citing ESMT Q2 ASP growth of:
++105–113% Q/Q blended.
+
+Saying DDR3 pricing had come in substantially better than expected.
+
+So legacy memory pricing translated into much more operating leverage at ESMT.
+
+About PSMC wafer cost hikes: Huanan estimated manufacturing costs could rise ~100% in 2H26, but customers remained highly willing to accept the pass-through
+
+If we look at July net income was roughly $109M...  way above the earnings levels the earlier models were built around.
+
+If I had to give a TLDR ""consensus"" of reports
+
+1. DDR3/DDR2 supply remains structurally tight as competitors move capacity toward higher-value memory.
+2. Concord saw no conditions supporting a price reversal during 2026.
+3. Concord expected contract-price increases to cover higher foundry costs.
+4. Huanan later found that customer willingness to accept those cost increases was stronger than expected.
+
+Fun thing I read from Huanan was DDR3 is used in products such as IP cameras and HDDs where the memory component is a relatively small part of the customer's total BOM.
+
+So even very large legacy DRAM price hike may only add a few dollars to the finished product's BOM... and for many customers, paying a few extra dollars would be more economical than redesigning + requalifying (but this flows materially into ESMT's net income)
+
+Anyway, just excited about this idea (*disclosure I have positions)
+
+TLDR:
+-> Huanan updated ESMT blended Q2 ASP to +105-113% Q/Q
+-> Given July's blowout net income (putting ESMT at 1.9x p/e annualized RR), implications for the future are exciting if inelasticity continues + ESMT has the ability to hike further due to low % of finished product BOM cost.
+-> Indication customers were still willing to accept pass through for PSMC wafer hikes."
+2094029622254162419,https://x.com/aleabitoreddit/status/2094029622254162419,2026-08-30T11:49:01+00:00,2026-08-30 19:49,en,False,,50,0,3,0,15976,0,0,,,,,,"@Sovranoq Thanks for the correction, harder than **just** finding power."
+2094027369648681284,https://x.com/aleabitoreddit/status/2094027369648681284,2026-08-30T11:40:04+00:00,2026-08-30 19:40,en,False,,2212,250,127,21,442072,2579,0,,,,,,"Just some random ideas from Elon’s post:
+
+$AAON - Chillers / liquid cooling
+$NVT - Cooling
+$MOD - Chillers / Cooling
+$IESC - Wiring
+$MTRS - chillers
+$JCI - chillers
+$HPS.A - Transformers (disclosure I own positions in this)
+$PRY.MI - networking/wiring(fiber)
+$CRDO / $AAOI (same) / $LITE / $COHR - networking
+
+Since Elon Musk cited:
+
+- transformers
+- wiring
+- liquid cooling
+- massive chillers + complex networking
+
+As the point of failure for AI compute buildout.
+
+Which is “harder than finding power”"
+2094021377900839021,https://x.com/aleabitoreddit/status/2094021377900839021,2026-08-30T11:16:16+00:00,2026-08-30 19:16,en,False,,92,2,9,0,14457,8,0,,,,,,"@Omardrisss There’s bubbles within the broader AI supercycle (eg. frontier lab valuations, some Neoclouds).
+
+And some pop here and there.
+
+But the overall theme with $NVDA and $TSM in the center of it all looks structural and would keep ramping up."
+2094019167527776711,https://x.com/aleabitoreddit/status/2094019167527776711,2026-08-30T11:07:29+00:00,2026-08-30 19:07,en,False,,1177,57,93,21,327017,170,0,,,,,,"FYI to the AI bears: $NVDA projects $1.3T of hyperscaler spend for 2027.
+
+Up from ~$800B in 2026, alongside ~70% revenue growth despite remaining capacity constrained… far above prior Street expectations of ~45%.
+
+That capex flows across the AI supply chain… from memory and networking to foundries. Especially through the new bottlenecks/chokepoints that didn’t benefit from older generations.
+
+We’re like 2 hours into the party where people started off drinking Sapporo draft beer.
+
+Someone spiked Situational’s drinks and we had to pause the party for 30 min.
+
+But now it’s back on with tequila shots on the table.
+
+I think the real party is about to begin."
+2093991371254436249,https://x.com/aleabitoreddit/status/2093991371254436249,2026-08-30T09:17:02+00:00,2026-08-30 17:17,en,False,,72,1,5,0,12470,4,0,,,,,,"@ram_blings I think they just need to spend the time to answer the right questions...
+
+If they set themselves up in an interview where the questions to the CEO are leading like:
+
+""Why are you bleeding out and how do you stop it""
+
+Over..
+
+""Ayar just raised $500m, how do you see your laser ramp with them looking for 2028""
+
+You're going to get different responses + reactions."
+2093990659866923407,https://x.com/aleabitoreddit/status/2093990659866923407,2026-08-30T09:14:12+00:00,2026-08-30 17:14,en,False,,110,5,7,1,13401,13,0,,,,,,"@wannabepanacea So far, what I've seen is market volatility stemming from communication failures and noise. Thesis break would be
+
+1. issues with their foundry allocations, since that would affect supply. (But they have 2 now).
+
+2. Or failing qualifications. (they signaled $JBL orders for H1, but we'll see).
+
+Fundamentally I think $SIVE is in an amazing spot during a CW laser bottleneck.
+
+I also see more potential for Sivers to become a larger optical giant rather than remain just a chokepoint supplier... which is why I focus on company direction a lot more."
+2093988125144207710,https://x.com/aleabitoreddit/status/2093988125144207710,2026-08-30T09:04:08+00:00,2026-08-30 17:04,en,False,,905,53,60,11,234022,245,0,,,,,,"Just my final recap on thoughts + fundamentals of $SIVE from ER:
+
+Pluggables (1.6T Ramp) for 2027:
+
+- $JBL (1.6T LRO, confirmed) Orders H1 2027, Ramp H2 2027
+-> -> Likely multiple hyperscaler customers
+
+- 3 pluggable makers (evaluation)
+- 3 pluggable makers (supply assessment)
+
+Reference Design for likely H2 2027–28+:
+
+- $GFS (Globalfoundries) SCALE (confirmed))
+-> -> Likely $AMD and other hyperscalers as CPO customers
+
+External Light Sources / Optical Engines for 2027:
+
+- $POET (confirmed)
+-> -> Lumilens / hyperscaler end users
+
+- O-Net (confirmed)
+-> -> Massive ODM/OEM for Hyperscalers + Asia
+
+- Likely $AEVA (mapping)
+-> -> supplying to OE -> hyperscalers / lidar
+
+- SemiNex (confirmed)
+
+Optical I/O for 2028:
+
+- Ayar Labs (confirmed)
+-> -> Likely $AMD, ALchip, and hyperscaler ASIC program end users + $NVDA NVLink
+
+- $MRVL Celestial (potential customer from 2023-2024 disclosures)
+- Lightmatter (potential customer from 2023-2024 disclosures)
+- Lightelligence (potential customer from 2023-2024 disclosures)
+
+Then potentially $AAPL for 2028 for next-generation wearable updates and other programs from TFLN with Lightium.
+
+In terms of capacity allocations:
+- Win Semi
+- 1 other foundry (with tremendous allocations)
+
+during an InP CW DFB laser shortage.
+
+These are all on-going developments/qualifications since Sivers is targeting next-generation SiPH + CW with 1.6T and CPO for 2027-2028.
+
+Especially as Goldman Sachs models the CPO opportunity going from effectively near-zero today to ~$91B TAM by 2028.
+
+However my criticisms were:
+
+=> Main focus was not on communicating economic scale of 2027-2028 optical ramps to Western audiences.
+=> Legal vagueposts around NASDAQ listing should be dropped, and clear direction should be set + executed faster on.
+=>Too much focus was put on defending smaller current revenue/TTM revenue/pipeline conversion (allspace, Tachyon.) relative to future qualifications/partner size/capacity/potential.
+
+$SIVE needs to position themselves as a forward looking, global hypergrowth optical company supplying lasers to hyperscaler programs.
+
+And not let the narrative get dominated by backward looking metrics.
+
+And as Morgan Stanley put it... ""Key [CPO] participants include … $LITE, $COHR, and Sivers laser supply"".
+
+I'm personally a happy $SIVE shareholder for high-beta exposure to the next 2027-2028 optical shift with 1.6T/CPO."
+2093947848580858123,https://x.com/aleabitoreddit/status/2093947848580858123,2026-08-30T06:24:05+00:00,2026-08-30 14:24,en,False,,2067,54,210,4,207263,276,0,,,,,,"It’s been a little disappointing to see a pattern with some people I've interacted with on X:
+
+- try to engage with the same audience, then quickly move toward aggressively monetizing it
+
+- get upset when I choose not to participate in or amplify paid groups
+
+- throw out personal or illogical attacks and try to reframe that as simply disagreeing over fundamentals
+
+When I first joined X, a lot of finance content revolved around watches/private jets + options, paywalled communities promising the ""secrets of Wall Street,"" and squiggly-line charts.
+
+One of the things I've wanted to do differently is publish my research and reasoning openly, for everyone.
+
+I think this definitely resonated with folks given my follower growth.
+
+But of course, this growth can also create friction with people whose business models rely on using X to funnel audiences into paid services or expensive paywalls.
+
+My subscription has been $1 for months and will stay at the minimum, despite claims at the beginning I would raise it to $100.
+
+All of my core theses are published on the main timeline for free. I could put substantially more behind a paywall. I just don't want to.
+
+I just prefer sharing the ideas openly and letting everyone decide for themselves.
+
+Many ideas have worked out well: $AXTI, $NBIS, $AEHR, $MU, $INTC, $EWY, $MRVL, $LITE, $RPI, $IQE, $SOI, $TSEM, $ARM, $COHR, and a lot more.
+
+Others ran into unexpected industry delays, like $LPKF with glass substrates and Auros with hybrid bonding.
+
+Some are still playing out into 2027/2028, including $SIVE, Foci, Shunsin, $CCXI, $XFAB and the broader CPO/humanoid themes.
+
+Some are brand new like Etron/ESMT for DDR2/DDR3.
+
+And many like $JBL to Murata to $MXL, I just share for fun to see if the idea is right.
+
+Not every idea will be right. That's part of research.
+
+But I'd much rather have an X where people openly publish the thesis and reasoning so everyone can learn from it.
+
+Than one where information increasingly disappears behind $100 paywalls or becomes diluted with engagement-bait noise.
+
+Hopefully I can help create a new culture on X rather than amplify the old one."
 2093813217223188882,https://x.com/aleabitoreddit/status/2093813217223188882,2026-08-29T21:29:06+00:00,2026-08-30 05:29,en,False,,33,0,1,0,9289,4,0,,,,,,"@CryptoBankz_65 Two things: I'm hungry for carrots now. The second was was that... this was simplified TLDR.
 
 Since I didn't include the implications of more carrot demand across red (2), green (3), blue (4) carrots and how people who only ate blue carrots.
