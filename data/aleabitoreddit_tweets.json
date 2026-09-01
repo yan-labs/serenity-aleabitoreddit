@@ -1,5 +1,797 @@
 [
   {
+    "id": "2094589312016994565",
+    "text": "@lijiu163076 $NVDA is growing at a capacity constrained 70% next year, which is ridiculously good.   \n\nMy opinion is that it's hard to go wrong with Nvidia, because it's almost like a semiconductor ETF? They own decent parts of $INTC, $MRVL, $LITE, $COHR, $NBIS, and Mediatek now.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 15,
+      "retweets": 2,
+      "replies": 2,
+      "quotes": 1,
+      "views": 2481,
+      "bookmarks": 0
+    },
+    "createdAt": "Tue Sep 01 00:53:02 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2094587145566466076",
+    "inReplyToUserId": "1836672736644730883",
+    "conversationId": "2094585395224981709",
+    "createdAtISO": "2026-09-01T00:53:02+00:00",
+    "createdAtLocal": "2026-09-01 08:53"
+  },
+  {
+    "id": "2094587473657811264",
+    "text": "@KnightCapitalYT I mean I do have 1 single share of $IREN now, so I'd love to see them get a deal with Anthropic.\n\nThere were leaked memos suggesting that Anthropic was looking to secure more in Australia, and that just so happens to be the country Iren was heavily investing in.\n\nBuuut, the $25-30B capex number is always a bit daunting during current macro, despite securing a lot of financing via prepayments.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 17,
+      "retweets": 1,
+      "replies": 4,
+      "quotes": 0,
+      "views": 2919,
+      "bookmarks": 2
+    },
+    "createdAt": "Tue Sep 01 00:45:43 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2094585817406857304",
+    "inReplyToUserId": "30826951",
+    "conversationId": "2094585395224981709",
+    "createdAtISO": "2026-09-01T00:45:43+00:00",
+    "createdAtLocal": "2026-09-01 08:45"
+  },
+  {
+    "id": "2094585395224981709",
+    "text": "Anthropic signs a $35B AI compute deal with $NVDA backed Lambda.\n\n$HUT / DC, with Lambda / GPUs. \n\nFrontier model demand is rapidly outpacing the ecosystem's ability to build capacity.\n\nIt also looks like Anthropic is securing more compute... Which neocloud/colo player is next? https://t.co/49yvFKjr49",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 153,
+      "retweets": 14,
+      "replies": 34,
+      "quotes": 2,
+      "views": 39213,
+      "bookmarks": 25
+    },
+    "createdAt": "Tue Sep 01 00:37:28 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRF1DVjbUAE7HUv.jpg",
+        "width": 1628,
+        "height": 581
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2094585395224981709",
+    "createdAtISO": "2026-09-01T00:37:28+00:00",
+    "createdAtLocal": "2026-09-01 08:37"
+  },
+  {
+    "id": "2094520530842026088",
+    "text": "@mykwantitative Yep, probably that as well in a similar window. Seeing $SNDK go vertical at close was interesting",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 53,
+      "retweets": 0,
+      "replies": 4,
+      "quotes": 0,
+      "views": 15207,
+      "bookmarks": 4
+    },
+    "createdAt": "Mon Aug 31 20:19:43 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2094516816345211375",
+    "inReplyToUserId": "1696536896191827968",
+    "conversationId": "2094516012557427002",
+    "createdAtISO": "2026-08-31T20:19:43+00:00",
+    "createdAtLocal": "2026-09-01 04:19"
+  },
+  {
+    "id": "2094516012557427002",
+    "text": "Interesting to see $QQQ spike when Trump gave a comment on potential rate hikes:\n\nAnswer: \"Trump: No, I have a lot of respect for him, and he'll do what he has to do.\n\nI think our interest rates are too high.\" https://t.co/vKwUWbUfHx",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 766,
+      "retweets": 19,
+      "replies": 64,
+      "quotes": 10,
+      "views": 231092,
+      "bookmarks": 62
+    },
+    "createdAt": "Mon Aug 31 20:01:46 +0000 2026",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2094515156776886272/img/GJLqUP8OfWHrGdaR.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2094516012557427002",
+    "createdAtISO": "2026-08-31T20:01:46+00:00",
+    "createdAtLocal": "2026-09-01 04:01"
+  },
+  {
+    "id": "2094495687899848818",
+    "text": "@dBooray Yeah, I think a lot of the valuation reset has already happened.\n\nI'm sure for most ppl, seeing a drawdown without much conviction is daunting.\n\nBut periods of fear/forced selling are typically the best opportunities as well (eg. I avged down on Foci after drop, and now my current position is up ~55%). \n\nWe'll see what happens, I'm sure this was a pretty long post to say idk what's going to happen",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 57,
+      "retweets": 1,
+      "replies": 7,
+      "quotes": 0,
+      "views": 9417,
+      "bookmarks": 3
+    },
+    "createdAt": "Mon Aug 31 18:41:00 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2094493488033194241",
+    "inReplyToUserId": "1440762403923263491",
+    "conversationId": "2094492628758999451",
+    "createdAtISO": "2026-08-31T18:41:00+00:00",
+    "createdAtLocal": "2026-09-01 02:41"
+  },
+  {
+    "id": "2094492628758999451",
+    "text": "Macro has clearly cut high beta AI valuations over the past few months. But I try to stay focused on fundamentals.\n\nIf you're curious about my take though:\n\nWe're seeing record visibility with\n- memory (2031), photonics (2029-2030), etc LTAs\n-  $NBIS, solana:5aQcoaSyy7fnhvpRHasBUAMH2nL5tTjVrmFw6BeGmoon, etc. massive demand imbalance for compute despite capex spend. \n- combined with record projections ( $NVDA 70% growth 2027, $SMCI $60B+ new server orders, etc). \n\nvs. \n\nuncomfortable macro where:\n- Warsh said the Fed has \"more work to do\" if underlying inflation isn't clearly returning to 2%.\n- July PCE came in at 3.7% Y/Y\n- July jobs report payrolls fell by 23k with unemployment at 4.1%\n-10Y Treasury high/ 30Y highest since 2007\n- Iran tensions continuing\n- Japan Yen weakened to 160/ 2 rate hikes in Korea\n\nAnd with rate 40/60 in favor of 25BPS near-term hikes. \n\nThere's definitely implications on financing + too many third/fourth order effects for me to personally map. \n\nI'm not a macro expert but my take is: \n\nThe AI buildout will continue w/ $1.3T+ capex poured upstream expected next year, flowing through many bottlenecks and chokepoints. \n\nWhile markets chopped off forward valuations and rotated toward currently profitable/defensive companies. \n\nI don't know what's going to happen, especially since rate hike odds are almost a coinflip, and Trump posts can change sentiment overnight. \n\nAs long as I don't see indicators of hyperscalers cutting capex or demand wavering. \n\nI'm staying long despite macro volatility, since I want ownership of the names controlling the future of the AI buildout. \n\nAnd if there's any indicators of better macro climates, high beta are typically the fastest to recover.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 490,
+      "retweets": 21,
+      "replies": 96,
+      "quotes": 5,
+      "views": 155607,
+      "bookmarks": 112
+    },
+    "createdAt": "Mon Aug 31 18:28:51 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2094492628758999451",
+    "createdAtISO": "2026-08-31T18:28:51+00:00",
+    "createdAtLocal": "2026-09-01 02:28"
+  },
+  {
+    "id": "2094416430032896428",
+    "text": "Yep, with $NVDA investing $3.5B into Mediatek.\n\nIt does feel like Nvidia is playing kingmaker with the next generation of ASIC winners like $MRVL / Mediatek, with a second order effect of eroding $AVGO position.\n\nPlaybook feels similar to what they did with Neoclouds like $NBIS and $CRWV (vs. hyperscaler cloud programs)\n\nHelp create the next leaders, then make them both financially and strategically aligned with Nvidia.\n\nI do think it’s brilliant, but moves like this might push $AMD, $AVGO, and certain hyperscalers closer together.\n\nRegardless this move cements Nvidia’s strategic position in inference (where hyperscaler ASICs were a former long-term bear case).",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 508,
+      "retweets": 18,
+      "replies": 57,
+      "quotes": 5,
+      "views": 234874,
+      "bookmarks": 68
+    },
+    "createdAt": "Mon Aug 31 13:26:03 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2094416430032896428",
+    "createdAtISO": "2026-08-31T13:26:03+00:00",
+    "createdAtLocal": "2026-08-31 21:26"
+  },
+  {
+    "id": "2094408196769423727",
+    "text": "@balllvest With how the trends are going with $MRVL and Mediatek. My guess is Alchip (disclosure, I own this) or $QCOM might be next. \n\nI think the ASIC pie gets bigger for all of them though.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 45,
+      "retweets": 4,
+      "replies": 4,
+      "quotes": 0,
+      "views": 13212,
+      "bookmarks": 8
+    },
+    "createdAt": "Mon Aug 31 12:53:20 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2094406111570853965",
+    "inReplyToUserId": "2012933450999726080",
+    "conversationId": "2094405648293482965",
+    "createdAtISO": "2026-08-31T12:53:20+00:00",
+    "createdAtLocal": "2026-08-31 20:53"
+  },
+  {
+    "id": "2094407457913401454",
+    "text": "@Matrix_B0SS I actually learned today that Mediatek is partners with Ayar for CPO (not just investors) from public filings. \n\nAnd of course it's known that $SIVE is the primary laser supplier to Ayar. But Sivers is probably too far upstream for now. https://t.co/gs8e1z2rf1",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 98,
+      "retweets": 5,
+      "replies": 5,
+      "quotes": 0,
+      "views": 13475,
+      "bookmarks": 8
+    },
+    "createdAt": "Mon Aug 31 12:50:24 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2094405857047900526",
+    "inReplyToUserId": "73744167",
+    "conversationId": "2094405648293482965",
+    "createdAtISO": "2026-08-31T12:50:24+00:00",
+    "createdAtLocal": "2026-08-31 20:50"
+  },
+  {
+    "id": "2094405648293482965",
+    "text": "Today, $NVDA has announced a $3.5B investment into Mediatek. \n\nIt appears Nvidia is \"networking\" itself into the broader ASIC ecosystem, from $MRVL to MediaTek.\n\nAnd have future ecosystems aligned with Nvidia standards. (maybe to fend off $AVGO as well) https://t.co/okdGKS51U3",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 579,
+      "retweets": 39,
+      "replies": 71,
+      "quotes": 14,
+      "views": 182040,
+      "bookmarks": 67
+    },
+    "createdAt": "Mon Aug 31 12:43:13 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDRnm4a4AAUopZ.jpg",
+        "width": 2351,
+        "height": 1661
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2094405648293482965",
+    "createdAtISO": "2026-08-31T12:43:13+00:00",
+    "createdAtLocal": "2026-08-31 20:43"
+  },
+  {
+    "id": "2094401588068815310",
+    "text": "@AizuddinAl4653 That’s for you to estimate yourself! I don’t want to give MC estimates especially if people misinterpret the modeling\n\nI’m just celebrating that the chokepoint thesis was validated by external commentary around monopoly-like market share figures.\n\nAnd since the chokepoint converted into likely 10+ new LTAs/capacity agreements because of siph mass adoption.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 36,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "views": 8823,
+      "bookmarks": 2
+    },
+    "createdAt": "Mon Aug 31 12:27:05 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2094382562802372889",
+    "inReplyToUserId": "2015285595325747200",
+    "conversationId": "2094378666927239596",
+    "createdAtISO": "2026-08-31T12:27:05+00:00",
+    "createdAtLocal": "2026-08-31 20:27"
+  },
+  {
+    "id": "2094378666927239596",
+    "text": "Remember my $SOI thesis anon? Soitec interview commentary today:\n\n- 80% of capacity reservation agreements expected within 1-2 weeks, with more than 10 in total. \n\n-  $200M Photonics-SOI revenue now described as \"absolutely a floor\"\n\n$TSM also sees SiPH going mainstream in 2027 with market share topping 50%+ of the optical transceiver market\n\nIf you hold a monopoly-like position over a chokepoint:\n(UBS estimates Soitec has 95% share of the market for substrates underpinning silicon photonics chips)\n\nRevenue usually flows through you.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 408,
+      "retweets": 21,
+      "replies": 46,
+      "quotes": 6,
+      "views": 82933,
+      "bookmarks": 88
+    },
+    "createdAt": "Mon Aug 31 10:56:00 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRC514fa4AAISlk.jpg",
+        "width": 2169,
+        "height": 1106
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2094378666927239596",
+    "createdAtISO": "2026-08-31T10:56:00+00:00",
+    "createdAtLocal": "2026-08-31 18:56"
+  },
+  {
+    "id": "2094365307876040857",
+    "text": "“Memory is a bubble.”Explain this then, KOSPI bears:\n\nSamsung has reportedly reserved ~70% of its memory production capacity through 2031 via LTAs with $NVDA, $MSFT, and $GOOGL as main counterparties.\n\nFive years of demand visibility… https://t.co/GUGWTkXkMc",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 1452,
+      "retweets": 93,
+      "replies": 89,
+      "quotes": 19,
+      "views": 235305,
+      "bookmarks": 215
+    },
+    "createdAt": "Mon Aug 31 10:02:55 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCuJPnaYAAQj1B.jpg",
+        "width": 1213,
+        "height": 580
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2094365307876040857",
+    "createdAtISO": "2026-08-31T10:02:55+00:00",
+    "createdAtLocal": "2026-08-31 18:02"
+  },
+  {
+    "id": "2094353950040592854",
+    "text": "Imagine Celestial ($MRVL acquisition) was public. \n\nThe valuation would probably be astronomical in US markets (if I had to guess, $6-10B)\n\nBecause 2028 revenue projections were $500m (q4 annualized runrate), 2029 revenue projections were $1B.\n\nAnd because Celestial is a core part of hyperscaler CPO programs. \n\nCelestial's 2026 Q2 earnings would have been:\n\n- Close to $0 revenue (Marvell said \"revenue and earnings since the acquisition were not material\")\n-  Losing -$12.5M/quarter ($50M/year)\n\nWould people who knew what they were talking about looking at qualification cycle players say...\n\n1. based on Celestial's Q2 P/S numbers and because it was losing -$12.5M a quarter... That it's a worthless meme stock? \n\nOr \n\n2. with CPO hyperscaler opportunities for 2028, it should be valued at $6-10B? \n\nAnd I think that's a core cultural disagreement between US / EU cultures + markets. \n\nIf you knew how to evaluate qualification cycle players, which number actually matters? I'd argue overwhelmingly the latter.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 596,
+      "retweets": 22,
+      "replies": 62,
+      "quotes": 5,
+      "views": 192849,
+      "bookmarks": 100
+    },
+    "createdAt": "Mon Aug 31 09:17:47 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2094353950040592854",
+    "createdAtISO": "2026-08-31T09:17:47+00:00",
+    "createdAtLocal": "2026-08-31 17:17"
+  },
+  {
+    "id": "2094315118020759778",
+    "text": "@bob80924 Yes, I added that as a side note. But my theory is $RPI eventually gets the overflow from mac Mini shortages.\n\nSame idea with Openclaw now applied to frontier lab agent RL training.\n\nAnd those sales would be economically meaningful given Raspberry Pi’s size relative to Apple\n\nNo proof of that yet, just a guess.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 31,
+      "retweets": 1,
+      "replies": 3,
+      "quotes": 0,
+      "views": 11185,
+      "bookmarks": 4
+    },
+    "createdAt": "Mon Aug 31 06:43:29 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2094310588948312191",
+    "inReplyToUserId": "1989994822875365376",
+    "conversationId": "2094306322812666156",
+    "createdAtISO": "2026-08-31T06:43:29+00:00",
+    "createdAtLocal": "2026-08-31 14:43"
+  },
+  {
+    "id": "2094309101685932239",
+    "text": "@ren_stocks Would be a funny idea to see an IPO of a Mac Mini neocloud",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 34,
+      "retweets": 0,
+      "replies": 4,
+      "quotes": 0,
+      "views": 12453,
+      "bookmarks": 3
+    },
+    "createdAt": "Mon Aug 31 06:19:34 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2094306574747468208",
+    "inReplyToUserId": "1326937038692769793",
+    "conversationId": "2094306322812666156",
+    "createdAtISO": "2026-08-31T06:19:34+00:00",
+    "createdAtLocal": "2026-08-31 14:19"
+  },
+  {
+    "id": "2094307667225579739",
+    "text": "@jukan05 Yep, reasonable point on the duration. I just found $AAPL AI windfall to be pretty amusing. https://t.co/ki0Wp3X6YD",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 61,
+      "retweets": 0,
+      "replies": 3,
+      "quotes": 0,
+      "views": 16464,
+      "bookmarks": 4
+    },
+    "createdAt": "Mon Aug 31 06:13:52 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2094306807783264757",
+    "inReplyToUserId": "1836240683268759552",
+    "conversationId": "2094306322812666156",
+    "createdAtISO": "2026-08-31T06:13:52+00:00",
+    "createdAtLocal": "2026-08-31 14:13"
+  },
+  {
+    "id": "2094306322812666156",
+    "text": "$AAPL is now an important AI company apparently? \n\n-> \"OpenAI Hoarding Tens Of Thousands Of Apple Mac mini and Mac Studio\" for reinforcement learning\n\n-> Anthropic is renting Apple Mac mini units from $AMZN to complete similar AI tasks\n\nI've never seen a company win so hard by doing nothing. \n\nBut whenever I see Apple + AI, I think of my beloved $RPI. Apparently Anthropic is working with Raspberry Pi now for their new model Hardware Standard, as of the 27th. \n\nThere's nothing yet about Anthropic/OpenAI buying Raspberry Pi devices for similar tasks, but maybe some OSINT researcher can do some digging.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 479,
+      "retweets": 15,
+      "replies": 71,
+      "quotes": 13,
+      "views": 166979,
+      "bookmarks": 80
+    },
+    "createdAt": "Mon Aug 31 06:08:32 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRB24vtaUAAItYy.jpg",
+        "width": 1945,
+        "height": 953
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRB29m_bsAAPBlU.jpg",
+        "width": 1754,
+        "height": 1101
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2094306322812666156",
+    "createdAtISO": "2026-08-31T06:08:32+00:00",
+    "createdAtLocal": "2026-08-31 14:08"
+  },
+  {
+    "id": "2094300339478683801",
+    "text": "@nosignal62478 I think $AAOI is fine. I didn't list them here because they're not known to be a merchant cw laser supplier (given they use them internally for transceivers). \n\nDemand visibility into 2027 is incredible, there's just a $600m ATM, which presents a lot of short term overhang.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 69,
+      "retweets": 2,
+      "replies": 4,
+      "quotes": 1,
+      "views": 13510,
+      "bookmarks": 8
+    },
+    "createdAt": "Mon Aug 31 05:44:45 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2094299466853662779",
+    "inReplyToUserId": "2018953984741122048",
+    "conversationId": "2094298008955535500",
+    "createdAtISO": "2026-08-31T05:44:45+00:00",
+    "createdAtLocal": "2026-08-31 13:44"
+  },
+  {
+    "id": "2094299767455240222",
+    "text": "@SidkMena Yeah, I was forced to averaged down during that massive July sector crash.\n\nNow up ~55% on FOCI and ~50% on Xintec at least but some of my other names are still recovering",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 46,
+      "retweets": 0,
+      "replies": 8,
+      "quotes": 0,
+      "views": 10225,
+      "bookmarks": 3
+    },
+    "createdAt": "Mon Aug 31 05:42:29 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2094298214543528020",
+    "inReplyToUserId": "2011108465142611970",
+    "conversationId": "2094298008955535500",
+    "createdAtISO": "2026-08-31T05:42:29+00:00",
+    "createdAtLocal": "2026-08-31 13:42"
+  },
+  {
+    "id": "2094298008955535500",
+    "text": "$TSM Vice President of Advanced Packaging:\n\n\"Foundries can scale up the optical engine, but the real bottlenecks to large scale deployment lie elsewhere...\n\nIncluding lasers, optical fiber, fiber-optic connectors, and test\" (UDN)\n\nJust some bucket ideas: \n\nLasers: $LITE, $SIVE, $COHR, LandMark (3081), LuxNet, Sumitomo, Furukawa\nOptical fiber / FAU: Foci, Browave, $GLW, Sumitomo\nFiber Optic / CPO Connectors: BizLink, $GLW , Fujikura, Nextronics, COXOC\nCPO testing: MPI (6223), Advantest, $FORM, Msscorps, $KEYS, Chroma\n\n(disclosure: exposure to theme above, individual names not named by TSMC)\n\nThere are others I like as well, such as ShunSin, which now has explicit TSMC COUPE exposure but probably belongs under a different category like packaging/integration.\n\neg. \"Foxconn unit ShunSin confirms TSMC COUPE partnership\"\n\nI don't think there's anything too new vs. H1, aside from ongoing news (eg. FAU looks like there will have a demand imbalance in 2027, from a report last week). \n\nBut it's helpful to reiterate overall beneficiaries from time to time...",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 559,
+      "retweets": 37,
+      "replies": 52,
+      "quotes": 6,
+      "views": 157857,
+      "bookmarks": 187
+    },
+    "createdAt": "Mon Aug 31 05:35:30 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRBrbT5bwAA-vC0.jpg",
+        "width": 1364,
+        "height": 536
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2094298008955535500",
+    "createdAtISO": "2026-08-31T05:35:30+00:00",
+    "createdAtLocal": "2026-08-31 13:35"
+  },
+  {
+    "id": "2094281116421370213",
+    "text": "ESMT (3006) is 1.9x P/E ratio off July's earnings annualized. \n\nLatest net income was: $109M net income/July, which is ~$1.3B annualized. With ~$395.9M net cash and with $249.6M in inventory.\n\nThe market cap less net cash and inventory is equivalent to: \n\n~17 months of July earnings.\n\nWhere monetizing that inventory benefits from rising memory prices. \n\nTheir ASP hike expectations were +105–113% Q/Q last quarter from other analyst notes. \n\nDDR2/DDR3, NOR Flash, SLC NAND, prices are expected to keep rising H2. \n\nThe main question is duration, but I personally think legacy DRAM/NAND shortages tightens throughout 2027. Others might disagree. \n\nOther analysts like Huanan argue that PSMC wafer hikes are largely pass through (we'll find out H2). \n\nMost people are finding companies with ~20 forward P/E ending 2028 to be attractive...\n\nBut 1.9x current runrate P/E seems like an anomaly to me personally. \n\nThat's my take on the company/legacy memory theme, I'll let others/markets decide if that's undervalued.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 250,
+      "retweets": 4,
+      "replies": 32,
+      "quotes": 2,
+      "views": 174442,
+      "bookmarks": 70
+    },
+    "createdAt": "Mon Aug 31 04:28:22 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2094281116421370213",
+    "createdAtISO": "2026-08-31T04:28:22+00:00",
+    "createdAtLocal": "2026-08-31 12:28"
+  },
+  {
     "id": "2094129989071536351",
     "text": "I'm going to miss the days of Korean retail reacting heavily to $EWY / Samsung / $SKHY daily volatility.\n\nNew piece: \"Korean day traders flee leveraged chip ETFs as regulatory curbs bite\"\n\n- Trading value in ETFs designed to deliver 2x daily returns of Samsung / SK Hynix has fallen to just 4% of its June peak\n\n- The requirement follows earlier measures, including a higher minimum deposit, aimed at cooling speculative activity\n\n- And then came the final boss... A 5 day trading course where:\n\n\"Investors must download a Windows-only program  and spend at least one hour each day trading with virtual funds\"\n\n$MSFT Windows wiped out the Korean retail.",
     "author": {
@@ -491,6 +1283,39 @@
     "conversationId": "2093805166655143988",
     "createdAtISO": "2026-08-29T20:57:07+00:00",
     "createdAtLocal": "2026-08-30 04:57"
+  },
+  {
+    "id": "2093764276150579202",
+    "text": "@Minnelli1286325 I like $RDDT, very profitable company, grew 61% Y/Y, I expect them to find more ways to increase monetization of audiences. \n\nOne of my favorite software bucket names. \n\nI find the bear cases of \"less AI search citations\" to be dumb, since if you ask 100 of people on the street how they found or visit Reddit.\n\nI'm pretty confident not a single person would say OpenAI citations.  \n\nIt's already on the destination level as Youtube/Instagram.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 138,
+      "retweets": 1,
+      "replies": 4,
+      "quotes": 0,
+      "views": 30687,
+      "bookmarks": 18
+    },
+    "createdAt": "Sat Aug 29 18:14:38 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093760715479990437",
+    "inReplyToUserId": "1648145418914545665",
+    "conversationId": "2093760498072485919",
+    "createdAtISO": "2026-08-29T18:14:38+00:00",
+    "createdAtLocal": "2026-08-30 02:14"
   },
   {
     "id": "2093763407308812702",
