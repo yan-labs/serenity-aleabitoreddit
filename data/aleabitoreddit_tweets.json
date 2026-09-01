@@ -1,5 +1,36 @@
 [
   {
+    "id": "2094704372831920324",
+    "text": "Just some TLDR news I found interesting:\n\n1. $GOOGL (missed this) also invested in Mediatek alongside $NVDA for their $3.9B raise. \n\nGoogle/Nvidia are goats with investments you look at $SPCX to Anthropic. \n\n2. Samsung Electro-Mechanics discloses $778.9M MLCC deal / $CAPA (new MLCC ETF) also gives exposure now for folks without Korea/Japan/Taiwan market access.\n\nBut thing is more accelerators x MLCCs per accelerator might indicate a more future extreme bottleneck than people expect. \n\n3. China channel checks state: planetary roller screws, 6D force sensors, and dexterous hands resist domestic substitution.\n\nThen planetary roller screw as the top with lowest domestic substitution rate. eg. $SHA0.DE for planetary. Just interesting to hear moats I guess. \n\n4. Samsung reportedly has ~70% of memory production capacity committed through 2031 / commodity DRAM has also fallen into short supply - Seoul Economic Daily. TrendForce expects server DRAM contract prices to rise 13-18% QoQ in 3Q26\n\nSK Hynix also publicly stated the memory shortage lasts through 2030. \n\n5. $CXMT has begun producing HBM3E in small quantities and reportedly claimed mass production of LPDDR6.  Implications are even more positive for legacy DRAM shortages. \n\n6. Cisco at SEMICON Taiwan said CPO is ready for mass deployment; pluggable modules will remain the market mainstay.\n\n$MRVL also said customers are actively planning scale-up optics deployments as early as 2027\n\n7. Wingtech -> bought Nexperia -> Netherlands effectively removed Wingtech’s control -> Wingtech is fighting back through Chinese courts.\n\nBut Nexperia got $300m of their assets frozen. \n\nMore geopolitical drama of course, always entertaining. $AAPl also explicitly accused OpenAI of destroying crucial evidence... (for more fun)\n\n8. Not much description around ASP hikes regarding SOI substrates $SOI, but they now have 10+ customers involved with LTAs, $200m revenue described as a \"floor\", comments about customers more concerned about obtaining wafers than where they are manufactured. \n\nSo basically moving into capacity reservation now stages as silicon photonics takes off in 2027. \n\n9. Some channel checks put lead times for high power MOSFETs and large area TVS diodes as high as ~52 weeks. ($STM also reportedly implemented its 3rd 2026 price increase on August 23)\n\n10. Traditional packaging capacity could face a deficit exceeding 20% by 2027\" with \"wire bonding equipment\" emerging as the primary bottleneck\", covered this earlier this week with beneficiaries like  \n\n11. Claims that all six major ABF suppliers are booked for 2026, with 12-14 month lead times and some suppliers auctioning remaining capacity; $NVDA, $AMD and hyperscalers locking ABF capacity through 2028 and pushing suppliers to plan 2029–30 expansions.\n\nNames like Kinsus (3189), Unimicron (3037), Nan Ya PCB (8046), Ibiden (4062), etc are all probably happy. \n\n12. CCL leading laminated board products increased by another 10%-20%, 7th price hike this year (eg. Kingboard). Industry estimates put the HVLP4 copper-foil shortage at ~48% in 2026 / 43% in 2027, while Low-Dk/T-Glass lead times have stretched beyond 30 weeks. \n\n13. \"(GaAs) substrate materials and gallium epitaxial source materials are also facing another round of price increases in the third quarter of 2026, reportedly 5 to 6 times higher than at the early stage of the restrictions.\"\n\n\"China has recently eased some substrate export controls\" but there's a \"severe InP substrate shortage\" per digitimes. Just some $AXTI related updates\n\n14. $AMD and $AVGO reportedly booked most of Powertech's planned FOPLP capacity ahead of mid-2027 mass production\n\n15. $INTC considering $INTC foundry for HBM4E base dies. But $SKHY responded directly that \"some of the content is different from the facts\". \n\n16.  \"OpenAI Hoarding Tens Of Thousands Of $AAPL Mac mini and Mac Studio\" for reinforcement learning. Anthropic has been renting mac mini units from $AMZN as well. Kinda sad Tim Cook retired, but dude had a goated run. \n\nJust random interesting notes",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 277,
+      "retweets": 18,
+      "replies": 51,
+      "quotes": 5,
+      "views": 80815,
+      "bookmarks": 93
+    },
+    "createdAt": "Tue Sep 01 08:30:14 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2094704372831920324",
+    "createdAtISO": "2026-09-01T08:30:14+00:00",
+    "createdAtLocal": "2026-09-01 16:30"
+  },
+  {
     "id": "2094589312016994565",
     "text": "@lijiu163076 $NVDA is growing at a capacity constrained 70% next year, which is ridiculously good.   \n\nMy opinion is that it's hard to go wrong with Nvidia, because it's almost like a semiconductor ETF? They own decent parts of $INTC, $MRVL, $LITE, $COHR, $NBIS, and Mediatek now.",
     "author": {
