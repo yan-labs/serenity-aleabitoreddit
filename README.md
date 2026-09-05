@@ -25,7 +25,7 @@ This repo packages his public work into one self-contained research artifact:
 **period-by-period distillation**, and a ready-to-use **agent skill** that
 applies his analytical lens to US-stock ideas.
 
-Built from **6,565 tweets** spanning **2025-07-02 → 2026-09-04** plus **4 X
+Built from **6,566 tweets** spanning **2025-07-02 → 2026-09-04** plus **4 X
 Articles** published in **2026-01 → 2026-05**.
 
 > ⚠️ **Not financial advice. Decision-support only.** This skill never trades and
@@ -49,7 +49,7 @@ Articles** published in **2026-01 → 2026-05**.
 | `data/ticker_stats.txt` | His `$ticker` universe by mention count + first/last seen |
 | `assets/serenity-avatar.jpg` | Local copy of Serenity's public X avatar used in this README |
 | `prep.py` | Condenses the tweet JSON into monthly chunks and recomputes the ticker stats |
-| `update.py` | Pulls latest tweets, dedupes by id, resolves X Note Tweet full text, and refreshes derived data for incremental updates |
+| `update.py` | Pulls latest tweets, dedupes by id, resolves X Note Tweet full text, and uses public profile/Jina status pages when xreach authentication is unavailable |
 | `scripts/xreach_note_text.mjs` | Read-only adapter for the installed `xreach` client that recovers public X Note Tweet text omitted from its default output |
 
 ## Use it as a skill
@@ -102,12 +102,15 @@ window, not a green light to chase near-price entries.
 ## Provenance
 
 Tweets were collected via `agent-reach` Twitter/X tooling (`twitter-cli`
-historically, `xreach` for current incremental updates) using date-windowed
+historically, `xreach` when its session is healthy, and the public
+`x.com/<user>` profile plus Jina status pages as the unattended fallback)
+using date-windowed
 search (full-day windows with intra-day top-up for high-volume days) to work
 around X's pagination/rate limits. X Article bodies were fetched with
 authenticated article access and distilled into summaries only; full article text
-is not redistributed here. `update.py` also resolves public X Note Tweet text
-from the same authenticated `xreach` client; run `python3 update.py
+is not redistributed here. `update.py` resolves public X Note Tweet text
+from `xreach` when available and otherwise keeps the public status excerpt;
+run `python3 update.py
 --repair-full-text` repeatedly to backfill the Issue #2 affected period in
 rate-limit-safe batches. Regenerate the condensed monthly chunks and ticker stats
 from the archive with `python3 prep.py`.

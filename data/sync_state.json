@@ -2,7 +2,17 @@
   "target_user_id": "1940360837547565056",
   "repo": "yan-labs/serenity-aleabitoreddit",
   "skill_dir": "serenity-aleabitoreddit",
-  "last_tweet_id": "2089169716292342096",
-  "last_update_time": "2026-08-17T02:49:09Z",
+  "last_tweet_id": "2095974877115380043",
+  "last_update_time": "2026-09-04T20:38:46Z",
+  "source_health": {
+    "status": "available_fallback",
+    "direct_status": "stale_unverified",
+    "verification_source": "x_public_profile+jina_status",
+    "freshness": "new_posts",
+    "latest_returned_id": "2095974877115380043",
+    "latest_returned_time": "2026-09-04T20:38:46Z",
+    "checked_time": "2026-09-05T05:07:00Z",
+    "next_action": "Retry xreach; keep the public x.com profile plus Jina status fallback and do not use browser login state"
+  },
   "note": "Managed by Codex heartbeat automation. Do not edit manually."
 }

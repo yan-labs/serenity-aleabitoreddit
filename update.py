@@ -11,6 +11,8 @@ from collections import Counter
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 
+from scripts.public_x_profile import fetch_public_posts
+
 USER = "aleabitoreddit"
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "data")
@@ -21,6 +23,8 @@ FULL_TEXT_HELPER = os.path.join(HERE, "scripts", "xreach_note_text.mjs")
 FULL_TEXT_REPAIR_START = "2026-06-30T00:00:00+00:00"
 FULL_TEXT_REPAIR_BATCH_SIZE = 20
 LOCAL_TZ = timezone(timedelta(hours=8))
+XREACH_AUTH_FAILED = False
+PUBLIC_FALLBACK_DIAGNOSTIC = None
 
 def parse_time(t):
     iso = t.get("createdAtISO")
@@ -50,12 +54,16 @@ def parse_tool_json(stdout):
     return data if isinstance(data, list) else []
 
 def xreach_json(args, timeout=180):
+    global XREACH_AUTH_FAILED
     if not shutil.which("xreach"):
         return []
     try:
         p = subprocess.run(["xreach", *args, "--json"], capture_output=True, text=True, timeout=timeout)
         if p.returncode != 0:
-            print(f"PULL_ERROR {' '.join(args)}: {(p.stderr or p.stdout).strip()}")
+            detail = (p.stderr or p.stdout).strip()
+            if "Could not authenticate you" in detail or "not_authenticated" in detail:
+                XREACH_AUTH_FAILED = True
+            print(f"PULL_ERROR {' '.join(args)}: {detail}")
             return []
         return parse_tool_json(p.stdout)
     except Exception as e:
@@ -145,19 +153,34 @@ def normalize_xreach(t):
     return ensure_times(out)
 
 def pull(n=100, since=None):
+    global PUBLIC_FALLBACK_DIAGNOSTIC
     raw = xreach_json(["tweets", f"@{USER}", "-n", str(n)])
-    if since:
+    if since and not XREACH_AUTH_FAILED:
         raw.extend(xreach_json([
             "search", f"from:{USER} since:{since}", "--type", "latest",
             "-n", str(n), "--all", "--max-pages", "3"
         ], timeout=240))
-    if not raw:
+    if not raw and not XREACH_AUTH_FAILED:
         raw = twitter_json(["user-posts", f"@{USER}", "-n", str(n)])
         if since:
             raw.extend(twitter_json([
                 "search", "--from", USER, "--since", since, "--type", "latest",
                 "-n", str(n)
             ], timeout=240))
+    if not raw or XREACH_AUTH_FAILED:
+        try:
+            public_rows, PUBLIC_FALLBACK_DIAGNOSTIC = fetch_public_posts(
+                USER, "1940360837547565056", "Serenity", limit=12
+            )
+            print(
+                "FALLBACK_SOURCE=x_public_profile+jina_status "
+                f"status_count={len(public_rows)} "
+                f"latest_id={PUBLIC_FALLBACK_DIAGNOSTIC.get('latest_id', '')} "
+                f"latest_time={PUBLIC_FALLBACK_DIAGNOSTIC.get('latest_time', '')}"
+            )
+            raw.extend(public_rows)
+        except Exception as exc:
+            print(f"PULL_ERROR public X fallback: {exc}")
     rows, seen = [], set()
     for t in raw:
         if not isinstance(t, dict) or not t.get("id"):
@@ -209,6 +232,10 @@ def write_ticker_stats(rows):
             if n >= 2:
                 f.write(f"{tk:8} {n:6}   {first[tk]}  {last[tk]}\n")
 
+def needs_public_text_repair(post):
+    text = post.get("text") or ""
+    return text.startswith("[](http://x.com/)") or "Log inSign up" in text
+
 def main():
     repair_full_text = "--repair-full-text" in sys.argv[1:]
     sync_state = json.load(open(SYNC_STATE)) if os.path.exists(SYNC_STATE) else {}
@@ -219,10 +246,18 @@ def main():
     have = {t["id"] for t in arch}
     newest = max((parse_time(t) for t in arch if parse_time(t)), default=None)
     since = newest.astimezone(timezone.utc).date().isoformat() if newest else None
-    new = [ensure_times(t) for t in pull(since=since) if t["id"] not in have]
+    pulled = [ensure_times(t) for t in pull(since=since)]
+    new = [t for t in pulled if t["id"] not in have]
+    existing_by_id = {t["id"]: t for t in arch}
+    repaired_public = [
+        t for t in pulled
+        if t["id"] in existing_by_id
+        and needs_public_text_repair(existing_by_id[t["id"]])
+        and not needs_public_text_repair(t)
+    ]
     new.sort(key=sort_key)
     repaired = 0
-    if new:
+    if new and not XREACH_AUTH_FAILED:
         repaired += apply_full_text(new, xreach_note_text(["--ids", *(t["id"] for t in new)]))
     if repair_full_text:
         cursor = sync_state.get("note_text_repair_cursor")
@@ -242,9 +277,11 @@ def main():
             sync_state["note_text_repair_remaining"] = len(eligible) - len(batch)
             sync_state_changed = True
             print(f"FULL_TEXT_REPAIR_REMAINING={sync_state['note_text_repair_remaining']}")
-    if new or normalized or repaired:
+    if new or repaired_public or normalized or repaired:
         merged = {t["id"]: t for t in arch}
         for t in new:
+            merged[t["id"]] = t
+        for t in repaired_public:
             merged[t["id"]] = t
         rows = sorted(merged.values(), key=sort_key, reverse=True)
         json.dump(rows, open(ARCH, "w"), ensure_ascii=False, indent=2)
@@ -254,6 +291,8 @@ def main():
             print(f"  + {t.get('createdAtISO', '')[:16]} {t['id']} {(t.get('text') or '')[:60].replace(chr(10),' ')}")
         if new:
             print(f"TOTAL={len(rows)} NEWEST={rows[0].get('createdAtISO', '')}")
+        if repaired_public:
+            print(f"PUBLIC_TEXT_REPAIRED={len(repaired_public)}")
     if repaired:
         print(f"FULL_TEXT_REPAIRED={repaired}")
     if sync_state_changed:
