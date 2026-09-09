@@ -11,8 +11,8 @@
     "freshness": "unverified",
     "latest_returned_id": "2096149203278037407",
     "latest_returned_time": "2026-09-05T08:11:29Z",
-    "checked_time": "2026-09-07T01:01:03Z",
-    "next_action": "xreach failed with GraphQL authentication error; public x.com profile returned 8 candidate ids but every Jina status page rejected the requested account/status, so no new post was verified and the cursor remains unchanged; retry xreach and the public profile plus Jina status fallback without browser login state"
+    "checked_time": "2026-09-09T04:26:07Z",
+    "next_action": "xreach failed with GraphQL authentication error; the public x.com profile plus Jina status fallback returned 0 verified records, so no new post was verified and the cursor remains unchanged; retry xreach and the public profile plus Jina status fallback without browser login state"
   },
   "note": "Managed by Codex heartbeat automation. Do not edit manually."
 }
