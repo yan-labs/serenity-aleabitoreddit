@@ -2,17 +2,17 @@
   "target_user_id": "1940360837547565056",
   "repo": "yan-labs/serenity-aleabitoreddit",
   "skill_dir": "serenity-aleabitoreddit",
-  "last_tweet_id": "2096149203278037407",
-  "last_update_time": "2026-09-05T08:11:29Z",
+  "last_tweet_id": "2097815176838017066",
+  "last_update_time": "2026-09-09T22:31:28Z",
   "source_health": {
-    "status": "stale_unverified",
+    "status": "available_fallback",
     "direct_status": "stale_unverified",
     "verification_source": "x_public_profile+jina_status",
-    "freshness": "unverified",
-    "latest_returned_id": "2096149203278037407",
-    "latest_returned_time": "2026-09-05T08:11:29Z",
-    "checked_time": "2026-09-09T04:26:07Z",
-    "next_action": "xreach failed with GraphQL authentication error; the public x.com profile plus Jina status fallback returned 0 verified records, so no new post was verified and the cursor remains unchanged; retry xreach and the public profile plus Jina status fallback without browser login state"
+    "freshness": "new_posts",
+    "latest_returned_id": "2097815176838017066",
+    "latest_returned_time": "2026-09-09T22:31:28Z",
+    "checked_time": "2026-09-10T01:00:49Z",
+    "next_action": "xreach failed with GraphQL authentication error; the public x.com profile plus Jina status fallback returned 6 new verified records through 2097815176838017066 at 2026-09-09T22:31:28Z, so the archive cursor advanced; retry xreach and keep the public fallback without browser login state"
   },
   "note": "Managed by Codex heartbeat automation. Do not edit manually."
 }
