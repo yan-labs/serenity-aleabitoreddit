@@ -5,14 +5,14 @@
   "last_tweet_id": "2097815176838017066",
   "last_update_time": "2026-09-09T22:31:28Z",
   "source_health": {
-    "status": "available_fallback",
+    "status": "stale_unverified",
     "direct_status": "stale_unverified",
     "verification_source": "x_public_profile+jina_status",
-    "freshness": "new_posts",
+    "freshness": "unverified",
     "latest_returned_id": "2097815176838017066",
     "latest_returned_time": "2026-09-09T22:31:28Z",
-    "checked_time": "2026-09-10T01:00:49Z",
-    "next_action": "xreach failed with GraphQL authentication error; the public x.com profile plus Jina status fallback returned 6 new verified records through 2097815176838017066 at 2026-09-09T22:31:28Z, so the archive cursor advanced; retry xreach and keep the public fallback without browser login state"
+    "checked_time": "2026-09-11T01:01:34Z",
+    "next_action": "xreach failed with GraphQL authentication error; the public x.com profile plus Jina status fallback returned 0 verified records, so no new post was verified and the cursor remains unchanged; retry xreach and the public profile plus Jina status fallback without browser login state"
   },
   "note": "Managed by Codex heartbeat automation. Do not edit manually."
 }
