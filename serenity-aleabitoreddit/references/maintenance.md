@@ -42,10 +42,11 @@ The goal is to keep the skill current without turning it into a noisy transcript
 
 Before committing:
 
-1. Run `python3 update.py`. It tries `xreach` first, then discovers public
-   status ids from `https://x.com/aleabitoreddit` and reads their public Jina
-   status pages when xreach authentication is unavailable. This fallback uses
-   no browser cookies or login state; keep the returned public excerpt and
+1. Run `python3 update.py`. It tries `xreach` first, then parses the exact
+   status ids, text, and `created_at_ms` timestamps embedded in the public
+   `https://x.com/aleabitoreddit` profile response. Jina public status pages
+   are used only for rows the profile response cannot parse. This fallback
+   uses no browser cookies or login state; keep the returned public excerpt and
    timestamp, and record the fallback source in the run report.
 2. Refresh JSON, CSV, and ticker stats.
 3. Fetch any newly visible X Article share tweets or article bodies with

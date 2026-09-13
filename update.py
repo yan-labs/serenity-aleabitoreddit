@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
 """Incremental archive updater: pull latest tweets, merge (dedupe), refresh CSV + ticker_stats.
 
-Requires xreach authenticated via an Agent Reach browser profile.
+Uses xreach when available, with a public x.com profile fallback that does not
+require browser cookies or login state.
 Run from the repo root: `python3 update.py`. Prints a final `NEW=<n>` line; exits 0.
 Run `python3 update.py --repair-full-text` repeatedly to backfill X Note Tweet text.
+Run `python3 update.py --repair-public-profile` once after a public-profile parser
+upgrade to replace rows captured by an older fallback parser.
 Does NOT touch git — the caller decides whether to commit/push based on NEW.
 """
 import json, csv, os, re, shutil, subprocess, sys
@@ -172,8 +175,11 @@ def pull(n=100, since=None):
             public_rows, PUBLIC_FALLBACK_DIAGNOSTIC = fetch_public_posts(
                 USER, "1940360837547565056", "Serenity", limit=12
             )
+            fallback_source = (PUBLIC_FALLBACK_DIAGNOSTIC or {}).get(
+                "source", "x_public_profile+jina_status"
+            )
             print(
-                "FALLBACK_SOURCE=x_public_profile+jina_status "
+                f"FALLBACK_SOURCE={fallback_source} "
                 f"status_count={len(public_rows)} "
                 f"latest_id={PUBLIC_FALLBACK_DIAGNOSTIC.get('latest_id', '')} "
                 f"latest_time={PUBLIC_FALLBACK_DIAGNOSTIC.get('latest_time', '')}"
@@ -238,6 +244,7 @@ def needs_public_text_repair(post):
 
 def main():
     repair_full_text = "--repair-full-text" in sys.argv[1:]
+    repair_public_profile = "--repair-public-profile" in sys.argv[1:]
     sync_state = json.load(open(SYNC_STATE)) if os.path.exists(SYNC_STATE) else {}
     sync_state_changed = False
     raw_arch = json.load(open(ARCH))
@@ -255,6 +262,23 @@ def main():
         and needs_public_text_repair(existing_by_id[t["id"]])
         and not needs_public_text_repair(t)
     ]
+    public_profile_repairs = []
+    repair_boundary = sync_state.get("last_update_time")
+    if repair_public_profile and (PUBLIC_FALLBACK_DIAGNOSTIC or {}).get("source") == "x_public_profile_html":
+        repaired_ids = {t["id"] for t in repaired_public}
+        public_profile_repairs = [
+            t for t in pulled
+            if t["id"] in existing_by_id
+            and t["id"] not in repaired_ids
+            and (
+                not repair_boundary
+                or (
+                    parse_time(t)
+                    and parse_time(t).astimezone(timezone.utc)
+                    > datetime.fromisoformat(repair_boundary.replace("Z", "+00:00"))
+                )
+            )
+        ]
     new.sort(key=sort_key)
     repaired = 0
     if new and not XREACH_AUTH_FAILED:
@@ -277,11 +301,13 @@ def main():
             sync_state["note_text_repair_remaining"] = len(eligible) - len(batch)
             sync_state_changed = True
             print(f"FULL_TEXT_REPAIR_REMAINING={sync_state['note_text_repair_remaining']}")
-    if new or repaired_public or normalized or repaired:
+    if new or repaired_public or public_profile_repairs or normalized or repaired:
         merged = {t["id"]: t for t in arch}
         for t in new:
             merged[t["id"]] = t
         for t in repaired_public:
+            merged[t["id"]] = t
+        for t in public_profile_repairs:
             merged[t["id"]] = t
         rows = sorted(merged.values(), key=sort_key, reverse=True)
         json.dump(rows, open(ARCH, "w"), ensure_ascii=False, indent=2)
@@ -293,6 +319,8 @@ def main():
             print(f"TOTAL={len(rows)} NEWEST={rows[0].get('createdAtISO', '')}")
         if repaired_public:
             print(f"PUBLIC_TEXT_REPAIRED={len(repaired_public)}")
+        if public_profile_repairs:
+            print(f"PUBLIC_PROFILE_REPAIRED={len(public_profile_repairs)}")
     if repaired:
         print(f"FULL_TEXT_REPAIRED={repaired}")
     if sync_state_changed:
