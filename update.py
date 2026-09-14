@@ -242,6 +242,48 @@ def needs_public_text_repair(post):
     text = post.get("text") or ""
     return text.startswith("[](http://x.com/)") or "Log inSign up" in text
 
+def merge_public_profile_row(previous, current):
+    """Keep reliable older optional fields when the public page omits them."""
+    merged = dict(current)
+    for key, value in previous.items():
+        if key not in merged or (merged[key] in (None, "", []) and value not in (None, "", [])):
+            merged[key] = value
+    for container in ("author", "metrics"):
+        old_values = previous.get(container)
+        new_values = merged.get(container)
+        if isinstance(old_values, dict) and isinstance(new_values, dict):
+            for key, value in old_values.items():
+                if new_values.get(key) in (None, "", []) and value not in (None, "", []):
+                    new_values[key] = value
+    old_media = previous.get("media")
+    new_media = merged.get("media")
+    if isinstance(old_media, list) and isinstance(new_media, list) and old_media and new_media:
+        old_by_url = {
+            item.get("url"): item
+            for item in old_media
+            if isinstance(item, dict) and item.get("url")
+        }
+        combined = []
+        seen_urls = set()
+        for item in new_media:
+            if not isinstance(item, dict):
+                combined.append(item)
+                continue
+            url = item.get("url")
+            enriched = dict(old_by_url.get(url, {}))
+            enriched.update(item)
+            combined.append(enriched)
+            if url:
+                seen_urls.add(url)
+        combined.extend(
+            item for item in old_media
+            if isinstance(item, dict)
+            and item.get("url")
+            and item.get("url") not in seen_urls
+        )
+        merged["media"] = combined
+    return merged
+
 def main():
     repair_full_text = "--repair-full-text" in sys.argv[1:]
     repair_public_profile = "--repair-public-profile" in sys.argv[1:]
@@ -263,21 +305,12 @@ def main():
         and not needs_public_text_repair(t)
     ]
     public_profile_repairs = []
-    repair_boundary = sync_state.get("last_update_time")
     if repair_public_profile and (PUBLIC_FALLBACK_DIAGNOSTIC or {}).get("source") == "x_public_profile_html":
         repaired_ids = {t["id"] for t in repaired_public}
         public_profile_repairs = [
             t for t in pulled
             if t["id"] in existing_by_id
             and t["id"] not in repaired_ids
-            and (
-                not repair_boundary
-                or (
-                    parse_time(t)
-                    and parse_time(t).astimezone(timezone.utc)
-                    > datetime.fromisoformat(repair_boundary.replace("Z", "+00:00"))
-                )
-            )
         ]
     new.sort(key=sort_key)
     repaired = 0
@@ -306,9 +339,9 @@ def main():
         for t in new:
             merged[t["id"]] = t
         for t in repaired_public:
-            merged[t["id"]] = t
+            merged[t["id"]] = merge_public_profile_row(existing_by_id[t["id"]], t)
         for t in public_profile_repairs:
-            merged[t["id"]] = t
+            merged[t["id"]] = merge_public_profile_row(existing_by_id[t["id"]], t)
         rows = sorted(merged.values(), key=sort_key, reverse=True)
         json.dump(rows, open(ARCH, "w"), ensure_ascii=False, indent=2)
         write_csv(rows)

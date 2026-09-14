@@ -48,6 +48,9 @@ Before committing:
    are used only for rows the profile response cannot parse. This fallback
    uses no browser cookies or login state; keep the returned public excerpt and
    timestamp, and record the fallback source in the run report.
+   The profile parser follows the status-specific RSC `Tweet` object and its
+   `user_results` reference, and prefers the linked full `NoteTweet` text;
+   never take the first `full_text` found in a shared response window.
 2. Refresh JSON, CSV, and ticker stats.
 3. Fetch any newly visible X Article share tweets or article bodies with
    authenticated access. Keep full article text out of the repo; summarize only
