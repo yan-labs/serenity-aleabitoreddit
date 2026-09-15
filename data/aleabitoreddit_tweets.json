@@ -1,5 +1,142 @@
 [
   {
+    "id": "2099659874892386678",
+    "text": "I've seen comments from Jim Cramer today supporting hedge funds that short Leopold's \"nonsense\" $SNDK / $DRAM / SK Hynix type calls.  \n\nAs well Cramer calling $CRWD a \"Must Buy\".   \n\nI'm not sure if Jim Cramer sees a $241B company  labelled \"Cybersecurity\" and thinks of it as safe... while ignoring all their fundamentals. \n\nBut with Crowdstrike, you have a ~145x FY2028 fwd P/E company, growing revenue 26% Y/Y. That Cramer thinks is a \"must buy\". \n\nAnd then you turn your eyes to the AI capex beneficiary theme that Leopold is long on. \n\nWith names like $SKHY / Samsung in $DRAM... Both FY2027 ~2.8-3x fwd P/E off analyst projections.  \n\n-> Samsung LTAs to 2031 (70% capacity) for durability...  -> Minimum price floor + no price ceiling type contracts from SK Hynix.  \n-> Memory shortage much tigher for the next year.  \n-> DRAM/NAND % of hyperscaler capex goes higher (est. 68% per Trendforce)  \n-> 2027 hyperscaler capex projections all hiked.  \n\nThen with $SNDK, 50% FCF margins, 80% gross margin projections into 2030.   \n\nOnly Situational Awareness position I'm in disagreement with is $CRWV due to debt interest eating FCF, but I can make a similar bullish argument with $BE, $INTC, $AMD, and others. \n\nNot quite sure about short-term, but over the medium run: \n\nIt's hard to not see Leopold's positions pulling an Inverse Cramer due to overwhelming fundamentals.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": null
+    },
+    "metrics": {
+      "likes": 202,
+      "retweets": 12,
+      "replies": 20,
+      "quotes": null,
+      "views": 45875,
+      "bookmarks": 34
+    },
+    "createdAt": "Tue Sep 15 00:41:38 +0000 2026",
+    "createdAtISO": "2026-09-15T00:41:38Z",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "sourceUrl": "https://x.com/aleabitoreddit/status/2099659874892386678",
+    "createdAtLocal": "2026-09-15 08:41"
+  },
+  {
+    "id": "2099458250240618861",
+    "text": "$IREN CEO on Anthropic call for frontier slowdown:\n\n“Even if models never improved from here…\n\njust rolling out what they can already do would take more compute than the world can build for years”\n\nI agree, and current narrative is reminiscent of the $NVDA DeepSeek selloff or the $GOOGL TurboQuant scare. \n\nGuess what happened? \n\nThese scares once or twice a year all turn out to be immaterial to the overall AI buildout.\n\nEspecially when we have contracted demand all the way into the 2030’s now from advanced packaging to memory procurement.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": null
+    },
+    "metrics": {
+      "likes": 1670,
+      "retweets": 88,
+      "replies": 86,
+      "quotes": null,
+      "views": 370612,
+      "bookmarks": 193
+    },
+    "createdAt": "Mon Sep 14 11:20:27 +0000 2026",
+    "createdAtISO": "2026-09-14T11:20:27Z",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "sourceUrl": "https://x.com/aleabitoreddit/status/2099458250240618861",
+    "createdAtLocal": "2026-09-14 19:20"
+  },
+  {
+    "id": "2099411795131924487",
+    "text": "NOR flash “Severe Supply Shortage” with high density continued increases of 90-110% for H2.\n\nI wonder who sells both high density NOR and SLC NAND? *cough cough, $ESMT*\n\nFor H1 hikes:\nNOR: +100–120%\nSLC NAND: +130–150%\n\nFor H2 hikes:\nHigh-density NOR: 90-110% in H2\nSLC NAND: ~70–75%.\n\nObviously there’s others from Winbond / Macronix / Gigadevice, but my idea and position with ESMT is that it’s the largest beneficiary of the shortage relative to size. (they sell NOR: >256Mb)\n\nThe moderate bearish part is: \n\n“For mid- and low-capacity products of 128Mb and below, additional capacity from Chinese suppliers is gradually coming online. \n\nPrice increases for consumer-grade products are therefore expected to moderate”\n\nHowever, this update is overwhelmingly bullish for earnings of legacy memory players.\n\nLet the ASP hike games continue.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": null
+    },
+    "metrics": {
+      "likes": 407,
+      "retweets": 19,
+      "replies": 32,
+      "quotes": null,
+      "views": 152465,
+      "bookmarks": 101
+    },
+    "createdAt": "Mon Sep 14 08:15:51 +0000 2026",
+    "createdAtISO": "2026-09-14T08:15:51Z",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HSKb5UKa4AAKn85.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HSKb5UJagAAr4Z0.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HSKb5UIaoAAyHy4.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "sourceUrl": "https://x.com/aleabitoreddit/status/2099411795131924487",
+    "createdAtLocal": "2026-09-14 16:15"
+  },
+  {
+    "id": "2099392042657038698",
+    "text": "Man Ray: are you long Samsung?\n\nPatrick: Yup.\n\nMan Ray: Samsung has memory LTAs extending to 2031?\n\nPatrick: Yup.\n\nMan Ray: And it’s trading at ~2.8× 2027E P/E?\n\nPatrick: Yup.\n\nMan Ray: So you’re buying Samsung?\n\nPatrick: No, I’m selling on a 4% drop because X said memory will crash from AI slowdown",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": null
+    },
+    "metrics": {
+      "likes": 1227,
+      "retweets": 45,
+      "replies": 69,
+      "quotes": null,
+      "views": 224110,
+      "bookmarks": 155
+    },
+    "createdAt": "Mon Sep 14 06:57:22 +0000 2026",
+    "createdAtISO": "2026-09-14T06:57:22Z",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HSKJ7f7aYAA9EhN.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HSKJ7f5bIAApy0g.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "sourceUrl": "https://x.com/aleabitoreddit/status/2099392042657038698",
+    "createdAtLocal": "2026-09-14 14:57"
+  },
+  {
     "id": "2099229447304122410",
     "text": "I assign essentially 0% probability that Anthropic or OpenAI will slow down frontier development in any meaningful way. \n\nAnd that majority of the \"regulation\" they try making is regulatory capture to slow down competition. \n\n1. Anthropic/OpenAI will not willingly hand over their lead to Gemini, xAI, Meta, or another frontier lab.\n\n-> Elon will want a slowdown to catch up with OpenAI. \n-> OpenAI will want a regulatory framework to slow down xAI + competition. \n\nEvery lab has an incentive to support rules that constrain competitors more than they constrain itself\n\n2. The US is not going to meaningfully slow frontier AI development while China continues advancing. (as seen with Trump's post today about rejecting AI slowdown). \n\nIt would be probably the most flagrant national security risk if China leapfrogged the US in capability. \n\nEspecially when both sides have called frontier AI capabilities \"cyber nuclear weapons\" \n\n3. China will not slow down frontier AI development. That is a given. \n\nIt will be theater if any of these parties agrees so publicly, because behind the scenes:\n\n-> They'll likely keep on progressing, whether it's OpenAI, the US Government, or China. \n\nIf they wanted to slow down, they could have done so themselves at any point in time: \n\nYet everyone is still fighting over the scarce resources to run AI as seen with memory procurement from Samsung going all the way to 2031. \n\nOr the $NVDA / $AVGO supply constrained 70-100%+ Y/Y growth protections.\n\nSo I suggest people unfollow the clowns on X that predict AI stocks from $NVDA to $TSM to $MU will crash for engagement. \n\nAll this does is cause retail to panic short term and hand over the keys to the kingdom over to others.",
     "author": {
