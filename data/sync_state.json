@@ -2,18 +2,18 @@
   "target_user_id": "1940360837547565056",
   "repo": "yan-labs/serenity-aleabitoreddit",
   "skill_dir": "serenity-aleabitoreddit",
-  "last_tweet_id": "2099659874892386678",
-  "last_update_time": "2026-09-15T00:41:38Z",
+  "last_tweet_id": "2100008575229976995",
+  "last_update_time": "2026-09-15T23:47:15Z",
   "source_health": {
     "status": "available_fallback",
     "direct_status": "stale_unverified",
-    "verification_source": "x_public_profile_html",
+    "verification_source": "x_public_profile_html+jina_status",
     "freshness": "new_posts",
-    "latest_returned_id": "2099659874892386678",
-    "latest_returned_time": "2026-09-15T00:41:38Z",
-    "profile_parsed_count": 5,
-    "checked_time": "2026-09-15T01:07:27Z",
-    "next_action": "xreach failed with GraphQL authentication error; the repaired parser bound each row to its exact public-profile RSC Tweet object, validated user_results, and preferred full NoteTweet text. Public x.com profile HTML returned 5 exact rows, including 4 newer than the saved cursor through 2099659874892386678 at 2026-09-15T00:41:38Z, so the cursor advanced without browser cookies or login state. Retry xreach and public profile HTML next tick, and use Jina only for profile gaps."
+    "latest_returned_id": "2100008575229976995",
+    "latest_returned_time": "2026-09-15T23:47:15Z",
+    "profile_parsed_count": 3,
+    "checked_time": "2026-09-16T01:05:12Z",
+    "next_action": "xreach failed with GraphQL authentication error; the repaired parser bound each row to its exact public-profile RSC Tweet object, validated user_results, and preferred full NoteTweet text. Public x.com profile HTML plus Jina status fallback returned 3 exact rows, all newer than the saved cursor through 2100008575229976995 at 2026-09-15T23:47:15Z, so the cursor advanced without browser cookies or login state. Retry xreach and the public profile/Jina fallback next tick, and retain the last safe cursor only when exact timestamps are present."
   },
   "note": "Managed by Codex heartbeat automation. Do not edit manually."
 }
