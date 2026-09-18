@@ -1,5 +1,69 @@
 [
   {
+    "id": "2100735673561174047",
+    "text": "TLDRs of things I found interesting this week: \n\n- $INTC CEO says some memory prices have risen 5-7× and warns the shortage will worsen in 2027. \n\n$SNDK / $MU / Samsung bros will be happy to hear this... (from the AI Infra Summit 2026 in Santa Clara)\n\n- $GFS + $MRVL sign extended SiGe capacity agreement for pluggable/NPO/CPO. \"Expected to add significant capacity to support Marvell’s growing requirements.\"\n\nI like to keep an eye out on Globalfoundries related updates given $SIVE is their reference laser for SCALE.  \n\n-  $CIEN expects roughly 30% annual revenue growth, 50% adj. gross margin, 20% FCF margin, through FY2029.\n\nThe company says component availability, not demand, is limiting growth... Seems common across $NVDA to upstream suppliers that supply is the limiting factor for revenue growth.  \n\n- Winbond acquires Infineon's NOR Flash and F-RAM business for $1.12 billion. \n\nVery surprised Infineon sold considering NOR Flash ASP + importance just keep going up and up and up, but good for Winbond consolidation. \n\n- Samsung reportedly expands outsourcing of DDR5-module and SSD assembly. \n\nI think some local Taiwan reports flag Transcend and Apacer as possible beneficiaries. The report specifically identifies Dreamtech, Hanyang Digitech and SFA Semicon. \n\nI've noticed other Korean firms entering new Samsung Electronics contracts for likely legacy memory modules maybe like ~1-2m ago.. So think some media commentary probably missed this too. Maybe too small for them to notice? \n\n- $NBIS raises AI cloud prices for the 2nd time in three months (~17-21%), bullish read through for other Neoclouds like $CRWV to $IREN earnings.\n\n-  $AMZN signs $2.4B agreement with $GNRC for generator deliveries throughout 2027-2028... and received warrants tied to as much as $8B of aggregate purchases\n\nGood to keep an eye out on who Amazon signs these warrant agreements with (eg. Alchip, $AAOI, $QCOM, $MRVL, etc) and what type of infra procurement they want. \n\n- $TSEM and NewPhotonics begin volume shipments of laser integrated optical engines.\n\nNot familiar with newphotonics, so not going to leave much commentary here. But will do some research today. \n\n- Goldman Sachs reportedly sees the ABF deficit expanding from 14% to 51%. Forecast shortages are 14% in 2H26, 34% in 2027 and 51% in 2028... \n\nMore substrate bottleneck stuff, not surprising regarding demand imbalances. \n\n- Crusoe raises $3.9B at a $30.9B valuation. \n\nOkay this valuation is better than Instinct raising at a bubble $10B valuation off 100k users...  \n\n- Japan and the U.S. reportedly discuss a $12.9–19.3B $GFS run fab. \n\nThat's like half of Globalfoundries marketcap lol. Not much details here. \n\n- $ARM CEO Rene Haas said he is confident that they can secure enough supply to meet $2B in customer demand (for their AGI CPU).\n\nThere's probably a lot more demand, probably supply constrained growth as usual so good $ARM signaled confidence in securing allocations. \n\n- Supply chain sources said Kioxia has about 50% of its LTA capacity tied up, while SK Hynix/Samsung reserve about 70% of capacity for LTAs for 3-5 years. \n\nNot sure how people are bearish on memory.... \n\nI don't like posting updates one-by-one like a news reporter, so hope this saves some time of stuff I like looking at. \n\nOn a side note was surprised markets from $AMD to $INTC rallied today after rate hikes. Think high-beta overshot the selloff the most.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": null
+    },
+    "metrics": {
+      "likes": 374,
+      "retweets": 22,
+      "replies": 34,
+      "quotes": 1,
+      "views": 63383,
+      "bookmarks": 116
+    },
+    "createdAt": "Thu Sep 17 23:56:29 +0000 2026",
+    "createdAtISO": "2026-09-17T23:56:29Z",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "sourceUrl": "https://x.com/aleabitoreddit/status/2100735673561174047",
+    "createdAtLocal": "2026-09-18 07:56"
+  },
+  {
+    "id": "2100530507549425704",
+    "text": "Just in case you're wondering why I'm so bullish on legacy memory...\n\nTheir hikes seem a lot extreme than $NBIS reported +17-21% GPU rentals today or Taiyo-Murata type MLCC hikes. \n\nPrice hikes projections expected for H2:\n\n- SLC NAND: +120-170% in H2 vs H1\n- High-capacity NOR: +90-110% in H2 vs H1\n- ~DDR3/DDR4: +50% Q3\n- DDR2: +35-40% in Q3\n- LPDDR: +20% or more in Q3\n- DDR1, older LPDDR and PSRAM: also rising\n\nAs a consolidated view... \n\nLot of these are stacked off existing hikes H1, (eg. 130-150% for H1 SLC NAND), so you get +406%-575% cumulative throughout 2026.\n\nWhich impacts blended net income overall more than upstream wafer COGS hikes (eg. +45% DRAM wafers from $PSMC)\n\nSo I'd expect Q3 earnings for a lot of the legacy memory fabless companies to cook",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": null
+    },
+    "metrics": {
+      "likes": 1190,
+      "retweets": 64,
+      "replies": 64,
+      "quotes": 11,
+      "views": 239367,
+      "bookmarks": 356
+    },
+    "createdAt": "Thu Sep 17 10:21:13 +0000 2026",
+    "createdAtISO": "2026-09-17T10:21:13Z",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HSaPqMXaEAAe-XC.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "sourceUrl": "https://x.com/aleabitoreddit/status/2100530507549425704",
+    "createdAtLocal": "2026-09-17 18:21"
+  },
+  {
     "id": "2100290486569505223",
     "text": "Reminiscent of $NVDA w/ $LITE + $COHR:\n\nFoxconn is now considering joint investments to avoid upstream material shortages.\n\nFoxconn Interconnect Chairman identifies CW lasers and fiber as the biggest bottleneck in photonics.\n\nVery interesting to see these two themes reiterated across industry commentary.\n\nAlmost like a certain Anime character on X was right about CW laser bottlenecks.",
     "author": {

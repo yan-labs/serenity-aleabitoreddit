@@ -1,4 +1,81 @@
 id,url,createdAtISO,createdAtLocal,lang,isRetweet,retweetedBy,likes,retweets,replies,quotes,views,bookmarks,media_count,media_urls,link_urls,quoted_id,quoted_author,quoted_text,text
+2100735673561174047,https://x.com/aleabitoreddit/status/2100735673561174047,2026-09-17T23:56:29Z,2026-09-18 07:56,en,False,,374,22,34,1,63383,116,0,,,,,,"TLDRs of things I found interesting this week:
+
+- $INTC CEO says some memory prices have risen 5-7× and warns the shortage will worsen in 2027.
+
+$SNDK / $MU / Samsung bros will be happy to hear this... (from the AI Infra Summit 2026 in Santa Clara)
+
+- $GFS + $MRVL sign extended SiGe capacity agreement for pluggable/NPO/CPO. ""Expected to add significant capacity to support Marvell’s growing requirements.""
+
+I like to keep an eye out on Globalfoundries related updates given $SIVE is their reference laser for SCALE.
+
+-  $CIEN expects roughly 30% annual revenue growth, 50% adj. gross margin, 20% FCF margin, through FY2029.
+
+The company says component availability, not demand, is limiting growth... Seems common across $NVDA to upstream suppliers that supply is the limiting factor for revenue growth.
+
+- Winbond acquires Infineon's NOR Flash and F-RAM business for $1.12 billion.
+
+Very surprised Infineon sold considering NOR Flash ASP + importance just keep going up and up and up, but good for Winbond consolidation.
+
+- Samsung reportedly expands outsourcing of DDR5-module and SSD assembly.
+
+I think some local Taiwan reports flag Transcend and Apacer as possible beneficiaries. The report specifically identifies Dreamtech, Hanyang Digitech and SFA Semicon.
+
+I've noticed other Korean firms entering new Samsung Electronics contracts for likely legacy memory modules maybe like ~1-2m ago.. So think some media commentary probably missed this too. Maybe too small for them to notice?
+
+- $NBIS raises AI cloud prices for the 2nd time in three months (~17-21%), bullish read through for other Neoclouds like $CRWV to $IREN earnings.
+
+-  $AMZN signs $2.4B agreement with $GNRC for generator deliveries throughout 2027-2028... and received warrants tied to as much as $8B of aggregate purchases
+
+Good to keep an eye out on who Amazon signs these warrant agreements with (eg. Alchip, $AAOI, $QCOM, $MRVL, etc) and what type of infra procurement they want.
+
+- $TSEM and NewPhotonics begin volume shipments of laser integrated optical engines.
+
+Not familiar with newphotonics, so not going to leave much commentary here. But will do some research today.
+
+- Goldman Sachs reportedly sees the ABF deficit expanding from 14% to 51%. Forecast shortages are 14% in 2H26, 34% in 2027 and 51% in 2028...
+
+More substrate bottleneck stuff, not surprising regarding demand imbalances.
+
+- Crusoe raises $3.9B at a $30.9B valuation.
+
+Okay this valuation is better than Instinct raising at a bubble $10B valuation off 100k users...
+
+- Japan and the U.S. reportedly discuss a $12.9–19.3B $GFS run fab.
+
+That's like half of Globalfoundries marketcap lol. Not much details here.
+
+- $ARM CEO Rene Haas said he is confident that they can secure enough supply to meet $2B in customer demand (for their AGI CPU).
+
+There's probably a lot more demand, probably supply constrained growth as usual so good $ARM signaled confidence in securing allocations.
+
+- Supply chain sources said Kioxia has about 50% of its LTA capacity tied up, while SK Hynix/Samsung reserve about 70% of capacity for LTAs for 3-5 years.
+
+Not sure how people are bearish on memory....
+
+I don't like posting updates one-by-one like a news reporter, so hope this saves some time of stuff I like looking at.
+
+On a side note was surprised markets from $AMD to $INTC rallied today after rate hikes. Think high-beta overshot the selloff the most."
+2100530507549425704,https://x.com/aleabitoreddit/status/2100530507549425704,2026-09-17T10:21:13Z,2026-09-17 18:21,en,False,,1190,64,64,11,239367,356,1,https://pbs.twimg.com/media/HSaPqMXaEAAe-XC.jpg,,,,,"Just in case you're wondering why I'm so bullish on legacy memory...
+
+Their hikes seem a lot extreme than $NBIS reported +17-21% GPU rentals today or Taiyo-Murata type MLCC hikes.
+
+Price hikes projections expected for H2:
+
+- SLC NAND: +120-170% in H2 vs H1
+- High-capacity NOR: +90-110% in H2 vs H1
+- ~DDR3/DDR4: +50% Q3
+- DDR2: +35-40% in Q3
+- LPDDR: +20% or more in Q3
+- DDR1, older LPDDR and PSRAM: also rising
+
+As a consolidated view...
+
+Lot of these are stacked off existing hikes H1, (eg. 130-150% for H1 SLC NAND), so you get +406%-575% cumulative throughout 2026.
+
+Which impacts blended net income overall more than upstream wafer COGS hikes (eg. +45% DRAM wafers from $PSMC)
+
+So I'd expect Q3 earnings for a lot of the legacy memory fabless companies to cook"
 2100290486569505223,https://x.com/aleabitoreddit/status/2100290486569505223,2026-09-16T18:27:28Z,2026-09-17 02:27,en,False,,461,21,51,5,200378,101,2,https://pbs.twimg.com/media/HSW7D_IbgAE9-0h.jpg | https://pbs.twimg.com/media/HSW7D_MbUAAGf2f.jpg,,,,,"Reminiscent of $NVDA w/ $LITE + $COHR:
 
 Foxconn is now considering joint investments to avoid upstream material shortages.
