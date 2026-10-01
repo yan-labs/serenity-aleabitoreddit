@@ -5,15 +5,15 @@
   "last_tweet_id": "2100735673561174047",
   "last_update_time": "2026-09-17T23:56:29Z",
   "source_health": {
-    "status": "available_fallback",
+    "status": "stale_unverified",
     "direct_status": "stale_unverified",
-    "verification_source": "x_public_profile_html",
-    "freshness": "new_posts",
+    "verification_source": "x_public_profile+jina_status",
+    "freshness": "unverified",
     "latest_returned_id": "2100735673561174047",
     "latest_returned_time": "2026-09-17T23:56:29Z",
-    "profile_parsed_count": 6,
-    "checked_time": "2026-09-18T01:06:54Z",
-    "next_action": "xreach failed with GraphQL authentication error; the repaired parser bound each row to its exact public-profile RSC Tweet object, validated user_results, and preferred full NoteTweet text. Public x.com profile HTML returned 6 exact rows, including 2 newer than the saved cursor through 2100735673561174047 at 2026-09-17T23:56:29Z, so the cursor advanced without browser cookies or login state. The two new rows were classified as durable memory/AI-infrastructure supply-chain evidence and added to thesis/track-record references. Retry xreach and the public profile/Jina fallback next tick, and retain the last safe cursor only when exact timestamps are present."
+    "profile_parsed_count": 0,
+    "checked_time": "2026-10-01T12:45:13Z",
+    "next_action": "xreach failed with GraphQL authentication error; the public x.com profile plus Jina status fallback returned 0 verified records at 2026-10-01T12:45:13Z, so no new post was verified and the cursor remains unchanged. Retry xreach and the public profile plus Jina status fallback without browser login state; do not advance last_tweet_id from an exact-status-only or stale response."
   },
   "note": "Managed by Codex heartbeat automation. Do not edit manually."
 }
