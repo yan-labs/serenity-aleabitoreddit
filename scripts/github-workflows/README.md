@@ -10,6 +10,6 @@ Archive refresh is owned by **Grok Bot**, not GitHub Actions:
 5. `python3 check_repo.py`, then commit and push when there is something new.
 
 Do **not** add `.github/workflows/` here unless you intentionally want CI and
-have a token with the `workflow` scope. Older Codex heartbeat / xreach-first CI
-skeletons are retired; xreach and public-profile pulls remain optional manual
-fallbacks inside `update.py` only.
+have a token with the `workflow` scope. Older Codex heartbeat CI skeletons are
+retired; public-profile / Jina remain an optional offline fallback inside
+`update.py` only.

@@ -47,13 +47,13 @@ Before committing:
    `python3 update.py --from-json path/to/posts.json` (archive-shaped list, or
    `{ "data": [...], "includes": {...} }` from `get_users_posts` /
    `get_posts_by_ids`; prefer `note_tweet.text` over truncated `text`).
-   **Optional legacy only:** `python3 update.py` without `--from-json` still
-   tries `xreach`, then the public `https://x.com/aleabitoreddit` profile
-   (status ids / text / `created_at_ms`) and Jina status pages for unparsed
-   rows. Do not use that live pull for unattended refresh; record the source
-   in the run report if you do. The profile parser follows the status-specific
-   RSC `Tweet` object and its `user_results` reference, and prefers linked
-   `NoteTweet` text — never the first `full_text` in a shared response window.
+   **Optional offline only:** `python3 update.py` without `--from-json` uses the
+   public `https://x.com/aleabitoreddit` profile (status ids / text /
+   `created_at_ms`) and Jina status pages for unparsed rows. Do not use that
+   live pull for unattended refresh; record the source in the run report if you
+   do. The profile parser follows the status-specific RSC `Tweet` object and its
+   `user_results` reference, and prefers linked `NoteTweet` text — never the
+   first `full_text` in a shared response window.
 2. Refresh JSON, CSV, and ticker stats.
 3. Fetch any newly visible X Article share tweets or article bodies with
    authenticated access. Keep full article text out of the repo; summarize only
@@ -93,4 +93,5 @@ Supported path is **Grok Bot only** (no GitHub Actions / Codex heartbeat):
    meaningful skill improvement.
 
 See `scripts/github-workflows/README.md` for why CI is not the supported path.
-xreach / public-profile / Jina remain optional manual fallbacks only.
+Public-profile / Jina remain an optional offline fallback inside `update.py`
+only.

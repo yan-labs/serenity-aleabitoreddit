@@ -15,5 +15,5 @@
     "checked_time": "2026-10-10T10:19:18Z",
     "next_action": "Continue Grok Bot routine: X connector/API → update.py --from-json → distill → push."
   },
-  "note": "Managed by Grok Bot routine. Primary path: X connector/API → update.py --from-json → distill → push. xreach/public-profile are optional legacy fallbacks only."
+  "note": "Managed by Grok Bot routine. Primary path: X connector/API → update.py --from-json → distill → push. Public-profile/Jina is an optional offline fallback only."
 }

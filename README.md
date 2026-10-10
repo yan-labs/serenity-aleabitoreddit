@@ -49,8 +49,7 @@ Articles** published in **2026-01 → 2026-05**.
 | `data/ticker_stats.txt` | His `$ticker` universe by mention count + first/last seen |
 | `assets/serenity-avatar.jpg` | Local copy of Serenity's public X avatar used in this README |
 | `prep.py` | Condenses the tweet JSON into monthly chunks and recomputes the ticker stats |
-| `update.py` | Primary: merge an X API / Grok Bot connector dump via `--from-json`; dedupes by id and refreshes CSV + ticker stats. Optional legacy live pull (xreach / public profile) remains for offline use |
-| `scripts/xreach_note_text.mjs` | Optional legacy helper: recovers Note Tweet text from an installed `xreach` client when that path is used |
+| `update.py` | Primary: merge an X API / Grok Bot connector dump via `--from-json`; dedupes by id and refreshes CSV + ticker stats. Optional offline live pull uses the public x.com profile / Jina fallback |
 
 ## Use it as a skill
 
@@ -106,16 +105,13 @@ Ongoing archive updates are run by **Grok Bot**: the X connector / API pulls
 `data/`, and the bot distills durable signals into `references/` then pushes.
 Unattended refresh is a Grok Bot routine (morning and evening), not CI.
 
-Historically the archive was also built with `agent-reach` tooling
-(`twitter-cli`, then `xreach`) and date-windowed search around X pagination
-limits. Those paths plus the public `x.com/<user>` profile / Jina status
-fallback remain in `update.py` as **optional legacy** live pulls only — not the
-supported unattended path. X Article bodies were fetched with authenticated
-article access and distilled into summaries only; full article text is not
-redistributed here. To backfill Issue #2 Note Tweet text via the optional
-xreach helper, run `python3 update.py --repair-full-text` in rate-limit-safe
-batches. Regenerate condensed monthly chunks and ticker stats with
-`python3 prep.py`.
+`python3 update.py` without `--from-json` can still pull a short recent window
+from the public `x.com/<user>` profile / Jina status pages for offline use —
+not the supported unattended path. X Article bodies were fetched with
+authenticated article access and distilled into summaries only; full article
+text is not redistributed here. Prefer `--from-json` dumps that include
+`note_tweet.text` so long posts are not truncated. Regenerate condensed monthly
+chunks and ticker stats with `python3 prep.py`.
 
 ---
 
