@@ -1,16 +1,17 @@
 #!/usr/bin/env python3
-"""Incremental archive updater: pull latest tweets, merge (dedupe), refresh CSV + ticker_stats.
+"""Incremental archive updater: merge new tweets, dedupe, refresh CSV + ticker_stats.
 
-Uses xreach when available, with a public x.com profile fallback that does not
-require browser cookies or login state.
-Run from the repo root: `python3 update.py`. Prints a final `NEW=<n>` line; exits 0.
-Run `python3 update.py --repair-full-text` repeatedly to backfill X Note Tweet text.
-Run `python3 update.py --repair-public-profile` once after a public-profile parser
-upgrade to replace rows captured by an older fallback parser.
-Run `python3 update.py --from-json path` to merge a local X API / connector
-JSON dump (list of archive-shaped posts, or `{ "data": [...] }` with optional
-`includes`) when xreach auth is broken.
-Does NOT touch git — the caller decides whether to commit/push based on NEW.
+Primary (Grok Bot / unattended): `python3 update.py --from-json path` merges an
+X API or connector JSON dump (archive-shaped list, or `{ "data": [...] }` with
+optional `includes`; prefer `note_tweet.text` over truncated `text`).
+
+Optional legacy live pull: `python3 update.py` tries xreach when available, then
+a public x.com profile fallback (no browser cookies). Not the supported
+unattended path.
+
+Also: `--repair-full-text` backfills Note Tweet text via optional xreach helper;
+`--repair-public-profile` replaces rows from an older public-profile parser.
+Prints a final `NEW=<n>` line; exits 0. Does NOT touch git — the caller commits.
 """
 import json, csv, os, re, shutil, subprocess, sys
 from collections import Counter
@@ -544,7 +545,7 @@ def main():
             "new_posts_merged": len(new),
             "checked_time": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
             "next_action": (
-                "Merged via --from-json; prefer X API dump when xreach auth fails."
+                "Merged via --from-json (Grok Bot / X API primary path)."
                 if from_json else
                 "Cursor advanced from live pull."
             ),

@@ -49,8 +49,8 @@ Articles** published in **2026-01 → 2026-05**.
 | `data/ticker_stats.txt` | His `$ticker` universe by mention count + first/last seen |
 | `assets/serenity-avatar.jpg` | Local copy of Serenity's public X avatar used in this README |
 | `prep.py` | Condenses the tweet JSON into monthly chunks and recomputes the ticker stats |
-| `update.py` | Pulls latest tweets (xreach / public fallback) or merges a local X API JSON dump via `--from-json`; dedupes by id and refreshes CSV + ticker stats |
-| `scripts/xreach_note_text.mjs` | Read-only adapter for the installed `xreach` client that recovers public X Note Tweet text omitted from its default output |
+| `update.py` | Primary: merge an X API / Grok Bot connector dump via `--from-json`; dedupes by id and refreshes CSV + ticker stats. Optional legacy live pull (xreach / public profile) remains for offline use |
+| `scripts/xreach_note_text.mjs` | Optional legacy helper: recovers Note Tweet text from an installed `xreach` client when that path is used |
 
 ## Use it as a skill
 
@@ -101,19 +101,21 @@ window, not a green light to chase near-price entries.
 
 ## Provenance
 
-Tweets were collected via `agent-reach` Twitter/X tooling (`twitter-cli`
-historically, `xreach` when its session is healthy, and the public
-`x.com/<user>` profile plus Jina status pages as the unattended fallback)
-using date-windowed
-search (full-day windows with intra-day top-up for high-volume days) to work
-around X's pagination/rate limits. X Article bodies were fetched with
-authenticated article access and distilled into summaries only; full article text
-is not redistributed here. `update.py` resolves public X Note Tweet text
-from `xreach` when available and otherwise keeps the public status excerpt;
-run `python3 update.py
---repair-full-text` repeatedly to backfill the Issue #2 affected period in
-rate-limit-safe batches. Regenerate the condensed monthly chunks and ticker stats
-from the archive with `python3 prep.py`.
+Ongoing archive updates are run by **Grok Bot**: the X connector / API pulls
+@aleabitoreddit posts, `python3 update.py --from-json <dump>` merges them into
+`data/`, and the bot distills durable signals into `references/` then pushes.
+Unattended refresh is a Grok Bot routine (morning and evening), not CI.
+
+Historically the archive was also built with `agent-reach` tooling
+(`twitter-cli`, then `xreach`) and date-windowed search around X pagination
+limits. Those paths plus the public `x.com/<user>` profile / Jina status
+fallback remain in `update.py` as **optional legacy** live pulls only — not the
+supported unattended path. X Article bodies were fetched with authenticated
+article access and distilled into summaries only; full article text is not
+redistributed here. To backfill Issue #2 Note Tweet text via the optional
+xreach helper, run `python3 update.py --repair-full-text` in rate-limit-safe
+batches. Regenerate condensed monthly chunks and ticker stats with
+`python3 prep.py`.
 
 ---
 

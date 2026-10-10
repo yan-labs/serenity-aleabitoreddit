@@ -13,7 +13,7 @@
     "latest_returned_time": "2026-10-09T04:35:55Z",
     "new_posts_merged": 74,
     "checked_time": "2026-10-10T10:19:18Z",
-    "next_action": "Cursor advanced from X API (Grok Bot x connector). Prefer update.py --from-json or future X API path; xreach remains broken."
+    "next_action": "Continue Grok Bot routine: X connector/API → update.py --from-json → distill → push."
   },
-  "note": "Managed by archive update automation. Prefer X API / --from-json over xreach."
+  "note": "Managed by Grok Bot routine. Primary path: X connector/API → update.py --from-json → distill → push. xreach/public-profile are optional legacy fallbacks only."
 }
