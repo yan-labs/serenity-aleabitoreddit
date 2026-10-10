@@ -79,3 +79,12 @@ Before committing:
 - Use `skill/data: incremental tweet update (+<n>) <UTC ISO timestamp>` when the
   skill or references also change.
 - Do not create empty commits.
+
+## Unattended updates
+
+- Local/agent path: dump posts from the X API / Grok Bot `x` connector, then
+  `python3 update.py --from-json path.json`.
+- CI skeleton (copy into `.github/workflows/` with a token that has the
+  `workflow` scope): `scripts/github-workflows/update-archive.yml.example`.
+  Optional secret: `X_BEARER_TOKEN`. Until a fetch script is added, use
+  `workflow_dispatch` with a committed JSON path.
