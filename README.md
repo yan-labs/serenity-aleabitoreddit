@@ -49,7 +49,7 @@ Articles** published in **2026-01 → 2026-05**.
 | `data/ticker_stats.txt` | His `$ticker` universe by mention count + first/last seen |
 | `assets/serenity-avatar.jpg` | Local copy of Serenity's public X avatar used in this README |
 | `prep.py` | Condenses the tweet JSON into monthly chunks and recomputes the ticker stats |
-| `update.py` | Primary: merge an X API / Grok Bot connector dump via `--from-json`; dedupes by id and refreshes CSV + ticker stats. Optional offline live pull uses the public x.com profile / Jina fallback |
+| `update.py` / `scripts/ingest_x_posts.py` | Primary: merge an X API / Grok Bot connector dump via `--from-json` (thin alias: `scripts/ingest_x_posts.py`); dedupes by id, prints `NEW`/`NEW_IDS`, refreshes CSV + ticker stats. Optional offline live pull uses the public x.com profile / Jina fallback. Steps: `scripts/GROK_SYNC.md` |
 
 ## Use it as a skill
 
@@ -101,8 +101,9 @@ window, not a green light to chase near-price entries.
 ## Provenance
 
 Ongoing archive updates are run by **Grok Bot**: the X connector / API pulls
-@aleabitoreddit posts, `python3 update.py --from-json <dump>` merges them into
-`data/`, and the bot distills durable signals into `references/` then pushes.
+@aleabitoreddit posts, `python3 scripts/ingest_x_posts.py <dump>` (or
+`update.py --from-json`) merges them into `data/`, and the bot distills durable
+signals into `references/` then pushes. See `scripts/GROK_SYNC.md`.
 Unattended refresh is a Grok Bot routine (morning and evening), not CI.
 
 `python3 update.py` without `--from-json` can still pull a short recent window

@@ -5,8 +5,9 @@ Archive refresh is owned by **Grok Bot**, not GitHub Actions:
 1. Routine (morning / evening Asia/Shanghai) wakes the bot.
 2. Pull @aleabitoreddit via the X connector / API since `data/sync_state.json`
    `last_tweet_id`.
-3. `python3 update.py --from-json <dump.json>`
-4. Distill per `serenity-aleabitoreddit/references/maintenance.md`.
+3. `python3 scripts/ingest_x_posts.py <dump.json>` (or `update.py --from-json`)
+4. Distill per `serenity-aleabitoreddit/references/maintenance.md`
+   (judgment only — see `scripts/GROK_SYNC.md`).
 5. `python3 check_repo.py`, then commit and push when there is something new.
 
 Do **not** add `.github/workflows/` here unless you intentionally want CI and

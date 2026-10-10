@@ -4,6 +4,7 @@
 Primary (Grok Bot / unattended): `python3 update.py --from-json path` merges an
 X API or connector JSON dump (archive-shaped list, or `{ "data": [...] }` with
 optional `includes`; prefer `note_tweet.text` over truncated `text`).
+Thin alias: `python3 scripts/ingest_x_posts.py path`.
 
 Optional offline live pull: `python3 update.py` without `--from-json` uses the
 public x.com profile / Jina status fallback (no browser cookies). Not the
@@ -180,7 +181,10 @@ def normalize_x_api_post(t, includes=None):
 
 
 def load_from_json(path):
-    raw = json.load(open(path))
+    try:
+        raw = json.load(open(path))
+    except (OSError, json.JSONDecodeError) as exc:
+        raise ValueError(f"PULL_ERROR cannot read JSON dump {path}: {exc}") from exc
     includes = {}
     if isinstance(raw, dict):
         includes = raw.get("includes") or {}
@@ -334,7 +338,8 @@ def main():
         if idx + 1 >= len(args):
             print("PULL_ERROR --from-json requires a path")
             print("NEW=0")
-            return
+            print("NEW_IDS=")
+            sys.exit(1)
         from_json = args[idx + 1]
     sync_state = json.load(open(SYNC_STATE)) if os.path.exists(SYNC_STATE) else {}
     sync_state_changed = False
@@ -345,7 +350,13 @@ def main():
     newest = max((parse_time(t) for t in arch if parse_time(t)), default=None)
     since = newest.astimezone(timezone.utc).date().isoformat() if newest else None
     if from_json:
-        pulled = [ensure_times(t) for t in load_from_json(from_json)]
+        try:
+            pulled = [ensure_times(t) for t in load_from_json(from_json)]
+        except ValueError as exc:
+            print(exc)
+            print("NEW=0")
+            print("NEW_IDS=")
+            sys.exit(1)
         print(f"FROM_JSON={from_json} pulled={len(pulled)}")
     else:
         pulled = [ensure_times(t) for t in pull(since=since)]
@@ -386,6 +397,14 @@ def main():
             print(f"PUBLIC_TEXT_REPAIRED={len(repaired_public)}")
         if public_profile_repairs:
             print(f"PUBLIC_PROFILE_REPAIRED={len(public_profile_repairs)}")
+    checked_time = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    verification_source = (
+        "from_json" if from_json else (
+            (PUBLIC_FALLBACK_DIAGNOSTIC or {}).get("verification_source")
+            or (PUBLIC_FALLBACK_DIAGNOSTIC or {}).get("source")
+            or "x_public_profile+jina_status"
+        )
+    )
     if new:
         newest_row = max(new, key=lambda t: t.get("createdAtISO") or "")
         sync_state["last_tweet_id"] = newest_row["id"]
@@ -393,18 +412,12 @@ def main():
         sync_state["source_health"] = {
             "status": "ok",
             "direct_status": "ok",
-            "verification_source": "from_json" if from_json else (
-                (PUBLIC_FALLBACK_DIAGNOSTIC or {}).get(
-                    "verification_source"
-                )
-                or (PUBLIC_FALLBACK_DIAGNOSTIC or {}).get("source")
-                or "x_public_profile+jina_status"
-            ),
+            "verification_source": verification_source,
             "freshness": "verified",
             "latest_returned_id": newest_row["id"],
             "latest_returned_time": newest_row.get("createdAtISO"),
             "new_posts_merged": len(new),
-            "checked_time": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "checked_time": checked_time,
             "next_action": (
                 "Merged via --from-json (Grok Bot / X API primary path)."
                 if from_json else
@@ -412,10 +425,33 @@ def main():
             ),
         }
         sync_state_changed = True
+    else:
+        # Always stamp a successful empty check so routines know we ran.
+        health = dict(sync_state.get("source_health") or {})
+        health.update({
+            "status": "ok",
+            "direct_status": "ok",
+            "verification_source": verification_source,
+            "freshness": "verified",
+            "new_posts_merged": 0,
+            "checked_time": checked_time,
+            "next_action": (
+                "No new posts in --from-json dump."
+                if from_json else
+                "No new posts from public-profile live pull."
+            ),
+        })
+        if pulled:
+            latest = max(pulled, key=lambda t: t.get("createdAtISO") or "")
+            health["latest_returned_id"] = latest.get("id")
+            health["latest_returned_time"] = latest.get("createdAtISO")
+        sync_state["source_health"] = health
+        sync_state_changed = True
     if sync_state_changed:
         json.dump(sync_state, open(SYNC_STATE, "w"), ensure_ascii=False, indent=2)
         print()
     print(f"NEW={len(new)}")
+    print("NEW_IDS=" + ",".join(t["id"] for t in new))
 
 if __name__ == "__main__":
     main()

@@ -44,9 +44,11 @@ Before committing:
 
 1. **Primary path (Grok Bot):** pull posts with the X connector / API, write a
    JSON dump, then merge:
-   `python3 update.py --from-json path/to/posts.json` (archive-shaped list, or
+   `python3 scripts/ingest_x_posts.py path/to/posts.json` (alias for
+   `python3 update.py --from-json …`; archive-shaped list, or
    `{ "data": [...], "includes": {...} }` from `get_users_posts` /
    `get_posts_by_ids`; prefer `note_tweet.text` over truncated `text`).
+   Short runbook: `scripts/GROK_SYNC.md`.
    **Optional offline only:** `python3 update.py` without `--from-json` uses the
    public `https://x.com/aleabitoreddit` profile (status ids / text /
    `created_at_ms`) and Jina status pages for unparsed rows. Do not use that
@@ -86,7 +88,8 @@ Supported path is **Grok Bot only** (no GitHub Actions / Codex heartbeat):
 1. Routine wakes (e.g. morning and evening Asia/Shanghai).
 2. Pull @aleabitoreddit via the X connector / API since `data/sync_state.json`
    `last_tweet_id`.
-3. `python3 update.py --from-json <dump.json>` → refresh JSON/CSV/ticker stats.
+3. `python3 scripts/ingest_x_posts.py <dump.json>` → refresh JSON/CSV/ticker stats
+   (prints `NEW=<n>` / `NEW_IDS=...`).
 4. Distill durable signals per this playbook (`theses.md`, `track-record.md`,
    period `analysis/` when needed).
 5. `python3 check_repo.py`, then commit and push when there is new data or a
