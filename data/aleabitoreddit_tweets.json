@@ -1,5 +1,2571 @@
 [
   {
+    "id": "2108416144428421459",
+    "text": "@wosa42 Markets often miss second order implications until it shows up in direct statements. \n\n- If $LITE is completely sold out... (largely due to $NVDA bottlenecking everyone else, eg. securing Greensboro capacity), where else do your other companies like $AMD / hyperscalers / etc. get their supply procurement? \n\n- $SIVE is coming online with like 1/6th of the world's current laser capacity by themselves. (100M+ cw dfb lasers vs. 608M EML/CW globally per Trendforce). \n\nNot even including their partner foundries that they're targeting 2:1 for. \n\n- $AAOI is coming online with a ton of capacity too next year enough to produce 400k ELSFP + $471m/month of transceivers. \n\nThen combine that with other supply chain statements like \"Having 2-3 suppliers used to be the norm, now it is 5-7\" from Lightcounting.\n\nSo as long as your products actually work + can scale, it's hard to see anyone else with capacity not get qualified into your supply chains. \n\nSince optical component shortages are a massive bottleneck now.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 336,
+      "retweets": 30,
+      "replies": 8,
+      "quotes": 5,
+      "views": 57039,
+      "bookmarks": 75
+    },
+    "createdAt": "Fri Oct 09 04:35:55 +0000 2026",
+    "createdAtISO": "2026-10-09T04:35:55Z",
+    "createdAtLocal": "2026-10-09 12:35",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2108412203514925165",
+    "inReplyToTweetId": "2108412733184196951",
+    "inReplyToUserId": "1851896471584673797"
+  },
+  {
+    "id": "2108412203514925165",
+    "text": "Woooow... $LITE CEO went out on Bloomberg today and stated:\n\nLumentum is \"effectively sold out through nearly 2029\".\n\nFrom our perspective, \"Completely Sold Out, there's no end in sight\".  With demand visibility from hyperscalers that carries them out into 2030, 2031.\n\nThe implications of these statements are enormous for photonics and remaining laser suppliers with capacity coming online like $SIVE, Sumitomo Electric, to $AAOI. \n\nWhat a crazy bottleneck that's unfolding.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 2113,
+      "retweets": 193,
+      "replies": 112,
+      "quotes": 58,
+      "views": 353764,
+      "bookmarks": 473
+    },
+    "createdAt": "Fri Oct 09 04:20:16 +0000 2026",
+    "createdAtISO": "2026-10-09T04:20:16Z",
+    "createdAtLocal": "2026-10-09 12:20",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HUKTRICbgAA70zi.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HUKToOqbQAA1qrT.jpg"
+      }
+    ],
+    "urls": [
+      "https://twitter.com/aleabitoreddit/status/2108272287908860377"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2108412203514925165",
+    "quotedTweet": {
+      "id": "2108272287908860377",
+      "text": "Can someone explain how media headlines about OpenAI’s ~$50B ARR…\n\n(vs. ~$70B from incorrect accounting comparisons with Anthropic)\n\nSomehow ends a 3-5 year laser shortage with $AAOI or memory shortage with $MU?\n\nHint: it doesn’t. https://t.co/FiVsvg8I0G",
+      "author": {
+        "id": "1940360837547565056",
+        "name": "Serenity",
+        "screenName": "aleabitoreddit"
+      }
+    }
+  },
+  {
+    "id": "2108277973598232851",
+    "text": "@ps_georg Hyperscalers are the ones ultimately funding the AI buildout. As seen with $AMZN to $GOOGL earnings commentary, the ROI is seen as wildly attractive.\n\nEven $MSFT said they’d be FCF positive during the buildout period. \n\nI was more worried about counterparty risk until OpenAI went out and raised like $168B recently.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 120,
+      "retweets": 1,
+      "replies": 7,
+      "quotes": 2,
+      "views": 32899,
+      "bookmarks": 19
+    },
+    "createdAt": "Thu Oct 08 19:26:53 +0000 2026",
+    "createdAtISO": "2026-10-08T19:26:53Z",
+    "createdAtLocal": "2026-10-09 03:26",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2108272287908860377",
+    "inReplyToTweetId": "2108272575377965218",
+    "inReplyToUserId": "1102114482602627072"
+  },
+  {
+    "id": "2108275499772649882",
+    "text": "@matttfoster Real bubble is in VC land with private companies like Instinct… $10B valuations off 100k users while $SNAP is worth less with close to 1 Billion MAU. \n\nSupply chain stocks aren’t a bubble though, if anything names like $AAOI and others are very undervalued relative to forward growth. \n\nAnd you have demand visibility from hyperscalers extending multiple years…",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 228,
+      "retweets": 5,
+      "replies": 8,
+      "quotes": 3,
+      "views": 34426,
+      "bookmarks": 29
+    },
+    "createdAt": "Thu Oct 08 19:17:03 +0000 2026",
+    "createdAtISO": "2026-10-08T19:17:03Z",
+    "createdAtLocal": "2026-10-09 03:17",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2108272287908860377",
+    "inReplyToTweetId": "2108272468603576739",
+    "inReplyToUserId": "2165929051"
+  },
+  {
+    "id": "2108272287908860377",
+    "text": "Can someone explain how media headlines about OpenAI’s ~$50B ARR…\n\n(vs. ~$70B from incorrect accounting comparisons with Anthropic)\n\nSomehow ends a 3-5 year laser shortage with $AAOI or memory shortage with $MU?\n\nHint: it doesn’t. https://t.co/FiVsvg8I0G",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 2556,
+      "retweets": 125,
+      "replies": 196,
+      "quotes": 31,
+      "views": 648380,
+      "bookmarks": 313
+    },
+    "createdAt": "Thu Oct 08 19:04:17 +0000 2026",
+    "createdAtISO": "2026-10-08T19:04:17Z",
+    "createdAtLocal": "2026-10-09 03:04",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HUIWdnaa0AA_H0s.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HUIWdnYacAAbnEQ.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2108272287908860377"
+  },
+  {
+    "id": "2108111907819499646",
+    "text": "@UjenA93UTP63896 $CCXI looks like it's going public Q4 2026. And my hope is that it sort of looks like $OKLO if they generate enough excitement. \n\nWatched the investor presentation the other day, just waiting for the public listing anytime soon (I personally added some the other day). \n\nBig fan of humanoids, pretty confident physical AI shift is coming next. \n\nI'm personally not looking too much about the price action while it's in its filing phase, fun usually begins after ticker change. We'll see what happens",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 93,
+      "retweets": 5,
+      "replies": 14,
+      "quotes": 0,
+      "views": 15233,
+      "bookmarks": 19
+    },
+    "createdAt": "Thu Oct 08 08:27:00 +0000 2026",
+    "createdAtISO": "2026-10-08T08:27:00Z",
+    "createdAtLocal": "2026-10-08 16:27",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HUGDMYTaEAAajNc.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2107143846027268373",
+    "inReplyToTweetId": "2108068846229954954",
+    "inReplyToUserId": "1880824525929189376"
+  },
+  {
+    "id": "2107534129780920682",
+    "text": "@marexis8 @InvestCuffs I can’t tell if this was a real presentation or if the photo was AI anymore",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 121,
+      "retweets": 0,
+      "replies": 6,
+      "quotes": 0,
+      "views": 45467,
+      "bookmarks": 2
+    },
+    "createdAt": "Tue Oct 06 18:11:07 +0000 2026",
+    "createdAtISO": "2026-10-06T18:11:07Z",
+    "createdAtLocal": "2026-10-07 02:11",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2107533023046766979",
+    "inReplyToTweetId": "2107533023046766979",
+    "inReplyToUserId": "3321245231"
+  },
+  {
+    "id": "2107199278561333744",
+    "text": "@Blinklebloop I think we’ll go back to regularly scheduled programming now\n\nIt’s just that ATM was holding $AAOI back for the longest time https://t.co/udXpmERWpw",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 139,
+      "retweets": 7,
+      "replies": 8,
+      "quotes": 0,
+      "views": 40878,
+      "bookmarks": 6
+    },
+    "createdAt": "Mon Oct 05 20:00:32 +0000 2026",
+    "createdAtISO": "2026-10-05T20:00:32Z",
+    "createdAtLocal": "2026-10-06 04:00",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HT5Gk44bsAA5lqV.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2107143846027268373",
+    "inReplyToTweetId": "2107179417222959143",
+    "inReplyToUserId": "1438809362261286912"
+  },
+  {
+    "id": "2107143846027268373",
+    "text": "$AAOI is... finally... done...\n\nWith their $600m ATM program, turns out it's ~$105.36 average. \n\nI do think AOI outperforms $LITE, as long as they stop filing these ATM programs. \n\nJust due to their sheer magnitude of ramp with $471m/month transceiver revenue + 400K/month ELSFP coming up.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 2359,
+      "retweets": 140,
+      "replies": 179,
+      "quotes": 40,
+      "views": 621899,
+      "bookmarks": 421
+    },
+    "createdAt": "Mon Oct 05 16:20:16 +0000 2026",
+    "createdAtISO": "2026-10-05T16:20:16Z",
+    "createdAtLocal": "2026-10-06 00:20",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HT4TYiHbYAA7zor.jpg"
+      }
+    ],
+    "urls": [
+      "https://twitter.com/aleabitoreddit/status/2103151990146801812"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2107143846027268373",
+    "quotedTweet": {
+      "id": "2103151990146801812",
+      "text": "$AAOI has finished a $500m ATM In April.. $600m ATM in June. Then filed another $600m in August. \n\nIt's out of my control if management wants to abuse this trash repeated ATM structure. Instead following $AXTI like LTA prepayments and using that to fund buildout.\n\nOr taking private placements like $NVDA + Nebius for $2B and using that to fund buildout.\n\nOr convertible notes at 40% premiums.\n\nIt's really hard for the stock to break out of $100 or $150 or $200 if there's $600M of selling pressure at those levels (and maybe expectations of future ATMs). \n\nI had the same criticism with $IREN with their $6B ATM, which is why it's been rangebound for half a year. And I'll say the same thing with my own thesis names too.  \n\nI see $AAOI operationally very bullish for 2027, with $471m/month transceiver revenue. 400k ELSFP units/month entering 2028. \n\nThe revenue ramp is absurd and can compress to single digit forward P/E. \n\nBut I find it hard to get excited over funding infinite ATMs during the buildout, when you're sacrificing opportunity cost with names currently profitable like $SNDK or Samsung. \n\nI think a lot of retail investors conflate stock performance with how a company is doing operationally.\n\n $AAOI is capitalizing on a bottleneck with high demand visibility, but  stock has been going nowhere near-term with repeated ATMs. \n\nI do expect AOI to strongly outperform (especially in 2027) if they stop issuing these stupid ATMs.",
+      "author": {
+        "id": "1940360837547565056",
+        "name": "Serenity",
+        "screenName": "aleabitoreddit"
+      }
+    }
+  },
+  {
+    "id": "2105943565918703696",
+    "text": "$LITE CEO: \"Next year with the advent of CPO and NPO in 2027, our estimates are that we'll be undershipping demand...\n\nBy 70%. Literally 70%. So we can only supply 30%. \n\nAnd this has caught us by supply. By 2029-2030, we get to some level of balance.\"\n\nSource: Global Photonics Economic Forum Day 1 (7:57:15 - 7:58:00)\n\nAny other players with laser capacity coming online are probably going to get more market attention soon.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1936,
+      "retweets": 149,
+      "replies": 139,
+      "quotes": 47,
+      "views": 513268,
+      "bookmarks": 427
+    },
+    "createdAt": "Fri Oct 02 08:50:47 +0000 2026",
+    "createdAtISO": "2026-10-02T08:50:47Z",
+    "createdAtLocal": "2026-10-02 16:50",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HTnO18ha0AA8Z64.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HTnPqTtbsAAayoB.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2105943565918703696"
+  },
+  {
+    "id": "2105714014307397969",
+    "text": "@meidaoge Agility Robotics hasn’t gone public yet, I’m just waiting for listing announcement this quarter for $CCXI",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 115,
+      "retweets": 4,
+      "replies": 7,
+      "quotes": 0,
+      "views": 46131,
+      "bookmarks": 10
+    },
+    "createdAt": "Thu Oct 01 17:38:37 +0000 2026",
+    "createdAtISO": "2026-10-01T17:38:37Z",
+    "createdAtLocal": "2026-10-02 01:38",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2105709782854435274",
+    "inReplyToTweetId": "2105712910039502887",
+    "inReplyToUserId": "1920568518204141570"
+  },
+  {
+    "id": "2105711409271292255",
+    "text": "@KrinschTM Process of elimination from disclosures from 2024 releases. https://t.co/tOCy9xmF0B",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 101,
+      "retweets": 4,
+      "replies": 4,
+      "quotes": 0,
+      "views": 28380,
+      "bookmarks": 8
+    },
+    "createdAt": "Thu Oct 01 17:28:16 +0000 2026",
+    "createdAtISO": "2026-10-01T17:28:16Z",
+    "createdAtLocal": "2026-10-02 01:28",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HTj9SgLakAA1v8M.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2105709782854435274",
+    "inReplyToTweetId": "2105710496741548162",
+    "inReplyToUserId": "1328351010356654080"
+  },
+  {
+    "id": "2105709782854435274",
+    "text": "\"Potential FCC rules on optical transceivers more likely to come at 3.2T\" - $LITE, $AAOI, $COHR, $SIVE.\n\nMorgan Stanley met with Washington officials:\n\n- Restrictions would likely start at 3.2T modules made in China (800g/1.6T would be left alone)\n\n- Potential restrictions would likely keep laser market tight (combining US DSPs + lasers could meet the 65% US value threshold per MS)\n\n- Chinese modules could qualify if 65% of bill of materials is US content. Chinese modules using US DSPs and lasers are already near that level\n\n- Analysts expect the positive impact on laser pricing... to be more important than any broad redistribution of transceiver market share.\n\n- Analysts don't expect this to bottleneck hyperscaler AI buildouts, they name InP substrate supply as the key variable to watch (hello $AXTI ) \n\nTLDR:\n\nComponent suppliers in general are really positive. Like $SMTC probably winner here for TIAs/drivers (I don't think this was listed), maybe $MXL for DSPs too. \n\n$AAOI another large beneficiary. \n\n$SIVE is high-key alpha for laser beneficaries since they have \"tremendous capacity\" coming online, and that points to US foundries (they haven't formally disclosed location). \n\nSince previous slideshows show 2 US foundries 1 Taiwan foundry (Win Semi) in terms of their capacity partnerships. And it's process of elimination. \n\nFrom CIOE Channel checks it does look like they're starting to work with Chinese pluggable players, (so they'd avenues moving forward as US supply chain component beneficiaries). \n\nOf course $LITE / $COHR would be happy. \n\nTLDR: Western supply chains for Lasers / DSPs / TIAs / others are already bottlenecked but qualified capacity becomes even more important.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1490,
+      "retweets": 110,
+      "replies": 115,
+      "quotes": 24,
+      "views": 480947,
+      "bookmarks": 456
+    },
+    "createdAt": "Thu Oct 01 17:21:49 +0000 2026",
+    "createdAtISO": "2026-10-01T17:21:49Z",
+    "createdAtLocal": "2026-10-02 01:21",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2105709782854435274"
+  },
+  {
+    "id": "2105425820529635503",
+    "text": "@TomSzczypka I'm super glad to hear that and happy your family is doing great! \n\nWould love a tour around Toronto. I go there every now and then for one of the music festivals there.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 83,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0,
+      "views": 23429,
+      "bookmarks": 2
+    },
+    "createdAt": "Wed Sep 30 22:33:27 +0000 2026",
+    "createdAtISO": "2026-09-30T22:33:27Z",
+    "createdAtLocal": "2026-10-01 06:33",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2105397070681248021",
+    "inReplyToTweetId": "2105414622757146624",
+    "inReplyToUserId": "1448281854692536329"
+  },
+  {
+    "id": "2105421038922481986",
+    "text": "@beauty_oe 今ちょっと風邪がひどいんだけど、無理せずゆっくりしてるよ。ここのみんなからたくさん応援してもらえて、本当に嬉しい。ありがとう！",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 108,
+      "retweets": 0,
+      "replies": 11,
+      "quotes": 0,
+      "views": 19817,
+      "bookmarks": 1
+    },
+    "createdAt": "Wed Sep 30 22:14:27 +0000 2026",
+    "createdAtISO": "2026-09-30T22:14:27Z",
+    "createdAtLocal": "2026-10-01 06:14",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "ja",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2105397070681248021",
+    "inReplyToTweetId": "2105415577036804235",
+    "inReplyToUserId": "1350097978652991488"
+  },
+  {
+    "id": "2105397070681248021",
+    "text": "$GOOGL Gemini 4 Argon benchmarks got released.\n\nAgainst GPT-6 Astra + Anthropic Fable 5.1 / Opus 5.5.\n\nStill coughing nonstop, so will comment on $MU / $JBL  earnings later. \n\nI've always thought Google's internal models were stellar, but anecdotally, they seem to get hard nerfed shortly after public release... Maybe because of compute constraints?\n\nBut yeah, looks like Google is back.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1244,
+      "retweets": 56,
+      "replies": 143,
+      "quotes": 19,
+      "views": 399226,
+      "bookmarks": 106
+    },
+    "createdAt": "Wed Sep 30 20:39:12 +0000 2026",
+    "createdAtISO": "2026-09-30T20:39:12Z",
+    "createdAtLocal": "2026-10-01 04:39",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HTfdrnNawAAhn0u.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2105397070681248021"
+  },
+  {
+    "id": "2105377657043206492",
+    "text": "@DavidJang0620 I actually thought $JBL earnings were great. \n\nBut usually if you disagree with how markets reacted, that just means there's a buying opportunity.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 62,
+      "retweets": 0,
+      "replies": 6,
+      "quotes": 0,
+      "views": 16804,
+      "bookmarks": 5
+    },
+    "createdAt": "Wed Sep 30 19:22:04 +0000 2026",
+    "createdAtISO": "2026-09-30T19:22:04Z",
+    "createdAtLocal": "2026-10-01 03:22",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2105151002760679706",
+    "inReplyToTweetId": "2105369040130847221",
+    "inReplyToUserId": "1862512735637958656"
+  },
+  {
+    "id": "2105155546940891140",
+    "text": "@jamesplash666 I'm feeling worse off than yesterday. I'm having fun with the new US Gov LLM though https://t.co/QjbldKrgIk",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 127,
+      "retweets": 2,
+      "replies": 14,
+      "quotes": 1,
+      "views": 26676,
+      "bookmarks": 8
+    },
+    "createdAt": "Wed Sep 30 04:39:28 +0000 2026",
+    "createdAtISO": "2026-09-30T04:39:28Z",
+    "createdAtLocal": "2026-09-30 12:39",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HTcDy0kbAAAWZy4.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2105151002760679706",
+    "inReplyToTweetId": "2105151486707773870",
+    "inReplyToUserId": "1830824286015352832"
+  },
+  {
+    "id": "2105151002760679706",
+    "text": "Bro, $AMZN semi ETF portfolio is probably going to end up more compelling than what $NVDA owns... \n\nToday Amazon signed a $49.8M private placement into PCB maker Gold Circuit Electronics (2368). So now Amazon has ownership/warrants in:\n\n- $AAOI \n- Alchip\n- $MRVL (Celestial)\n- $ALAB\n- $CRDO \n- $JBL \n- $FLEX \n- $STM \n- $CBRS \n- $GNRC\n- $FN \n- TD SYNNEX\n- $QCOM \n- Gold Circuit Electronics\n\nAnd others..\n\nIf we look at the private placement amount for GCE in speciifc, it's like .36% of the company... Kinda small financially, meaningful strategically. Esp. since there were claims that GCE supplies ASIC-server PCBs to the four major hyperscaler CSPs...\n\nRegardless it's pretty funny to see Amazon to Nvidia start to own all the worlds leading companies. \n\nSince Amazon has exposure to the entire supply chain like PCBs now, optical fabric with Celestial, lasers with $AAOI, assembly from $FN to $JBL, ASIC partners like $QCOM / ALchip.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1671,
+      "retweets": 146,
+      "replies": 103,
+      "quotes": 25,
+      "views": 467729,
+      "bookmarks": 778
+    },
+    "createdAt": "Wed Sep 30 04:21:25 +0000 2026",
+    "createdAtISO": "2026-09-30T04:21:25Z",
+    "createdAtLocal": "2026-09-30 12:21",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HTb-BCCaAAAbdMw.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HTb-E2haYAAWD2k.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HTb-Hp_acAAZmjs.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2105151002760679706"
+  },
+  {
+    "id": "2104709202891735244",
+    "text": "@Itachidata I've had better days, having constant headaches which is a bit rough. I did have some fun channel checks though recently. \n\nSome guy I met by the bathroom yesterday claimed to be $SPCX Cursor CEO. I'm not good with faces so idk if he was lying or not. \n\nAlso had some discussions about beamformer technology with an industry executive, it's apparently more important than I gave it credit for.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 145,
+      "retweets": 1,
+      "replies": 17,
+      "quotes": 2,
+      "views": 40128,
+      "bookmarks": 8
+    },
+    "createdAt": "Mon Sep 28 23:05:52 +0000 2026",
+    "createdAtISO": "2026-09-28T23:05:52Z",
+    "createdAtLocal": "2026-09-29 07:05",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2104698369591706069",
+    "inReplyToTweetId": "2104698497052348554",
+    "inReplyToUserId": "1964722336076083201"
+  },
+  {
+    "id": "2104698369591706069",
+    "text": "Everyone is asking \"Where is Serenity\" or \"Who is Serenity\". But nobody is asking...\n\n\"How is Serenity\"?  \n\nI do read things from $AMD $8.2B acquisition of World Labs... but feeling pretty sick right now, so taking a little break. \n\nI remember saying physical AI + world models would major shift way back when, so maybe I should have invested in private companies at the time... \n\nApart from that... other interesting news:\n\n- Some channel checks from ECOC was that $NVDA apparently secured 50% of $LITE Greensboro UHP laser capacity? And possibly contracts that allow them to secure the remaining capacity per Barclays. \n\nThat's $5B in lasers (annual capacity)... so it's hilarious to see Nvidia go out and bottleneck the rest of the industry by doing this. But this just puts more strategic value on other merchant laser suppliers + more visibility for Lumentum.\n\nIt's kinda game theory over allocation, since if you secure all the HBM, lasers, and others it inadvertently makes it much harder for competitors to scale their programs. \n\n- Then there's your massive $150B Nvidia authorized buybacks (just look at $AAPL when they did buybacks..) They're printing too much. \n\n- What's also interesting is that Samsung Electro-Mechanics is expanding their FC-BGA substrate capacity today... but customers are the one funding this. \n\nI also remembered $MRVL in SEC filings cited large body substrates as one of the core bottlenecks of their program (alongside $TSM sole source dependencies). So they also went out and did some other expansion agreements with related companies like AT&S recently. \n\n- OpenAI delaying Astra-6.1 October release over safety concerns just now. Nvidia also happened to launch an AI safety platform. \n\nI don't think this is meaningfully bearish that the models are just getting 2 good.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1692,
+      "retweets": 44,
+      "replies": 237,
+      "quotes": 10,
+      "views": 457207,
+      "bookmarks": 239
+    },
+    "createdAt": "Mon Sep 28 22:22:49 +0000 2026",
+    "createdAtISO": "2026-09-28T22:22:49Z",
+    "createdAtLocal": "2026-09-29 06:22",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2104698369591706069"
+  },
+  {
+    "id": "2103490181525631382",
+    "text": "People really need to stop thinking about 5% yields over 10 years or 30 years.\n\nEven the inflation of my $SUBWAY sandwich has gone up like 12% a year.\n\nToday it was like $20 after tax, when it used to be like $5… 12 years ago.\n\nThe best way to keep up with inflation of the things that matter, like Sandwiches, is equities like $SPY.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1446,
+      "retweets": 42,
+      "replies": 231,
+      "quotes": 28,
+      "views": 539376,
+      "bookmarks": 91
+    },
+    "createdAt": "Fri Sep 25 14:21:54 +0000 2026",
+    "createdAtISO": "2026-09-25T14:21:54Z",
+    "createdAtLocal": "2026-09-25 22:21",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HTEZK2UasAAfpsb.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2103490181525631382"
+  },
+  {
+    "id": "2103353556724293650",
+    "text": "@shanhai188 我刚看了一下旧金山的人口, 感觉已经是个很大的城市了, 结果整个城市也才82万人...\n\n然后再看看我自己的粉丝数, 居然有100万. 说实话, 这个数字真的让我在情绪上有点承受不过来.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 135,
+      "retweets": 0,
+      "replies": 18,
+      "quotes": 0,
+      "views": 44193,
+      "bookmarks": 4
+    },
+    "createdAt": "Fri Sep 25 05:19:00 +0000 2026",
+    "createdAtISO": "2026-09-25T05:19:00Z",
+    "createdAtLocal": "2026-09-25 13:19",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2103350532777943281",
+    "inReplyToTweetId": "2103350647051747774",
+    "inReplyToUserId": "1851999895550586880"
+  },
+  {
+    "id": "2103352098557690351",
+    "text": "@JHBECCALEE Tell them I said hi!",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 60,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "views": 41853,
+      "bookmarks": 0
+    },
+    "createdAt": "Fri Sep 25 05:13:13 +0000 2026",
+    "createdAtISO": "2026-09-25T05:13:13Z",
+    "createdAtLocal": "2026-09-25 13:13",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2103350532777943281",
+    "inReplyToTweetId": "2103351115161141349",
+    "inReplyToUserId": "2090042154534260736"
+  },
+  {
+    "id": "2103350532777943281",
+    "text": "我突然意识到, 原来我有这么多粉丝.\n\n第一次从第三方的视角看了一下自己的主页…感觉好像还有点吓人?\n\n如果我们办一场派对, 而且所有人都来了, 那应该不是塞满一个小房间的问题, 而是能塞满一整座城市吧?\n\n总之, 中秋节快乐！",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 3472,
+      "retweets": 26,
+      "replies": 503,
+      "quotes": 7,
+      "views": 480992,
+      "bookmarks": 61
+    },
+    "createdAt": "Fri Sep 25 05:07:00 +0000 2026",
+    "createdAtISO": "2026-09-25T05:07:00Z",
+    "createdAtLocal": "2026-09-25 13:07",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2103350532777943281"
+  },
+  {
+    "id": "2103237386054570314",
+    "text": "@KhalidIshaq85 Okay thing about it for a second:\n\n$AKAM gets a big deal over 7 years. But in order to actually execute on the deal:\n\nThey gotta buy a ton of CPUs and memory… So these upstream component supply chains are probably the larger beneficiaries over the ones in the headline.\n\nBut can’t give advice in terms of buying something",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 94,
+      "retweets": 0,
+      "replies": 6,
+      "quotes": 0,
+      "views": 32999,
+      "bookmarks": 12
+    },
+    "createdAt": "Thu Sep 24 21:37:23 +0000 2026",
+    "createdAtISO": "2026-09-24T21:37:23Z",
+    "createdAtLocal": "2026-09-25 05:37",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2103232350348001701",
+    "inReplyToTweetId": "2103232873105105257",
+    "inReplyToUserId": "1965013949197295616"
+  },
+  {
+    "id": "2103233602721132744",
+    "text": "@blkslymn Nope for $AKAM. But if you look at what’s needed probably CPUs/Memory #1.\n\nSo your $ARM / $INTC / $AMD thematically (AMD probably higher beta to this company in specific). Then your Samsung / $MU / SK Hynix are your obvious memory beneficiaries.\n\nComponent procurement is done through $JBL, which potentially benefits their own supply chain if they’re doing networking too.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 68,
+      "retweets": 0,
+      "replies": 6,
+      "quotes": 0,
+      "views": 26470,
+      "bookmarks": 15
+    },
+    "createdAt": "Thu Sep 24 21:22:21 +0000 2026",
+    "createdAtISO": "2026-09-24T21:22:21Z",
+    "createdAtLocal": "2026-09-25 05:22",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2103232350348001701",
+    "inReplyToTweetId": "2103232741680795719",
+    "inReplyToUserId": "1499006696441716736"
+  },
+  {
+    "id": "2103232350348001701",
+    "text": "$AKAM signs $11.6B compute deal with Anthropic for accelerated CPU workloads demands over 7 years.\n\n$AMD to $MU should be happy to hear this… \n\nAkamai ests. ~$5.5B of capex to service the $11.6B commitment. Including +$1.7B of 2026 capex specifically to pre-purchase supply chain components like memory.\n\nSo much for Anthropic/OpenAI calling for an AI slowdown?",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 816,
+      "retweets": 37,
+      "replies": 66,
+      "quotes": 23,
+      "views": 310248,
+      "bookmarks": 131
+    },
+    "createdAt": "Thu Sep 24 21:17:23 +0000 2026",
+    "createdAtISO": "2026-09-24T21:17:23Z",
+    "createdAtLocal": "2026-09-25 05:17",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HTAurNkaQAArBJ4.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HTAurNlaIAA7M5y.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2103232350348001701"
+  },
+  {
+    "id": "2103161145934963178",
+    "text": "If you're curious about the random $SPY / $QQQ candle: \n\nJust now, “US and Iran discuss phased deal to reopen Hormuz and end US blockade\" - Reuters\n\n- \"A deal before the midterms could benefit Trump, as reopening Hormuz could ease tensions in the Gulf, contain ​oil prices and help bring down politically sensitive US gasoline prices.\"\n\n- \"Trump has said he thinks the US and Iran could reach a deal after midterm elections to Congress on November.”\n\nWould make sense for Trump to want markets as strong as possible during Midterms elections…",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 620,
+      "retweets": 26,
+      "replies": 48,
+      "quotes": 5,
+      "views": 259573,
+      "bookmarks": 45
+    },
+    "createdAt": "Thu Sep 24 16:34:26 +0000 2026",
+    "createdAtISO": "2026-09-24T16:34:26Z",
+    "createdAtLocal": "2026-09-25 00:34",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HS_t6kUa4AAd3_A.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HS_t6kVbYAMoolp.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2103161145934963178"
+  },
+  {
+    "id": "2103156967053394241",
+    "text": "@ANoelGC I mean $LITE / $COHR did have $NVDA funding $2B for their buildout. \n\nBut Lumentum seems primarily self-funded from operating cash flow. So I'd expect $AAOI to follow suit once they start ramp up around H1 2027. \n\n2026 is just that high capex buildout period. My criticism was over visibility and financing methods during this timeframe.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 105,
+      "retweets": 0,
+      "replies": 4,
+      "quotes": 0,
+      "views": 33473,
+      "bookmarks": 9
+    },
+    "createdAt": "Thu Sep 24 16:17:50 +0000 2026",
+    "createdAtISO": "2026-09-24T16:17:50Z",
+    "createdAtLocal": "2026-09-25 00:17",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2103151990146801812",
+    "inReplyToTweetId": "2103153916204535964",
+    "inReplyToUserId": "1530908978485596161"
+  },
+  {
+    "id": "2103155274274209796",
+    "text": "@piyush1337 It's very frustrating since... what if the $600m August ATM finishes, then they file another $600M ATM in October? \n\nI'm happy to support financing for their buildout, but there's 0 clarity to the end of the ATM loop or how much funding they actually need. \n\nIf they just said \"we need $3.5B\", mixes LTAs, private placements, ATMs to get this done, there wouldn't be as much confusion.  \n\nI'm super excited operationally, but how they do financing is very concerning.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 136,
+      "retweets": 0,
+      "replies": 5,
+      "quotes": 0,
+      "views": 30611,
+      "bookmarks": 8
+    },
+    "createdAt": "Thu Sep 24 16:11:06 +0000 2026",
+    "createdAtISO": "2026-09-24T16:11:06Z",
+    "createdAtLocal": "2026-09-25 00:11",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2103151990146801812",
+    "inReplyToTweetId": "2103153690706399234",
+    "inReplyToUserId": "2438280517"
+  },
+  {
+    "id": "2103151990146801812",
+    "text": "$AAOI has finished a $500m ATM In April.. $600m ATM in June. Then filed another $600m in August. \n\nIt's out of my control if management wants to abuse this trash repeated ATM structure. Instead following $AXTI like LTA prepayments and using that to fund buildout.\n\nOr taking private placements like $NVDA + Nebius for $2B and using that to fund buildout.\n\nOr convertible notes at 40% premiums.\n\nIt's really hard for the stock to break out of $100 or $150 or $200 if there's $600M of selling pressure at those levels (and maybe expectations of future ATMs). \n\nI had the same criticism with $IREN with their $6B ATM, which is why it's been rangebound for half a year. And I'll say the same thing with my own thesis names too.  \n\nI see $AAOI operationally very bullish for 2027, with $471m/month transceiver revenue. 400k ELSFP units/month entering 2028. \n\nThe revenue ramp is absurd and can compress to single digit forward P/E. \n\nBut I find it hard to get excited over funding infinite ATMs during the buildout, when you're sacrificing opportunity cost with names currently profitable like $SNDK or Samsung. \n\nI think a lot of retail investors conflate stock performance with how a company is doing operationally.\n\n $AAOI is capitalizing on a bottleneck with high demand visibility, but  stock has been going nowhere near-term with repeated ATMs. \n\nI do expect AOI to strongly outperform (especially in 2027) if they stop issuing these stupid ATMs.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1682,
+      "retweets": 74,
+      "replies": 120,
+      "quotes": 24,
+      "views": 1308865,
+      "bookmarks": 321
+    },
+    "createdAt": "Thu Sep 24 15:58:03 +0000 2026",
+    "createdAtISO": "2026-09-24T15:58:03Z",
+    "createdAtLocal": "2026-09-24 23:58",
+    "media": [],
+    "urls": [
+      "https://twitter.com/xhxshjshd/status/2103144806721704291"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2103151990146801812",
+    "quotedTweet": {
+      "id": "2103144806721704291",
+      "text": "@aleabitoreddit your aaoi is the trash",
+      "author": {
+        "id": "1994794558383853568",
+        "name": "genty",
+        "screenName": "xhxshjshd"
+      }
+    }
+  },
+  {
+    "id": "2103144796110061704",
+    "text": "@fichgarciapinto I would have a much more favorable view on $IREN after they finish their $6B ATM in terms of stock performance (I think they're like 41.5% through). \n\nI think Mirantis acqusition would materially shift a lot of perception of how they rank relative to $CRWV, $NBIS, Lambda, Tensorwave, and others in terms of cluster performance once they finish integration. \n\nI've always started software side of things is actually a moat (backing up what Coreweave CEO was saying), which was what $IREN lacked before. \n\nBut M&A to get that gap fixed is probably the most bullish part of what they've done.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 83,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 1,
+      "views": 20862,
+      "bookmarks": 7
+    },
+    "createdAt": "Thu Sep 24 15:29:28 +0000 2026",
+    "createdAtISO": "2026-09-24T15:29:28Z",
+    "createdAtLocal": "2026-09-24 23:29",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2103139052363133062",
+    "inReplyToTweetId": "2103140238138781713",
+    "inReplyToUserId": "4893658037"
+  },
+  {
+    "id": "2103142451020267583",
+    "text": "@tradesidious @kkkkk61216936 I still have $CCXI, they haven't even had the listing event yet, so volatility up until then is kinda meaningless to me.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 77,
+      "retweets": 1,
+      "replies": 6,
+      "quotes": 1,
+      "views": 21441,
+      "bookmarks": 6
+    },
+    "createdAt": "Thu Sep 24 15:20:09 +0000 2026",
+    "createdAtISO": "2026-09-24T15:20:09Z",
+    "createdAtLocal": "2026-09-24 23:20",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2103139052363133062",
+    "inReplyToTweetId": "2103141425735237760",
+    "inReplyToUserId": "3232204292"
+  },
+  {
+    "id": "2103142262729556021",
+    "text": "@qwertyuipasd11 @FransBakker9812 Good times, I've made amends with $IREN though https://t.co/zdJmHgXLfx",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 56,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0,
+      "views": 23277,
+      "bookmarks": 1
+    },
+    "createdAt": "Thu Sep 24 15:19:24 +0000 2026",
+    "createdAtISO": "2026-09-24T15:19:24Z",
+    "createdAtLocal": "2026-09-24 23:19",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HS_cY6fbMAEH62-.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HS_cvLfaQAAWMLK.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2103139052363133062",
+    "inReplyToTweetId": "2103139832428155386",
+    "inReplyToUserId": "152796048"
+  },
+  {
+    "id": "2103140426404495375",
+    "text": "@kkkkk61216936 I cut my positions here\n\nhttps://t.co/XJBWaBQQmQ",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 42,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0,
+      "views": 23038,
+      "bookmarks": 2
+    },
+    "createdAt": "Thu Sep 24 15:12:06 +0000 2026",
+    "createdAtISO": "2026-09-24T15:12:06Z",
+    "createdAtLocal": "2026-09-24 23:12",
+    "media": [],
+    "urls": [
+      "https://x.com/aleabitoreddit/status/2054198288556109906?s=46"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": true,
+    "conversationId": "2103139052363133062",
+    "inReplyToTweetId": "2103139351790227665",
+    "inReplyToUserId": "1346613450005483520",
+    "quotedTweet": {
+      "id": "2054198288556109906",
+      "text": "$FLNC 20M share offering if you’re wondering why it’s trading down.\n\nThe 20M share is not dilution, but share unlock + transfer. So change of hands. \n\nThe biggest problem was the clause that made active shelf-registered resale capacity of the 117,666,665 shares, so there’s an unlock of the other remaining ~97m shares to my knowledge. \n\nNet negative and very material to short term trade ideas. Since it expands the float and it introduces short term selling pressure.\n\nThat’s the overhang…\n\nI personally cut concentration on the surprising news since it’s changes my trade idea with the float structure.\n\nBut holding some anyway to see where it heads after hyperscaler deals. \n\nDefinitely not telling people what to do, presenting new material overhang created by company management.",
+      "author": {
+        "id": "1940360837547565056",
+        "name": "Serenity",
+        "screenName": "aleabitoreddit"
+      }
+    }
+  },
+  {
+    "id": "2103139052363133062",
+    "text": "Wow $NBIS relative outperformance is wild. \n\nBack in 2025 I wrote my Neocloud thesis on $IREN to $CRWV. But I made the decision months later to consolidate it all into Nebius...\n\nDespite the the hate from FinX back then.\n\nVery interesting to see Nebius up 6% even during sector drop…\n\nAfter Oracle was reportedly seeking payment protection if Project Jupiter misses its 2028 opening.\n\nWith Oracle:\n\n\"seeking to protect itself from potential cost increases related to a large DC ​project in New Mexico by sending a force majeure notice\" per Reuters. \n\nLot of new people like to piggyback after it’s up a lot, but there was a lot less people bullish back in 2025. \n\nEspecially during the period with a ton of institutional short sellers back in December. \n\nI still think markets might be underestimating sum of parts growth, even if its core business grows like crazy 2027+ onwards.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1147,
+      "retweets": 48,
+      "replies": 90,
+      "quotes": 9,
+      "views": 462024,
+      "bookmarks": 148
+    },
+    "createdAt": "Thu Sep 24 15:06:39 +0000 2026",
+    "createdAtISO": "2026-09-24T15:06:39Z",
+    "createdAtLocal": "2026-09-24 23:06",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HS_Z0jVbgAA9Gu7.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HS_Z0jObsAAq5ql.jpg"
+      }
+    ],
+    "urls": [
+      "https://twitter.com/aleabitoreddit/status/1990452960758042917"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2103139052363133062",
+    "quotedTweet": {
+      "id": "1990452960758042917",
+      "text": "Nebius [ $NBIS ] at $86.69 is the purest Neocloud and AI-infra asymmetry left. \n\nThis is the highest revenue Neocloud untouched by $CIFR | $WULF and colo providers that has no:\n\n- Plaguing uncertainty that $IREN, $ORCL face from  full-stack execution. \n\n- High interest debt that $CRWV, $APLD, and others face.\n\n- Revenue uncertainty at scale with Hyperscaler contracts that $CLSK, $BITF, $WYFI, $SLNH, and others lack. \n\nAfter the market-wide drop with the AI sector overrun by fear: \n\nNebius is going forward with: $8B midpoint ARR next year, $4.7B+ in cash, diversification in enterprise clients from ( $META, $MSFT, $ACN, $SHOP, Governments), hyper-growth portfolio companies, and a proven full-stack high-margin business.\n\nWith extreme demand, execution uncertainty (margins), and isolation from current issues plaguing the markets with OpenAI contract dependency and credit tightening:\n\nNothing even comes close to Nebius in terms of asymmetrical upside.\n\nYou are simply just waiting for company execution.",
+      "author": {
+        "id": "1940360837547565056",
+        "name": "Serenity",
+        "screenName": "aleabitoreddit"
+      }
+    }
+  },
+  {
+    "id": "2102839769374011497",
+    "text": "@troyluhman @elonmusk @ellev3n11 Makes sense that all the best engineers have anime PFPs",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 103,
+      "retweets": 3,
+      "replies": 2,
+      "quotes": 0,
+      "views": 34115,
+      "bookmarks": 1
+    },
+    "createdAt": "Wed Sep 23 19:17:24 +0000 2026",
+    "createdAtISO": "2026-09-23T19:17:24Z",
+    "createdAtLocal": "2026-09-24 03:17",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2102789984860393898",
+    "inReplyToTweetId": "2102789984860393898",
+    "inReplyToUserId": "1523729086752837632"
+  },
+  {
+    "id": "2102793298561970218",
+    "text": "@degenlurker_ It’s mainly thesis tracking mode now since I layed out most of my ideas H1 from $INTC, $ARM to $MU. Or $SIVE to $AAOI or $AXTI or $NBIS\n\nOnly two recent ones were $ESMT for legacy memory trade and $CCXI for humanoids but aside from that it’s just seeing if they get validated over time\n\nStuff like large body substrates or CXL or MLCC with newer discovery, I’ve already published earlier on",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 159,
+      "retweets": 10,
+      "replies": 5,
+      "quotes": 1,
+      "views": 42377,
+      "bookmarks": 63
+    },
+    "createdAt": "Wed Sep 23 16:12:45 +0000 2026",
+    "createdAtISO": "2026-09-23T16:12:45Z",
+    "createdAtLocal": "2026-09-24 00:12",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2102790422007550083",
+    "inReplyToTweetId": "2102791529278701622",
+    "inReplyToUserId": "1334872097944973313"
+  },
+  {
+    "id": "2102792299432530153",
+    "text": "@Jess252530 They’re too small, so I don’t want to talk about this basket in specific publicly.\n\nI do share my research process and the themes I’m looking at, though. So I’m sure others can find similar ideas.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 84,
+      "retweets": 0,
+      "replies": 3,
+      "quotes": 0,
+      "views": 24607,
+      "bookmarks": 7
+    },
+    "createdAt": "Wed Sep 23 16:08:46 +0000 2026",
+    "createdAtISO": "2026-09-23T16:08:46Z",
+    "createdAtLocal": "2026-09-24 00:08",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2102790422007550083",
+    "inReplyToTweetId": "2102790729089363976",
+    "inReplyToUserId": "1976016039017086976"
+  },
+  {
+    "id": "2102790422007550083",
+    "text": "I’ve actually entered positions in many tiny Korean companies recently…\n\nThat actively supply memory, test, machines, etc. to $MU, $SKHY, Samsung, and others like $SMTC + US companies.\n\nIt’s pretty interesting what you find in the $30-$250m range for optical components, CPUs, memory, and others that are inflecting due to AI.\n\nI don’t share these names publicly since risks/volatility is enormous. \n\nBut one or two going from $40M -> $400m makes the risk/reward worth it for me personally.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1080,
+      "retweets": 49,
+      "replies": 88,
+      "quotes": 10,
+      "views": 494143,
+      "bookmarks": 372
+    },
+    "createdAt": "Wed Sep 23 16:01:19 +0000 2026",
+    "createdAtISO": "2026-09-23T16:01:19Z",
+    "createdAtLocal": "2026-09-24 00:01",
+    "media": [],
+    "urls": [
+      "https://twitter.com/mikefritzell/status/2102566151813476483"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2102790422007550083",
+    "quotedTweet": {
+      "id": "2102566151813476483",
+      "text": "All the smart investors I know are now spending time on Korean small-caps. Not an easy market, but plenty of opportunities? Yes",
+      "author": {
+        "id": "2471879203",
+        "name": "Michael Fritzell (Asian Century Stocks)",
+        "screenName": "MikeFritzell"
+      }
+    }
+  },
+  {
+    "id": "2102771652027441611",
+    "text": "@genZinvest0r @s0Xu8sC2tpvpPba Yep, looks like Samsung Electro-Mechanics https://t.co/h03NIqKDMk",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 49,
+      "retweets": 0,
+      "replies": 5,
+      "quotes": 1,
+      "views": 15260,
+      "bookmarks": 3
+    },
+    "createdAt": "Wed Sep 23 14:46:44 +0000 2026",
+    "createdAtISO": "2026-09-23T14:46:44Z",
+    "createdAtLocal": "2026-09-23 22:46",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HS6LpK0aIAE7d_E.png"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2102763548715753927",
+    "inReplyToTweetId": "2102769292622307337",
+    "inReplyToUserId": "1499439376392146947"
+  },
+  {
+    "id": "2102766392336580670",
+    "text": "@s0Xu8sC2tpvpPba Yep, just saw the news on $LPK! I'll do some digging to see if I can find out who it is https://t.co/nCet0CotMD",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 114,
+      "retweets": 5,
+      "replies": 11,
+      "quotes": 1,
+      "views": 22368,
+      "bookmarks": 6
+    },
+    "createdAt": "Wed Sep 23 14:25:50 +0000 2026",
+    "createdAtISO": "2026-09-23T14:25:50Z",
+    "createdAtLocal": "2026-09-23 22:25",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HS6G2DGbUAA-uwb.png"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2102763548715753927",
+    "inReplyToTweetId": "2102764539985178885",
+    "inReplyToUserId": "1467121345699799042"
+  },
+  {
+    "id": "2102763548715753927",
+    "text": "So update from $LITE + Win Semi ( $SIVE ) foundry:  \n\nLumentum in a meeting with Stifel at ECOC 2026 stated:\n\n- $NVDA Spectrum-6 CPO UHP demands increased materially. \n- NPO as larger than CPO, with multi-wavelength external lasers lifting ASPs (Sivers offers multi wave length DFB arrays, read through on higher valued products)\n- Demand for UHP lasers continues to exceed supply\n\nJust a status update in terms of how the optical bottleneck is going (laser prices going up, demand exceeds supply).  \n\nDigitimes also reported today Win Semi ( $SIVE foundry ) was expanding capacity for CW lasers.\n\n- \"CW products... are expected to gradually emerge in the second half of 2026\", with meaningful revenue contribution likely coming in 2027 and 2028.\n- Win has strengthened inventory management for InP substrates while moving toward 6-in InP wafers for ongoing process testing. Currently relies on Tier-1 International suppliers.  \n- Many of this was spent on DUV tools from $ASML but (Win Semi's orders spanned machinery, equipment, and fab engineering work)\n\nSo that answers a lot of questions about Sivers' partner \"how is this company securing InP substrates\", \"4in vs 6in\", \"production timing\"\n\nTLDR:\n- NPO > CPO (per Lite), multi-wavelength lasers going brrr for prices\n- demand > supply (continuation)\n- Not sure why people have been bear posting Win Semi when turns out they have everything needed to mass produce CW lasers.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 891,
+      "retweets": 63,
+      "replies": 73,
+      "quotes": 13,
+      "views": 298336,
+      "bookmarks": 170
+    },
+    "createdAt": "Wed Sep 23 14:14:32 +0000 2026",
+    "createdAtISO": "2026-09-23T14:14:32Z",
+    "createdAtLocal": "2026-09-23 22:14",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HS5_KSIbwAEXMCN.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HS6BvM8bkAAfY7a.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HS6CFGibcAEj-8R.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2102763548715753927"
+  },
+  {
+    "id": "2102569588433334309",
+    "text": "@ardninja Memory LTAs span until 2031. $AVGO expects 100% supply constrained growth Y/Y for next 2 years.\n\n$NVDA expects 70% supply constrained growth next year (implying year after that demand keeps up).\n\n$SIVE CEO said there's a massive demand supply imbalance for lasers for at least the next 3-5 years.\n\nI think semi supply chain growth needs to be re-accessed year by year, but at least for the next year and half I see unprecedented growth.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 186,
+      "retweets": 5,
+      "replies": 9,
+      "quotes": 0,
+      "views": 27527,
+      "bookmarks": 37
+    },
+    "createdAt": "Wed Sep 23 01:23:48 +0000 2026",
+    "createdAtISO": "2026-09-23T01:23:48Z",
+    "createdAtLocal": "2026-09-23 09:23",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2102565495342010529",
+    "inReplyToTweetId": "2102566916883878310",
+    "inReplyToUserId": "4455010217"
+  },
+  {
+    "id": "2102568555598512362",
+    "text": "@AI_Supercycle01 No, hard to justify $2T valuation. I'd rather do OpenAI at $1.2T.\n\nAll your Chinese AI labs like DeepSeek or Minimax or Zhipu are much more reasonably valued.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 91,
+      "retweets": 0,
+      "replies": 5,
+      "quotes": 0,
+      "views": 20816,
+      "bookmarks": 7
+    },
+    "createdAt": "Wed Sep 23 01:19:42 +0000 2026",
+    "createdAtISO": "2026-09-23T01:19:42Z",
+    "createdAtLocal": "2026-09-23 09:19",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2102565495342010529",
+    "inReplyToTweetId": "2102566006711300393",
+    "inReplyToUserId": "1930700437482549248"
+  },
+  {
+    "id": "2102565495342010529",
+    "text": "Elon Musk: \"AI will beat [humans] in all fields by the end of next year or maybe 2028, at the latest.\"\n\nKind of maps to Anthropic's economic implications paper where 2026-2028 was the buildout.\n\nThen 2028-2030 was unprecedented economic growth.\n\nSo we're still early H2 2026. https://t.co/LpGJkHcgn2",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1471,
+      "retweets": 93,
+      "replies": 100,
+      "quotes": 12,
+      "views": 314950,
+      "bookmarks": 232
+    },
+    "createdAt": "Wed Sep 23 01:07:32 +0000 2026",
+    "createdAtISO": "2026-09-23T01:07:32Z",
+    "createdAtLocal": "2026-09-23 09:07",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HS3PjcDaoAAOfDj.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2102565495342010529"
+  },
+  {
+    "id": "2102436761914011909",
+    "text": "@Gubloinvestor Why thank you https://t.co/Yn2Lvqrxtw",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 167,
+      "retweets": 0,
+      "replies": 5,
+      "quotes": 0,
+      "views": 44473,
+      "bookmarks": 1
+    },
+    "createdAt": "Tue Sep 22 16:36:00 +0000 2026",
+    "createdAtISO": "2026-09-22T16:36:00Z",
+    "createdAtLocal": "2026-09-23 00:36",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HS1bF3vbcAI67zt.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2102354734405259379",
+    "inReplyToTweetId": "2102354734405259379",
+    "inReplyToUserId": "1854917160361230336"
+  },
+  {
+    "id": "2102429770973860263",
+    "text": "@BCorr_AI Gonna be hard to call things SI instead of AI. https://t.co/hC1Hb4dWP4",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 52,
+      "retweets": 1,
+      "replies": 4,
+      "quotes": 0,
+      "views": 22628,
+      "bookmarks": 2
+    },
+    "createdAt": "Tue Sep 22 16:08:13 +0000 2026",
+    "createdAtISO": "2026-09-22T16:08:13Z",
+    "createdAtLocal": "2026-09-23 00:08",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HS1UusQasAAyva6.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2102427727987179692",
+    "inReplyToTweetId": "2102428394361434184",
+    "inReplyToUserId": "32625010"
+  },
+  {
+    "id": "2102427727987179692",
+    "text": "I guess I need to start calling $SNDK or $LITE Super Intelligence stocks.\n\nThanks Trump. https://t.co/x7tJcKjfsc",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1004,
+      "retweets": 38,
+      "replies": 95,
+      "quotes": 9,
+      "views": 337644,
+      "bookmarks": 75
+    },
+    "createdAt": "Tue Sep 22 16:00:06 +0000 2026",
+    "createdAtISO": "2026-09-22T16:00:06Z",
+    "createdAtLocal": "2026-09-23 00:00",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HS1S3_kaEAApROE.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2102427727987179692"
+  },
+  {
+    "id": "2102391630515110126",
+    "text": "I feel like traditional \"value investing\" went into hibernation.\n\nBefore it was finding a 10x -12x P/E company like $UPWK or $PYPL, Dominoes, Pepsi. Or even a cheap Japanese company below book value.\n\nThen just enjoying slow growth but buyback/dividend appreciation from their cashflow. \n\nNow you can find 1.8x runrate P/E company like $ESMT that grew revenue 605.24% Y/Y. \n\nAnd the main thing you need to argue about is duration. \n\nOr a 16.2x trailing P/E Sumitomo, despite having way too many hyperscaler LTAs in AI from fiber to lasers. \n\nAI created much bigger medium-term anomaly, where \"value investing\" went towards high growth, \"deep value\" companies.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 797,
+      "retweets": 36,
+      "replies": 70,
+      "quotes": 3,
+      "views": 264740,
+      "bookmarks": 201
+    },
+    "createdAt": "Tue Sep 22 13:36:39 +0000 2026",
+    "createdAtISO": "2026-09-22T13:36:39Z",
+    "createdAtLocal": "2026-09-22 21:36",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HS0wI7ya8AEL582.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2102391630515110126"
+  },
+  {
+    "id": "2102256045938852015",
+    "text": "Wow Bitcoin + Ethereum pulled pretty extreme recoveries.  \n\nLooks like $HOOD / $COIN / Crypto is back? \n\nOn-chain equities trading + regulator exemptions probably put a lot of fuel into the fire for the sector.  \n\nThat aside... crypto is usually a great indicator for high-beta AI equities believe it or not (they tend to frontrun broader market drops or rallies). \n\nSo overall market risk appetite might be coming back despite the rate hikes.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1092,
+      "retweets": 49,
+      "replies": 88,
+      "quotes": 19,
+      "views": 310905,
+      "bookmarks": 105
+    },
+    "createdAt": "Tue Sep 22 04:37:54 +0000 2026",
+    "createdAtISO": "2026-09-22T04:37:54Z",
+    "createdAtLocal": "2026-09-22 12:37",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HSy1QB1a8AADJnS.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HSy1Rd_agAAa97j.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2102256045938852015"
+  },
+  {
+    "id": "2102247915251224980",
+    "text": "All right $META Muse is cooking. \n\nI can hear all the $AMD, $INTC, and $ARM CPUs vrrrring in the background.\n\nAlong with the memory + components (NICs, SSDs, DRAM) needed for all the browsers/VMs\n\nWhen I ask it to do a bunch of long form tasks… \n\nIntel CEO also said recently that CPU demand is so strong they can only support 50% of what customers need, so there’s some signals there.\n\nI’m also curious how much $AMZN or $NBIS is involved with running Muse, or if Meta hosts everything inhouse.\n\nKinda an ADHD post but Meta beat my expectations with this release.\n\nWill keep trying it out",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1460,
+      "retweets": 58,
+      "replies": 84,
+      "quotes": 20,
+      "views": 319883,
+      "bookmarks": 264
+    },
+    "createdAt": "Tue Sep 22 04:05:35 +0000 2026",
+    "createdAtISO": "2026-09-22T04:05:35Z",
+    "createdAtLocal": "2026-09-22 12:05",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HSyvNLbbgAAdpR_.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HSyvNLga0AAL-tz.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HSyvNLgaIAAufbg.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2102247915251224980"
+  },
+  {
+    "id": "2102114073836228810",
+    "text": "We’re in the modern agricultural revolution.\n\nIn terms of civilization-level impact of AI.\n\nSo… not sure how anyone can be bearish so early on into the singularity and before mass deployment of physical AI. https://t.co/uJAXpZm4MP https://t.co/ZuvSRNIaxs",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 731,
+      "retweets": 40,
+      "replies": 48,
+      "quotes": 3,
+      "views": 296591,
+      "bookmarks": 93
+    },
+    "createdAt": "Mon Sep 21 19:13:45 +0000 2026",
+    "createdAtISO": "2026-09-21T19:13:45Z",
+    "createdAtLocal": "2026-09-22 03:13",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HSw1mxCawAANwFL.jpg"
+      }
+    ],
+    "urls": [
+      "https://twitter.com/OpenAI/status/2102093145051943229"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2102114073836228810",
+    "quotedTweet": {
+      "id": "2102093145051943229",
+      "text": "We’re working with an independent advisory group of mathematicians to help OpenAI responsibly share advances in AI and mathematics.\n\nThe group will advise on how we assess and communicate new mathematical results, uphold academic and professional standards, and build tools that support mathematical research and learning.\n\nThrough this work, we want mathematicians to be at the center of shaping how AI supports mathematical understanding and how its benefits reach the wider community.\n\nhttps://t.co/QCMFLFlIv8",
+      "author": {
+        "id": "4398626122",
+        "name": "OpenAI",
+        "screenName": "OpenAI"
+      }
+    }
+  },
+  {
+    "id": "2102070202779492802",
+    "text": "@mengxiong715781 ridiculous report. The way $NBIS does financing is much more sustainable than $CRWV and other neoclouds.\n\nThere were also claims about falling GPU pricing but Nebius hiked rates by like 17-21% (oracle also hiked pricing for 4+ year equipment).\n\nSum of parts is also something many analysis miss, Clickhouse would likely drive a lot of value to nebius. As well as Avride (with Uber) + their other companies.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 85,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0,
+      "views": 22817,
+      "bookmarks": 10
+    },
+    "createdAt": "Mon Sep 21 16:19:25 +0000 2026",
+    "createdAtISO": "2026-09-21T16:19:25Z",
+    "createdAtLocal": "2026-09-22 00:19",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2102062423499047004",
+    "inReplyToTweetId": "2102068273521270842",
+    "inReplyToUserId": "1857658382196551684"
+  },
+  {
+    "id": "2102069188173222258",
+    "text": "@Frenchie_ AMS Osram is not a current bottleneck, but likely a future one. Microleds will have its time to shine in 2028.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 73,
+      "retweets": 0,
+      "replies": 4,
+      "quotes": 0,
+      "views": 19731,
+      "bookmarks": 13
+    },
+    "createdAt": "Mon Sep 21 16:15:23 +0000 2026",
+    "createdAtISO": "2026-09-21T16:15:23Z",
+    "createdAtLocal": "2026-09-22 00:15",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2102062423499047004",
+    "inReplyToTweetId": "2102062642407809287",
+    "inReplyToUserId": "746932803095400452"
+  },
+  {
+    "id": "2102068786493026492",
+    "text": "@TradingTh3Trend Glad $AXTI also went up +12.4% today. It's probably being used like a chess piece in terms of Xi + Trump discussions right now. \n\nSince InP substrates would bottleneck the optical buildout by the US for AI. \n\nBut if they have more control over pricing... I do think there's a lot of room for rerating.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 91,
+      "retweets": 0,
+      "replies": 3,
+      "quotes": 0,
+      "views": 19705,
+      "bookmarks": 11
+    },
+    "createdAt": "Mon Sep 21 16:13:47 +0000 2026",
+    "createdAtISO": "2026-09-21T16:13:47Z",
+    "createdAtLocal": "2026-09-22 00:13",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2102062423499047004",
+    "inReplyToTweetId": "2102062759731179718",
+    "inReplyToUserId": "1635486123396063234"
+  },
+  {
+    "id": "2102067535915123156",
+    "text": "@wannabepanacea $SIVE and $AAOI, yes for a 2027 timeframe. That's the nuance. \n\nSivers you're coming on with 100M CW DFB laser capacity + 2 external foundries (maybe 300M in total), and all my supply chains mapping maps to larger hyperscaler suppliers. \n\nAAOI you're coming on with $471m transceiver revenue + 400K ELS units for 2028 timeframe. With hyperscalers + demand eating up all their capacity. There's just a $600m ATM which presents overhang near term. \n\n$NBIS already got re-rated but it's very positive upcoming for Q4 2026 (esp. with price hikes). \n\nLegacy memory like $ESMT + (some I haven't named yet) + regular memory names like Samsung, I do think will strongly outperform near term. And obviously CPUs names like $INTC $AMD $ARM as of recent.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 180,
+      "retweets": 11,
+      "replies": 2,
+      "quotes": 1,
+      "views": 27627,
+      "bookmarks": 63
+    },
+    "createdAt": "Mon Sep 21 16:08:49 +0000 2026",
+    "createdAtISO": "2026-09-21T16:08:49Z",
+    "createdAtLocal": "2026-09-22 00:08",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2102062423499047004",
+    "inReplyToTweetId": "2102062817557798991",
+    "inReplyToUserId": "1931061774037704704"
+  },
+  {
+    "id": "2102065409482727842",
+    "text": "@gurkyboy $SOI is the perfect example of a complete monopoly over silicon photonics. (lot of folks float 95% figures like UBS or Shin Etsu that Soitec basically licenses), but practically speaking...\n\nIt's kinda 100% since it's used to manufacture all SOI Wafers, people just don't like to use the word monopoly in markets. \n\nDepends on all their LTAs that they're going to sign as well as pricing. I would appreciate it if they abused their position to secure higher pricing. \n\nWe'll see on the scale of their agreements if it deserves to be ATHs again",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 75,
+      "retweets": 1,
+      "replies": 3,
+      "quotes": 0,
+      "views": 18392,
+      "bookmarks": 16
+    },
+    "createdAt": "Mon Sep 21 16:00:22 +0000 2026",
+    "createdAtISO": "2026-09-21T16:00:22Z",
+    "createdAtLocal": "2026-09-22 00:00",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2102062423499047004",
+    "inReplyToTweetId": "2102062914697916862",
+    "inReplyToUserId": "21569384"
+  },
+  {
+    "id": "2102062423499047004",
+    "text": "I'm not having a fun day since I got sick today. But the bottlenecks are having a good time: \n\n$AMD +9.13% | $INTC +14.16% | $ARM +14.33%\n\nCPUs go brrr\n\n$SIVE +10.32% | $AAOI +3.39% | AMS OSRAM +24.61%\n\nLasers go brrr\n\n$EWY +4.08% | $DRAM +2.83% | $MU +2.23%\n\nMemory go brrr\n\n$NBIS +4.7% | $CRWV +5.03% | $IREN +1.73%\n\nCompute go brrr\n\nProbably most material developments were CPU:GPU ratio expectations + CPU demand (from new AI releases).  \n\nAs well as optical developments from ECOC 2026 (as seen with $MRVL PR + others)\n\nStill a lot to catch up on.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1698,
+      "retweets": 79,
+      "replies": 168,
+      "quotes": 19,
+      "views": 548997,
+      "bookmarks": 334
+    },
+    "createdAt": "Mon Sep 21 15:48:30 +0000 2026",
+    "createdAtISO": "2026-09-21T15:48:30Z",
+    "createdAtLocal": "2026-09-21 23:48",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HSwGczTa0AAuEZu.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HSwGeD6akAEAN3C.jpg"
+      }
+    ],
+    "urls": [
+      "https://twitter.com/aleabitoreddit/status/2101906175046635887"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2102062423499047004",
+    "quotedTweet": {
+      "id": "2101906175046635887",
+      "text": "The main duo $SKHY and Samsung are having a fun day. \n\nI'm still long memory (eg. $EWY / $DRAM ) since if capacity agreements extend 3-5 years... and your analysts model 2.8-3.3x 2027E. Risk/reward is attractive over time. \n\nBut I think legacy memory a very interesting trade currently due to ASP hike potential.. \n\nIt also just so happens these same companies procure memory from even smaller memory companies (that might have higher sensitivity)...\n\nSo if you want to, you can track $PSMC wafer allocations, and find some interesting companies that likely replace $MU discontinued legacy memory through Alliance or supply directly to Samsung. \n\nWon't mention them on X, but just throwing out some research ideas.",
+      "author": {
+        "id": "1940360837547565056",
+        "name": "Serenity",
+        "screenName": "aleabitoreddit"
+      }
+    }
+  },
+  {
+    "id": "2101909316957872324",
+    "text": "@DanilSer33 I personally think $ESMT should be a lot higher since July net income was absurd (~$111M, <2 annualized July RR). Growing revenue ~16.5% M/M is also absurd from July -> August. \n\nAnd I did track their products, which has high sensitivity to hikes... (which are heavily expected H2)\n\nMarkets aren't always efficient, and maybe just needs a reminder after Q3 earnings.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 59,
+      "retweets": 2,
+      "replies": 5,
+      "quotes": 0,
+      "views": 23164,
+      "bookmarks": 19
+    },
+    "createdAt": "Mon Sep 21 05:40:07 +0000 2026",
+    "createdAtISO": "2026-09-21T05:40:07Z",
+    "createdAtLocal": "2026-09-21 13:40",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2101906175046635887",
+    "inReplyToTweetId": "2101906593315278913"
+  },
+  {
+    "id": "2101906175046635887",
+    "text": "The main duo $SKHY and Samsung are having a fun day. \n\nI'm still long memory (eg. $EWY / $DRAM ) since if capacity agreements extend 3-5 years... and your analysts model 2.8-3.3x 2027E. Risk/reward is attractive over time. \n\nBut I think legacy memory a very interesting trade currently due to ASP hike potential.. \n\nIt also just so happens these same companies procure memory from even smaller memory companies (that might have higher sensitivity)...\n\nSo if you want to, you can track $PSMC wafer allocations, and find some interesting companies that likely replace $MU discontinued legacy memory through Alliance or supply directly to Samsung. \n\nWon't mention them on X, but just throwing out some research ideas.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1045,
+      "retweets": 36,
+      "replies": 93,
+      "quotes": 14,
+      "views": 791567,
+      "bookmarks": 238
+    },
+    "createdAt": "Mon Sep 21 05:27:38 +0000 2026",
+    "createdAtISO": "2026-09-21T05:27:38Z",
+    "createdAtLocal": "2026-09-21 13:27",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HSt1Pc6akAAlAfD.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HSt1QGQaIAAhOnA.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2101906175046635887"
+  },
+  {
+    "id": "2101821887877959762",
+    "text": "@Quez_Fame @reynosismo_ U literally are the AI I’m talking about",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 141,
+      "retweets": 0,
+      "replies": 6,
+      "quotes": 0,
+      "views": 15651,
+      "bookmarks": 2
+    },
+    "createdAt": "Sun Sep 20 23:52:42 +0000 2026",
+    "createdAtISO": "2026-09-20T23:52:42Z",
+    "createdAtLocal": "2026-09-21 07:52",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2101818303216013812",
+    "inReplyToTweetId": "2101821170786205703"
+  },
+  {
+    "id": "2101821769443422492",
+    "text": "@Pau1R0b $RDDT will probably get more accounts + revenue from AI bots that act like human so I’d guess earnings beat.\n\nChanging public opinion with AI is really bad for democracy and long term platform health though.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 79,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0,
+      "views": 16316,
+      "bookmarks": 5
+    },
+    "createdAt": "Sun Sep 20 23:52:14 +0000 2026",
+    "createdAtISO": "2026-09-20T23:52:14Z",
+    "createdAtLocal": "2026-09-21 07:52",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2101818303216013812",
+    "inReplyToTweetId": "2101818712315584832"
+  },
+  {
+    "id": "2101820530139759017",
+    "text": "@cchronobreakk I mean Sam Altman was working on iris scan with his World project, so he probably saw it coming.\n\nBut human verification is probably needed across the board now for each account.\n\n$RDDT doesn’t require much so platforms like that are first to be manipulated.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 61,
+      "retweets": 1,
+      "replies": 3,
+      "quotes": 0,
+      "views": 16002,
+      "bookmarks": 6
+    },
+    "createdAt": "Sun Sep 20 23:47:18 +0000 2026",
+    "createdAtISO": "2026-09-20T23:47:18Z",
+    "createdAtLocal": "2026-09-21 07:47",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2101818303216013812",
+    "inReplyToTweetId": "2101818478315389205"
+  },
+  {
+    "id": "2101818303216013812",
+    "text": "The internet is now cooked soon?\n\nWith $RDDT to other social media like X more at risk due to AI.\n\nYou can have new decision models like Jev making autonomous computer interaction at near $0 cost. (With actions becoming more human-like/adapative)\n\nThen LLMs outputs influencing behavior or leading conversations. \n\nSo at scale, a malicious actor can spawn 50,000,000 bots just roaming the internet, with LLM prompts convincing people + manufacturing public opinion.\n\nThe main bottleneck would be phone number, IP, account age, maybe hardware for compute + device identifiers (which is extremely cheap still)… rather than LLM cost.\n\nI’ve already anecdotally seen short sellers use AI bots to spread negative misinformation about companies like $SIVE.\n\nOr bots market ____ account as the best one to follow in the comments.\n\nOr as seen with X uncovering 200+ bots manipulating debate about datacenter public opinion.\n\nBut the scale might be exponentially worse soon.\n\nScary to think about.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 890,
+      "retweets": 29,
+      "replies": 103,
+      "quotes": 8,
+      "views": 262891,
+      "bookmarks": 145
+    },
+    "createdAt": "Sun Sep 20 23:38:28 +0000 2026",
+    "createdAtISO": "2026-09-20T23:38:28Z",
+    "createdAtLocal": "2026-09-21 07:38",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2101818303216013812"
+  },
+  {
+    "id": "2101797616812269694",
+    "text": "Jev potential implications + applications are actually insane to think about\n\nDoes anyone have experience using open source decision model variants yet? https://t.co/VCKYqWVNLW",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 596,
+      "retweets": 20,
+      "replies": 45,
+      "quotes": 2,
+      "views": 321311,
+      "bookmarks": 172
+    },
+    "createdAt": "Sun Sep 20 22:16:16 +0000 2026",
+    "createdAtISO": "2026-09-20T22:16:16Z",
+    "createdAtLocal": "2026-09-21 06:16",
+    "media": [],
+    "urls": [
+      "https://twitter.com/rronak_/status/2101544156757950697"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2101797616812269694",
+    "quotedTweet": {
+      "id": "2101544156757950697"
+    }
+  },
+  {
+    "id": "2101737329270665523",
+    "text": "@Temptemo95 Thanks for following all this time! Entire training arc from $RDDT to 1M followers on X has been quite a rollercoaster.\n\nGuess like I need to start drawing anime and league characters on top of the $INTC or $NBIS charts again.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 65,
+      "retweets": 1,
+      "replies": 6,
+      "quotes": 0,
+      "views": 22423,
+      "bookmarks": 2
+    },
+    "createdAt": "Sun Sep 20 18:16:42 +0000 2026",
+    "createdAtISO": "2026-09-20T18:16:42Z",
+    "createdAtLocal": "2026-09-21 02:16",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2101730902615486643",
+    "inReplyToTweetId": "2101734293382860802"
+  },
+  {
+    "id": "2101733418300260655",
+    "text": "@Trader827063 I read like 95% of comments! \n\nI just try not to reply as much since I don’t want a bunch of these short replies (where people don’t learn something new) to fill news feeds.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 104,
+      "retweets": 0,
+      "replies": 7,
+      "quotes": 0,
+      "views": 23100,
+      "bookmarks": 2
+    },
+    "createdAt": "Sun Sep 20 18:01:09 +0000 2026",
+    "createdAtISO": "2026-09-20T18:01:09Z",
+    "createdAtLocal": "2026-09-21 02:01",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2101730902615486643",
+    "inReplyToTweetId": "2101731706168336745"
+  },
+  {
+    "id": "2101730902615486643",
+    "text": "While everyone is focused on Bessent/He Lifeng talks today. Or $LITE / $MRVL / $SIVE at ECOC optical conference...\n\nI'm just curious why my followers can leave 2K+ comments if I post in Chinese... \n\nBut if I share something in English: I only get 50 comments. \n\nFeels bad anon https://t.co/Pg6fojfMFx",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1065,
+      "retweets": 16,
+      "replies": 282,
+      "quotes": 5,
+      "views": 447840,
+      "bookmarks": 87
+    },
+    "createdAt": "Sun Sep 20 17:51:10 +0000 2026",
+    "createdAtISO": "2026-09-20T17:51:10Z",
+    "createdAtLocal": "2026-09-21 01:51",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2101730902615486643",
+    "quotedTweet": {
+      "id": "2101467035972894984"
+    }
+  },
+  {
+    "id": "2101467035972894984",
+    "text": "我有点想在中国的社交平台上开个账号玩玩\n\n就玩一小段时间，跟用不了 X 的粉丝们互动一下\n\n大家推荐去哪个平台发帖？",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 2480,
+      "retweets": 36,
+      "replies": 2716,
+      "quotes": 47,
+      "views": 1411028,
+      "bookmarks": 224
+    },
+    "createdAt": "Sun Sep 20 00:22:39 +0000 2026",
+    "createdAtISO": "2026-09-20T00:22:39Z",
+    "createdAtLocal": "2026-09-20 08:22",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2101467035972894984"
+  },
+  {
+    "id": "2101402656845808007",
+    "text": "Just floating out an idea to $AVGO:\n\nIf you lock up $SIVE laser supply for next few years since you need “more laser capacity”.\n\nYou could unintentionally cause bottlenecks across your main ASIC competitors:\n\nLike $MRVL (Celestial), AlChip, Mediatek, GUC (Ayar CPO), first gen deployments.  \n\nWhere many also seem to be aligned with your best friend $NVDA…\n\nMaybe it’s worth discussing spending spare change to lock up the remaining merchant laser supply?",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1233,
+      "retweets": 59,
+      "replies": 69,
+      "quotes": 15,
+      "views": 378253,
+      "bookmarks": 240
+    },
+    "createdAt": "Sat Sep 19 20:06:50 +0000 2026",
+    "createdAtISO": "2026-09-19T20:06:50Z",
+    "createdAtLocal": "2026-09-20 04:06",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2101402656845808007"
+  },
+  {
+    "id": "2101145461797335254",
+    "text": "Apparently, we just took over Greenland?\n\nExciting news on a Friday… https://t.co/p3QywTsvtp",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1556,
+      "retweets": 30,
+      "replies": 123,
+      "quotes": 2,
+      "views": 613193,
+      "bookmarks": 64
+    },
+    "createdAt": "Sat Sep 19 03:04:50 +0000 2026",
+    "createdAtISO": "2026-09-19T03:04:50Z",
+    "createdAtLocal": "2026-09-19 11:04",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2101145461797335254",
+    "quotedTweet": {
+      "id": "2101101979808493780"
+    }
+  },
+  {
+    "id": "2100938001077674262",
+    "text": "So on optical vs. photonics... Memory like $MU / $SKHY is in it's current supercycle.  \n\n-> RBC channel checks for example projects 80-100% HBM ASP hikes for 2027.\n\n-> Per $NVDA ER, Hyperscaler capex goes up in 2027. Then you have 68% of hyperscaler capex per Trendforce going to DRAM/NAND. \n\n-> 50-70% for next 3-5 years already allocated toward LTAs. \n\nSo supercycle is here... demand visibility is high and the price hikes are still ongoing. \n\nAs photonics like $SMTC to $AAOI, I expect to cook heavily in 2027 since we're already seeing widespread optical shortages in 2026. \n\nPlus, you're going from $67.7B in 2026 (per GS) to $131.4B TAM in 2027 for optical modules...\n\nWhich impacts the DSPs/TIAs/lasers/fiber suppliers  before CPO scale up really takes off in 2028. \n\nI don't think we'll ever see the same scale of memory price hikes, but I do think there's a lot room for more for  MC growth in optical supply chains (given smaller starting point eg. $1B CW laser supplier vs $1T memory maker).\n\nBut still there's room for price hikes on laser content (eg. $15–$20 for 4 70 mW lasers per GS note) since starting point is really cheap... and one component, like cheap InP substrates can break hundreds of billions worth of supply chains downstream. \n\nWe're already seeing laser price hikes tho from CIOE channel checks confirmed by both Innolight / $SIVE from the Serenity's follower channel checks. \n\nSo entering uncharted territory. \n\nTLDR: Messy thought but, memory has near term earnings power, midst of current supercycle. \n\nThe next \"memory\" ASP hikes I'm seeing is clearly legacy memory (DDR2/DDR3/SLC NAND) from cascading bottlenecks. It just looks to be an extension of the memory theme. \n\nMaybe MLCC looks similar in terms of earlier cycles. \n\nIf we were to track supercycle impact on the supply chain in the space...\n\nI'm confident next thematic one looks to be photonics entering 2027.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1155,
+      "retweets": 106,
+      "replies": 73,
+      "quotes": 20,
+      "views": 540679,
+      "bookmarks": 408
+    },
+    "createdAt": "Fri Sep 18 13:20:27 +0000 2026",
+    "createdAtISO": "2026-09-18T13:20:27Z",
+    "createdAtLocal": "2026-09-18 21:20",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HSf_zOzaYAAoGXb.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2100938001077674262",
+    "quotedTweet": {
+      "id": "2100533298422337611"
+    }
+  },
+  {
     "id": "2100735673561174047",
     "text": "TLDRs of things I found interesting this week: \n\n- $INTC CEO says some memory prices have risen 5-7× and warns the shortage will worsen in 2027. \n\n$SNDK / $MU / Samsung bros will be happy to hear this... (from the AI Infra Summit 2026 in Santa Clara)\n\n- $GFS + $MRVL sign extended SiGe capacity agreement for pluggable/NPO/CPO. \"Expected to add significant capacity to support Marvell’s growing requirements.\"\n\nI like to keep an eye out on Globalfoundries related updates given $SIVE is their reference laser for SCALE.  \n\n-  $CIEN expects roughly 30% annual revenue growth, 50% adj. gross margin, 20% FCF margin, through FY2029.\n\nThe company says component availability, not demand, is limiting growth... Seems common across $NVDA to upstream suppliers that supply is the limiting factor for revenue growth.  \n\n- Winbond acquires Infineon's NOR Flash and F-RAM business for $1.12 billion. \n\nVery surprised Infineon sold considering NOR Flash ASP + importance just keep going up and up and up, but good for Winbond consolidation. \n\n- Samsung reportedly expands outsourcing of DDR5-module and SSD assembly. \n\nI think some local Taiwan reports flag Transcend and Apacer as possible beneficiaries. The report specifically identifies Dreamtech, Hanyang Digitech and SFA Semicon. \n\nI've noticed other Korean firms entering new Samsung Electronics contracts for likely legacy memory modules maybe like ~1-2m ago.. So think some media commentary probably missed this too. Maybe too small for them to notice? \n\n- $NBIS raises AI cloud prices for the 2nd time in three months (~17-21%), bullish read through for other Neoclouds like $CRWV to $IREN earnings.\n\n-  $AMZN signs $2.4B agreement with $GNRC for generator deliveries throughout 2027-2028... and received warrants tied to as much as $8B of aggregate purchases\n\nGood to keep an eye out on who Amazon signs these warrant agreements with (eg. Alchip, $AAOI, $QCOM, $MRVL, etc) and what type of infra procurement they want. \n\n- $TSEM and NewPhotonics begin volume shipments of laser integrated optical engines.\n\nNot familiar with newphotonics, so not going to leave much commentary here. But will do some research today. \n\n- Goldman Sachs reportedly sees the ABF deficit expanding from 14% to 51%. Forecast shortages are 14% in 2H26, 34% in 2027 and 51% in 2028... \n\nMore substrate bottleneck stuff, not surprising regarding demand imbalances. \n\n- Crusoe raises $3.9B at a $30.9B valuation. \n\nOkay this valuation is better than Instinct raising at a bubble $10B valuation off 100k users...  \n\n- Japan and the U.S. reportedly discuss a $12.9–19.3B $GFS run fab. \n\nThat's like half of Globalfoundries marketcap lol. Not much details here. \n\n- $ARM CEO Rene Haas said he is confident that they can secure enough supply to meet $2B in customer demand (for their AGI CPU).\n\nThere's probably a lot more demand, probably supply constrained growth as usual so good $ARM signaled confidence in securing allocations. \n\n- Supply chain sources said Kioxia has about 50% of its LTA capacity tied up, while SK Hynix/Samsung reserve about 70% of capacity for LTAs for 3-5 years. \n\nNot sure how people are bearish on memory.... \n\nI don't like posting updates one-by-one like a news reporter, so hope this saves some time of stuff I like looking at. \n\nOn a side note was surprised markets from $AMD to $INTC rallied today after rate hikes. Think high-beta overshot the selloff the most.",
     "author": {

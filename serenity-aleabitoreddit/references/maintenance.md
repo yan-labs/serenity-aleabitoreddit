@@ -42,7 +42,11 @@ The goal is to keep the skill current without turning it into a noisy transcript
 
 Before committing:
 
-1. Run `python3 update.py`. It tries `xreach` first, then parses the exact
+1. Prefer an X API / Grok Bot connector dump when available:
+   `python3 update.py --from-json path/to/posts.json` (archive-shaped list, or
+   `{ "data": [...], "includes": {...} }` from `get_users_posts` /
+   `get_posts_by_ids`; prefer `note_tweet.text` over truncated `text`).
+   Otherwise run `python3 update.py`. It tries `xreach` first, then parses the exact
    status ids, text, and `created_at_ms` timestamps embedded in the public
    `https://x.com/aleabitoreddit` profile response. Jina public status pages
    are used only for rows the profile response cannot parse. This fallback

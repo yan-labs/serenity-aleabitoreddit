@@ -235,6 +235,25 @@ Source: [2065289672356745561](https://x.com/aleabitoreddit/status/20652896723567
 | $HOOD (Robinhood Markets) | ~$20 (per Jun 20 retrospective) | N/A | Positive | ✅ Hit — called when "everyone recalled them freezing GME buys/sells" |
 | $SOI (Solaris Oilfield Infrastructure) | ~$44 (per Jun 20 retrospective) | N/A | Positive | ✅ Hit — called when "European bank analysts thought it was overvalued" |
 
+
+---
+
+## Sep 18 – Oct 9, 2026 incremental calibration
+
+| Date | Source | Ticker / theme | Call / update | Outcome / note |
+|------|--------|----------------|---------------|----------------|
+| 2026-10-09 | X [2108412203514925165](https://x.com/aleabitoreddit/status/2108412203514925165) | $LITE → $SIVE/$AAOI | CEO sold-out-through-~2029 / hyperscaler visibility into 2030-31; second-order capacity beneficiaries | Ongoing — CEO commentary validates multi-year laser shortage framing |
+| 2026-10-02 | X [2105943565918703696](https://x.com/aleabitoreddit/status/2105943565918703696) | $LITE CPO/NPO | ~70% undershipping demand in 2027; balance ~2029-30 | Ongoing — event quote; verify transcript |
+| 2026-10-05 | X [2107143846027268373](https://x.com/aleabitoreddit/status/2107143846027268373) | $AAOI | `$600m` ATM done (~`$105.36` avg); conditional outperformance vs $LITE if no new ATMs | Dilution overhang cleared for this program; watch new filings |
+| 2026-10-01 | X [2105709782854435274](https://x.com/aleabitoreddit/status/2105709782854435274) | FCC 3.2T optics | MS Washington scenario favors Western lasers/DSPs/TIAs; InP (`$AXTI`) as key constraint | Policy watch only until rules exist |
+| 2026-09-24 | X [2103232350348001701](https://x.com/aleabitoreddit/status/2103232350348001701) | $AKAM / Anthropic | `$11.6B` / 7y CPU deal; capex/memory pre-buy read-through | Demand validation for CPU/memory colo |
+| 2026-09-24 | X [2103139052363133062](https://x.com/aleabitoreddit/status/2103139052363133062) | $NBIS vs $IREN | Reaffirm NBIS consolidation; IREN more favorable after `$6B` ATM | Financing-quality calibration |
+| 2026-09-24 | X [2103151990146801812](https://x.com/aleabitoreddit/status/2103151990146801812) | $AAOI | Repeated ATM criticism vs operationally bullish 2027 ramp | Partially superseded by Oct 5 ATM complete |
+| 2026-09-23 | X [2102763548715753927](https://x.com/aleabitoreddit/status/2102763548715753927) | $LITE / Win Semi / $SIVE | ECOC demand > supply; Win Semi CW timing H2'26→'27-28 | Foundry timing support for SIVE path |
+| 2026-10-08 | X [2108111907819499646](https://x.com/aleabitoreddit/status/2108111907819499646) | $CCXI | Q4 2026 listing hope; disclosed personal adds | Listing watch |
+| 2026-09-21 | X [2101909316957872324](https://x.com/aleabitoreddit/status/2101909316957872324) | $ESMT | Underpriced vs July/Aug revenue + hike sensitivity | Ongoing thesis reminder |
+
+
 ---
 
 *Managed by Codex heartbeat automation. Updated incrementally from @aleabitoreddit posts.*

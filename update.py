@@ -7,6 +7,9 @@ Run from the repo root: `python3 update.py`. Prints a final `NEW=<n>` line; exit
 Run `python3 update.py --repair-full-text` repeatedly to backfill X Note Tweet text.
 Run `python3 update.py --repair-public-profile` once after a public-profile parser
 upgrade to replace rows captured by an older fallback parser.
+Run `python3 update.py --from-json path` to merge a local X API / connector
+JSON dump (list of archive-shaped posts, or `{ "data": [...] }` with optional
+`includes`) when xreach auth is broken.
 Does NOT touch git — the caller decides whether to commit/push based on NEW.
 """
 import json, csv, os, re, shutil, subprocess, sys
@@ -155,6 +158,162 @@ def normalize_xreach(t):
         out["quotedTweet"] = t.get("quotedTweet")
     return ensure_times(out)
 
+def normalize_x_api_post(t, includes=None):
+    """Map an X API v2 post (or already-archive-shaped row) into archive schema."""
+    includes = includes or {}
+    if t.get("author", {}).get("screenName", "").lower() == USER and t.get("createdAtISO"):
+        return ensure_times(t)
+    media_by_key = {
+        m.get("media_key"): m
+        for m in (includes.get("media") or [])
+        if isinstance(m, dict) and m.get("media_key")
+    }
+    users_by_id = {
+        u.get("id"): u
+        for u in (includes.get("users") or [])
+        if isinstance(u, dict) and u.get("id")
+    }
+    posts_by_id = {}
+    for key in ("posts", "tweets"):
+        for item in (includes.get(key) or []):
+            if isinstance(item, dict) and item.get("id"):
+                posts_by_id[str(item["id"])] = item
+
+    note = ((t.get("note_tweet") or {}).get("text") if isinstance(t.get("note_tweet"), dict) else None)
+    text_body = note or t.get("text") or ""
+    trunc = t.get("text") or ""
+    if note and trunc.startswith("@") and not text_body.startswith("@"):
+        m = re.match(r"^((?:@\w+\s+)+)", trunc)
+        if m:
+            text_body = m.group(1) + text_body
+
+    pm = t.get("public_metrics") or t.get("metrics") or {}
+    created = t.get("created_at") or t.get("createdAt")
+    dt = None
+    if t.get("createdAtISO"):
+        dt = datetime.fromisoformat(t["createdAtISO"].replace("Z", "+00:00"))
+    elif created:
+        try:
+            dt = datetime.fromisoformat(str(created).replace("Z", "+00:00").replace(".000", ""))
+        except ValueError:
+            try:
+                dt = parsedate_to_datetime(created)
+            except Exception:
+                dt = None
+
+    author_user = users_by_id.get(t.get("author_id")) or {}
+    author = t.get("author") if isinstance(t.get("author"), dict) else {}
+    screen = (author.get("screenName") or author_user.get("username") or USER)
+
+    refs = t.get("referenced_tweets") or []
+    is_reply = bool(t.get("isReply")) or any(r.get("type") == "replied_to" for r in refs if isinstance(r, dict))
+    is_quote = bool(t.get("isQuote")) or any(r.get("type") == "quoted" for r in refs if isinstance(r, dict))
+    reply_to = t.get("inReplyToTweetId") or next((r.get("id") for r in refs if isinstance(r, dict) and r.get("type") == "replied_to"), None)
+    quote_id = next((r.get("id") for r in refs if isinstance(r, dict) and r.get("type") == "quoted"), None)
+
+    media = t.get("media") if isinstance(t.get("media"), list) else []
+    if not media:
+        for mk in ((t.get("attachments") or {}).get("media_keys") or []):
+            m = media_by_key.get(mk) or {}
+            url = m.get("url") or m.get("preview_image_url")
+            if url:
+                media.append({"url": url})
+
+    urls = t.get("urls") if isinstance(t.get("urls"), list) else []
+    if not urls:
+        for u in ((t.get("entities") or {}).get("urls") or []):
+            exp = u.get("expanded_url") or ""
+            if exp and "/photo/" not in exp:
+                urls.append(exp)
+
+    quoted = t.get("quotedTweet")
+    if quoted is None and quote_id:
+        qt = posts_by_id.get(str(quote_id))
+        if qt:
+            qnote = ((qt.get("note_tweet") or {}).get("text") if isinstance(qt.get("note_tweet"), dict) else None)
+            quser = users_by_id.get(qt.get("author_id")) or {}
+            quoted = {
+                "id": str(qt["id"]),
+                "text": qnote or qt.get("text") or "",
+                "author": {
+                    "id": qt.get("author_id"),
+                    "name": quser.get("name"),
+                    "screenName": quser.get("username"),
+                },
+            }
+        else:
+            quoted = {"id": str(quote_id)}
+
+    def metric(pm_obj, *keys):
+        for k in keys:
+            if isinstance(pm_obj, dict) and pm_obj.get(k) is not None:
+                return pm_obj.get(k)
+        return None
+
+    out = {
+        "id": str(t.get("id")),
+        "text": text_body,
+        "author": {
+            "id": author.get("id") or author_user.get("id") or t.get("author_id"),
+            "name": author.get("name") or author_user.get("name") or "Serenity",
+            "screenName": screen,
+            "profileImageUrl": author.get("profileImageUrl") or author_user.get("profile_image_url"),
+            "verified": author.get("verified") if "verified" in author else bool(author_user.get("verified")),
+        },
+        "metrics": {
+            "likes": metric(pm, "likes", "like_count"),
+            "retweets": metric(pm, "retweets", "retweet_count", "repost_count"),
+            "replies": metric(pm, "replies", "reply_count"),
+            "quotes": metric(pm, "quotes", "quote_count"),
+            "views": metric(pm, "views", "impression_count"),
+            "bookmarks": metric(pm, "bookmarks", "bookmark_count"),
+        },
+        "createdAt": t.get("createdAt") or (dt.strftime("%a %b %d %H:%M:%S +0000 %Y") if dt else None),
+        "media": media,
+        "urls": urls,
+        "isRetweet": bool(t.get("isRetweet")),
+        "retweetedBy": t.get("retweetedBy"),
+        "lang": t.get("lang"),
+        "isQuote": is_quote,
+        "isReply": is_reply,
+        "conversationId": t.get("conversationId") or t.get("conversation_id"),
+    }
+    if reply_to:
+        out["inReplyToTweetId"] = str(reply_to)
+    if t.get("inReplyToUserId"):
+        out["inReplyToUserId"] = str(t.get("inReplyToUserId"))
+    if quoted is not None:
+        out["quotedTweet"] = quoted
+    if dt and not out.get("createdAtISO"):
+        out["createdAtISO"] = dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    return ensure_times(out)
+
+
+def load_from_json(path):
+    raw = json.load(open(path))
+    includes = {}
+    if isinstance(raw, dict):
+        includes = raw.get("includes") or {}
+        items = raw.get("items") or raw.get("tweets") or raw.get("results") or raw.get("data") or raw.get("posts") or []
+        if not items and all(k in raw for k in ("id", "text")):
+            items = [raw]
+    else:
+        items = raw if isinstance(raw, list) else []
+    rows, seen = [], set()
+    for t in items:
+        if not isinstance(t, dict) or not t.get("id"):
+            continue
+        row = normalize_x_api_post(t, includes)
+        if row.get("author", {}).get("screenName", "").lower() != USER:
+            continue
+        if row["id"] in seen:
+            continue
+        seen.add(row["id"])
+        rows.append(row)
+    return rows
+
+
+
 def pull(n=100, since=None):
     global PUBLIC_FALLBACK_DIAGNOSTIC
     raw = xreach_json(["tweets", f"@{USER}", "-n", str(n)])
@@ -287,6 +446,15 @@ def merge_public_profile_row(previous, current):
 def main():
     repair_full_text = "--repair-full-text" in sys.argv[1:]
     repair_public_profile = "--repair-public-profile" in sys.argv[1:]
+    args = sys.argv[1:]
+    from_json = None
+    if "--from-json" in args:
+        idx = args.index("--from-json")
+        if idx + 1 >= len(args):
+            print("PULL_ERROR --from-json requires a path")
+            print("NEW=0")
+            return
+        from_json = args[idx + 1]
     sync_state = json.load(open(SYNC_STATE)) if os.path.exists(SYNC_STATE) else {}
     sync_state_changed = False
     raw_arch = json.load(open(ARCH))
@@ -295,7 +463,11 @@ def main():
     have = {t["id"] for t in arch}
     newest = max((parse_time(t) for t in arch if parse_time(t)), default=None)
     since = newest.astimezone(timezone.utc).date().isoformat() if newest else None
-    pulled = [ensure_times(t) for t in pull(since=since)]
+    if from_json:
+        pulled = [ensure_times(t) for t in load_from_json(from_json)]
+        print(f"FROM_JSON={from_json} pulled={len(pulled)}")
+    else:
+        pulled = [ensure_times(t) for t in pull(since=since)]
     new = [t for t in pulled if t["id"] not in have]
     existing_by_id = {t["id"]: t for t in arch}
     repaired_public = [
@@ -356,6 +528,28 @@ def main():
             print(f"PUBLIC_PROFILE_REPAIRED={len(public_profile_repairs)}")
     if repaired:
         print(f"FULL_TEXT_REPAIRED={repaired}")
+    if new:
+        newest_row = max(new, key=lambda t: t.get("createdAtISO") or "")
+        sync_state["last_tweet_id"] = newest_row["id"]
+        sync_state["last_update_time"] = newest_row.get("createdAtISO")
+        sync_state["source_health"] = {
+            "status": "ok",
+            "direct_status": "ok",
+            "verification_source": "from_json" if from_json else (
+                "xreach" if not XREACH_AUTH_FAILED else "x_public_profile+jina_status"
+            ),
+            "freshness": "verified",
+            "latest_returned_id": newest_row["id"],
+            "latest_returned_time": newest_row.get("createdAtISO"),
+            "new_posts_merged": len(new),
+            "checked_time": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "next_action": (
+                "Merged via --from-json; prefer X API dump when xreach auth fails."
+                if from_json else
+                "Cursor advanced from live pull."
+            ),
+        }
+        sync_state_changed = True
     if sync_state_changed:
         json.dump(sync_state, open(SYNC_STATE, "w"), ensure_ascii=False, indent=2)
         print()

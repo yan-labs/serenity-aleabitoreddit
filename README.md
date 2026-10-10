@@ -25,7 +25,7 @@ This repo packages his public work into one self-contained research artifact:
 **period-by-period distillation**, and a ready-to-use **agent skill** that
 applies his analytical lens to US-stock ideas.
 
-Built from **6,592 tweets** spanning **2025-07-02 → 2026-09-17** plus **4 X
+Built from **6,666 tweets** spanning **2025-07-02 → 2026-10-09** plus **4 X
 Articles** published in **2026-01 → 2026-05**.
 
 > ⚠️ **Not financial advice. Decision-support only.** This skill never trades and
@@ -49,7 +49,7 @@ Articles** published in **2026-01 → 2026-05**.
 | `data/ticker_stats.txt` | His `$ticker` universe by mention count + first/last seen |
 | `assets/serenity-avatar.jpg` | Local copy of Serenity's public X avatar used in this README |
 | `prep.py` | Condenses the tweet JSON into monthly chunks and recomputes the ticker stats |
-| `update.py` | Pulls latest tweets, dedupes by id, resolves X Note Tweet full text, and uses public profile/Jina status pages when xreach authentication is unavailable |
+| `update.py` | Pulls latest tweets (xreach / public fallback) or merges a local X API JSON dump via `--from-json`; dedupes by id and refreshes CSV + ticker stats |
 | `scripts/xreach_note_text.mjs` | Read-only adapter for the installed `xreach` client that recovers public X Note Tweet text omitted from its default output |
 
 ## Use it as a skill

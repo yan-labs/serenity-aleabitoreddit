@@ -2,18 +2,18 @@
   "target_user_id": "1940360837547565056",
   "repo": "yan-labs/serenity-aleabitoreddit",
   "skill_dir": "serenity-aleabitoreddit",
-  "last_tweet_id": "2100735673561174047",
-  "last_update_time": "2026-09-17T23:56:29Z",
+  "last_tweet_id": "2108416144428421459",
+  "last_update_time": "2026-10-09T04:35:55Z",
   "source_health": {
-    "status": "stale_unverified",
-    "direct_status": "stale_unverified",
-    "verification_source": "x_public_profile+jina_status",
-    "freshness": "unverified",
-    "latest_returned_id": "2100735673561174047",
-    "latest_returned_time": "2026-09-17T23:56:29Z",
-    "profile_parsed_count": 0,
-    "checked_time": "2026-10-01T12:45:13Z",
-    "next_action": "xreach failed with GraphQL authentication error; the public x.com profile plus Jina status fallback returned 0 verified records at 2026-10-01T12:45:13Z, so no new post was verified and the cursor remains unchanged. Retry xreach and the public profile plus Jina status fallback without browser login state; do not advance last_tweet_id from an exact-status-only or stale response."
+    "status": "ok",
+    "direct_status": "ok",
+    "verification_source": "x_api_get_users_posts+get_posts_by_ids",
+    "freshness": "verified",
+    "latest_returned_id": "2108416144428421459",
+    "latest_returned_time": "2026-10-09T04:35:55Z",
+    "new_posts_merged": 74,
+    "checked_time": "2026-10-10T10:19:18Z",
+    "next_action": "Cursor advanced from X API (Grok Bot x connector). Prefer update.py --from-json or future X API path; xreach remains broken."
   },
-  "note": "Managed by Codex heartbeat automation. Do not edit manually."
+  "note": "Managed by archive update automation. Prefer X API / --from-json over xreach."
 }
