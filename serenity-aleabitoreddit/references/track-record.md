@@ -238,10 +238,11 @@ Source: [2065289672356745561](https://x.com/aleabitoreddit/status/20652896723567
 
 ---
 
-## Sep 18 – Oct 9, 2026 incremental calibration
+## Sep 18 – Oct 10, 2026 incremental calibration
 
 | Date | Source | Ticker / theme | Call / update | Outcome / note |
 |------|--------|----------------|---------------|----------------|
+| 2026-10-10 | X [2108896030326682074](https://x.com/aleabitoreddit/status/2108896030326682074) | $AAOI / lasers | WSB `$1M` AAOI post; still early if “no moat”/unprofitable narrative; wait-and-see **Q2 2027** | Ongoing — moat/profitability recognition timing, not new capacity proof |
 | 2026-10-09 | X [2108412203514925165](https://x.com/aleabitoreddit/status/2108412203514925165) | $LITE → $SIVE/$AAOI | CEO sold-out-through-~2029 / hyperscaler visibility into 2030-31; second-order capacity beneficiaries | Ongoing — CEO commentary validates multi-year laser shortage framing |
 | 2026-10-02 | X [2105943565918703696](https://x.com/aleabitoreddit/status/2105943565918703696) | $LITE CPO/NPO | ~70% undershipping demand in 2027; balance ~2029-30 | Ongoing — event quote; verify transcript |
 | 2026-10-05 | X [2107143846027268373](https://x.com/aleabitoreddit/status/2107143846027268373) | $AAOI | `$600m` ATM done (~`$105.36` avg); conditional outperformance vs $LITE if no new ATMs | Dilution overhang cleared for this program; watch new filings |
