@@ -242,6 +242,9 @@ Source: [2065289672356745561](https://x.com/aleabitoreddit/status/20652896723567
 
 | Date | Source | Ticker / theme | Call / update | Outcome / note |
 |------|--------|----------------|---------------|----------------|
+| 2026-10-10 | X [2108916977616179207](https://x.com/aleabitoreddit/status/2108916977616179207) | $AXTI / InP | 2025 bottleneck thesis validated; LITE/COHR supplier confirm; ~$130m/q InP capacity exit-2027; upside = price hikes (SNDK-like vs ABF restraint) | Ongoing — capacity/ASP path; verify filings and realized pricing |
+| 2026-10-10 | X [2108908962397786280](https://x.com/aleabitoreddit/status/2108908962397786280) | $SIVE moats | Capacity / quals (custom DFB+Ayar) / tech (JBL 1.6T LRO sole-source guess); Q2'27 Jabil mass-prod testament | Ongoing — moat map; verify quals and sole-source |
+| 2026-10-10 | X [2108900808956039390](https://x.com/aleabitoreddit/status/2108900808956039390) | $LITE → $AAOI | LITE sold-out-into-2029; AAOI 2027 ramp underpriced; AAOI among largest positions | Ongoing — conviction/position reaffirmation |
 | 2026-10-10 | X [2108896030326682074](https://x.com/aleabitoreddit/status/2108896030326682074) | $AAOI / lasers | WSB `$1M` AAOI post; still early if “no moat”/unprofitable narrative; wait-and-see **Q2 2027** | Ongoing — moat/profitability recognition timing, not new capacity proof |
 | 2026-10-09 | X [2108412203514925165](https://x.com/aleabitoreddit/status/2108412203514925165) | $LITE → $SIVE/$AAOI | CEO sold-out-through-~2029 / hyperscaler visibility into 2030-31; second-order capacity beneficiaries | Ongoing — CEO commentary validates multi-year laser shortage framing |
 | 2026-10-02 | X [2105943565918703696](https://x.com/aleabitoreddit/status/2105943565918703696) | $LITE CPO/NPO | ~70% undershipping demand in 2027; balance ~2029-30 | Ongoing — event quote; verify transcript |

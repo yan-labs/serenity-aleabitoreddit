@@ -1,4 +1,66 @@
 id,url,createdAtISO,createdAtLocal,lang,isRetweet,retweetedBy,likes,retweets,replies,quotes,views,bookmarks,media_count,media_urls,link_urls,quoted_id,quoted_author,quoted_text,text
+2108916977616179207,https://x.com/aleabitoreddit/status/2108916977616179207,2026-10-10T13:46:03Z,2026-10-10 21:46,en,False,,69,2,2,0,13138,17,0,,,,,,"@StanleyShih8 I think almost everything about my $AXTI thesis from 2025 was validated?
+
+From AXT's position in the InP substrate bottleneck... Being able to threaten the hyperscaler buildout (per Reuters)...
+
+$IQE has been flagging this as a major risk, VPEC and Taiwan epiwafer foundries have been crying over InP substrate bottlenecks.
+
+And there's even AXT direct confirmation of partnerships with $LITE and $COHR as the InP substrate supplier. AXT also stated $130m/quarter InP revenue capacity exiting 2027 (~$520m annualized) so that's a massive revenue inflection compared to previously.
+
+Now... the biggest question is: How much can AXT price hike?
+
+The substrates they make are just such a tiny part of the BOM... but can threaten hyperscaler buildouts with optics.
+
+So if they manage to price hike to $SNDK NAND degrees (which they can), then I think AXT could get re-rated a ton from here. But if they end up like Japanese ABF suppliers that are less willing to abuse their position, that's a different story.
+
+Will need to do more channel checks to see how that's coming along.
+
+But at the very least, I would argue there should be some valuation baseline just due to their critical importance (eg. upstream refinery ownerships, crucible processing, etc) + existing capacity revenue without hikes.
+
+TLDR:
+- Bottleneck thesis was at like ~$500m MC
+- Upside now comes from price hikes due to duopoly position + ownership of upstream bottlenecks in the InP substrate manufacturing process. (which they can due to low cost of InP substrates in overall costs)
+- Uncharted territory, we'll see (also a central part of geopolitical tensions so there's always risk there)."
+2108908962397786280,https://x.com/aleabitoreddit/status/2108908962397786280,2026-10-10T13:14:12Z,2026-10-10 21:14,en,False,,137,8,4,3,13351,49,0,,,,,,"@Rian_2026 Good question! Just some informal thoughts... there's three ""moats"" to look at for $SIVE:
+
+- Capacity
+- Qualifications (especially for custom DFB lasers)
+- Technological
+
+1. For capacity, they're coming online with 100M+ CW DFB lasers Q4 2027 (global supply is roughly ~608M EML/CW lasers currently per Trendforce).
+
+Obviously by 2027 global capacity is going to grow a lot, with $AAOI, $AVGO (3x expansion), and others coming online.
+
+But if you extrapolate their 2:1 statement, that implies 300m lasers/year long term coming from their own supply + external foundries.
+
+This is incredibly valuable during a shortage that was quoted to be 3-5 years, and $LITE stating they already have demand visibility into 2031...
+
+And when suppliers have started to qualify many more (eg. 5-7 vendors vs. 2-3 earlier) due to bottlenecks.
+
+I'm sure a lot of how they achieve that staggering amount is due to their manufacturing process/yields (which is a moat).
+
+2. For qualifications, if you look at 70mW/100mW pluggable lines with Chinese players, I'd argue this is more generic and moreso reverting back to a capacity  argument and manufacturing process to achieve those numbers.
+
+Custom DFB arrays that they've been working on with Ayar (they hinted at 2-3 others back in 2023 like Celestial) take years for optical i/o related things and would be a moat if they finish quals.
+
+So it's not quite something you can hot swap or design out really easily for $MTSI or another company. But of course cpo scale up and such is mass volume in 2028, and we're still H2 2026.
+
+3. People can always compare raw specs like power output, but it's probably way way more nuanced so easier to just point toward customer statements.
+
+With $JBL 1.6T LRO: ""I think that there's the potential for a relatively dramatic moat with our LRO part…"" from Jabil's EVP, especially related to power consumption. And $SIVE is my guess sole source in this line.
+
+Jabil is probably the most important testament to how their lasers perform in mass production scenarios maybe around Q2 next year.
+
+Ayar said something similar along the lines of ""we couldn't do it without Sivers"" for custom implementations."
+2108900808956039390,https://x.com/aleabitoreddit/status/2108900808956039390,2026-10-10T12:41:48Z,2026-10-10 20:41,en,False,,147,4,9,0,17983,21,0,,,,,,"@HimarsoClock Someone did ask “How is Serenity” this time around! So I’m happy.
+
+I’m just personally excited about $LITE selling out into 2029 and implications for optical peers like $AAOI.
+
+Not advice, but I personally think markets haven’t fully caught onto the scale of AOI’s ramp in 2027 + current bottleneck severity. It’s one of my largest positions right now for a reason!
+
+Also I’m looking forward to touching grass over the weekend. Apparently there was an OCP San Jose event…
+
+Maybe I’ll drop by if there’s a Kiss of Life group  like at ICML."
 2108896030326682074,https://x.com/aleabitoreddit/status/2108896030326682074,2026-10-10T12:22:49Z,2026-10-10 20:22,en,False,,112,2,16,1,19782,11,0,,,,,,"Looks like one of you posted on $RDDT WSB… with a $1M $AAOI position.
 
 I’m laughing at the comments, even more amusing when my name pops up
