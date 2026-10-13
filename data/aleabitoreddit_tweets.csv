@@ -1,4 +1,111 @@
 id,url,createdAtISO,createdAtLocal,lang,isRetweet,retweetedBy,likes,retweets,replies,quotes,views,bookmarks,media_count,media_urls,link_urls,quoted_id,quoted_author,quoted_text,text
+2109798495838425208,https://x.com/aleabitoreddit/status/2109798495838425208,2026-10-13T00:08:54Z,2026-10-13 08:08,en,False,,41,2,2,1,7821,5,0,,,,,,"@wnwls1598 What oversupply? Even in the lower end ranges that they're focusing on, Chinese pluggable makers like Innolight are still bottlenecked for 70-100mW ranges from ECOC channel checks.
+
+Cambridge wouldn't be going out financing suppliers with convertible loans for scarce laser capacity.
+
+Suppliers wouldn't be raising ASPs if there was overcapacity. Also not all CW lasers are the same. China is a ways away from from scaling UHP lasers needed for CPO, which is why there's still premiums given to $LITE, $COHR, $SIVE.
+
+$LITE lasers are sold out into 2029 and they're starting negotiations into 2030.
+
+I don't think anyone genuinely believes that China will flood the laser markets medium term, even both $LITE /  $AAOI CEO said there was a difference between comments made and what they're actually seeing.
+
+From AOI on China: ""of them, they are working maybe 70 mW or very few can really do 100 mW. For 300 mW laser, especially DWDM spec, we don't see that.""
+
+ ""Not in the next two, three years, especially the demand is so big. Okay? Even combined AOI, Lumentum, Coherent, Broadcom all together, it's still very tough to meet the customer demand in the next few years""
+
+From Lumentum last month: ""At least at the moment, we see no impact from any Chinese laser supply.""
+
+But whenever markets want a correction people just blindly point to China with memory or optics while ignoring what's actually occurring with demand imbalances + LTAs spanning many years and constantly extending."
+2109789664622322081,https://x.com/aleabitoreddit/status/2109789664622322081,2026-10-12T23:33:48Z,2026-10-13 07:33,en,False,,436,39,95,6,94591,159,0,,,2109748007386087814,Wolfex_Yeat,@aleabitoreddit @SiversSemicond Serenity please give us some cope we are panicking out here with photonic stocks and memory 😭,"Sure... Random train of thoughts on markets now, optics like $LITE / memory + $IREN / Anthropic.
+
+On Memory:
+
+- Demand visibility on $MU / Samsung / SK Hynix extend into 2030-2031.
+
+Samsung has LTAs covering 70% of their capacity into 2031 (likely with SK Hynix type price floors)... and their operating profit is already absurd.
+
+There's a consensus that shortage in 2027 will be much more severe than 2026... Even $SNDK expends gross margins to exceed 80% entering 2030.
+
+You're going to hear Acer and other CEOs that want memory prices to go down cite bear cases like CXMT/YMTC, and Chinese players.
+
+But just looking at supply procurement that $NVDA is doing + hyperscalers, demand visibility is absurd for the next 5 years. And by that time, cumulative FCF coming in from these take/pay + pricing floor contracts might exceed some of their entire marketcaps so it feels like there's some baseline.
+
+Near-term is always volatile (IV dropped a ton across $EWY to $DRAM to $MU), so people with call options likely got nuked, along with underlying prices.
+
+But if Samsung is 3x 2027E, has 5 year LTAs with 70% of capacity committed from hyperscalers, and price floors, it's kinda hard to see these names suffer a sustained crash...
+
+For optics:
+
+- $LITE is literally sold out into 2029, starting discussions into 2030.  With demand visibility lasting into 2031… with hyperscalers largely funding the capacity buildout.
+
+Their 2028 Greensboro fab expansion was ~$5B in UHP laser capacity revenue alone, yet it’s basically allocated toward $NVDA (50%+ with options for more) and co from channel checks.
+
+Existing supply chain bottlenecks are extremely severe as optical content/XPU skyrockets entering 2027-2028.
+
+So everything from DSPs/TIAs, photodiodes, lasers, InP/SOI substrates, wafers (epi, SOI, etc) are expected to go brrr.
+
+And what does that imply to anyone else with enormous amounts of capacity coming online like $AAOI + $SIVE + $MTSI capacity expansion in 2027? Or other players like Sumitomo / Furukawa?
+
+But again it's not quite the same situation as memory since the BOM % is extremely low in a cluster... If micron/samsung raised another 2000% hyperscalers would go bankrupt. But doing that for InP substrates seems possible. Or a 100% increase on CW laser content.
+
+I actually thought $LITE was overvalued at $100B+ MC, relative to capacity expansion on your smaller optical players to their respective MCs. So I chose to position accordingly (But lumentum does deserve premiums for demand visibility).
+
+For the companies leading the charge like $NVDA / $AVGO / $MRVL:
+
+- Nvidia has 70% forward revenue growth FY2028 which is supply constrained growth.
+- Broadcom 100% Y/Y for 2027/2028 which is also supply constrained growth.
+- Marvell FY2031 upgraded guidance to $70B-$90B from $46B analyst projections...
+
+They all seem to be very happy.... and read through on demand for next 2-3 years is enormous (also echoing what $INTC CEO said today on the panel with $AVGO CEO).
+
+So you have overwhelming growth on memory + photonics + from the leaders... But the nuance is not everything in the AI supply chain get the same economic benefit.
+
+HBM/Laser/CPU/MLCC and other players in the bottlenecks look to be printing money. And seem to be the largest beneficiaries of the current bottlenecks.
+
+Test players are also getting price hikes + capacity allocated by players like $NVDA, but economic impact seems a tad lower than other players since forward P/E for many I modeled were still in the 45x+ range even if you hiked prices like 10-30%.
+
+As for capex intensive players... there's some like $IREN ($25-30B for 2027) that despite a deal with Anthropic ended up dropping.  I don't think markets seem to appreciate players spending a lot of money + ongoing financing (think they're like halfway through their $6B ATM).
+
+Just some hopium for $IREN investors, $NBIS also signed a deal with $META at the start of the year (but markets didn't care at all, since Nebius dropped to ~$70-80 at the lowest point?).
+
+But did 6 months later, as the time to revenue inflection gets closer and you're past the ATM/capex window, markets would likely care more.
+
+I don't think it's irrational but at the same time, the fundamentals have improved from Mirantis acquisition to others. I also think it was known for awhile it was either OpenAI/Anthropic from CEO comments earlier too?
+
+But either way to be a more risk-off environment where funds seem to be rotating to larger names as a flight to safety.
+
+$CRWD / $PLTR  as just two example, but my take is that the valuations of these rotations are reaching clown levels. And that certain AI supply chain beneficiaries in comparison are undervalued now.
+
+I was thinking markets would just rotate to names that are extremely profitable like Samsung or names that have <2X P/E, so it was surprising to see $KOSPI and some legacy memory players get sold off today.
+
+Since all of this is colliding with uncertainty about sht macro environments and renewed sustainability concern of AI capex/commitments from frontier labs like OpenAI/Anthropic from due to that FT piece recently. I've always been sounding the alarm about the contractual backlog OpenAI has with $CBRS, $MSFT, $ORCL and others earlier in the year. But OpenAI did just raise $122B or so , so I don't quite think they're at risk of going down anytime soon.
+
+I also don't think overall capex can just exponentially go up, but even if it stalls / hovers around a certain point or even drops...
+
+Capex toward certain areas like optics will still explode as hyperscalers fight over allocations when CPO scale up comes about, but might drop in others where more capacity comes online like test or DRAM. So it's a lot more nuanced than capex down = everything down or vice versa.
+
+I also slightly agree with community agreements that open weight models wouldn't lessen demand on AI infrastructure (otherwise $NVDA wouldn't be funneling funds into Reflection), but all the contractual obligations that Anthropic has might get messy if their models/company get cannibalized.
+
+Either way, I'd expect some of these frontier lab valuations to likely compress but I do think Jensen knows what he's doing though to avoid contagion.
+
+But basically:
+
+- Extremely difficult market now, can't just throw money at any AI supply chain company like $GLW and expect it to go up. There's cause for concern of rate hikes mixed with financing per $AVGO CEO but not to the point you just blindly sell off everything.
+
+Also I think markets are stupid and ties baskets together so that leads to mispricing + individual buying opportunities with certain chokepoints too.
+
+If capacity + demand is visible and forward p/e compresses like $AAOI to single digits off hundreds or thousands of percent growth from hyperscalers off $471m transceiver revenues and hundreds of thousands of monthly ELSFP capacity. Or $SIVE coming online with 100M+ laser capacity + multiple foundries with ASP hikes on lasers. I wouldn't lump them into other AI supply chain names in IP like $RMBS or others.
+
+My take is that AI supply chain beneficiaries with closer inflection points, demand visibility, and forward P/E compressing due to economic leverage would likely outperform medium term despite current volatility.
+
+TLDR:
+- Memory strongest risk/adjusted return with LTAs + pricing floors extending to 2030's + buybacks.
+- My opinion is that optical supercycle for 2027-2028 with CPO/NPO is going to look absurd relative to capacity coming online of smaller suppliers.
+- Overwhelming fundamentals/growth colliding with sht macro + media scares
+- Markets are stupid and groups things in baskets and sells them all off together or buys overvalued names, creating short/long opportunities
+
+I'd give a prayer to people on short term options given underlying drop + IV decline, but there could be a reversal... who knows. Most valuable thing right now is time."
+2109747793313304579,https://x.com/aleabitoreddit/status/2109747793313304579,2026-10-12T20:47:25Z,2026-10-13 04:47,en,False,,248,10,14,1,17976,5,0,,,,,,"@SiversSemicond Good news, communication to western audiences needs to be a lot better."
 2108916977616179207,https://x.com/aleabitoreddit/status/2108916977616179207,2026-10-10T13:46:03Z,2026-10-10 21:46,en,False,,69,2,2,0,13138,17,0,,,,,,"@StanleyShih8 I think almost everything about my $AXTI thesis from 2025 was validated?
 
 From AXT's position in the InP substrate bottleneck... Being able to threaten the hyperscaler buildout (per Reuters)...
