@@ -240,10 +240,16 @@ Source: [2065289672356745561](https://x.com/aleabitoreddit/status/20652896723567
 
 ---
 
-## Sep 18 – Oct 10, 2026 incremental calibration
+## Sep 18 – Oct 13, 2026 incremental calibration
 
 | Date | Source | Ticker / theme | Call / update | Outcome / note |
 |------|--------|----------------|---------------|----------------|
+| 2026-10-13 | X [2109900353349300590](https://x.com/aleabitoreddit/status/2109900353349300590) | $AVGO / OpenAI media | Tan: AI semi demand ≥2y / shortage; OpenAI fundamentals defended; media “gamblers” framing distorted | Ongoing — transcript vs headline calibration |
+| 2026-10-13 | X [2109906912989028547](https://x.com/aleabitoreddit/status/2109906912989028547) | $LITE / Samsung memory | Samsung LTAs ~70% to 2031; LITE sold out into 2029 / 2030 locks; fundamentals > narrative | Ongoing — reinforces LTA/sold-out framing |
+| 2026-10-13 | X [2109937773440577755](https://x.com/aleabitoreddit/status/2109937773440577755) | Humanoids / physical AI | Unitree CEO: GPT-6 compresses “ChatGPT moment” to ~1–2y (80/80 tasks) | Ongoing — timeline outlook; verify quotes |
+| 2026-10-13 | X [2110142633716965836](https://x.com/aleabitoreddit/status/2110142633716965836) | $CCXI / $AGLT | SEC S-4 effective; ~Nov 2 vote; Nov close / ticker live hoped | Listing path — verify close |
+| 2026-10-13 | X [2110145100085150052](https://x.com/aleabitoreddit/status/2110145100085150052) | Agility | Disclosed Agility positions; prefers US humanoid funding; NVDA/AMZN backing | Position disclosure |
+| 2026-10-13 | X [2110146513766900019](https://x.com/aleabitoreddit/status/2110146513766900019) | $SKHY / Samsung memory | Elon anti-memory posts linked to memory ASP hikes | ASP/politics color |
 | 2026-10-10 | X [2108916977616179207](https://x.com/aleabitoreddit/status/2108916977616179207) | $AXTI / InP | 2025 bottleneck thesis validated; LITE/COHR supplier confirm; ~$130m/q InP capacity exit-2027; upside = price hikes (SNDK-like vs ABF restraint) | Ongoing — capacity/ASP path; verify filings and realized pricing |
 | 2026-10-10 | X [2108908962397786280](https://x.com/aleabitoreddit/status/2108908962397786280) | $SIVE moats | Capacity / quals (custom DFB+Ayar) / tech (JBL 1.6T LRO sole-source guess); Q2'27 Jabil mass-prod testament | Ongoing — moat map; verify quals and sole-source |
 | 2026-10-10 | X [2108900808956039390](https://x.com/aleabitoreddit/status/2108900808956039390) | $LITE → $AAOI | LITE sold-out-into-2029; AAOI 2027 ramp underpriced; AAOI among largest positions | Ongoing — conviction/position reaffirmation |

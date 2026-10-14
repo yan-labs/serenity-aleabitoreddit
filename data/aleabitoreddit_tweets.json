@@ -1,5 +1,394 @@
 [
   {
+    "id": "2110146513766900019",
+    "text": "Guess like we found out why Elon has been going on a crusade against memory in his recent posts.\n\n$SKHY and Samsung have been price hiking memory too much? https://t.co/r3sTYkd7TX",
+    "author": {
+      "id": null,
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 653,
+      "retweets": 30,
+      "replies": 51,
+      "quotes": 11,
+      "views": 76193,
+      "bookmarks": 64
+    },
+    "createdAt": "Tue Oct 13 23:11:48 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": null,
+    "createdAtISO": "2026-10-13T23:11:48Z",
+    "createdAtLocal": "2026-10-14 07:11"
+  },
+  {
+    "id": "2110145100085150052",
+    "text": "@AllTheWayRay8 I have positions in Agility! I do want to see US humanoid programs succeed, even if they’re behind Unitree and others now.\n\nSo I have a personal preference in funding US players over foreign programs. \n\nBut $NVDA and $AMZN are heavily backing Agility so that’s always positive",
+    "author": {
+      "id": null,
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 34,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "views": 4743,
+      "bookmarks": 1
+    },
+    "createdAt": "Tue Oct 13 23:06:11 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": null,
+    "inReplyToTweetId": "2110143700945063961",
+    "createdAtISO": "2026-10-13T23:06:11Z",
+    "createdAtLocal": "2026-10-14 07:06"
+  },
+  {
+    "id": "2110142633716965836",
+    "text": "$AGLT (Agility Robotics) has cleared SEC review for public listing through $CCXI\n\nIf you want an estimate timeline:\n\n~Oct 13 (today): SEC S-4 declared effective\n\n~Nov 2nd (shareholder vote): for merger approval\n\n~November: Merger closing and ticker goes live for trading. \n\nCompany’s official statement was:\n\n“The business combination remains subject to approval by Churchill XI shareholders and other customary closing conditions, and is expected to close in November 2026.”\n\nSo likely less than a month away for the first pure play US humanoid company to go live!",
+    "author": {
+      "id": null,
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 286,
+      "retweets": 27,
+      "replies": 29,
+      "quotes": 3,
+      "views": 62009,
+      "bookmarks": 88
+    },
+    "createdAt": "Tue Oct 13 22:56:23 +0000 2026",
+    "media": [],
+    "urls": [
+      "https://twitter.com/agilityrobotics/status/2110124714735849916"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": null,
+    "quotedTweet": {
+      "id": "2110124714735849916",
+      "text": "One step closer to Nasdaq: the SEC has declared effective our Form S-4 for the proposed business combination with Churchill Capital Corp XI (Nasdaq: CCXI).\n\nExpected ticker: AGLT\nRead the announcement: https://t.co/0OtlydSK8k",
+      "author": {
+        "id": null,
+        "name": null,
+        "screenName": null
+      }
+    },
+    "createdAtISO": "2026-10-13T22:56:23Z",
+    "createdAtLocal": "2026-10-14 06:56"
+  },
+  {
+    "id": "2109942749168619780",
+    "text": "@MarginCallMick Elon has a pretty remarkable track record of identifying and leading commercialization of major shifts like EVs to reusable rockets (and now humanoids). \n\nI would agree he's often a bit overly ambitious on timelines... \n\nBut if you've ever watched Star Wars or sci fi movies... I do think humanoids are coming and at a massive scale to replace human labor, since economic incentives are enormous",
+    "author": {
+      "id": null,
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 75,
+      "retweets": 0,
+      "replies": 5,
+      "quotes": 0,
+      "views": 12570,
+      "bookmarks": 2
+    },
+    "createdAt": "Tue Oct 13 09:42:06 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": null,
+    "inReplyToTweetId": "2109938802777117081",
+    "createdAtISO": "2026-10-13T09:42:06Z",
+    "createdAtLocal": "2026-10-13 17:42"
+  },
+  {
+    "id": "2109939928717308203",
+    "text": "@BullishWiener I'm just tracking technological inflection points, not making an argument for stock prices right now like $CCXI (Agility). \n\nBut if people are long term investors in humanoids + their supply chains like actuators, feels more like a matter of when.\n\nSince mass commercialization seems inevitable if humanoids are able to do 80%+ of tasks in unfamiliar environments... for such a cheap cost",
+    "author": {
+      "id": null,
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 77,
+      "retweets": 1,
+      "replies": 4,
+      "quotes": 0,
+      "views": 14277,
+      "bookmarks": 8
+    },
+    "createdAt": "Tue Oct 13 09:30:54 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": null,
+    "inReplyToTweetId": "2109938029414461494",
+    "createdAtISO": "2026-10-13T09:30:54Z",
+    "createdAtLocal": "2026-10-13 17:30"
+  },
+  {
+    "id": "2109937773440577755",
+    "text": "Physical AI + Humanoids are the next progression of AI.\n\n$NVDA CES 2025 projections and Elon's prediction on $TSLA + 1 Billion humanoids in the next decade, seems to be speeding up. \n\nNew statement from Unitree CEO after testing GPT-6 on their humanoid program was that:\n\n- In August, before GPT-6's release, Wang said the industry could take two to three years at its fastest pace, or as long as a decade, to reach its \"ChatGPT moment\"\n\n- Now, OpenAI's GPT-6 model prompted expectations that a breakthrough could happen \"within 1 or 2 years\"\n\n- He defined that moment as robots being able to complete around 80 per cent of tasks in 80 per cent of unfamiliar environments using voice or text commands.\n\n- \"It's possible that, say, a GPT-7 model released next year could directly crack the problems of embodied intelligence\"\n\n- \"The whole embodied intelligence industry has been shaken up after the release of GPT-6\"\n\nJust looking at some benchmarks on robotic hand manipulation, \"On the bowl task Astra placed the block in 19 of 20 trials, against Fable 5.1's 8 of 20\".\n\nBut for the puzzle task \"Astra completed the insertion 2 times in 20 against Fable 5.1's 2 in 20\"\".. so we're getting there. \n\nBut going from 2-3 years (potentially to a decade), and compressing that down to 1 or 2 years (to achieve 80%+ of tasks in unfamiliar environemnts) is a significant change in outlook.",
+    "author": {
+      "id": null,
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 895,
+      "retweets": 60,
+      "replies": 105,
+      "quotes": 14,
+      "views": 177968,
+      "bookmarks": 218
+    },
+    "createdAt": "Tue Oct 13 09:22:20 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": null,
+    "createdAtISO": "2026-10-13T09:22:20Z",
+    "createdAtLocal": "2026-10-13 17:22"
+  },
+  {
+    "id": "2109906912989028547",
+    "text": "@SidkMena Samsung has LTAs covering 70% of memory capacity spanning until 2031. \n\n$LITE is completely sold out into 2029 and with customers starting to lock in orders for 2030. \n\nThere's the actual demand. Then there's short term media narratives that cause people to sell.\n\nThere's been many scares over the past few years over $NVDA GPUs from Deepseek to macro but in the end fundamentals matter more.",
+    "author": {
+      "id": null,
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 129,
+      "retweets": 10,
+      "replies": 4,
+      "quotes": 1,
+      "views": 13629,
+      "bookmarks": 6
+    },
+    "createdAt": "Tue Oct 13 07:19:42 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": null,
+    "inReplyToTweetId": "2109901427531485692",
+    "createdAtISO": "2026-10-13T07:19:42Z",
+    "createdAtLocal": "2026-10-13 15:19"
+  },
+  {
+    "id": "2109902911648227482",
+    "text": "@Mahesh2115 Transcript response: Investors who sell on a single short term OpenAI ARR datapoint are no different from gambling money in a casino\n\nWestern Media framing: AI investors are gamblers.",
+    "author": {
+      "id": null,
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 98,
+      "retweets": 1,
+      "replies": 5,
+      "quotes": 2,
+      "views": 13780,
+      "bookmarks": 4
+    },
+    "createdAt": "Tue Oct 13 07:03:48 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": null,
+    "inReplyToTweetId": "2109901262150139904",
+    "createdAtISO": "2026-10-13T07:03:48Z",
+    "createdAtLocal": "2026-10-13 15:03"
+  },
+  {
+    "id": "2109900353349300590",
+    "text": "So spent some more time to look at more DBS conference material: \n\n- \"Two semiconductor giants, $AVGO and $INTC, both stated that breakthroughs in AI will keep demand for chip investment elevated for at least another 2 years. As current supply is insufficient to meet market demand.\"\n\n- \"Current chip production capacity is already far from sufficient to meet demand, and $AVGO CEO expects the shortage to become even more severe in the future.\" (HKEJ) \n\n- \"Regarding OpenAI, Hock Tan stated that the market had misinterpreted the company because its underlying fundamentals remained strong.\n\nHe argued that investors who sell based on a single short-term data point [$50B ARR] are \"essentially no different from people gambling in a casino.\" (eg. Hong Kong Economic Journal):\n\n- Commenting on investors' disappointment in OpenAI’s latest revenue forecast: \"by itself, not that bad\" on their $50B ARR. (Business Times)\n\nAnd connected investors' disappointment to a failure to understand the business and excessive expectations like a casino. \n\n- Tan rejected the proposition that OpenAI was overvalued. It quotes him saying:\n\n\"It’s almost like they are in a casino gambling\" in regards to investors' unrealistic expectations and lack of understanding on OpenAI.\n\n- Hock Tan if OpenAI and Anthropic achieve widespread market adoption: their attractiveness would substantially strengthen their bargaining power when raising capital. \n\nBut cautioned elevated global interest rates could make capital requirements a constraint for future growth.\n\n- The real driver, he said, is whether frontier AI companies can create models that generate enough value and returns to justify the buildout. (which is fair)\n\n- Most companies are wasting money on tokens. He also warned that most companies just waste money spending tokens like kids in a video arcade.\n\nThis part was the most badly worded by Hock Tan given he's running $AVGO. \n\nBut Western media commentary narrowed this down to:\n- \"Shortage of capital now, AI Investors are gamblers\". \n\nIn the conference, Broadcom's CEO was actually defending frontier lab valuations and giving cautiously bullish statements about AI infrastructure demand. \n\nWhile citing rising interest rates as a potential constraint that larger revenue or adoption could overcome. \n\nCherry picking quotes out of context disorts the actual messaging. \n\nTLDR:\n\n- Large and elevated AI semi demand, semi supply insufficient to meet market demand. At least another 2 years of elevated spend\n\n- OpenAI valuations defensible, people who sell based on extreme expectations for the company are like casino gamblers. \n\n- Tan stated markets had misinterpreted OpenAI's ARR because its underlying fundamentals remained strong.\n\n-  Frontier labs if they achieve widespread adoption / revenue would strengthen capital raising, which overpower headwinds from raising interest rates. \n\nLot of $AVGO CEO remarks looks heavily nuanced, which Western media coverage distored.",
+    "author": {
+      "id": null,
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1226,
+      "retweets": 116,
+      "replies": 94,
+      "quotes": 38,
+      "views": 288996,
+      "bookmarks": 319
+    },
+    "createdAt": "Tue Oct 13 06:53:38 +0000 2026",
+    "media": [],
+    "urls": [
+      "https://twitter.com/aleabitoreddit/status/2109852646484201736"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": null,
+    "quotedTweet": {
+      "id": "2109852646484201736",
+      "text": "Wow this is sad to see Korean markets with $SKHY / Samsung crash like this.\n\nSpecial thanks to $AVGO CEO adding fuel the fire… \n\nCalling AI investors gamblers and saying enterprise AI isn’t delivering ROI. https://t.co/fHzsD9Na4s",
+      "author": {
+        "id": null,
+        "name": null,
+        "screenName": null
+      }
+    },
+    "createdAtISO": "2026-10-13T06:53:38Z",
+    "createdAtLocal": "2026-10-13 14:53"
+  },
+  {
+    "id": "2109864215993589834",
+    "text": "@firstadopter Bloomberg is garbage.",
+    "author": {
+      "id": null,
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 319,
+      "retweets": 7,
+      "replies": 14,
+      "quotes": 2,
+      "views": 26809,
+      "bookmarks": 5
+    },
+    "createdAt": "Tue Oct 13 04:30:03 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": null,
+    "inReplyToTweetId": "2109863427065975120",
+    "createdAtISO": "2026-10-13T04:30:03Z",
+    "createdAtLocal": "2026-10-13 12:30"
+  },
+  {
+    "id": "2109864027962929392",
+    "text": "@Nesquickie89 Yeah just read a bit more into it... Special thanks to *Bloomberg* for adding fuel to the fire. \n\nYou can't hate mainstream media enough wow.\n\n\"Hock Tan stated that the market had misinterpreted the company [OpenAI] because its underlying fundamentals were strong. \n\nInvestors selling based on a single short-term data point were essentially no different from people gambling in a casino.\"\n\nHe was pushing back against negative interpretations of OpenAI's revenue... but somehow Bloomberg spun that as a hit piece on AI investing?\n\nI'm impressed",
+    "author": {
+      "id": null,
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 226,
+      "retweets": 19,
+      "replies": 11,
+      "quotes": 6,
+      "views": 40263,
+      "bookmarks": 26
+    },
+    "createdAt": "Tue Oct 13 04:29:18 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": null,
+    "inReplyToTweetId": "2109856104876298706",
+    "createdAtISO": "2026-10-13T04:29:18Z",
+    "createdAtLocal": "2026-10-13 12:29"
+  },
+  {
+    "id": "2109852646484201736",
+    "text": "Wow this is sad to see Korean markets with $SKHY / Samsung crash like this.\n\nSpecial thanks to $AVGO CEO adding fuel the fire… \n\nCalling AI investors gamblers and saying enterprise AI isn’t delivering ROI. https://t.co/fHzsD9Na4s",
+    "author": {
+      "id": null,
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1897,
+      "retweets": 78,
+      "replies": 202,
+      "quotes": 24,
+      "views": 503849,
+      "bookmarks": 143
+    },
+    "createdAt": "Tue Oct 13 03:44:04 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": null,
+    "createdAtISO": "2026-10-13T03:44:04Z",
+    "createdAtLocal": "2026-10-13 11:44"
+  },
+  {
     "id": "2109798495838425208",
     "text": "@wnwls1598 What oversupply? Even in the lower end ranges that they're focusing on, Chinese pluggable makers like Innolight are still bottlenecked for 70-100mW ranges from ECOC channel checks. \n\nCambridge wouldn't be going out financing suppliers with convertible loans for scarce laser capacity. \n\nSuppliers wouldn't be raising ASPs if there was overcapacity. Also not all CW lasers are the same. China is a ways away from from scaling UHP lasers needed for CPO, which is why there's still premiums given to $LITE, $COHR, $SIVE. \n\n$LITE lasers are sold out into 2029 and they're starting negotiations into 2030. \n\nI don't think anyone genuinely believes that China will flood the laser markets medium term, even both $LITE /  $AAOI CEO said there was a difference between comments made and what they're actually seeing. \n\nFrom AOI on China: \"of them, they are working maybe 70 mW or very few can really do 100 mW. For 300 mW laser, especially DWDM spec, we don't see that.\"\n\n \"Not in the next two, three years, especially the demand is so big. Okay? Even combined AOI, Lumentum, Coherent, Broadcom all together, it's still very tough to meet the customer demand in the next few years\"\n\nFrom Lumentum last month: \"At least at the moment, we see no impact from any Chinese laser supply.\"\n\nBut whenever markets want a correction people just blindly point to China with memory or optics while ignoring what's actually occurring with demand imbalances + LTAs spanning many years and constantly extending.",
     "author": {
