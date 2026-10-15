@@ -1,5 +1,36 @@
 [
   {
+    "id": "2110333876144881903",
+    "text": "@lyAtomic Okay just a clarification, this post was more about CPO  but wrote it too quickly... don't want to imply everything as a whole like cables/pluggables. \n\nThe question was whether microled + multimode fiber architectures proposed by AUO and others could break into CPO:\n\nThe response regarding microled architecture skepticism for CPO is actually a lot more supportive for CW lasers. \n\nI assumed VCSEL when I made this post, but they share the multimode fiber approach Largan's chairman is criticizing so it's probably less so. \n\n\"However, CEO Lin En-ping poured cold water on the widely discussed approach of pairing MicroLEDs with multimode optical fiber, stating bluntly that he personally believes the MicroLED approach is “unlikely” to materialize. \n\n He added that no customers currently genuinely consider the architecture commercially viable.\"",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 60,
+      "retweets": 1,
+      "replies": 9,
+      "quotes": 1,
+      "views": 11738,
+      "bookmarks": 6
+    },
+    "createdAt": "Wed Oct 14 11:36:18 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2110315297374937103",
+    "inReplyToTweetId": "2110317612496564564",
+    "createdAtISO": "2026-10-14T11:36:18Z",
+    "createdAtLocal": "2026-10-14 19:36"
+  },
+  {
     "id": "2110146513766900019",
     "text": "Guess like we found out why Elon has been going on a crusade against memory in his recent posts.\n\n$SKHY and Samsung have been price hiking memory too much? https://t.co/r3sTYkd7TX",
     "author": {
