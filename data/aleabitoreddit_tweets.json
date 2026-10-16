@@ -1,5 +1,271 @@
 [
   {
+    "id": "2110848740559126575",
+    "text": "Glad we finally got a word too from $NVDA Jensen Huang today from an event at Stockholm...\n\nAbout $CRWV amid the broader Neocloud selloff. \n\nWhen asked about the markets reactions to Coreweave, Jensen responded: \n\n- \"Coreweave's strength is improving every day, I'm optimistic\"\n- \"The cost of capital is actually decreasing\"\n\nOn whether Nvidia needed to provide a financial backstop:\n\n- Jensen said he did not see a need for Nvidia to backstop CoreWeave\n\nI'm personally not too positive about $CRWV relative to $NBIS and the others... but any copium helps from the man himself with market sentiment.",
+    "author": {
+      "id": null,
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 427,
+      "retweets": 20,
+      "replies": 41,
+      "quotes": 2,
+      "views": 102634,
+      "bookmarks": 64
+    },
+    "createdAt": "Thu Oct 15 21:42:12 +0000 2026",
+    "media": [],
+    "urls": [
+      "https://twitter.com/EscapeTheLab/status/2110825754816880897"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": null,
+    "quotedTweet": {
+      "id": "2110825754816880897",
+      "text": "@aleabitoreddit Fresh copium dopamine hit from Serenity post on a day my port gets blasted https://t.co/2MXCdqgFXV",
+      "author": {
+        "id": null,
+        "name": null,
+        "screenName": null
+      }
+    },
+    "createdAtISO": "2026-10-15T21:42:12Z",
+    "createdAtLocal": "2026-10-16 05:42"
+  },
+  {
+    "id": "2110843876600922451",
+    "text": "@EscapeTheLab I mean it's probably more important to look at the actions over words... I'm sure $GOOGL trying to secure supply until 2035, would spark other hyperscalers to follow suit as well. \n\nThey probably wouldn't be going 9 years out if they thought there would be overflooding in supply from China in 2 years.",
+    "author": {
+      "id": null,
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 36,
+      "retweets": 1,
+      "replies": 2,
+      "quotes": 0,
+      "views": 6102,
+      "bookmarks": 3
+    },
+    "createdAt": "Thu Oct 15 21:22:52 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": null,
+    "inReplyToTweetId": "2110825754816880897",
+    "createdAtISO": "2026-10-15T21:22:52Z",
+    "createdAtLocal": "2026-10-16 05:22"
+  },
+  {
+    "id": "2110835574458442200",
+    "text": "@ishrak_khair Nobody said $SIVE was going to be the sole laser provider for Ayar for all generations. 2nd gen Supernova was 16x wavelength that they confirmed Sivers.\n\nAyar is expected to do multi-vendor for lasers, would be stupid not to. Originally disclosed suppliers were $LITE, $MTSI, and $SIVE, but there's probably only a few companies that can do this new design. \n\nFor their new demonstration at OCP it's 8x 200mW range, $LITE is probably the closest one technologically to Ayar's OCP announcement, with 8x 250 mW demonstrated at ECOC just last month that they're targeting availability later in 2027. \n\nI don't see anything where $MTSI has demonstrated remotely similar capabilities yet. Macom were saying they were still working on 75 mW qualifications targeting production H2 2027. \n\n$SIVE has lower power 8/16 channel specs, and individual 200 mW lasers for NPO. I think this might relate to their Seminex partnership for UHP multi channel variants that they were targeting for 2027 so high confidence they'll meet technology specs eventually, more of a matter of timing. \n\nBut basically new announced configuration from Ayar, can't really make any assumptions here yet, will need to wait for earnings of these players.",
+    "author": {
+      "id": null,
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 104,
+      "retweets": 7,
+      "replies": 8,
+      "quotes": 3,
+      "views": 10025,
+      "bookmarks": 18
+    },
+    "createdAt": "Thu Oct 15 20:49:53 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": null,
+    "inReplyToTweetId": "2110826605832536317",
+    "createdAtISO": "2026-10-15T20:49:53Z",
+    "createdAtLocal": "2026-10-16 04:49"
+  },
+  {
+    "id": "2110825405611671559",
+    "text": "@BullishWiener I'm happy $GOOGL is being more aggressive with supply procurement like $NVDA was.\n\nThey've been way too complacent and let others bottleneck their own supply chain. \n\nCSPs and hyperscalers will be in a rude awakening if they're hoping for Chinese memory to save them.",
+    "author": {
+      "id": null,
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 46,
+      "retweets": 1,
+      "replies": 4,
+      "quotes": 0,
+      "views": 7983,
+      "bookmarks": 3
+    },
+    "createdAt": "Thu Oct 15 20:09:28 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": null,
+    "inReplyToTweetId": "2110823223713525930",
+    "createdAtISO": "2026-10-15T20:09:28Z",
+    "createdAtLocal": "2026-10-16 04:09"
+  },
+  {
+    "id": "2110823066595131768",
+    "text": "$GOOGL is now discussing deals to extend their memory LTAs through 2035 from KeyBanc channel checks. \n\nSamsung already has 70% of their capacity allocated through 2031, and this move would suggest a more durable cycle for $MU, $SKHY, and the others. \n\nThey also expect HBM prices up 80% to 100% in the Q1 2027. \n\nHaving all your capacity potentially allocated out into 2035 via LTAs would ease a lot of memory durability fears.",
+    "author": {
+      "id": null,
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 812,
+      "retweets": 68,
+      "replies": 54,
+      "quotes": 13,
+      "views": 112329,
+      "bookmarks": 137
+    },
+    "createdAt": "Thu Oct 15 20:00:10 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": null,
+    "createdAtISO": "2026-10-15T20:00:10Z",
+    "createdAtLocal": "2026-10-16 04:00"
+  },
+  {
+    "id": "2110645575469461611",
+    "text": "$TSM released earnings today. I was more curious about commentary given recent the market panic.\n\nFor analyst Q&A rounds: \n\nQ: Citi explicitly challenged TSMC on AI financing, HBM, CoWoS, lasers and the risk of overbuilding capacity \n\nA: $TSM assessed CSP capex, DC construction conditions, customer financial conditions, and supply of critical components. \n\nManagement's conclusion is still that \"demand exceeds supply\". As well as that AI accelerator revenue growth could exceed its previous 50%+ CAGR projection through 2029.\n\nThis is a more meaningful statement since it addresses some concerns regarding recent selloff. \n\nQ: JPM asked if wafer supply could be tighter in 2027 than in 2026 (demand visibility)\n\nA: Wei (Chairman/CEO) stated $TSM even sends staff to verify DC construction progress on site. And after assessing all the factors, TSMC believes gap between supply and demand remains substantial.  \n\nIt could not determine whether the extent of the gap given customers continues to increase demand. \n\nQ: On pricing power:\n\nA: Wei responded that there is \"no ceiling on TSMC's profitability\" but that profits will not surge dramatically overnight.\n\n(Source: NextApple, Taiwanese press)\n\nRegarding earnings, very strong: as usual \n\n- TSMC record profits of $23.6B (68% Y/Y growth), and revenue jumping to $46.72B, beating expectations.\n\n- Q4 Guidance was $52.3-$54.3B revenue off 65-67% gross margins.\n\nTLDR:\n\n- No signs of any slowdown or collapse as AI demand far exceeds supply for foreseeable future. $TSM is probably the fundamental proxy/canary to how the overall AI semi trade is doing. \n\n- On financing concerns and fear of overcapacity showing up in semiconductor demand: \n\n$TSM specifically examined the risks investors are concerned about now and assessment still points to unmet demand. \n\nDuring the Q&A session, Wei said AI demand was \"very, extremely strong,\" with absolutely no signs of slowing.\n\nUnderlying AI semi supply chain growth is healthier than recent market panic suggest.",
+    "author": {
+      "id": null,
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1269,
+      "retweets": 107,
+      "replies": 113,
+      "quotes": 30,
+      "views": 270834,
+      "bookmarks": 282
+    },
+    "createdAt": "Thu Oct 15 08:14:53 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": null,
+    "createdAtISO": "2026-10-15T08:14:53Z",
+    "createdAtLocal": "2026-10-15 16:14"
+  },
+  {
+    "id": "2110621448272577019",
+    "text": "@HenilPatel20864 Clearly a macro related drop after CPI numbers came out today and further US rate hike anticipation. Since $KOSPI, $SPY, and Nikkei ended up plummeting. \n\nThere's too many potential second/third order effects that's hard to map due if $CRWV goes down or frontier labs struggle (given contractual obligations).  \n\nRate hikes understandably amplifies a lot of those fears. But I do think everything getting sold off together presents opportunities. \n\nIf $LITE has take/pay contracts + sold out until 2029 for lasers and is being financed by hyperscalers for 2031 demand. \n\nThe demand visibility + financing (with counterparties like $MSFT or $AMZN) are too solid that I wouldn't bunch companies in the optical sector together (that already have cash on hand via ATMs or private placement). \n\nWith a neocloud that requires billions in future toxic financing in high rate environments. \n\nI think markets will eventually distinguish nuances from actual profitability, financing, and long term demand sustainability rather than just treating everything as one \"bubble\".",
+    "author": {
+      "id": null,
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 125,
+      "retweets": 4,
+      "replies": 3,
+      "quotes": 0,
+      "views": 19902,
+      "bookmarks": 19
+    },
+    "createdAt": "Thu Oct 15 06:39:01 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": null,
+    "inReplyToTweetId": "2110616454953304499",
+    "createdAtISO": "2026-10-15T06:39:01Z",
+    "createdAtLocal": "2026-10-15 14:39"
+  },
+  {
+    "id": "2110615506474651804",
+    "text": "It's interesting to see Elon interacting with finance X accounts out of the blue. \n\nThen amplifying $CRWV financing concerns, Chinese memory flooding, to AI investors being gamblers recently. \n\nWith $SPCX and $TSLA, I do think Elon is a visionary but from how it looks from the outside... \n\nAmplifying concerns about competitors does make their financing more difficult as a self-fulfilling prophecy.\n\nAnd multiple posts about Chinese memory flooding after calling Samsung/SK Hynix pricing extortion does harm these supplier valuations...\n\nThe economic incentives of doing so probably benefits Tesla/SpaceX more in the long run, even if everything goes down together. \n\nThere's merit to a lot of things (I've been voicing Coreweave concerns about debt interest + rate hikes for the longest time...). \n\nBut much like high end memory flooding to nuances of \"No crying in a Casino\" when the $AVGO CEO comments were regarding OpenAI ARR datapoints... were missed.  \n\nYou can throw rocks at others when a glass house is  propped up by passive index flows",
+    "author": {
+      "id": null,
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1451,
+      "retweets": 66,
+      "replies": 126,
+      "quotes": 15,
+      "views": 340414,
+      "bookmarks": 268
+    },
+    "createdAt": "Thu Oct 15 06:15:24 +0000 2026",
+    "media": [],
+    "urls": [
+      "https://twitter.com/aleabitoreddit/status/2110146513766900019"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": null,
+    "quotedTweet": {
+      "id": "2110146513766900019",
+      "text": "Guess like we found out why Elon has been going on a crusade against memory in his recent posts.\n\n$SKHY and Samsung have been price hiking memory too much? https://t.co/r3sTYkd7TX",
+      "author": {
+        "id": null,
+        "name": null,
+        "screenName": null
+      }
+    },
+    "createdAtISO": "2026-10-15T06:15:24Z",
+    "createdAtLocal": "2026-10-15 14:15"
+  },
+  {
     "id": "2110333876144881903",
     "text": "@lyAtomic Okay just a clarification, this post was more about CPO  but wrote it too quickly... don't want to imply everything as a whole like cables/pluggables. \n\nThe question was whether microled + multimode fiber architectures proposed by AUO and others could break into CPO:\n\nThe response regarding microled architecture skepticism for CPO is actually a lot more supportive for CW lasers. \n\nI assumed VCSEL when I made this post, but they share the multimode fiber approach Largan's chairman is criticizing so it's probably less so. \n\n\"However, CEO Lin En-ping poured cold water on the widely discussed approach of pairing MicroLEDs with multimode optical fiber, stating bluntly that he personally believes the MicroLED approach is “unlikely” to materialize. \n\n He added that no customers currently genuinely consider the architecture commercially viable.\"",
     "author": {

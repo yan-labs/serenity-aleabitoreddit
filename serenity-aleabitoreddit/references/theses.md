@@ -41,6 +41,12 @@ restore branch split.
 - **Oct 13 memory ASP / Elon framing:** [2110146513766900019](https://x.com/aleabitoreddit/status/2110146513766900019) links Elon’s recent anti-memory posts to `$SKHY`/Samsung memory price hiking. Use as ASP/politics color on the memory supercycle, not a new LTA; verify pricing evidence.
 - **Oct 14 CPO MicroLED+MMF skepticism / CW-laser read-through:** [2110333876144881903](https://x.com/aleabitoreddit/status/2110333876144881903) (full `note_tweet`) clarifies a prior CPO-scoped post (not cables/pluggables): whether AUO-style MicroLED + multimode-fiber architectures can break into CPO. Cites Largan CEO Lin En-ping calling MicroLED+MMF “unlikely” and saying no customers treat it as commercially viable; frames the skepticism as more supportive for CW lasers. Notes his earlier VCSEL assumption overlaps the multimode approach being criticized. Treat as architecture/competitive-path color reinforcing CW-laser CPO demand, not a ticker call; verify Largan quotes and customer adoption.
 
+- **Oct 15 TSM earnings / AI-demand canary:** [2110645575469461611](https://x.com/aleabitoreddit/status/2110645575469461611) (full `note_tweet`) reads TSMC Q&A through market-panic lenses: management still concludes demand exceeds supply after checking CSP capex, DC construction, customer finances, and critical components; AI accelerator revenue growth could exceed prior 50%+ CAGR through 2029; Wei says staff verify DC builds on site and the supply–demand gap remains substantial; “no ceiling on profitability” but no overnight surge. Earnings strong (record profits ~$23.6B / +68% Y/Y; revenue ~$46.72B; Q4 guide ~$52.3–$54.3B at 65–67% GM). Frames `$TSM` as the fundamental proxy for the AI-semi trade and says underlying supply-chain growth looks healthier than the selloff narrative. Verify transcripts, guidance, and NextApple/Taiwanese-press sourcing.
+- **Oct 15 GOOGL memory LTAs → 2035 / HBM ASP:** [2110823066595131768](https://x.com/aleabitoreddit/status/2110823066595131768) cites KeyBanc channel checks that `$GOOGL` is discussing memory LTA extensions through **2035**; Samsung already ~70% capacity allocated through 2031; read-through as more durable cycle for `$MU`/`$SKHY` and peers; HBM prices expected **+80% to +100% in Q1 2027**. Related replies reinforce actions-over-words (hyperscalers wouldn’t lock 9y out if Chinese supply flooded in ~2y) and applaud GOOGL matching `$NVDA`-style aggressive procurement. Treat as channel-check color; verify KeyBanc note, LTA terms, and realized HBM ASP.
+- **Oct 15 SIVE / Ayar multi-vendor laser caution:** [2110835574458442200](https://x.com/aleabitoreddit/status/2110835574458442200) (full `note_tweet`) says nobody claimed `$SIVE` would be sole Ayar laser for all gens; 2nd-gen Supernova 16λ confirmed Sivers; Ayar expected multi-vendor (`$LITE`/`$MTSI`/`$SIVE`). New OCP demo ~8×200mW: `$LITE` closest tech (8×250mW at ECOC; avail later 2027); `$MTSI` not yet similar (Macom ~75mW quals → H2 2027 prod); `$SIVE` lower-power 8/16ch + 200mW NPO lasers, Seminex UHP multi-channel ~2027 timing question. Wait earnings before assuming share. Softens sole-source Ayar inference; verify OCP/ECOC demos and quals.
+- **Oct 15 CRWV / Jensen / financing nuance:** [2110848740559126575](https://x.com/aleabitoreddit/status/2110848740559126575) quotes Jensen (Stockholm): CoreWeave strength improving daily, optimistic; cost of capital decreasing; no need for `$NVDA` financial backstop. Serenity remains personally less positive on `$CRWV` vs `$NBIS` and peers — sentiment copium only. Earlier same day [2110615506474651804](https://x.com/aleabitoreddit/status/2110615506474651804) notes Elon amplifying `$CRWV` financing / Chinese-memory / “AI gamblers” narratives in ways that may ease `$TSLA`/`$SPCX` supplier pricing, while still agreeing CRWV debt/rate risk is real. Reply [2110621448272577019](https://x.com/aleabitoreddit/status/2110621448272577019): CPI/rate-hike macro dump; don’t conflate `$LITE` (take-or-pay, sold out ~2029, hyperscaler-financed to ~2031, cash via ATM/placement) with neoclouds needing toxic future financing. Verify Jensen quotes and financing terms.
+
+
 
 - **Oct 10 AXTI thesis validation / price-hike upside:** [2108916977616179207](https://x.com/aleabitoreddit/status/2108916977616179207) argues the 2025 `$AXTI` InP-substrate bottleneck thesis is largely validated (hyperscaler-threat framing per Reuters; `$IQE`/VPEC/Taiwan epi foundries flagging substrate scarcity; AXT confirmation as InP supplier to `$LITE`/`$COHR`; stated ~`$130m`/quarter InP revenue capacity exiting 2027 ≈ `$520m` annualized). Upside now framed as whether AXT can hike like `$SNDK` NAND given tiny BOM share but duopoly + upstream ownership, vs Japanese ABF-style restraint; geopolitics remain a risk. Treat capacity/ASP path as company claims + Serenity framing; verify filings, contracts, realized ASP, and margins.
 - **Oct 10 SIVE three-moat framework:** [2108908962397786280](https://x.com/aleabitoreddit/status/2108908962397786280) structures `$SIVE` as (1) capacity — 100M+ CW-DFB online Q4 2027 vs ~608M global EML/CW, with 2:1 statement implying ~300M lasers/year long term amid 3–5y shortage and `$LITE` demand visibility into 2031; (2) qualifications — generic 70/100mW pluggables are capacity/process; custom DFB arrays with Ayar (and hinted Celestial-class peers) are multi-year optical-I/O moats hard to hot-swap vs `$MTSI`; CPO mass volume ~2028; (3) technology — `$JBL` 1.6T LRO EVP “dramatic moat” / power comments, Serenity guesses `$SIVE` sole-source; Jabil mass-production testament ~Q2 2027; Ayar “couldn’t do it without Sivers.” Treat as informal moat map + partner inference, not booked revenue; verify capacity, quals, sole-source claims, and conversion.
@@ -245,8 +251,8 @@ restore branch split.
 
 ## $MU — Micron Technology
 
-- **Latest signal**: Bullish / memory-bottleneck reinforcement — Jul 7 update cites Samsung DRAM pricing power and profit acceleration despite a selloff; Jul 5 update cites Micron's 1.5T yen Hiroshima investment and Morgan Stanley saying NAND remains short into 2027, with bullish read-through to localized Japanese equipment/material suppliers. This extends the Jun 24 earnings validation and Jun 25/26 humanoid/AI memory-demand updates.
-- **Latest tweet**: [2074416685843612031](https://x.com/aleabitoreddit/status/2074416685843612031) — 2026-07-07T08:54:13Z
+- **Latest signal**: Bullish / LTA durability extension — Oct 15 KeyBanc color: `$GOOGL` discussing memory LTAs through **2035**; Samsung ~70% capacity allocated through 2031; HBM ASP **+80–100% Q1 2027** read-through for `$MU`/`$SKHY`. Extends Oct 12–13 LTA/supercycle framing; Jul 7 DRAM-pricing and Jul 5 Hiroshima/NAND-into-2027 notes remain supporting context.
+- **Latest tweet**: [2110823066595131768](https://x.com/aleabitoreddit/status/2110823066595131768) — 2026-10-15T20:00:10Z
 - **Context**: Memory thesis entry implied ~March 2026 when consensus was bearish. Serenity uses `$MU` as the lead name in the memory validation, pairing it with `$SNDK`, `$EWY` (Korea ETF), SK Hynix, and Samsung. Jul 5 adds capex localization and NAND shortage persistence into 2027; supplier read-through should still be checked name by name.
 
 ---
@@ -278,8 +284,8 @@ restore branch split.
 
 ## $SIVE — (SEK-listed)
 
-- **Latest signal**: Bullish concentration / next-LITE thesis — Jul 6 update says Serenity is directionally confident in `$SIVE`, has money on the line, discloses large concentration in `$SIVE` and `$AAOI`, and says he personally thinks `$SIVE` can be the next `$LITE` based on O-Net, `$JBL` 1.6T LRO, `$GFS`, POET, AEVA, and Ayar/NVIDIA paths.
-- **Latest tweet**: [2074046947434860971](https://x.com/aleabitoreddit/status/2074046947434860971) — 2026-07-06T08:25:00Z
+- **Latest signal**: Bullish but multi-vendor Ayar caution — Oct 15: Ayar lasers expected multi-vendor (`$LITE`/`$MTSI`/`$SIVE`); new OCP ~8×200mW config favors waiting on earnings vs assuming `$SIVE` sole-source for all gens; Seminex UHP timing still a 2027 question. Oct 10 three-moat map and Jul 6 next-`$LITE` concentration stance remain the bull base.
+- **Latest tweet**: [2110835574458442200](https://x.com/aleabitoreddit/status/2110835574458442200) — 2026-10-15T20:49:53Z
 - **Context**: SEK-listed stock. Original long thesis initiated ~March 13, 2026 at 4 SEK entry. By June 13, 2026, up ~1900% (~3 months), then experienced a sharp drawdown alongside the optical/CPO basket. Jul 6 is a high-conviction stance marker during that drawdown, but the customer paths remain Serenity's mapping rather than confirmed volume revenue. Watch dilution, use of proceeds, allocation details, customer confirmation, listing execution, and volume revenue.
 
 ---
@@ -923,7 +929,7 @@ restore branch split.
   buying opportunity" → cautious/bearish short-term through 2026: "$1.5B+/yr debt
   interest is eating CoreWeave alive. If any neocloud goes down first, it's CRWV."
 - **Bull case (acknowledged):** NVDA + US-gov backstop + refinancing option.
-- **Latest stance:** No position; cautious/bearish.
+- **Latest stance:** No position; cautious/bearish vs `$NBIS`. Oct 15: Jensen optimistic on CoreWeave / lower cost of capital / no NVDA backstop needed — treated as sentiment support only; still prefers NBIS; rate-hike days amplify CRWV financing fears vs optics with take-or-pay + hyperscaler counterparties.
 
 ### CIFR (Cipher Mining) — colo neocloud, GOOGL/AMZN backstop
 - **Thesis:** "Safest one in the neocloud sector." Backstopped by AMZN + GOOGL
@@ -1053,7 +1059,7 @@ superseded this list by 2026.)
 - **Tier:** High-conviction long compounder. Traded calls for 100%+ in Sep 2025;
   added shares ~$302.5 (Dec). Op income $62B (2025) → $86B (2026) → ~$104B (2027).
   "$1.5T; INTC $234B — 7x just for waiting."
-- **Latest stance:** Core bull, ~5% of portfolio.
+- **Latest stance:** Core bull, ~5% of portfolio. Oct 15 earnings Q&A: management still “demand exceeds supply” after financing/DC/component stress-checks; AI accelerator growth could beat prior 50%+ CAGR through 2029 — used as AI-semi canary vs panic selloff.
 
 ### MRVL (Marvell) — ASIC designer, MSFT Maia / CPO
 - **Thesis:** MSFT Maia 300 primary design partner (UBS/Fubon: $10-12B to MRVL by

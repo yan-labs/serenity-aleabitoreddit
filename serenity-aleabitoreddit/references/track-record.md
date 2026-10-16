@@ -241,10 +241,15 @@ Source: [2065289672356745561](https://x.com/aleabitoreddit/status/20652896723567
 
 ---
 
-## Sep 18 – Oct 13, 2026 incremental calibration
+## Sep 18 – Oct 15, 2026 incremental calibration
 
 | Date | Source | Ticker / theme | Call / update | Outcome / note |
 |------|--------|----------------|---------------|----------------|
+| 2026-10-15 | X [2110645575469461611](https://x.com/aleabitoreddit/status/2110645575469461611) | $TSM | Earnings Q&A: demand>supply after financing/DC checks; AI accel growth may exceed 50%+ CAGR thru 2029; strong print/guide | Strong results | Ongoing — AI-semi canary vs panic | Verify transcripts |
+| 2026-10-15 | X [2110823066595131768](https://x.com/aleabitoreddit/status/2110823066595131768) | $GOOGL / $MU / $SKHY | KeyBanc: GOOGL memory LTAs through 2035; Samsung ~70% to 2031; HBM +80–100% Q1'27 | Channel check | Ongoing — LTA durability | Verify KeyBanc |
+| 2026-10-15 | X [2110835574458442200](https://x.com/aleabitoreddit/status/2110835574458442200) | $SIVE / $LITE / $MTSI / Ayar | Multi-vendor Ayar lasers; OCP 8×200mW → wait earnings; LITE closest tech; MTSI lagging; SIVE Seminex timing | Calibration | Softens sole-source Ayar inference | Verify OCP/ECOC |
+| 2026-10-15 | X [2110848740559126575](https://x.com/aleabitoreddit/status/2110848740559126575) | $CRWV / $NBIS / $NVDA | Jensen optimistic on CRWV / no NVDA backstop; Serenity still prefers NBIS | Sentiment vs financing | Ongoing — CRWV cautious | Verify Jensen quotes |
+| 2026-10-15 | X [2110615506474651804](https://x.com/aleabitoreddit/status/2110615506474651804) / [2110621448272577019](https://x.com/aleabitoreddit/status/2110621448272577019) | $CRWV vs $LITE / macro | Elon narrative incentives; CPI/rate dump — don’t lump take-or-pay optics with toxic-financing neoclouds | Methodology | Ongoing | |
 | 2026-10-13 | X [2109900353349300590](https://x.com/aleabitoreddit/status/2109900353349300590) | $AVGO / OpenAI media | Tan: AI semi demand ≥2y / shortage; OpenAI fundamentals defended; media “gamblers” framing distorted | Ongoing — transcript vs headline calibration |
 | 2026-10-13 | X [2109906912989028547](https://x.com/aleabitoreddit/status/2109906912989028547) | $LITE / Samsung memory | Samsung LTAs ~70% to 2031; LITE sold out into 2029 / 2030 locks; fundamentals > narrative | Ongoing — reinforces LTA/sold-out framing |
 | 2026-10-13 | X [2109937773440577755](https://x.com/aleabitoreddit/status/2109937773440577755) | Humanoids / physical AI | Unitree CEO: GPT-6 compresses “ChatGPT moment” to ~1–2y (80/80 tasks) | Ongoing — timeline outlook; verify quotes |
