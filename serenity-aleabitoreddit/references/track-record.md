@@ -241,10 +241,11 @@ Source: [2065289672356745561](https://x.com/aleabitoreddit/status/20652896723567
 
 ---
 
-## Sep 18 – Oct 15, 2026 incremental calibration
+## Sep 18 – Oct 16, 2026 incremental calibration
 
 | Date | Source | Ticker / theme | Call / update | Outcome / note |
 |------|--------|----------------|---------------|----------------|
+| 2026-10-16 | X [2111206827790885288](https://x.com/aleabitoreddit/status/2111206827790885288) | $DELL / $MU / $SNDK / SK Hynix | DELL CEO: ~4y fab lag → new supply 2029–30; shortage may worsen 2027; LTA-to-2035 vs financing crash paradox | CEO commentary | Ongoing — supply timing + durability framing | Verify Dell transcript |
 | 2026-10-15 | X [2110645575469461611](https://x.com/aleabitoreddit/status/2110645575469461611) | $TSM | Earnings Q&A: demand>supply after financing/DC checks; AI accel growth may exceed 50%+ CAGR thru 2029; strong print/guide | Strong results | Ongoing — AI-semi canary vs panic | Verify transcripts |
 | 2026-10-15 | X [2110823066595131768](https://x.com/aleabitoreddit/status/2110823066595131768) | $GOOGL / $MU / $SKHY | KeyBanc: GOOGL memory LTAs through 2035; Samsung ~70% to 2031; HBM +80–100% Q1'27 | Channel check | Ongoing — LTA durability | Verify KeyBanc |
 | 2026-10-15 | X [2110835574458442200](https://x.com/aleabitoreddit/status/2110835574458442200) | $SIVE / $LITE / $MTSI / Ayar | Multi-vendor Ayar lasers; OCP 8×200mW → wait earnings; LITE closest tech; MTSI lagging; SIVE Seminex timing | Calibration | Softens sole-source Ayar inference | Verify OCP/ECOC |
