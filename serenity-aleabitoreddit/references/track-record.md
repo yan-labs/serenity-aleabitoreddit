@@ -241,10 +241,14 @@ Source: [2065289672356745561](https://x.com/aleabitoreddit/status/20652896723567
 
 ---
 
-## Sep 18 – Oct 16, 2026 incremental calibration
+## Sep 18 – Oct 19, 2026 incremental calibration
 
 | Date | Source | Ticker / theme | Call / update | Outcome / note |
 |------|--------|----------------|---------------|----------------|
+| 2026-10-19 | X [2112130322683072617](https://x.com/aleabitoreddit/status/2112130322683072617) | $MSFT / $NBIS / $IREN / Nscale | MSFT exiting Nscale (UK grid 3–4y delay) read as bullish for energized neoclouds | Contrarian read | Ongoing — watch where MSFT capacity lands | Verify deal reports |
+| 2026-10-19 | X [2112102623721505098](https://x.com/aleabitoreddit/status/2112102623721505098) | $SIVE / $JBL / $GFS | 100M CW DFB by Q4'27, 2nd foundry, JBL H1'27; bull case 300M lasers in shortage; wait earnings | Thesis map | Ongoing — qual conversion risk | Verify disclosures |
+| 2026-10-19 | X [2112087774845407493](https://x.com/aleabitoreddit/status/2112087774845407493) | $AAOI | Capacity-implied rev $858M Q1'27 → $2.14B Q1'28 vs $6.8B MC; waiting for H1'27 inflection | Model | Ongoing — execution risk | Compare to guidance |
+| 2026-10-19 | X [2112080246895976755](https://x.com/aleabitoreddit/status/2112080246895976755) | $LITE / photonics | CEO: noncancellable agreements, capacity into 2029, negotiating 2030; selloff indiscriminate | CEO commentary | Ongoing — photonics vs neocloud split | Verify interview |
 | 2026-10-16 | X [2111206827790885288](https://x.com/aleabitoreddit/status/2111206827790885288) | $DELL / $MU / $SNDK / SK Hynix | DELL CEO: ~4y fab lag → new supply 2029–30; shortage may worsen 2027; LTA-to-2035 vs financing crash paradox | CEO commentary | Ongoing — supply timing + durability framing | Verify Dell transcript |
 | 2026-10-15 | X [2110645575469461611](https://x.com/aleabitoreddit/status/2110645575469461611) | $TSM | Earnings Q&A: demand>supply after financing/DC checks; AI accel growth may exceed 50%+ CAGR thru 2029; strong print/guide | Strong results | Ongoing — AI-semi canary vs panic | Verify transcripts |
 | 2026-10-15 | X [2110823066595131768](https://x.com/aleabitoreddit/status/2110823066595131768) | $GOOGL / $MU / $SKHY | KeyBanc: GOOGL memory LTAs through 2035; Samsung ~70% to 2031; HBM +80–100% Q1'27 | Channel check | Ongoing — LTA durability | Verify KeyBanc |
