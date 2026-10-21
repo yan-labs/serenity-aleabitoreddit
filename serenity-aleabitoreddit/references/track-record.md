@@ -245,6 +245,11 @@ Source: [2065289672356745561](https://x.com/aleabitoreddit/status/20652896723567
 
 | Date | Source | Ticker / theme | Call / update | Outcome / note |
 |------|--------|----------------|---------------|----------------|
+| 2026-10-21 | X [2112701278262546442](https://x.com/aleabitoreddit/status/2112701278262546442) | $AAOI | Still holding; \$6.6B val ignores Q2'27 inflection; models ~\$1.9B quarterly rev Q4'27 at ~40% GM | Model / position | Ongoing — compare to guidance |
+| 2026-10-20 | X [2112684521174999529](https://x.com/aleabitoreddit/status/2112684521174999529) | $SMCI / $SPCX / $AAOI / colo | Demand-vs-valuation divergence extreme; Oct 2026 framed like DeepSeek / April-tariff buy window after ERs | Macro call | Ongoing — check post-ER |
+| 2026-10-20 | X [2112674175446089985](https://x.com/aleabitoreddit/status/2112674175446089985) | $SPCX / $NVDA / memory / photonics | SPCX Q4 capex guide \$35–40B vs prior ~\$18.4B (~2x); AI semis not over | Demand validation | Ongoing — verify ER |
+| 2026-10-20 | X [2112675760502944062](https://x.com/aleabitoreddit/status/2112675760502944062) | $NBIS / neoclouds | Mgmt quote: compute value per watt rises over time — bullish neoclouds | Quote read-through | Ongoing |
+| 2026-10-20 | X [2112429644033245666](https://x.com/aleabitoreddit/status/2112429644033245666) | $SIVE / $AEVA | First CW DFB LiDAR production orders (design-win→production); AEVA speculated customer; robotics/humanoid upside | New revenue path | Ongoing — customer unconfirmed |
 | 2026-10-19 | X [2112130322683072617](https://x.com/aleabitoreddit/status/2112130322683072617) | $MSFT / $NBIS / $IREN / Nscale | MSFT exiting Nscale (UK grid 3–4y delay) read as bullish for energized neoclouds | Contrarian read | Ongoing — watch where MSFT capacity lands | Verify deal reports |
 | 2026-10-19 | X [2112102623721505098](https://x.com/aleabitoreddit/status/2112102623721505098) | $SIVE / $JBL / $GFS | 100M CW DFB by Q4'27, 2nd foundry, JBL H1'27; bull case 300M lasers in shortage; wait earnings | Thesis map | Ongoing — qual conversion risk | Verify disclosures |
 | 2026-10-19 | X [2112087774845407493](https://x.com/aleabitoreddit/status/2112087774845407493) | $AAOI | Capacity-implied rev $858M Q1'27 → $2.14B Q1'28 vs $6.8B MC; waiting for H1'27 inflection | Model | Ongoing — execution risk | Compare to guidance |
