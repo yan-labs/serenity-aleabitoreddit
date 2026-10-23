@@ -1,5 +1,365 @@
 [
   {
+    "id": "2113335979717316881",
+    "text": "@pepemoonboy Thanks for the flattery! I feel like every investor has drawdowns, especially if global markets seem to be dropping.\n\nUsually people who never lose money turn out to be scammers that try and sell you some sort of paywall half the time.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 304,
+      "retweets": 1,
+      "replies": 10,
+      "quotes": 0,
+      "views": 38838,
+      "bookmarks": 9
+    },
+    "createdAt": "Thu Oct 22 18:25:36 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2113269349519954203",
+    "inReplyToTweetId": "2113329244881268886",
+    "createdAtISO": "2026-10-22T18:25:36Z",
+    "createdAtLocal": "2026-10-23 02:25"
+  },
+  {
+    "id": "2113332383542120584",
+    "text": "@Emotionallkrs Lot of the names I wrote a thesis on are still up hundreds of percent YTD despite the drawdown.\n\nSo lower cost average probably helps with the volatility. Along with understanding the company + theme?\n\nI’m primarily long memory/photonics, feels like demand visibility for those two segments are very high.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 100,
+      "retweets": 6,
+      "replies": 4,
+      "quotes": 0,
+      "views": 16076,
+      "bookmarks": 18
+    },
+    "createdAt": "Thu Oct 22 18:11:18 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2113269349519954203",
+    "inReplyToTweetId": "2113269615857922520",
+    "createdAtISO": "2026-10-22T18:11:18Z",
+    "createdAtLocal": "2026-10-23 02:11"
+  },
+  {
+    "id": "2113329741654806551",
+    "text": "@MarkTheLaird I feel like markets are seeing a lot of forced liquidations and panic selling right now.\n\nYou have peers like $LITE sold out completely into 2029, and are starting negotiations for 2030.\n\nSo seeing a company like $AAOI now worth $5.7B despite all their laser/transceiver/ELSFP capacity coming online + demand visibility reminds me of July",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 195,
+      "retweets": 7,
+      "replies": 16,
+      "quotes": 2,
+      "views": 44384,
+      "bookmarks": 29
+    },
+    "createdAt": "Thu Oct 22 18:00:48 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2113269349519954203",
+    "inReplyToTweetId": "2113269774188757076",
+    "createdAtISO": "2026-10-22T18:00:48Z",
+    "createdAtLocal": "2026-10-23 02:00"
+  },
+  {
+    "id": "2113296015755468831",
+    "text": "@Simipandaface Oh yeah, I’m up a lot YTD. It’s just surprising to see names sold off to ridiculous valuations after irrational selling.\n\nI’ll probably do some Halloween shopping later",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 290,
+      "retweets": 2,
+      "replies": 13,
+      "quotes": 2,
+      "views": 53838,
+      "bookmarks": 12
+    },
+    "createdAt": "Thu Oct 22 15:46:47 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2113269349519954203",
+    "inReplyToTweetId": "2113277521244434677",
+    "createdAtISO": "2026-10-22T15:46:47Z",
+    "createdAtLocal": "2026-10-22 23:46"
+  },
+  {
+    "id": "2113269349519954203",
+    "text": "Yeah… minor volatility in October.\n\nFigured I’d share some personal drawdowns too for transparency. https://t.co/GDOTmceEgw https://t.co/xkevZcvpw1",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 7992,
+      "retweets": 260,
+      "replies": 671,
+      "quotes": 298,
+      "views": 1337595,
+      "bookmarks": 807
+    },
+    "createdAt": "Thu Oct 22 14:00:50 +0000 2026",
+    "media": [],
+    "urls": [
+      "https://twitter.com/lucon3224/status/2113262776592273776"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2113269349519954203",
+    "quotedTweet": {
+      "id": "2113262776592273776",
+      "text": "@aleabitoreddit I saw your post with P&amp;L...Oh, my god...!!!",
+      "author": {
+        "id": "1797335541932863488",
+        "name": "Surehand",
+        "screenName": "Lucon3224"
+      }
+    },
+    "createdAtISO": "2026-10-22T14:00:50Z",
+    "createdAtLocal": "2026-10-22 22:00"
+  },
+  {
+    "id": "2113253354986144171",
+    "text": "@tsazeng $SIVE is directly engaged with hyperscalers and from CIOE channel checks they’re now starting work with larger pluggable makers in China…\n\nSo there’s a lot of surprising ways they can cook in the next 2 earnings calls. I’m just personally waiting for new disclosures.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 234,
+      "retweets": 12,
+      "replies": 7,
+      "quotes": 4,
+      "views": 24960,
+      "bookmarks": 26
+    },
+    "createdAt": "Thu Oct 22 12:57:16 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2113240389813780923",
+    "inReplyToTweetId": "2113250982696226855",
+    "createdAtISO": "2026-10-22T12:57:16Z",
+    "createdAtLocal": "2026-10-22 20:57"
+  },
+  {
+    "id": "2113246620712370367",
+    "text": "@amitisinvesting Yeah $AMD is a great example you gave. It even got the popular nickname “Advanced Money Destroyer” for awhile…\n\nThen it had that massive rally to a $1T valuation, but lot of people didn’t give it time to play out.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 216,
+      "retweets": 7,
+      "replies": 6,
+      "quotes": 1,
+      "views": 25991,
+      "bookmarks": 10
+    },
+    "createdAt": "Thu Oct 22 12:30:31 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2113240389813780923",
+    "inReplyToTweetId": "2113245225506218110",
+    "createdAtISO": "2026-10-22T12:30:31Z",
+    "createdAtLocal": "2026-10-22 20:30"
+  },
+  {
+    "id": "2113241907673571746",
+    "text": "@valustok X should probably do investigations on bot accounts like these trying to influence sentiment https://t.co/ORn8rCxnGm",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 332,
+      "retweets": 16,
+      "replies": 26,
+      "quotes": 4,
+      "views": 22168,
+      "bookmarks": 3
+    },
+    "createdAt": "Thu Oct 22 12:11:47 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2113240389813780923",
+    "inReplyToTweetId": "2113240747264897108",
+    "createdAtISO": "2026-10-22T12:11:47Z",
+    "createdAtLocal": "2026-10-22 20:11"
+  },
+  {
+    "id": "2113240389813780923",
+    "text": "I don't own $ASTS and not advice, but if you're capitulating just because a stock price went down.. \n\nThere's little investment thesis or conviction in the first place.\n\nPeople always have multi-year ideas like $RKLB becoming the next $SPCX or AST becoming the next Starlink competitor.\n\nKinda reminiscent of retail favorite names like $HOOD back in 2024, or $NBIS later in 2025... \n\nBut there's always capitulation periods along the way like the time hedge funds shorted Nebius to $70 in Dec/Jan, after calling it the Neocloud winter. \n\nOr the wave of negative analyst DGs on Robinhood on the drop back to $17. \n\nOr even macro scares like April 2025. \n\nSo lot of retail investors never gave their original longs time to play out.\n\nFast forward, a lot of these popular retail names do end up cooking... so kinda sad seeing how quickly sentiment turns.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1812,
+      "retweets": 76,
+      "replies": 131,
+      "quotes": 29,
+      "views": 418186,
+      "bookmarks": 331
+    },
+    "createdAt": "Thu Oct 22 12:05:45 +0000 2026",
+    "media": [],
+    "urls": [
+      "https://twitter.com/WayneParke91492/status/2113154250708766953"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2113240389813780923",
+    "quotedTweet": {
+      "id": "2113154250708766953",
+      "text": "$ASTS decided to cut my losses. This stock is dropping with no bottom in sight. I got in at 88 and kept averaging down to my current average of 78, and I'm sitting on a 48% loss! This ticker is completely played out and hopeless. Good luck to anyone still holding.",
+      "author": {
+        "id": "1844525589270757378",
+        "name": "Parker",
+        "screenName": "WayneParke91492"
+      }
+    },
+    "createdAtISO": "2026-10-22T12:05:45Z",
+    "createdAtLocal": "2026-10-22 20:05"
+  },
+  {
+    "id": "2113191492067983849",
+    "text": "@dBooray AI names are backed by actual earnings and contractual demand.\n\nMemory names are under <3x fwd P/E, with LTAs extending 5-10 years from your richest companies in the world like $GOOGL.\n\nOptical names are compressing to <10x fwd P/E despite 500-1000%+ growth next year\n\nBack in the day companies like Cisco/Yahoo were in 100x-600x+ earnings range.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 98,
+      "retweets": 5,
+      "replies": 4,
+      "quotes": 1,
+      "views": 11638,
+      "bookmarks": 8
+    },
+    "createdAt": "Thu Oct 22 08:51:27 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2113094859439690104",
+    "inReplyToTweetId": "2113158051490378185",
+    "createdAtISO": "2026-10-22T08:51:27Z",
+    "createdAtLocal": "2026-10-22 16:51"
+  },
+  {
+    "id": "2113094859439690104",
+    "text": "$NVDA today announces capacity agreements with substrate, packaging, testing and optical engine suppliers.\n\n- Substrate agreements with Ibiden, Samsung Electro-Mechanics and Unimicron to expand by 2.5x\n- $AMKR to increase advanced packaging capacity by more than 300% by the end of 2028, with a new $1.3B agreement\n- Multibillion dollar capacity reservation advance to support Ibiden's plant in Japan\n- \"By 2028, production allocated to $NVDA is projected to account for a significant portion of Samsung Electro-Mechanics' total annual package substrate production capacity\"\n- KYEC with $1.1B capacity reservation in advance\n- SPIL for optical engine capacity for CPO by 15x by H2 2027 and double that for 2028\n\nWell, that's a lot of news. As Jensen Huang puts it: \"Demand is extraordinary. Capacity is the constraint.\"",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 790,
+      "retweets": 43,
+      "replies": 77,
+      "quotes": 17,
+      "views": 203371,
+      "bookmarks": 134
+    },
+    "createdAt": "Thu Oct 22 02:27:28 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2113094859439690104",
+    "createdAtISO": "2026-10-22T02:27:28Z",
+    "createdAtLocal": "2026-10-22 10:27"
+  },
+  {
     "id": "2112701278262546442",
     "text": "@jerrychen0awi Yes I still have $AAOI and personally think the $6.6b valuation doesn’t price in next year’s inflection happening Q2 next year onward.\n\nI personally modeling somewhere around ~$1.9B quarterly revenue Q4 2027,  ~40% gross margins.\n\nWith another bump in blended gross margins as https://t.co/162H71LAEs",
     "author": {
