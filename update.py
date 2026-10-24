@@ -13,7 +13,7 @@ supported unattended path.
 Also: `--repair-public-profile` replaces rows from an older public-profile parser.
 Prints a final `NEW=<n>` line; exits 0. Does NOT touch git — the caller commits.
 """
-import json, csv, os, re, sys
+import copy, json, csv, os, re, sys, tempfile
 from collections import Counter
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
@@ -25,8 +25,42 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "data")
 ARCH = os.path.join(DATA, "aleabitoreddit_tweets.json")
 SYNC_STATE = os.path.join(DATA, "sync_state.json")
-LOCAL_TZ = timezone(timedelta(hours=8))
+def _local_tz():
+    """Timezone for `createdAtLocal`. Defaults to UTC+8 (Asia/Shanghai), which
+    every existing archive row uses; override with SERENITY_LOCAL_UTC_OFFSET
+    (hours, e.g. "9" or "-5.5"). Changing it only affects newly added rows."""
+    raw = os.environ.get("SERENITY_LOCAL_UTC_OFFSET", "8")
+    try:
+        hours = float(raw)
+        if not -14 <= hours <= 14:
+            raise ValueError
+    except ValueError:
+        raise SystemExit(f"SERENITY_LOCAL_UTC_OFFSET must be hours in [-14, 14], got {raw!r}")
+    return timezone(timedelta(hours=hours))
+
+
+LOCAL_TZ = _local_tz()
 PUBLIC_FALLBACK_DIAGNOSTIC = None
+# Keys under which a dict-shaped dump may carry its rows.
+DUMP_LIST_KEYS = ("items", "tweets", "results", "data", "posts")
+
+
+def atomic_write(path, write_fn):
+    """Write via a temp file in the same dir, then os.replace (no torn files)."""
+    fd, tmp = tempfile.mkstemp(dir=os.path.dirname(path), prefix=".tmp-", suffix=os.path.basename(path))
+    try:
+        with os.fdopen(fd, "w", newline="", encoding="utf-8") as f:
+            write_fn(f)
+        os.replace(tmp, path)
+    except BaseException:
+        if os.path.exists(tmp):
+            os.unlink(tmp)
+        raise
+
+
+def write_json(path, obj):
+    atomic_write(path, lambda f: json.dump(obj, f, ensure_ascii=False, indent=2))
+
 
 def parse_time(t):
     iso = t.get("createdAtISO")
@@ -40,7 +74,7 @@ def parse_time(t):
 def ensure_times(t):
     dt = parse_time(t)
     if dt and not t.get("createdAtISO"):
-        t["createdAtISO"] = dt.astimezone(timezone.utc).isoformat()
+        t["createdAtISO"] = dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     if dt and not t.get("createdAtLocal"):
         t["createdAtLocal"] = dt.astimezone(LOCAL_TZ).strftime("%Y-%m-%d %H:%M")
     return t
@@ -49,11 +83,8 @@ def sort_key(t):
     dt = parse_time(t)
     return dt.isoformat() if dt else ""
 
-def normalize_x_api_post(t, includes=None):
-    """Map an X API v2 post (or already-archive-shaped row) into archive schema."""
-    includes = includes or {}
-    if t.get("author", {}).get("screenName", "").lower() == USER and t.get("createdAtISO"):
-        return ensure_times(t)
+def _index_includes(includes):
+    """Index X API `includes` by media key, user id and post id."""
     media_by_key = {
         m.get("media_key"): m
         for m in (includes.get("media") or [])
@@ -69,39 +100,55 @@ def normalize_x_api_post(t, includes=None):
         for item in (includes.get(key) or []):
             if isinstance(item, dict) and item.get("id"):
                 posts_by_id[str(item["id"])] = item
+    return media_by_key, users_by_id, posts_by_id
 
-    note = ((t.get("note_tweet") or {}).get("text") if isinstance(t.get("note_tweet"), dict) else None)
+
+def _note_text(post):
+    note = post.get("note_tweet")
+    return note.get("text") if isinstance(note, dict) else None
+
+
+def _post_text(t):
+    """Prefer full `note_tweet.text`, keeping leading @mentions from `text`."""
+    note = _note_text(t)
     text_body = note or t.get("text") or ""
     trunc = t.get("text") or ""
     if note and trunc.startswith("@") and not text_body.startswith("@"):
         m = re.match(r"^((?:@\w+\s+)+)", trunc)
         if m:
             text_body = m.group(1) + text_body
+    return text_body
 
-    pm = t.get("public_metrics") or t.get("metrics") or {}
-    created = t.get("created_at") or t.get("createdAt")
-    dt = None
+
+def _post_datetime(t):
     if t.get("createdAtISO"):
-        dt = datetime.fromisoformat(t["createdAtISO"].replace("Z", "+00:00"))
-    elif created:
+        return datetime.fromisoformat(t["createdAtISO"].replace("Z", "+00:00"))
+    created = t.get("created_at") or t.get("createdAt")
+    if not created:
+        return None
+    try:
+        return datetime.fromisoformat(str(created).replace("Z", "+00:00").replace(".000", ""))
+    except ValueError:
         try:
-            dt = datetime.fromisoformat(str(created).replace("Z", "+00:00").replace(".000", ""))
-        except ValueError:
-            try:
-                dt = parsedate_to_datetime(created)
-            except Exception:
-                dt = None
+            return parsedate_to_datetime(created)
+        except Exception:
+            return None
 
-    author_user = users_by_id.get(t.get("author_id")) or {}
-    author = t.get("author") if isinstance(t.get("author"), dict) else {}
-    screen = (author.get("screenName") or author_user.get("username") or USER)
 
-    refs = t.get("referenced_tweets") or []
-    is_reply = bool(t.get("isReply")) or any(r.get("type") == "replied_to" for r in refs if isinstance(r, dict))
-    is_quote = bool(t.get("isQuote")) or any(r.get("type") == "quoted" for r in refs if isinstance(r, dict))
-    reply_to = t.get("inReplyToTweetId") or next((r.get("id") for r in refs if isinstance(r, dict) and r.get("type") == "replied_to"), None)
-    quote_id = next((r.get("id") for r in refs if isinstance(r, dict) and r.get("type") == "quoted"), None)
+def _references(t):
+    """Return (is_reply, is_quote, reply_to_id, quote_id)."""
+    refs = [r for r in (t.get("referenced_tweets") or []) if isinstance(r, dict)]
 
+    def first(kind):
+        return next((r.get("id") for r in refs if r.get("type") == kind), None)
+
+    is_reply = bool(t.get("isReply")) or any(r.get("type") == "replied_to" for r in refs)
+    is_quote = bool(t.get("isQuote")) or any(r.get("type") == "quoted" for r in refs)
+    reply_to = t.get("inReplyToTweetId") or first("replied_to")
+    return is_reply, is_quote, reply_to, first("quoted")
+
+
+def _post_media(t, media_by_key):
     media = t.get("media") if isinstance(t.get("media"), list) else []
     if not media:
         for mk in ((t.get("attachments") or {}).get("media_keys") or []):
@@ -109,59 +156,91 @@ def normalize_x_api_post(t, includes=None):
             url = m.get("url") or m.get("preview_image_url")
             if url:
                 media.append({"url": url})
+    return media
 
+
+def _post_urls(t):
     urls = t.get("urls") if isinstance(t.get("urls"), list) else []
     if not urls:
         for u in ((t.get("entities") or {}).get("urls") or []):
             exp = u.get("expanded_url") or ""
             if exp and "/photo/" not in exp:
                 urls.append(exp)
+    return urls
 
+
+def _quoted_post(t, quote_id, posts_by_id, users_by_id):
     quoted = t.get("quotedTweet")
-    if quoted is None and quote_id:
-        qt = posts_by_id.get(str(quote_id))
-        if qt:
-            qnote = ((qt.get("note_tweet") or {}).get("text") if isinstance(qt.get("note_tweet"), dict) else None)
-            quser = users_by_id.get(qt.get("author_id")) or {}
-            quoted = {
-                "id": str(qt["id"]),
-                "text": qnote or qt.get("text") or "",
-                "author": {
-                    "id": qt.get("author_id"),
-                    "name": quser.get("name"),
-                    "screenName": quser.get("username"),
-                },
-            }
-        else:
-            quoted = {"id": str(quote_id)}
+    if quoted is not None or not quote_id:
+        return quoted
+    qt = posts_by_id.get(str(quote_id))
+    if not qt:
+        return {"id": str(quote_id)}
+    quser = users_by_id.get(qt.get("author_id")) or {}
+    return {
+        "id": str(qt["id"]),
+        "text": _note_text(qt) or qt.get("text") or "",
+        "author": {
+            "id": qt.get("author_id"),
+            "name": quser.get("name"),
+            "screenName": quser.get("username"),
+        },
+    }
 
-    def metric(pm_obj, *keys):
+
+# archive metric name -> X API / archive field names, in lookup order
+METRIC_KEYS = {
+    "likes": ("likes", "like_count"),
+    "retweets": ("retweets", "retweet_count", "repost_count"),
+    "replies": ("replies", "reply_count"),
+    "quotes": ("quotes", "quote_count"),
+    "views": ("views", "impression_count"),
+    "bookmarks": ("bookmarks", "bookmark_count"),
+}
+
+
+def _post_metrics(t):
+    pm = t.get("public_metrics") or t.get("metrics") or {}
+
+    def metric(keys):
         for k in keys:
-            if isinstance(pm_obj, dict) and pm_obj.get(k) is not None:
-                return pm_obj.get(k)
+            if isinstance(pm, dict) and pm.get(k) is not None:
+                return pm.get(k)
         return None
+
+    return {name: metric(keys) for name, keys in METRIC_KEYS.items()}
+
+
+def normalize_x_api_post(t, includes=None):
+    """Map an X API v2 post (or already-archive-shaped row) into archive schema.
+
+    The key order of the returned dict is the on-disk order in the archive;
+    tests/test_normalize.py pins it.
+    """
+    includes = includes or {}
+    if t.get("author", {}).get("screenName", "").lower() == USER and t.get("createdAtISO"):
+        return ensure_times(t)
+    media_by_key, users_by_id, posts_by_id = _index_includes(includes)
+    dt = _post_datetime(t)
+    author_user = users_by_id.get(t.get("author_id")) or {}
+    author = t.get("author") if isinstance(t.get("author"), dict) else {}
+    is_reply, is_quote, reply_to, quote_id = _references(t)
+    quoted = _quoted_post(t, quote_id, posts_by_id, users_by_id)
 
     out = {
         "id": str(t.get("id")),
-        "text": text_body,
+        "text": _post_text(t),
         "author": {
             "id": author.get("id") or author_user.get("id") or t.get("author_id"),
             "name": author.get("name") or author_user.get("name") or "Serenity",
-            "screenName": screen,
+            "screenName": author.get("screenName") or author_user.get("username") or USER,
             "profileImageUrl": author.get("profileImageUrl") or author_user.get("profile_image_url"),
             "verified": author.get("verified") if "verified" in author else bool(author_user.get("verified")),
         },
-        "metrics": {
-            "likes": metric(pm, "likes", "like_count"),
-            "retweets": metric(pm, "retweets", "retweet_count", "repost_count"),
-            "replies": metric(pm, "replies", "reply_count"),
-            "quotes": metric(pm, "quotes", "quote_count"),
-            "views": metric(pm, "views", "impression_count"),
-            "bookmarks": metric(pm, "bookmarks", "bookmark_count"),
-        },
+        "metrics": _post_metrics(t),
         "createdAt": t.get("createdAt") or (dt.strftime("%a %b %d %H:%M:%S +0000 %Y") if dt else None),
-        "media": media,
-        "urls": urls,
+        "media": _post_media(t, media_by_key),
+        "urls": _post_urls(t),
         "isRetweet": bool(t.get("isRetweet")),
         "retweetedBy": t.get("retweetedBy"),
         "lang": t.get("lang"),
@@ -188,11 +267,22 @@ def load_from_json(path):
     includes = {}
     if isinstance(raw, dict):
         includes = raw.get("includes") or {}
-        items = raw.get("items") or raw.get("tweets") or raw.get("results") or raw.get("data") or raw.get("posts") or []
+        items = next((raw[k] for k in DUMP_LIST_KEYS if raw.get(k)), [])
         if not items and all(k in raw for k in ("id", "text")):
             items = [raw]
+        # An X API page with zero results is `{"meta": {"result_count": 0}}`
+        # (no `data` key). Anything else without a recognised list is a bad
+        # dump — fail loudly instead of stamping a healthy empty check.
+        recognised = any(k in raw for k in DUMP_LIST_KEYS) or "meta" in raw or items
+        if not recognised:
+            raise ValueError(
+                f"PULL_ERROR unrecognised JSON dump shape in {path}: "
+                f"top-level keys {sorted(raw)[:8]}"
+            )
+    elif isinstance(raw, list):
+        items = raw
     else:
-        items = raw if isinstance(raw, list) else []
+        raise ValueError(f"PULL_ERROR JSON dump {path} must be a list or object")
     rows, seen = [], set()
     for t in items:
         if not isinstance(t, dict) or not t.get("id"):
@@ -232,6 +322,7 @@ def pull(n=100, since=None):
         raw.extend(public_rows)
     except Exception as exc:
         print(f"PULL_ERROR public X fallback: {exc}")
+        PUBLIC_FALLBACK_DIAGNOSTIC = {"errors": [str(exc)[:300]], "fatal": True}
     rows, seen = [], set()
     for t in raw:
         if not isinstance(t, dict) or not t.get("id"):
@@ -252,7 +343,7 @@ def write_csv(rows):
             "quoted_id", "quoted_author", "quoted_text", "text"]
     def csv_text(text):
         return "\n".join(line.rstrip() for line in (text or "").replace("\r", " ").split("\n"))
-    with open(os.path.join(DATA, "aleabitoreddit_tweets.csv"), "w", newline="") as f:
+    def write(f):
         w = csv.DictWriter(f, fieldnames=cols, lineterminator="\n"); w.writeheader()
         for t in rows:
             m = t.get("metrics") or {}; media = t.get("media") or []; qt = t.get("quotedTweet") or {}
@@ -268,20 +359,27 @@ def write_csv(rows):
                 "quoted_id": qt.get("id"), "quoted_author": (qt.get("author") or {}).get("screenName"),
                 "quoted_text": csv_text(qt.get("text")).replace("\n", " "),
                 "text": csv_text(t.get("text"))})
+    atomic_write(os.path.join(DATA, "aleabitoreddit_tweets.csv"), write)
+
+TICK = re.compile(r"\$([A-Za-z]{1,6})\b")
 
 def write_ticker_stats(rows):
-    TICK = re.compile(r"\$([A-Za-z]{1,6})\b")
+    """Single source of truth for data/ticker_stats.txt (also used by prep.py).
+
+    Ties are broken alphabetically so reruns produce byte-identical output.
+    """
     c, first, last = Counter(), {}, {}
-    for t in sorted(rows, key=lambda x: x.get("createdAtISO", "")):
+    for t in sorted(rows, key=sort_key):
         txt = (t.get("text", "") or "") + " " + ((t.get("quotedTweet") or {}).get("text", "") or "")
         d = (t.get("createdAtISO") or "")[:10]
         for m in set(TICK.findall(txt)):
             u = m.upper(); c[u] += 1; first.setdefault(u, d); last[u] = d
-    with open(os.path.join(DATA, "ticker_stats.txt"), "w") as f:
+    def write(f):
         f.write(f"Total tweets: {len(rows)}\nDistinct $tickers: {len(c)}\n\nticker  mentions  first_seen  last_seen\n")
         for tk, n in sorted(c.items(), key=lambda item: (-item[1], item[0])):
             if n >= 2:
                 f.write(f"{tk:8} {n:6}   {first[tk]}  {last[tk]}\n")
+    atomic_write(os.path.join(DATA, "ticker_stats.txt"), write)
 
 def needs_public_text_repair(post):
     text = post.get("text") or ""
@@ -344,7 +442,9 @@ def main():
     sync_state = json.load(open(SYNC_STATE)) if os.path.exists(SYNC_STATE) else {}
     sync_state_changed = False
     raw_arch = json.load(open(ARCH))
-    arch = [ensure_times(t) for t in raw_arch]
+    # ensure_times mutates in place, so compare against a deep copy; otherwise
+    # `normalized` is always False and backfilled timestamps are never saved.
+    arch = [ensure_times(t) for t in copy.deepcopy(raw_arch)]
     normalized = arch != raw_arch
     have = {t["id"] for t in arch}
     newest = max((parse_time(t) for t in arch if parse_time(t)), default=None)
@@ -386,7 +486,7 @@ def main():
         for t in public_profile_repairs:
             merged[t["id"]] = merge_public_profile_row(existing_by_id[t["id"]], t)
         rows = sorted(merged.values(), key=sort_key, reverse=True)
-        json.dump(rows, open(ARCH, "w"), ensure_ascii=False, indent=2)
+        write_json(ARCH, rows)
         write_csv(rows)
         write_ticker_stats(rows)
         for t in new:
@@ -425,8 +525,26 @@ def main():
             ),
         }
         sync_state_changed = True
+    elif not from_json and not pulled:
+        # The live pull returned nothing. That is a source failure, not a
+        # verified "no new posts": keep the cursor and say so explicitly.
+        diag = PUBLIC_FALLBACK_DIAGNOSTIC or {}
+        health = dict(sync_state.get("source_health") or {})
+        health.update({
+            "status": "error",
+            "direct_status": "error",
+            "verification_source": verification_source,
+            "freshness": "stale",
+            "new_posts_merged": 0,
+            "checked_time": checked_time,
+            "errors": (diag.get("errors") or ["public fallback returned no posts"])[:5],
+            "next_action": "Public-profile live pull returned no posts; cursor kept. "
+                           "Use the X connector + --from-json path.",
+        })
+        sync_state["source_health"] = health
+        sync_state_changed = True
     else:
-        # Always stamp a successful empty check so routines know we ran.
+        # Stamp a successful empty check so routines know we ran.
         health = dict(sync_state.get("source_health") or {})
         health.update({
             "status": "ok",
@@ -435,6 +553,7 @@ def main():
             "freshness": "verified",
             "new_posts_merged": 0,
             "checked_time": checked_time,
+            "errors": [],
             "next_action": (
                 "No new posts in --from-json dump."
                 if from_json else
@@ -448,7 +567,7 @@ def main():
         sync_state["source_health"] = health
         sync_state_changed = True
     if sync_state_changed:
-        json.dump(sync_state, open(SYNC_STATE, "w"), ensure_ascii=False, indent=2)
+        write_json(SYNC_STATE, sync_state)
         print()
     print(f"NEW={len(new)}")
     print("NEW_IDS=" + ",".join(t["id"] for t in new))
