@@ -1,5 +1,197 @@
 [
   {
+    "id": "2113585093856108796",
+    "text": "@ram_blings Thanks for asking! Obviously disappointed about the drawdown but very comfortable waiting this volatility out since I’m personally on a pretty conservative ~1.15x leverage now.\n\nBeen seeing a lot of sad stories of people who went to 0 off options. https://t.co/paAwiwVmI5",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 90,
+      "retweets": 3,
+      "replies": 8,
+      "quotes": 0,
+      "views": 17920,
+      "bookmarks": 4
+    },
+    "createdAt": "Fri Oct 23 10:55:29 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": null,
+    "inReplyToTweetId": "2113578159828602918",
+    "createdAtISO": "2026-10-23T10:55:29Z",
+    "createdAtLocal": "2026-10-23 18:55"
+  },
+  {
+    "id": "2113578093935997334",
+    "text": "@Joshuachaisson I almost forgot about that, I’ll go look for some billboard space next to the $NBIS and OpenAI ones.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 88,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0,
+      "views": 17308,
+      "bookmarks": 3
+    },
+    "createdAt": "Fri Oct 23 10:27:40 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": null,
+    "inReplyToTweetId": "2113577377901224292",
+    "createdAtISO": "2026-10-23T10:27:40Z",
+    "createdAtLocal": "2026-10-23 18:27"
+  },
+  {
+    "id": "2113575601390936238",
+    "text": "Pretty crazy Reuters piece on the global selloff.\n\n- October 22 marked the 1st time since the COVID crash that long/short, systematic, and multi-strategy hedge funds tracked by Goldman Sachs ALL lost more than 1% in a single day.\n\n- Tech-focused hedge funds: down ~10% in October\n\n- Asia-focused hedge funds: down ~9% in October\n\nThere’s separate interviews where Citadel/JP Morgan have been saying retail has been the ones buying the dip in semiconductor, neocloud, and memory stocks.\n\nAnd the stocks bought by most retail were $NBIS, $SNDK, and $TSM.\n\nReuters stated this downturn triggered institutional deleveraging events among hedge funds.\n\nQuite the divergence, I do think there’s been a ton of irrational selling now, hedge fund deleveraging seems to be a major contributor.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1596,
+      "retweets": 84,
+      "replies": 122,
+      "quotes": 41,
+      "views": 302430,
+      "bookmarks": 403
+    },
+    "createdAt": "Fri Oct 23 10:17:46 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": null,
+    "createdAtISO": "2026-10-23T10:17:46Z",
+    "createdAtLocal": "2026-10-23 18:17"
+  },
+  {
+    "id": "2113443934395580453",
+    "text": "@upouluopu68975 I mean it's just personally interesting to me! I've never seen a company make this much net income already with 30-100% price hikes on a lot of their SKUs the next quarter.\n\nAnd they're just sitting on like $380M net cash + $244M in appreciating inventory, so EV is a lot lower",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 53,
+      "retweets": 3,
+      "replies": 3,
+      "quotes": 0,
+      "views": 14219,
+      "bookmarks": 6
+    },
+    "createdAt": "Fri Oct 23 01:34:34 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": null,
+    "inReplyToTweetId": "2113441549891653717",
+    "createdAtISO": "2026-10-23T01:34:34Z",
+    "createdAtLocal": "2026-10-23 09:34"
+  },
+  {
+    "id": "2113437977749999628",
+    "text": "Actually $ESMT and my legacy memory names held up better than the rest of the AI trade. \n\nProbably did better... since ESMT is around 1.6x runrate P/E, annualized off July earnings.\n\nThis was more of a durability/PSMC hike sensitivity type thesis, but... we got durability support now from brand new commentary yesterday:\n\n- ESMT expected tightness on their legacy memory products through 2028 or longer\n- Further Q4 price increases... with the operating performance is expected to be better than the third quarter\n- Supply shortfall exceeding 30%\n\nSource: Digitimes TW\n\nSo you have a $2.15B MC company that made $107M net income a month (annualized $1.28B earnings a year) from July earnings... \n\nWith future price hikes and likely tightness lasting through 2028 onward.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 428,
+      "retweets": 27,
+      "replies": 41,
+      "quotes": 16,
+      "views": 170734,
+      "bookmarks": 80
+    },
+    "createdAt": "Fri Oct 23 01:10:54 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": null,
+    "quotedTweet": {
+      "id": "2113208196924047635",
+      "text": "@aleabitoreddit @dBooray Hi Serenity, do you currently have any updates on $ESMT?",
+      "author": {
+        "id": "761118638887751680",
+        "name": "Leo Hsu",
+        "screenName": "LeoHsu4A"
+      }
+    },
+    "createdAtISO": "2026-10-23T01:10:54Z",
+    "createdAtLocal": "2026-10-23 09:10"
+  },
+  {
+    "id": "2113433338522546399",
+    "text": "$NVDA Jensen Huang: Surplus of memory supply is unlikely by 2029. \n\nThe CNBC question referenced a Korean newspaper opinion on $KOSPI / Samsung / SK Hynix that predicted \"new supply will leave the memory sector a red ocean in 2029.\"\n\n\"One of the things that's really great about memory is that you can always use more of it\", Jensen said, citing LPDDR usage in DCs.  And responded \"I don't think so\" in terms of possibilities of oversupply in 2029. \n\nJust my personal opinion, Nvidia probably has the most visibility in the entire industry. \n\nEspecially around supply procurement and emerging capacity, given they're the ones leading all the architectural shifts. \n\nOn durability, you have Samsung already allocated majority of capacity into 2031 from SED and hyperscalers like $GOOGL are already reportedly securing memory LTAs into 2035 from KeyBanc. \n\nYet there's endless \"it's all over\" sentiment on memory now. I'd probably trust Jensen's opinion here.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1255,
+      "retweets": 91,
+      "replies": 99,
+      "quotes": 19,
+      "views": 227779,
+      "bookmarks": 142
+    },
+    "createdAt": "Fri Oct 23 00:52:28 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": null,
+    "createdAtISO": "2026-10-23T00:52:28Z",
+    "createdAtLocal": "2026-10-23 08:52"
+  },
+  {
     "id": "2113335979717316881",
     "text": "@pepemoonboy Thanks for the flattery! I feel like every investor has drawdowns, especially if global markets seem to be dropping.\n\nUsually people who never lose money turn out to be scammers that try and sell you some sort of paywall half the time.",
     "author": {
