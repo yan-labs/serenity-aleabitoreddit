@@ -1,0 +1,348 @@
+{
+  "x_api_full": {
+    "input": {
+      "id": "100",
+      "text": "@a @b truncated…",
+      "note_tweet": {
+        "text": "full long body $NBIS"
+      },
+      "author_id": "1940360837547565056",
+      "created_at": "2026-10-19T10:34:45.000Z",
+      "public_metrics": {
+        "like_count": 5,
+        "retweet_count": 1,
+        "reply_count": 2,
+        "quote_count": 0,
+        "impression_count": 900,
+        "bookmark_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "90"
+        },
+        {
+          "type": "quoted",
+          "id": "80"
+        }
+      ],
+      "attachments": {
+        "media_keys": [
+          "m1",
+          "m2"
+        ]
+      },
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "https://x.com/a/status/1/photo/1"
+          },
+          {
+            "expanded_url": "https://example.com"
+          }
+        ]
+      },
+      "conversation_id": "90",
+      "lang": "en"
+    },
+    "includes": {
+      "users": [
+        {
+          "id": "1940360837547565056",
+          "username": "aleabitoreddit",
+          "name": "Serenity",
+          "verified": true,
+          "profile_image_url": "p.jpg"
+        },
+        {
+          "id": "7",
+          "username": "other",
+          "name": "Other"
+        }
+      ],
+      "media": [
+        {
+          "media_key": "m1",
+          "url": "u1.jpg"
+        },
+        {
+          "media_key": "m2",
+          "preview_image_url": "v.jpg"
+        }
+      ],
+      "tweets": [
+        {
+          "id": "80",
+          "text": "short",
+          "note_tweet": {
+            "text": "quoted long"
+          },
+          "author_id": "7"
+        }
+      ]
+    },
+    "expected": {
+      "id": "100",
+      "text": "@a @b full long body $NBIS",
+      "author": {
+        "id": "1940360837547565056",
+        "name": "Serenity",
+        "screenName": "aleabitoreddit",
+        "profileImageUrl": "p.jpg",
+        "verified": true
+      },
+      "metrics": {
+        "likes": 5,
+        "retweets": 1,
+        "replies": 2,
+        "quotes": 0,
+        "views": 900,
+        "bookmarks": 3
+      },
+      "createdAt": "Mon Oct 19 10:34:45 +0000 2026",
+      "media": [
+        {
+          "url": "u1.jpg"
+        },
+        {
+          "url": "v.jpg"
+        }
+      ],
+      "urls": [
+        "https://example.com"
+      ],
+      "isRetweet": false,
+      "retweetedBy": null,
+      "lang": "en",
+      "isQuote": true,
+      "isReply": true,
+      "conversationId": "90",
+      "inReplyToTweetId": "90",
+      "quotedTweet": {
+        "id": "80",
+        "text": "quoted long",
+        "author": {
+          "id": "7",
+          "name": "Other",
+          "screenName": "other"
+        }
+      },
+      "createdAtISO": "2026-10-19T10:34:45Z",
+      "createdAtLocal": "2026-10-19 18:34"
+    }
+  },
+  "x_api_quote_missing": {
+    "input": {
+      "id": "101",
+      "text": "plain",
+      "author_id": "1940360837547565056",
+      "created_at": "Mon Oct 19 10:34:45 +0000 2026",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "55"
+        }
+      ]
+    },
+    "includes": {},
+    "expected": {
+      "id": "101",
+      "text": "plain",
+      "author": {
+        "id": "1940360837547565056",
+        "name": "Serenity",
+        "screenName": "aleabitoreddit",
+        "profileImageUrl": null,
+        "verified": false
+      },
+      "metrics": {
+        "likes": null,
+        "retweets": null,
+        "replies": null,
+        "quotes": null,
+        "views": null,
+        "bookmarks": null
+      },
+      "createdAt": "Mon Oct 19 10:34:45 +0000 2026",
+      "media": [],
+      "urls": [],
+      "isRetweet": false,
+      "retweetedBy": null,
+      "lang": null,
+      "isQuote": true,
+      "isReply": false,
+      "conversationId": null,
+      "quotedTweet": {
+        "id": "55"
+      },
+      "createdAtISO": "2026-10-19T10:34:45Z",
+      "createdAtLocal": "2026-10-19 18:34"
+    }
+  },
+  "x_api_minimal_no_users": {
+    "input": {
+      "id": "102",
+      "text": "hi",
+      "created_at": "2026-10-01T00:00:00Z"
+    },
+    "includes": null,
+    "expected": {
+      "id": "102",
+      "text": "hi",
+      "author": {
+        "id": null,
+        "name": "Serenity",
+        "screenName": "aleabitoreddit",
+        "profileImageUrl": null,
+        "verified": false
+      },
+      "metrics": {
+        "likes": null,
+        "retweets": null,
+        "replies": null,
+        "quotes": null,
+        "views": null,
+        "bookmarks": null
+      },
+      "createdAt": "Thu Oct 01 00:00:00 +0000 2026",
+      "media": [],
+      "urls": [],
+      "isRetweet": false,
+      "retweetedBy": null,
+      "lang": null,
+      "isQuote": false,
+      "isReply": false,
+      "conversationId": null,
+      "createdAtISO": "2026-10-01T00:00:00Z",
+      "createdAtLocal": "2026-10-01 08:00"
+    }
+  },
+  "archive_shaped": {
+    "input": {
+      "id": "103",
+      "text": "x",
+      "author": {
+        "screenName": "aleabitoreddit"
+      },
+      "createdAtISO": "2026-10-02T00:00:00Z"
+    },
+    "includes": {},
+    "expected": {
+      "id": "103",
+      "text": "x",
+      "author": {
+        "screenName": "aleabitoreddit"
+      },
+      "createdAtISO": "2026-10-02T00:00:00Z",
+      "createdAtLocal": "2026-10-02 08:00"
+    }
+  },
+  "archive_missing_iso": {
+    "input": {
+      "id": "104",
+      "text": "x",
+      "author": {
+        "screenName": "aleabitoreddit",
+        "verified": false,
+        "id": "9"
+      },
+      "metrics": {
+        "likes": 1,
+        "views": 2
+      },
+      "createdAt": "Mon Oct 19 10:34:45 +0000 2026",
+      "isReply": true,
+      "inReplyToTweetId": 5,
+      "inReplyToUserId": 6,
+      "media": [
+        {
+          "url": "a"
+        }
+      ],
+      "urls": [
+        "b"
+      ],
+      "quotedTweet": {
+        "id": "3"
+      }
+    },
+    "includes": {},
+    "expected": {
+      "id": "104",
+      "text": "x",
+      "author": {
+        "id": "9",
+        "name": "Serenity",
+        "screenName": "aleabitoreddit",
+        "profileImageUrl": null,
+        "verified": false
+      },
+      "metrics": {
+        "likes": 1,
+        "retweets": null,
+        "replies": null,
+        "quotes": null,
+        "views": 2,
+        "bookmarks": null
+      },
+      "createdAt": "Mon Oct 19 10:34:45 +0000 2026",
+      "media": [
+        {
+          "url": "a"
+        }
+      ],
+      "urls": [
+        "b"
+      ],
+      "isRetweet": false,
+      "retweetedBy": null,
+      "lang": null,
+      "isQuote": false,
+      "isReply": true,
+      "conversationId": null,
+      "inReplyToTweetId": "5",
+      "inReplyToUserId": "6",
+      "quotedTweet": {
+        "id": "3"
+      },
+      "createdAtISO": "2026-10-19T10:34:45Z",
+      "createdAtLocal": "2026-10-19 18:34"
+    }
+  },
+  "bad_date": {
+    "input": {
+      "id": "105",
+      "text": "x",
+      "created_at": "not a date"
+    },
+    "includes": {},
+    "expected": {
+      "id": "105",
+      "text": "x",
+      "author": {
+        "id": null,
+        "name": "Serenity",
+        "screenName": "aleabitoreddit",
+        "profileImageUrl": null,
+        "verified": false
+      },
+      "metrics": {
+        "likes": null,
+        "retweets": null,
+        "replies": null,
+        "quotes": null,
+        "views": null,
+        "bookmarks": null
+      },
+      "createdAt": null,
+      "media": [],
+      "urls": [],
+      "isRetweet": false,
+      "retweetedBy": null,
+      "lang": null,
+      "isQuote": false,
+      "isReply": false,
+      "conversationId": null
+    }
+  }
+}
