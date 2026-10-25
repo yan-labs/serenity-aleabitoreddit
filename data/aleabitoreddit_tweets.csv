@@ -1,4 +1,236 @@
 id,url,createdAtISO,createdAtLocal,lang,isRetweet,retweetedBy,likes,retweets,replies,quotes,views,bookmarks,media_count,media_urls,link_urls,quoted_id,quoted_author,quoted_text,text
+2114055113732182110,https://x.com/aleabitoreddit/status/2114055113732182110,2026-10-24T18:03:11Z,2026-10-25 02:03,en,False,,59,2,5,0,8707,4,0,,,,,,"@siddhrts I used to spend a lot of time inside $AMZN offices... so I do understand the lack of food availability firsthand.
+
+Despite making so much money, they even limited coffee to once a day.
+
+Bro when I visited $META, they had all you can eat buffets like you see in Vegas or Cruise Ships."
+2114051018510287340,https://x.com/aleabitoreddit/status/2114051018510287340,2026-10-24T17:46:54Z,2026-10-25 01:46,en,False,,825,28,73,19,134425,224,0,,,,,,"So back on your Neoclouds like $NBIS + memory read through... From $AMZN CEO + A16z interview.
+
+Q: On memory shortages (eg. $MU / SK Hynix / Samsung):
+
+A: ""There's only so much memory, and I don't think that that shortage ends in 2027.""
+
+Q: On AWS capacity:
+
+A: ""A good chunk of 28 is sold out"", ""largely sold out through 2027.""
+
+Q: On capex ROI:
+
+A: Amazon had ​said it would spend about $220 billion in capex for 2026. But Jassy said the company ""could invest a lot more ​and it wouldn't be a bad use of ​capital""
+
+This is probably validating economics of Neoclouds model since this comes from a pretty stingy hyperscaler like Amazon... that only serves free bananas to their employees.
+
+Unlike trusting $META / Zuck where you the guy throws all you can eat cruise ship type buffets at every employee.
+
+- AWS claims approximately 30-40% better price-performance than comparable AI accelerators.
+
+Then went on to say Annapurna was ""one of the very best acquisitions we've done in Amazon and the history of the company, if not the best."" ""We spun out a separate team in Annapurna to build an AI accelerator""
+
+Just to give a bump to your AI custom silicon type private companies (since others like $AAPL were likely going on shopping sprees).
+
+TLDR:
+- Not really too much groundbreaking, just incremental validation of what was said previous earnings.
+- Broader shortages (like memory) won't end in 2027
+- Always positive to hear from $AMZN on insatiable demand + ROI given atrocious Neocloud sentiment right now"
+2114030117416755494,https://x.com/aleabitoreddit/status/2114030117416755494,2026-10-24T16:23:51Z,2026-10-25 00:23,en,False,,451,33,53,13,135940,184,0,,https://twitter.com/raikk61/status/2113971379498635409,2113971379498635409,raikk61,@aleabitoreddit What about comprletition from Chinese suppliers?,"I guess what I've seen from Chinese laser capacity expansion:
+
+1. Dongshan/Source Photonics (索尔思): 9M/month capacity -> 22M/month Q4 ->  300m/year in 2027 (mostly EML, but blended)
+
+Claims of 1B/year ""target"" for laser chips with no deadline, but I'd take this as a grain of salt.
+
+2. Shijia (仕佳): 72M/year for 100mW CW, 2-3 year project (mainly 2029 full capacity online)
+
+3. Yunling (云岭): 18.75M/year 70/100mW CW, 3 year schedule (mainly 2029 full capacity online)
+
+4. Ligent (纳真), some reports stated 170M target for total capacity (also blended, lot of which is 200G EML)
+
+5. Yuanjie: ~10M/year currently, expanding for early 2027 and 2028, but no quantities.
+
+6. Hongchen: I think this was the perfect example of flooding H2 2026 arguments. With some some optical bears claiming 60-70M capacity...
+
+But this turned out to completely wrong... Their actual statements were ""70/100 mW products are entering small-volume production"".
+
+7. Dingxin Optoelectronics - Targeting 15M/year blended (with 70/100mW CW and 100G EML lines)
+
+Obviously mapped many others like Everbright/Accelink and did some guesses around laser mixes, but only included public disclosures.
+
+From your pluggable vendor channel checks:
+
+- 70mW/100mW lasers are actually a bottleneck right now per Innolight/Cambridge channel checks, laser ASPs actually increasing.
+
+Lasers are tighter than they were a few months ago.
+
+I don't think there's a giant moat here, Chinese players are already competitive. But a bottleneck is a bottleneck, and anyone with capacity to monetize that will benefit, since it's a volume game.
+
+In terms of what the larger pluggable makers are actually doing:
+
+- Innolight September disclosure: actively introducing new suppliers and are planning to sign 2-3 year-long contracts to lock upstream capacity for lasers (still actively securing supply for 1.6T pluggables)
+
+So there's some game theory over who can lock up qualified capacity among all your players.
+
+Even if there's some over-ordering, laser BOM is cheap, so they'd probably want to lock up capacity with more suppliers than lose billions in downstream revenue. (also kinda hurts competitors)
+
+- High end lines (for CPO), non-competitive with Western players like $LITE / $COHR as of next few years. But Chinese players would eventually develop the technology.
+
+- $AAOI CEO: Chinese suppliers several years behind on high-power CPO/DWDM laser production ""not in the next 2,3 years""
+
+- $LITE CEO questioned whether claimed Chinese manufacturing capacity was translating into commercial output. ""At least at the moment, we see no impact from any Chinese laser supply.""
+
+This is despite Shijia, Everbright, Yuanjie and others stating 400mW capabilities and capacity expansion targets from Chinese companies. Although Western CEOs might be disputing their reliability and capability to scale these lines.
+
+I see lower end range bottleneck for pluggable will gradually ease as more capacity comes online 2028. But all evidence points against near-term overflooding.
+
+The 100mW range for example, someone cited 2 years of equipment investment. Higher ranges were 3 years for equipment investment? So even some Chinese players take years for capacity to come online.
+
+The multi year laser shortage statements from laser company executives seems to be true... especially among higher end ranges, since buildout takes a lot of time.
+
+Legitimate competition coming from China, but as of now there's a scramble for CW LTAs among the industry in 2026-2027.
+
+Lot of capacity is probably allocated toward higher spec lasers or EML, as seen with EML bottlenecking $LITE for the longest time (they have more supply now) that they had to buy CW off the market instead of supplying it themselves.
+
+This is while tail end for 800G demand for example, might continue much much longer than expected with sovereign DC buildouts. So there might be some surprising dynamics for duration, we'll see.
+
+In the end I do think supply chains will be bifurcated:
+
+- Chinese players will prioritize domestic capabilities but heavily sources globally.
+
+- Western players (now) prioritize Western supply chains unless China comes online with cheap enough supply (which don't see happening near-term).
+
+TLDR:
+-> Multi-year shortage definitely seems accurate for higher end specs
+-> Lot of China capacity overflooding claims earlier from H1 turned out to be completely false. People keep making them for some reason across memory to photonics.
+-> Chinese laser players are competitive for 70mW/100MW, meaningful expansion Y/Y, but nothing showing overflooding, given laser demand increasing, probably gradual easing into 2028.
+
+We'll see, supply chain evolves month after month, just my current opinion from what I'm seeing."
+2113974563809943849,https://x.com/aleabitoreddit/status/2113974563809943849,2026-10-24T12:43:06Z,2026-10-24 20:43,en,False,,70,3,3,3,14356,10,0,,,,,,"@stockprodigyman This was responding to a question this year whether their Fortune 100 was still working with $SIVE, given a lot of doubts.
+
+They qualified it’s a “very long cycle”, “they have a lot of things to work through because it’s a biosensing application”
+
+I use the word ~ likely since it’s not publicly disclosed. This is public supply chain inference that it’s $APPL, given 50M unit RFQ commercial scale, US, and technology/application overlap.
+
+I’d argue Apple would be a cherry on top if it happens in 2028, not really any part of the core thesis. Main thing I’m looking for is Sivers AI DC laser revenue growth."
+2113964694201643199,https://x.com/aleabitoreddit/status/2113964694201643199,2026-10-24T12:03:53Z,2026-10-24 20:03,en,False,,58,0,4,0,9889,2,0,,,,,,"@soohu Yep, O-Net is an existing hyperscaler supplier, but not really well known to Western audiences.
+
+They're actually building out on an 8 channel ELSFP with $SIVE for CPO though rather than pluggable deployments."
+2113960886461444206,https://x.com/aleabitoreddit/status/2113960886461444206,2026-10-24T11:48:45Z,2026-10-24 19:48,en,False,,83,2,4,0,10851,6,0,,,,,,"@JohnnyXAngelo I think it's always helpful to learn what's going on in the supply chain, even if you're not an investor in lasers or $SIVE.
+
+There's a lot of dynamics + game theory that goes on in supply shortages like:
+
+- Expanding supplier # during shortages -> more opportunities for others.
+
+- or as seen with $LITE sold out into 2027 -> causes other hyperscalers to sign LTAs -> capacity sold out into 2029 -> hyperscalers approach $MTSI / $AAOI + others for their own ramps
+
+or different opportunities from supply procurement info like $JBL 1.6T LRO program scaling up in H2 2027 from upstream disclosures."
+2113958295325319387,https://x.com/aleabitoreddit/status/2113958295325319387,2026-10-24T11:38:27Z,2026-10-24 19:38,en,False,,67,4,4,1,11986,6,0,,,,,,"@smith_susa23828 $AMD was negotiating CW laser capacity LTAs from Trendforce. And are working with Ayar / $GFS for CPO deployments, (where $SIVE is upstream as the laser supplier/reference design)
+
+So there's strong overlap in photonics.
+
+However, AMD on Sivers website currently is likely baseband related from cellular + Xilinx."
+2113954878393561487,https://x.com/aleabitoreddit/status/2113954878393561487,2026-10-24T11:24:53Z,2026-10-24 19:24,en,False,,348,29,18,11,37089,114,0,,,,,,"@pg320 I'll let this revenue projection graph I made for $AAOI do the talking. Price at $70 I find genuinely riduclous if they deliver on their projections.
+
+Rate hikes/macro trims a lot of forward valuations. But the selloff way overshot, which I'd argue is amplified by hedge fund risk/forced deleveraging before month end reporting.
+
+Rather than something individually wrong with the company."
+2113950041207607453,https://x.com/aleabitoreddit/status/2113950041207607453,2026-10-24T11:05:39Z,2026-10-24 19:05,en,False,,1261,90,123,42,231738,550,0,,https://twitter.com/crypdegn/status/2113642565786292598,2113642565786292598,crypdegn,@aleabitoreddit You still confident on SIVE?,"Yes, I like $SIVE. It's a fun company to cover, since there's a lot of supply chain alpha here.
+
+But the company completely Tall Poppy Syndromed itself last earnings.
+
+And it's clearly shown in the drawdown.
+
+Bit of a longer consolidated thought and some scattered bits of supply chain info:
+
+- Sivers has 100M CW DFB laser capacity coming online Q4 2027 during an industry shortage.
+
+And very large allocations from foundries online (they were doing these quals with Win Semi + 2 others back in 2023/2024), so they can actively monetize the bottleneck today.
+
+The other interesting reason why bottlenecks are important (aside from ASP hikes), is because qualifications convert much faster + more likely given incentives around supply scarcity.
+
+-> As one example, module makers have expanded the amount of suppliers, eg. (lightcounting cited companies expanding to 5-7+ suppliers from 2-3).
+
+Innolight, for example last month responded to a question addressing tight 1.6T DFB laser supply in 2026–2027:
+
+- Innolight was actively introducing new suppliers last month and are planning to sign 2-3 year-long contracts to lock upstream capacity
+
+-> This is while your biggest merchant laser companies making up the world's 600m+ EML/CW laser capacity like $COHR have redirected lasers to their own programs. $LITE sold out into 2029, Landmark also locked a lot of their capacity into 2027-2029. $AAOI was an expected player, but ended up redirecting lasers into their own transceiver programs too.
+
+And this coincides with times $SIVE has tremendous capacity available now + actively engaged with Chinese pluggables players (not saying it's Innolight, but just shows Chinese makers like Cambridge/Eoptolink are actively trying to secure laser capacity).
+
+- Fun to note, before $JBL was announced, Sivers had and has ongoing direct engagements with hyperscalers as well.
+
+We saw that hyperscalers approached $MTSI and $AAOI for laser capacity from their earnings transcripts (and hilariously got turned away from AAOI due to shortages).
+
+So the odds pluggable makers or hyperscalers end up converting to capacity agreements with $SIVE seems a materially higher.
+
+Just a little rant: for all the sellside/retail trying to model revenue, you can't just slap on a stupid 25-35% CAGR on NRE revenue since it's close to 0 revenue now.
+
+Especially when they scale up to maybe 300M laser capacity (extrapolated from 2:1 external/internal capacity).
+
+It's also not the same as $POET having OE packaging capacity at scale, since lasers are in a genuine shortage. So capacity is more likely to convert like how $AAOI is sold out, $LITE is sold out into 2029
+
+We've already seen what revenue that laser capacity brings in since $LITE cited $5B in laser capacity from just one 2028 fab alone in Greensboro (on higher end ranges).
+
+And whatever lasers Sivers sell, they're targeting ~50-60+ blended gross margins long term on maybe $3-6 for lower range lasers to $6-$12 for high end custom deployments. But no disclosures around capacity -> revenue conversion yet from Sivers.
+
+Now here's the thing people don't really understand, ""why no revenue?"" for current opportunities?
+
+$SIVE pre 2024 focused on custom development for future architectural shifts like CPO.
+
+For custom deployments:
+
+- We finally got conversion from 1 of their 4 or so lidar customers this week with ~ $AEVA.
+- ~ $APPL was confirmed ongoing earlier this year with an explanation that ""It takes tremendous amount of trials and algorithms way beyond just what we supply to them"".
+- All their customers from 2023-2024 like Ayar and 3 others, probably achieve volume in 2028 as CPO takes off.
+
+Custom high end lasers programs are extremely sticky but take many years and are mainly NRE. And as seen with CPO scale up, faced delays with commercialization over the years.
+
+So $SIVE from the CEO shift in 2024 realized ""okay"" let's ramp revenue with mass commercialization products today like 70mW/100mW/200mW lasers for 800g/1.6T pluggables.
+
+And that's where they found $JBL and all your other large pluggable players today during the shortage.
+
+Now...  the work Sivers did in 2023-2024 earlier: Such as $AAPL, Ayar, $AEVA, other lidar/CPO players.
+
+And their new mass commercialization opportunities like $JBL, $GFS, and many pluggables/NPO suppliers in engagement now.
+
+Have all their inflection points converges 2027 onward, which is why I find the company compelling.
+
+Where I think management went completely wrong was messaging and near-term execution:
+
+- Deciding to focus on current tiny contracts like Seminex, AllSpace, Tachyon orders felt like the entire focus recently in earnings, shareholder letters, and media commentary
+
+-> Brutal honesty to $SIVE management, majority of Western audiences literally don't care and it's immaterial to the valuation.
+
+$SIVE moved 0% on all of the Seminex/AllSpace/Tachyon order announcements, and even dropped in price. But rallied like 50% on $GFS and something similar on $JBL announcement.
+
+The reason why most took long positions in the first place was CPO.
+
+So if $SIVE wants to go answer questions to Swedish media about ""Why are you bleeding out"" and defending that with cellular orders explaining pipeline conversion.
+
+That's not going to help people stay long during drawdowns.
+
+-> Second part was not committing to NASDAQ listing in a certain timeframe and actually executing.
+
+- If there's delays, sure, just say it, but non-committal lawyer-like language is infuriating to hear, especially from the CFO.
+
+I think they'll have that opportunity next month earnings to correct everything.
+
+So wrapping up:
+
+- There's nothing I see remotely close to $SIVE, in terms of % of global CW laser capacity they're coming online with relative to MC.
+
+- They have a ton commercialization paths, from O-Net, $POET, $JBL, Ayar, $GFS, $AAPL, $AEVA, and many potential hyperscaler/pluggable engagements.
+
+Even if one or two fall through, the breadth of ongoing quals is so deep + current laser bottleneck is severe, that it's more likely than not many will convert to production.
+
+It's clear $SIVE wants to focus on dominating the laser chokepoint first, and ended up using their 700m SEK fundraise for capacity expansion.
+
+But they should focus on communicating the billions in potential economic scale from that laser capacity conversion.
+
+And execute on it."
+2113858708996530234,https://x.com/aleabitoreddit/status/2113858708996530234,2026-10-24T05:02:44Z,2026-10-24 13:02,zh,False,,282,4,20,4,78296,45,0,,,,,,"@freearkshaw 粉丝太多了，到了100万+这个量级，分享点想法都很容易被人误解
+
+所以我不发波段交易相关的内容了，虽然现在这种行情，抓波动做交易确实很有赚头
+
+我也觉得 现在短期波动率上来了，像逢跌卖 put（看跌期权）这类卖出期权的操作，在这种行情下一般都挺赚钱的"
 2113585093856108796,https://x.com/aleabitoreddit/status/2113585093856108796,2026-10-23T10:55:29Z,2026-10-23 18:55,,False,,90,3,8,0,17920,4,0,,,,,,"@ram_blings Thanks for asking! Obviously disappointed about the drawdown but very comfortable waiting this volatility out since I’m personally on a pretty conservative ~1.15x leverage now.
 
 Been seeing a lot of sad stories of people who went to 0 off options. https://t.co/paAwiwVmI5"
