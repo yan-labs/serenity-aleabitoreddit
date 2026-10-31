@@ -1,5 +1,135 @@
 [
   {
+    "id": "2116221086107111712",
+    "text": "Trump: “This is Biden’s market” https://t.co/zvCtnHJPf7",
+    "author": {
+      "id": null,
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 2900,
+      "retweets": 137,
+      "replies": 209,
+      "quotes": 32,
+      "views": 254594,
+      "bookmarks": 151
+    },
+    "createdAt": "Fri Oct 30 17:29:59 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": null,
+    "createdAtISO": "2026-10-30T17:29:59Z",
+    "createdAtLocal": "2026-10-31 01:29"
+  },
+  {
+    "id": "2116043028695781658",
+    "text": "@rob55178 I said that at $12. Now $LWLG is $4.\n\nBut I do have small positions now as part of that “it’s all over” trade https://t.co/14Ym8iCVuP",
+    "author": {
+      "id": null,
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 52,
+      "retweets": 1,
+      "replies": 6,
+      "quotes": 1,
+      "views": 13865,
+      "bookmarks": 7
+    },
+    "createdAt": "Fri Oct 30 05:42:26 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": null,
+    "inReplyToTweetId": "2116029107280736320",
+    "createdAtISO": "2026-10-30T05:42:26Z",
+    "createdAtLocal": "2026-10-30 13:42"
+  },
+  {
+    "id": "2115624832947917083",
+    "text": "Holy sht, $MRVL is in the final stages of a deal to acquire $LITE.\n\nAttempting to vertically integrate the most supply constrained chokepoints… with lasers.\n\nIs very big brain if they pull it off and suddenly makes other laser players more strategically valuable. https://t.co/61vfIIsBRw",
+    "author": {
+      "id": null,
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 2208,
+      "retweets": 99,
+      "replies": 185,
+      "quotes": 28,
+      "views": 433949,
+      "bookmarks": 279
+    },
+    "createdAt": "Thu Oct 29 02:00:41 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": null,
+    "createdAtISO": "2026-10-29T02:00:41Z",
+    "createdAtLocal": "2026-10-29 10:00"
+  },
+  {
+    "id": "2115265167919653233",
+    "text": "Woah, stellar earnings from and AI market projections...  \n\n1. SK Hynix: \"Memory supply shortage to persist through 2030\". \n2. There's the $4.8B operating profit beat ($62.8B vs. ~$58B est)... 80% operating margins. \n\nSo you had:\n- Revenue: $78.84B vs. $74.02B\n- Operating profit: https://t.co/tj9vToghB6 https://t.co/WgjzDBfOAF",
+    "author": {
+      "id": null,
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1677,
+      "retweets": 117,
+      "replies": 121,
+      "quotes": 19,
+      "views": 300501,
+      "bookmarks": 264
+    },
+    "createdAt": "Wed Oct 28 02:11:30 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": null,
+    "quotedTweet": {
+      "id": "2115056034763137169",
+      "text": "Oh look… more memory durability evidence for $MU and co.\n\nFollowing the news of $GOOGL, other CSPs such as Alibaba, Tencent, Bytedance, and are now negotiating memory LTAs with $SKHY and Samsung.\n\nSome customers are reportedly pushing for 10 year contracts as well, into 2035. https://t.co/cmSGWVu9oI https://t.co/VgZIUevbLT",
+      "author": {
+        "id": null,
+        "name": null,
+        "screenName": null
+      }
+    },
+    "createdAtISO": "2026-10-28T02:11:30Z",
+    "createdAtLocal": "2026-10-28 10:11"
+  },
+  {
     "id": "2115118430785606077",
     "text": "@nisanyanviskisi $EOSE was added to this meme port just by looking at the chart... https://t.co/3AElXGYtTO",
     "author": {

@@ -8,6 +8,9 @@ Tracks Serenity's publicly stated dated calls, position changes, and outcomes. N
 
 | Date | Source | Ticker | Call | Entry | Outcome | Notes |
 |------|--------|--------|------|-------|---------|-------|
+| 2026-10-29 | X [2115624832947917083](https://x.com/aleabitoreddit/status/2115624832947917083) | $MRVL / $LITE / merchant lasers | Reported MRVL near deal to acquire LITE; would raise strategic value of other laser players | Existing laser basket | Ongoing | Verify deal announcement/terms. |
+| 2026-10-28 | X [2115265167919653233](https://x.com/aleabitoreddit/status/2115265167919653233) | $SKHY / $MU / memory | SK Hynix beat (~$62.8B op profit vs ~$58B, ~80% margin); shortage through 2030 | Existing thesis | Ongoing | Verify figures and guidance. |
+| 2026-10-30 | X [2116043028695781658](https://x.com/aleabitoreddit/status/2116043028695781658) | $LWLG | Was bearish at ~$12; small position at ~$4 within "It's All Over" basket | ~$4 | Ongoing | Basket tracking only. |
 | 2026-10-27 | X [2115056034763137169](https://x.com/aleabitoreddit/status/2115056034763137169) / [2115060985396670793](https://x.com/aleabitoreddit/status/2115060985396670793) | $MU / $SKHY / memory / $LITE | Chinese CSPs follow GOOGL into memory LTAs (some 10y to 2035); hyperscaler herd behavior on LTAs | Existing thesis | Ongoing | Verify LTA reports and terms. |
 | 2026-10-27 | X [2115094150626644115](https://x.com/aleabitoreddit/status/2115094150626644115) | "It's All Over" basket ($ALMU ~$7, $FLNC ~$5.8, $WYFI, $LWLG, $CBRS, $BRUN, $EOSE) | Tracking basket of crushed high-beta names into year-end; explicitly not recommendations | Tracking only | Ongoing | Measure basket return to 2026-12-31. |
 | 2026-10-27 | X [2115097816779673903](https://x.com/aleabitoreddit/status/2115097816779673903) | $CIFR | Likes ~$8: AMZN/GOOGL/AI-lab counterparties, unlike GPU-buying neoclouds; financing/overbudget risk | ~$8 | Ongoing | Track financing closes. |
