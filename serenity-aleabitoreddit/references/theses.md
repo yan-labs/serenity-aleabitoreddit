@@ -332,6 +332,8 @@ restore branch split.
 
 ## $AAOI — Applied Optoelectronics Inc
 
+- **Latest signal**: Nov 3 reports a five-year InP substrate agreement with Yuunan Germanium, at `$194.4M/year` for 2027 (about `$970M` over five years before price increases). Serenity infers that 180K wafers would exceed apparent internal transceiver-laser needs if fully consumed, potentially signaling undisclosed UHP laser capacity/contracts; he views securing capacity during the bottleneck positively. This is procurement evidence and an inference, not confirmed laser output or revenue.
+- **Latest tweet**: [2117664715811995717](https://x.com/aleabitoreddit/status/2117664715811995717) — 2026-11-03
 - **Latest signal**: Jul 13 calibration says `$AAOI` mainly earns from pluggables; it has related laser samples but no CPO design wins, commercial timing is TBD, and reliability work continues. This is a material caveat against reading sector-level CPO demand as AAOI-specific CPO revenue.
 - **Latest tweet**: [2076763334930812936](https://x.com/aleabitoreddit/status/2076763334930812936) — 2026-07-13T20:18:58Z
 - **Context**: AAOI is a CW laser and optical components maker. Keep watching for a named CPO design win, qualification completion, commercial timing, AMD/hyperscaler procurement, revenue ramp, bookings, and guidance before treating the CPO optionality as realized.
