@@ -1,5 +1,364 @@
 [
   {
+    "id": "2117664715811995717",
+    "text": "$AAOI signs $194.4M/year contract with Yuunan Germanium. \n\nThis is for 2027 alone, with a 5 year contract. Given an implied total of ~$970M in InP substrates over 5 years (before price hikes)\n\nHmm just some thoughts: \n\n- AOI laser capacity expansion seems bigger than what’s disclosed based on procurement patterns? \n\n180K wafers seems like an extreme amount compared to what’s needed for lasers within their own transceivers… if they can consume all of that\n\nSo maybe we’ll hear about a new UHP laser contracts in earnings, after $LITE announced a $5B contract.\n\n- read through on $AXTI is positive, given they’ll probably be #1 in InP substrates manufacturing scale in the future + have contracts with $LITE and $COHR.\n\n- positive AOI was able to secure capacity during the bottleneck\n\nMore spend is probably the boogeyman in the AI trade, but it’s a good signal for earnings.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 828,
+      "retweets": 41,
+      "replies": 45,
+      "quotes": 5,
+      "views": 139508,
+      "bookmarks": 141
+    },
+    "createdAt": "Tue Nov 03 17:06:27 +0000 2026",
+    "media": [],
+    "urls": [
+      "https://twitter.com/adam02747/status/2117640709306237032"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2117664715811995717",
+    "quotedTweet": {
+      "id": "2117640709306237032"
+    },
+    "createdAtISO": "2026-11-03T17:06:27Z",
+    "createdAtLocal": "2026-11-04 01:06"
+  },
+  {
+    "id": "2117649322330468542",
+    "text": "@IkaKnight_ Yeah H1 2026 was more fun, everyone now is depressed and bearish…\n\nSo recoveries like $NBIS and $CIFR give everyone PTSD.\n\nI’m hoping this is the fabled midterm election rally and not another selloff https://t.co/9HWkUkMQjg",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 77,
+      "retweets": 1,
+      "replies": 3,
+      "quotes": 0,
+      "views": 10747,
+      "bookmarks": 6
+    },
+    "createdAt": "Tue Nov 03 16:05:17 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2117639781572366705",
+    "inReplyToTweetId": "2117641476301844763",
+    "createdAtISO": "2026-11-03T16:05:17Z",
+    "createdAtLocal": "2026-11-04 00:05"
+  },
+  {
+    "id": "2117639781572366705",
+    "text": "Glad to see high beta AI semis like $AEHR or $FN rallying after earnings. \n\nI wonder if anyone previously on leverage is still alive to see a potential recovery? https://t.co/u1niEPMhDc",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 645,
+      "retweets": 20,
+      "replies": 73,
+      "quotes": 3,
+      "views": 136220,
+      "bookmarks": 65
+    },
+    "createdAt": "Tue Nov 03 15:27:22 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2117639781572366705",
+    "createdAtISO": "2026-11-03T15:27:22Z",
+    "createdAtLocal": "2026-11-03 23:27"
+  },
+  {
+    "id": "2117634458778247210",
+    "text": "Agility Robotics merger is now approved!\n\n$AGLT is expected to begin trading November 5th, following the November 4 closing... As the first US pure-play humanoid company!\n\nThe company is backed by $NVDA, $AMZN, Foxconn, Softbank, and others... to automate human work in warehouses and manufacturing. \n\n~61.48% of the 41.4M public shares were redeemed (~25.45M shares), leaving ~15.95M public shares tradeable.\n\nGiven heavily reduced share count, as a warning, the stock may experience significant volatility.\n\nDisclosure: Not a recommendation, purchased $CCXI shares today after seeing the news and currently hold a position.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 589,
+      "retweets": 31,
+      "replies": 52,
+      "quotes": 7,
+      "views": 138190,
+      "bookmarks": 213
+    },
+    "createdAt": "Tue Nov 03 15:06:13 +0000 2026",
+    "media": [],
+    "urls": [
+      "https://twitter.com/agilityrobotics/status/2117385924820775003"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2117634458778247210",
+    "quotedTweet": {
+      "id": "2117385924820775003"
+    },
+    "createdAtISO": "2026-11-03T15:06:13Z",
+    "createdAtLocal": "2026-11-03 23:06"
+  },
+  {
+    "id": "2117556261378298059",
+    "text": "@riverio1e $CIEN was another company that explicitly cited bottlenecks with lasers last month... \n\nWanlian Securities also flagged Ciena today as a candidate for supplier diversification following the $MRVL / $LITE acquisition... with other laser manufacturers gaining share.\n\nSo I think $SIVE has a tremendous opportunity for market capture in the coming months.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 96,
+      "retweets": 8,
+      "replies": 5,
+      "quotes": 0,
+      "views": 14056,
+      "bookmarks": 15
+    },
+    "createdAt": "Tue Nov 03 09:55:29 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2117550199895896490",
+    "inReplyToTweetId": "2117552328849150388",
+    "createdAtISO": "2026-11-03T09:55:29Z",
+    "createdAtLocal": "2026-11-03 17:55"
+  },
+  {
+    "id": "2117550199895896490",
+    "text": "Counterpoint on $MRVL / $LITE acqusition:\n\n- \"Every buyer that competes with Marvell will want a second, independent laser source\".\n\nThey identify $SIVE / Scintil Photonics as new CW / ELS capacity, with names like $CRDO as potential partners of Sivers.\n\n- \"With Lumentum sold out for years, the overflow goes to whoever has merchant capacity\"\n\nAlready said this before, but we'll likely see some incentive to diversify laser sourcing. \n\nSivers was cited here, and comes online with 100M lasers / external foundry capacity (2:1 external/internal target). \n\nTo demonstrate the sheer scale on that, $AAOI exit 2026 laser capacity target was roughly ~24M/year (but different blend). \n\n- \"Module makers move upstream\" was also another second order effect. \n\n $JBL as one example is now heavily competing with the combined Lumentum + Marvell.... There's other players like $SMTC that are explicitly doing M&A for expanding laser capacity.\n\nI don't think the overall AI valuation crash is representative of individual company strength in the optical sector.\n\nThere's very compelling opportunities in the laser bottleneck in the upcoming year that I believe markets are mispricing.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 822,
+      "retweets": 44,
+      "replies": 66,
+      "quotes": 14,
+      "views": 191122,
+      "bookmarks": 261
+    },
+    "createdAt": "Tue Nov 03 09:31:24 +0000 2026",
+    "media": [],
+    "urls": [
+      "https://twitter.com/riverio1e/status/2117540164935536920"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2117550199895896490",
+    "quotedTweet": {
+      "id": "2117540164935536920"
+    },
+    "createdAtISO": "2026-11-03T09:31:24Z",
+    "createdAtLocal": "2026-11-03 17:31"
+  },
+  {
+    "id": "2117539121434591711",
+    "text": "Just to show a point... AI names have crashed so much to the point $POET as a business is now considered close to worthless.\n\nIt's now $829.7M MC vs. ~$788M net cash. And below its $847.5M book value.\n\nConsidering institutions were funding it $400m at $21, with $26.25 exercisable warrants few months ago and it's back to ~$4.8. \n\nPoet would need to rally +337.5% just to return back to the original financing price. \n\n\"FOGO\" (Fear of Getting Obliterated) have hit extreme levels if \"growth\" companies are priced near liquidation values.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1423,
+      "retweets": 66,
+      "replies": 118,
+      "quotes": 29,
+      "views": 300595,
+      "bookmarks": 506
+    },
+    "createdAt": "Tue Nov 03 08:47:23 +0000 2026",
+    "media": [],
+    "urls": [
+      "https://twitter.com/Jakeybo53735378/status/2117329746883477579"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2117539121434591711",
+    "quotedTweet": {
+      "id": "2117329746883477579"
+    },
+    "createdAtISO": "2026-11-03T08:47:23Z",
+    "createdAtLocal": "2026-11-03 16:47"
+  },
+  {
+    "id": "2117494464243790000",
+    "text": "@WaqasAh72852612 https://t.co/szqJPuXhEP",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 90,
+      "retweets": 3,
+      "replies": 5,
+      "quotes": 0,
+      "views": 10151,
+      "bookmarks": 4
+    },
+    "createdAt": "Tue Nov 03 05:49:56 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "qme",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2117493886100918684",
+    "inReplyToTweetId": "2117494091584090165",
+    "createdAtISO": "2026-11-03T05:49:56Z",
+    "createdAtLocal": "2026-11-03 13:49"
+  },
+  {
+    "id": "2117493886100918684",
+    "text": "Nah markets are trolling now… $ESMT ($2.3B MC) memory earnings + investor conference:\n\n- Revenue: $679.4M\n- Gross profit: $526.2M (77.44% margin)\n- Operating profit: $403.4M (59.37% margin)\n\nAnnualized Q3 would be $1.61B operating profit. \n\nThey’re also sitting on $757M net cash + $278M in inventory…\n\nSo you only need ~3.5x more quarters until they exceed their marketcap in assets.\n\n- Economic Daily also reported that management does not expect a meaningful increase in DDR2/DDR3 supply in 2027 and believes prices can be maintained\n\nSo yes, I think markets are trolling now with selling off a 1.59x p/e (annualized) company.\n\nSince further price hikes are expected Q4z",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 803,
+      "retweets": 34,
+      "replies": 79,
+      "quotes": 8,
+      "views": 179306,
+      "bookmarks": 318
+    },
+    "createdAt": "Tue Nov 03 05:47:38 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2117493886100918684",
+    "createdAtISO": "2026-11-03T05:47:38Z",
+    "createdAtLocal": "2026-11-03 13:47"
+  },
+  {
+    "id": "2117447704662208721",
+    "text": "@Dreamfyre43 All of $AEHR customers saying \"In fact, that’s kind of everybody right now. Ship as quickly as you can.\" doesn't quite sound like any potential order cancellations lol.\n\nGenuine earnings beat, lot of orders faster than revenue recognition, and overall demand acceleration. \n\nThen there's upside: \n-\"We believe this customer represents one of the largest potential burn-in system opportunities Aehr has ever pursued\"\n\nFrom a \"major supplier of AI accelerators, CPUs, and network processors\", which sounds more like $AMD given historical context. \n\n- $AEHR saw acceleration from multiple silicon-photonics customers. \n\n- Guidance was stated to be conservative, since $AEHR was not supply-constrained and could fulfill more orders for FY2027. So likely potential for more earnings beats again. \n\nDownside was NAND related memory segments were delayed.\n\nI understand valuation compression from macro, but markets are selling things off like their fundamentals deteriorated, which is clearly not the case for $AEHR.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 94,
+      "retweets": 1,
+      "replies": 5,
+      "quotes": 0,
+      "views": 13549,
+      "bookmarks": 16
+    },
+    "createdAt": "Tue Nov 03 02:44:07 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2117437833820672397",
+    "inReplyToTweetId": "2117441658556195053",
+    "createdAtISO": "2026-11-03T02:44:07Z",
+    "createdAtLocal": "2026-11-03 10:44"
+  },
+  {
+    "id": "2117437833820672397",
+    "text": "People on X (now YC companies included) learned that it’s easier to doompost for impressions.\n\n$SPCX + Elon wouldn’t be heavily building in the Neocloud space if they didn’t see the ROI.\n\nSamsung wouldn’t be selling 5-10Y LTAs to Chinese big tech, if Alibaba/Tencent/Bytedance saw memory overflooding in 2 years.\n\n$LITE wouldn’t be sold out into 2029 and announce new $5B UHP laser contracts if optical demand didn’t persist.\n\nIt’s interesting seeing the very same people long $SNDK, $NBIS, to $COHR 2 months ago. Flip flop on every market narrative from the initial Iran War to the current “AI Bubble”.\n\nI’d argue 180x fwd P/E cybersecurity and biotech stocks are more of a bubble than 3 P/E memory companies with hyperscaler LTAs.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1382,
+      "retweets": 66,
+      "replies": 119,
+      "quotes": 23,
+      "views": 204749,
+      "bookmarks": 215
+    },
+    "createdAt": "Tue Nov 03 02:04:54 +0000 2026",
+    "media": [],
+    "urls": [
+      "https://twitter.com/jonahlupton/status/2117304226820895009"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2117437833820672397",
+    "quotedTweet": {
+      "id": "2117304226820895009"
+    },
+    "createdAtISO": "2026-11-03T02:04:54Z",
+    "createdAtLocal": "2026-11-03 10:04"
+  },
+  {
     "id": "2117296667108278605",
     "text": "$LITE standalone would likely be up on earnings after their new $5B CPO/NPO announcement (separate from $NVDA).\n\nThe margins on that are likely 60%+… which shows how profitable laser players would be at scale.\n\n(Greensboro alone would be $5B revenue/year)\n\nIn terms of the $MRVL https://t.co/bCMoPUvLJX https://t.co/ZJa1FOwQpH",
     "author": {

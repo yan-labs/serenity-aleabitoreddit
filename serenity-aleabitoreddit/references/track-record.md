@@ -8,6 +8,7 @@ Tracks Serenity's publicly stated dated calls, position changes, and outcomes. N
 
 | Date | Source | Ticker | Call | Entry | Outcome | Notes |
 |------|--------|--------|------|-------|---------|-------|
+| 2026-11-03 | X [2117664715811995717](https://x.com/aleabitoreddit/status/2117664715811995717) | $AAOI / InP substrates / UHP lasers | Reported a five-year Yuunan Germanium InP-substrate contract at `$194.4M` for 2027 and inferred procurement may imply more laser capacity than previously disclosed | Existing AAOI thesis | Ongoing | Contract is a durable supply signal; the larger laser-capacity implication is Serenity's inference. Verify filings, wafer volumes, pricing, delivery schedule, laser contracts, capex, and margin conversion. |
 | 2026-10-29 | X [2115624832947917083](https://x.com/aleabitoreddit/status/2115624832947917083) | $MRVL / $LITE / merchant lasers | Reported MRVL near deal to acquire LITE; would raise strategic value of other laser players | Existing laser basket | Ongoing | Verify deal announcement/terms. |
 | 2026-10-28 | X [2115265167919653233](https://x.com/aleabitoreddit/status/2115265167919653233) | $SKHY / $MU / memory | SK Hynix beat (~$62.8B op profit vs ~$58B, ~80% margin); shortage through 2030 | Existing thesis | Ongoing | Verify figures and guidance. |
 | 2026-10-30 | X [2116043028695781658](https://x.com/aleabitoreddit/status/2116043028695781658) | $LWLG | Was bearish at ~$12; small position at ~$4 within "It's All Over" basket | ~$4 | Ongoing | Basket tracking only. |
