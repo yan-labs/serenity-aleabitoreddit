@@ -1,5 +1,169 @@
 [
   {
+    "id": "2118044688829845703",
+    "text": "## Post ## Serenity on X: \"Cyberoffense/defense is probably going to eat up a TON of compute and end up a continuous compute-intensive arms race. Even $AMZN CEO thinks cybersecurity would take up 20% of tokens consumed for the next year. It's literally a problem of how much you throw at compute for vulnerability discovery + model capability, from of my chats w/ Horizon3. And this is going to become a nation state issue, as seen with the implications already with PHP to vulnerabilities with banks/infrastructure from AI swarms. But people see this and throw money at $CRWD, $NET, and others, which I was saying was a bubble. If it's a compute issue, the economics go to the infra, from neoclouds to $NBIS to networking like $AAOI. We'll likely see swarms go wild from aggressor nation states in the next few years. And any country, whether that's Japan or EU that don't have their own capabilities might suffer severe damage. US spent $11T+ cumulatively (inflation adjusted) on Nuclear weapons and we're like ~$1.8T into the the \"cyber-nuclear weapon\" equivalent of that And this is not even including the endless other economic implications from AI in other fields from advancing cancer discovery to workforce automation with physical AI. It's hard to measure AI sustainability if $50K in compute spend from a foreign actor can take down $10B of your own infrastructure. AI has become a bipartisan national security issue, and even Democrats would not want China overtake the US in this field.\" ## Conversation * [](https://x.com/aleabitoreddit) Cyberoffense/defense is probably going to eat up a TON of compute and end up a continuous compute-intensive arms race. Even $AMZN CEO thinks cybersecurity would take up 20% of tokens consumed for the next year. It's literally a problem of how much you throw at compute for vulnerability discovery + model capability, from of my chats w/ Horizon3. And this is going to become a nation state issue, as seen with the implications already with PHP to vulnerabilities with banks/infrastructure from AI swarms. But people see this and throw money at $CRWD, $NET, and others, which I was saying was a bubble. If it's a compute issue, the economics go to the infra, from neoclouds to $NBIS to networking like $AAOI. We'll likely see swarms go wild from aggressor nation states in the next few years. And any country, whether that's Japan or EU that don't have their own capabilities might suffer severe damage. US spent $11T+ cumulatively (inflation adjusted) on Nuclear weapons and we're like ~$1.8T into the the \"cyber-nuclear weapon\" equivalent of that And this is not even including the endless other economic implications from AI in other fields from advancing cancer discovery to workforce automation with physical AI. It's hard to measure AI sustainability if $50K in compute spend from a foreign actor can take down $10B of your own infrastructure. AI has become a bipartisan national security issue, and even Democrats would not want China overtake the US in this field. [](https://x.com/cryptoislife05) I believe they are worried about it being cyclical and unsustainable bro. After AI agentic coding, what is realistically next for investors to be excited about? Agents like muse or grokbot? So far the traction has not been proven and is not exciting * [](https://x.com/trailauditor) Half this arms race never touches a GPU. $NOK says about 200 million hijacked home devices are sitting in botnets right now. Phones, routers, smart TVs, sitting inside normal people's homes and waiting for orders. With AI, one attacker can now aim them all at once, change * [](https://x.com/AsherDale13) we already got a preview this week. an agent from Railway that was only supposed to test signups port scanned a competitor's entire network in 15 minutes now imagine one that's actually trying * [](https://x.com/carrioresearch) The part that makes this a compute story is that the attacker sets the defender's budget. If a swarm can probe every new commit, you end up scanning every new commit too, and that looks a lot more like an always-on inference bill than a seat license you renew once a year.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": null
+    },
+    "metrics": {
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "quotes": null,
+      "views": null,
+      "bookmarks": null
+    },
+    "createdAt": "2026-11-04T18:16:19Z",
+    "createdAtISO": "2026-11-04T18:16:19Z",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1390916885663780864/Fzq7CQry_normal.png"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/2099937307956543488/u-nG-fgo_normal.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/2115960087282155520/QZn4KZCZ_normal.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/2087574593217404928/h54TiP10_normal.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "isQuote": false,
+    "isReply": false,
+    "sourceUrl": "https://x.com/aleabitoreddit/status/2118044688829845703",
+    "createdAtLocal": "2026-11-05 02:16"
+  },
+  {
+    "id": "2118035778253283768",
+    "text": "[](https://x.com/aleabitoreddit) For companies like $SIVE / $AAOI, the demand imbalance for lasers are so severe That even a 20-30% overall demand reduction from a hypothetical DC slowdown would likely not eliminate the shortage. We're seeing this before the next architectural shifts, where $NVDA Jensen Huang expects 15x optical volume for CPO scale-up. And as more hyperscalers commit to NPO as seen with $LITE new $5B UHP laser contracts. I'd argue this is more nuanced since I can't say the same for finished 800G/1.6T pluggables or lower end 70mW-100mW laser ranges that are currently bottlenecks. But this argument is more toward higher spec lasers. $AAOI is vertically integrated and has 300-400 mW capabilities, so they have the capability to shift attention to merchant lasers over supplying end-to-end optical transceivers. $SIVE is more pure play on this laser bottleneck, but they have the capabilities for 200mW + higher margin multiwavelength NPO/CPO lasers. I'd argue this is specifically the case for bottlenecks where demand imbalances are so deep (creating higher long term visibility, such as HBM). Whether it's large body substrates from $ATS that's bottlenecking Marvell + $AMD or lasers from $LITE that are sold out into 2029. or liquid transformers that have 4-5 year lead times. They they would still sell out of capacity even if overall demand decreased. If markets de-risked, it would make sense to hit optical module manufacturing players, maybe server rack assembly, to companies that still require heavy financing like Neoclouds. And obviously haircut growth valuations (but not to the point where demand collapses to 0). Yet we're seeing everything in AI trade is getting lumped up together as something that requires heavy financing + not profitable. [](https://x.com/dBooray) How do you see AAOI and SIVE demand if data centre builds get delayed or slow down. Do orders get pushed back etc. thanks",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": null
+    },
+    "metrics": {
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "quotes": null,
+      "views": null,
+      "bookmarks": null
+    },
+    "createdAt": "2026-11-04T17:40:55Z",
+    "createdAtISO": "2026-11-04T17:40:55Z",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/2091797653281538048/TxzHGGif_normal.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "isQuote": false,
+    "isReply": false,
+    "sourceUrl": "https://x.com/aleabitoreddit/status/2118035778253283768",
+    "createdAtLocal": "2026-11-05 01:40"
+  },
+  {
+    "id": "2118015527440515458",
+    "text": "[](https://x.com/aleabitoreddit) Little rant, but to show you how rampant deleveraging has become: - $CIFR is worth 44% LESS than when they announced their initial $GOOGL / $AMZN colo deals. - $AAOI is now ~ the same price BEFORE they secured major hyperscaler orders, raised $1.6B for capacity expansion and gave their suprising initial -> $378M+ projection -> ~$471M revenue forecast. - $ESMT ($2B MC) is the perfect example representing the memory sector. B-BUT AI NAMES ARE NOT PROFITABLE??? Q3 Earnings: $526.2M gross profit, $330M net income. To give you a comparison of what that looks like, the net income of $CRWD ($251B MC) was literally $5.3M. $NOW ($113B MC) was $277M. $TSLA ($1.5T) was $787M. Different industries/durability, but if we care about what's actually hitting the balance sheet: ESMT is sitting on ~$937M in net assets ($740M net cash, $278M inventory, etc), so EV goes down to $1.2B ish. Annualized P/E: 1.6x... People keep saying \"Peak Earnings\", \"Cyclical\", \"no moat\" but who in the world would want to build an old ass DDR2 line + fab and qualify it? From ESMT commentary, we'll likely see ASP hikes Q4 to make up for potential consumer demand dropping. And further supply tightening with Samsung/Micron discontinuing DDR2/DDR3 lines. Winbond was leaving DDR2 lines to pursue higher end memory. People keep saying China, but even Gigadevice was leaving DDR3 to pursue higher end memory. \"DDR3's share of our DRAM revenue will continue to decline until we eventually stop selling DDR3 products.\"Nanya discontinued DDR2 lines few days ago. This is while majority of ESMT revenue comes from DDR2/DDR3. In ~3 quarters of constant earnings, ESMT would have more assets than their entire MC. Who is going to stop buying $40 DLink cameras if their $3 memory cost goes to $3.5? $MU / Samsung / $SKHY / $SNDK share similar parallels where durability is contractually enforced via take/pay LTAs with price floors. But markets are pretending that it just won't happen, despite Samsung already being the most profitable company in the world. Markets should care about how much FCF is actually hitting the balance sheets, but are just indiscriminately selling off everything now. But continue rotating capital into 47x P/E companies like Walmart or 180x forward P/E names like $CRWD. [](https://x.com/Noobverest) Yes its a joke Moving things from things that make money into things that make no money is the current trend",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": null
+    },
+    "metrics": {
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "quotes": null,
+      "views": null,
+      "bookmarks": null
+    },
+    "createdAt": "2026-11-04T16:20:27Z",
+    "createdAtISO": "2026-11-04T16:20:27Z",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1332448204952989696/aipYOgAZ_normal.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "isQuote": false,
+    "isReply": false,
+    "sourceUrl": "https://x.com/aleabitoreddit/status/2118015527440515458",
+    "createdAtLocal": "2026-11-05 00:20"
+  },
+  {
+    "id": "2118004727053218010",
+    "text": "We’re seeing the great rotation into safe, quality assets. $DUOL +34.86% $MU -4.41%",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": null
+    },
+    "metrics": {
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "quotes": null,
+      "views": null,
+      "bookmarks": null
+    },
+    "createdAt": "2026-11-04T15:37:32Z",
+    "createdAtISO": "2026-11-04T15:37:32Z",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/2071341570792779776/x6ION4vt_normal.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HWSqEmubkAAswqJ?format=webp&name=large"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HWSqEmqa4AALMK5?format=webp&name=large"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/2109845913258672128/Nu6-CwEF_normal.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/2078312293868396544/pC9vJ-w3_normal.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1729370695426252800/Z1_8CiiY_normal.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "isQuote": false,
+    "isReply": false,
+    "sourceUrl": "https://x.com/aleabitoreddit/status/2118004727053218010",
+    "createdAtLocal": "2026-11-04 23:37"
+  },
+  {
     "id": "2117664715811995717",
     "text": "$AAOI signs $194.4M/year contract with Yuunan Germanium. \n\nThis is for 2027 alone, with a 5 year contract. Given an implied total of ~$970M in InP substrates over 5 years (before price hikes)\n\nHmm just some thoughts: \n\n- AOI laser capacity expansion seems bigger than what’s disclosed based on procurement patterns? \n\n180K wafers seems like an extreme amount compared to what’s needed for lasers within their own transceivers… if they can consume all of that\n\nSo maybe we’ll hear about a new UHP laser contracts in earnings, after $LITE announced a $5B contract.\n\n- read through on $AXTI is positive, given they’ll probably be #1 in InP substrates manufacturing scale in the future + have contracts with $LITE and $COHR.\n\n- positive AOI was able to secure capacity during the bottleneck\n\nMore spend is probably the boogeyman in the AI trade, but it’s a good signal for earnings.",
     "author": {
