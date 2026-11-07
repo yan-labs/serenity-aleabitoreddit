@@ -2,18 +2,18 @@
   "target_user_id": "1940360837547565056",
   "repo": "yan-labs/serenity-aleabitoreddit",
   "skill_dir": "serenity-aleabitoreddit",
-  "last_tweet_id": "2118044688829845703",
-  "last_update_time": "2026-11-04T18:16:19Z",
+  "last_tweet_id": "2118726497129423273",
+  "last_update_time": "2026-11-06T15:25:35Z",
   "source_health": {
     "status": "ok",
     "direct_status": "ok",
-    "verification_source": "jina_status",
+    "verification_source": "from_json",
     "freshness": "verified",
-    "latest_returned_id": "2118044688829845703",
-    "latest_returned_time": "2026-11-04T18:16:19Z",
-    "new_posts_merged": 4,
-    "checked_time": "2026-11-05T02:37:37Z",
-    "next_action": "Cursor advanced from public-profile live pull."
+    "latest_returned_id": "2118726497129423273",
+    "latest_returned_time": "2026-11-06T15:25:35Z",
+    "new_posts_merged": 23,
+    "checked_time": "2026-11-07T00:13:32Z",
+    "next_action": "Merged via --from-json (Grok Bot / X API primary path)."
   },
   "note": "Managed by Grok Bot routine. Primary path: X connector/API → update.py --from-json → distill → push. Public-profile/Jina is an optional offline fallback only."
 }
