@@ -1,4 +1,65 @@
 id,url,createdAtISO,createdAtLocal,lang,isRetweet,retweetedBy,likes,retweets,replies,quotes,views,bookmarks,media_count,media_urls,link_urls,quoted_id,quoted_author,quoted_text,text
+2120198265346081174,https://x.com/aleabitoreddit/status/2120198265346081174,2026-11-10T16:53:52Z,2026-11-11 00:53,en,False,,1223,38,115,9,244716,115,0,,,,,,"It’s pretty wild to see $NVDA crash -25% and lose close to $2T in valuation
+
+After projecting 70% supply-constrained growth FY2028.
+
+Also probably one of the worst times for $ANT to IPO at $1.4T ahead of Thursday…
+
+Are there still people out there interested at that price? https://t.co/KYrQL2hyc4"
+2120106741090370030,https://x.com/aleabitoreddit/status/2120106741090370030,2026-11-10T10:50:11Z,2026-11-10 18:50,en,False,,631,33,62,14,219800,79,0,,https://twitter.com/aleabitoreddit/status/2119023086502805730,2119023086502805730,,,"New commentary today from SoftBank on Elon Musks post 4 days ago:
+
+“SoftBank is defaulting on their turbine orders”
+
+Analyst Question: “Any comment on that?”
+
+SoftBank CFO Yoshimitsu Goto: “this is simply not correct at all. There is no such default”
+
+This also mirrors what $GE CEO Scott Strazik stated about seeing no procurement cancellations or counterparty financing difficulties.
+
+Pretty damaging allegations about the company financing $SPCX competitor (OpenAI + Stargate).
+
+I wonder if there’s any more nuance these claims or if it’s false."
+2120074819878449605,https://x.com/aleabitoreddit/status/2120074819878449605,2026-11-10T08:43:20Z,2026-11-10 16:43,en,False,,655,46,64,16,186911,185,0,,https://twitter.com/HabeshaTechBro/status/2120039468170133699,2120039468170133699,,,"If you look at CW laser ASPs for AI data centers, the pricing differences are pretty substantial:
+
+70mW: ~$3–4
+100mW: ~$4–6 (Source Photonics channel checks).
+
+With some premiums apparently going up to $7-$9 range with the recent shortage for pluggables.
+
+120–150mW NPO: ~$15–20
+350mW UHP CW: ~$40 (Nomura)
+400mW UHP CW for NPO/CPO: ~$50–75 (Mizuho)
+
+With former communication laser chips going from 20-50 cents.
+
+The pricing and gross margins of these players go up with each architectural shift (60%+ for CPO lasers).
+
+And go up even more depending how far down the stack you go (selling ELSFP was ~2.5x revenue content)
+
+In terms of how I see the landscape now:
+
+- $COHR is probably the best risk adjusted laser player now, for people who don't like uncertainty. Their new $20B LTA is very substantial.
+
+- $LITE pretty negative now given the valuation overhang from $MRVL acquisition. Operationally very opsitive.
+
+- $AAOI has extreme demand visibility (likely $6-$9B in new LTAs from just 1 quarter), but credible execution uncertainty.
+
+They've also been focusing on pluggables + bottlenecked by DSPs, rather focusing on UHP CPO laser merchant markets.
+
+But I think if markets see a new $5B-$7B LTA that they're in late stage discussion for... and see the $4.4B MC. Pretty sure that's a catalyst for recovery.
+
+The demand doesn't disappear but timeline shifts back a few months.
+
+AOI also signaled DSP as the main bottleneck, last quarter it was TIAs, so other different component players that are interesting.
+
+- $SIVE has extreme capacity expansion (300m laser capacity targeted in total).
+
+The economic implications that they won't disclose are likely enormous relative to their MC, even if they sell $3 70mW lasers to China pluggable players.
+
+But there's a qualification uncertainty to fill the gap,
+that markets have punished the company for. Especially when management communication amplifies uncertainty, despite the ongoing shortage.
+
+Right now entire AI trade is going up and down together though."
 2119874063132995880,https://x.com/aleabitoreddit/status/2119874063132995880,2026-11-09T19:25:36Z,2026-11-10 03:25,,False,,955,41,50,6,114875,87,0,,,,,,"Anthropic Fable 5.2 and Mythos 5.2 is out!
 
 Doesn't quite look like AI progress is slowing down anytime soon https://t.co/fMEIN2FdTH"

@@ -1,5 +1,105 @@
 [
   {
+    "id": "2120198265346081174",
+    "text": "It’s pretty wild to see $NVDA crash -25% and lose close to $2T in valuation\n\nAfter projecting 70% supply-constrained growth FY2028.\n\nAlso probably one of the worst times for $ANT to IPO at $1.4T ahead of Thursday… \n\nAre there still people out there interested at that price? https://t.co/KYrQL2hyc4",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1223,
+      "retweets": 38,
+      "replies": 115,
+      "quotes": 9,
+      "views": 244716,
+      "bookmarks": 115
+    },
+    "createdAt": "Tue Nov 10 16:53:52 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2120198265346081174",
+    "createdAtISO": "2026-11-10T16:53:52Z",
+    "createdAtLocal": "2026-11-11 00:53"
+  },
+  {
+    "id": "2120106741090370030",
+    "text": "New commentary today from SoftBank on Elon Musks post 4 days ago: \n\n“SoftBank is defaulting on their turbine orders”\n\nAnalyst Question: “Any comment on that?” \n\nSoftBank CFO Yoshimitsu Goto: “this is simply not correct at all. There is no such default”\n\nThis also mirrors what $GE CEO Scott Strazik stated about seeing no procurement cancellations or counterparty financing difficulties. \n\nPretty damaging allegations about the company financing $SPCX competitor (OpenAI + Stargate). \n\nI wonder if there’s any more nuance these claims or if it’s false.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 631,
+      "retweets": 33,
+      "replies": 62,
+      "quotes": 14,
+      "views": 219800,
+      "bookmarks": 79
+    },
+    "createdAt": "Tue Nov 10 10:50:11 +0000 2026",
+    "media": [],
+    "urls": [
+      "https://twitter.com/aleabitoreddit/status/2119023086502805730"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2120106741090370030",
+    "quotedTweet": {
+      "id": "2119023086502805730"
+    },
+    "createdAtISO": "2026-11-10T10:50:11Z",
+    "createdAtLocal": "2026-11-10 18:50"
+  },
+  {
+    "id": "2120074819878449605",
+    "text": "If you look at CW laser ASPs for AI data centers, the pricing differences are pretty substantial:\n\n70mW: ~$3–4\n100mW: ~$4–6 (Source Photonics channel checks).\n\nWith some premiums apparently going up to $7-$9 range with the recent shortage for pluggables. \n\n120–150mW NPO: ~$15–20\n350mW UHP CW: ~$40 (Nomura)\n400mW UHP CW for NPO/CPO: ~$50–75 (Mizuho)\n\nWith former communication laser chips going from 20-50 cents. \n\nThe pricing and gross margins of these players go up with each architectural shift (60%+ for CPO lasers).\n\nAnd go up even more depending how far down the stack you go (selling ELSFP was ~2.5x revenue content) \n\nIn terms of how I see the landscape now:\n\n- $COHR is probably the best risk adjusted laser player now, for people who don't like uncertainty. Their new $20B LTA is very substantial.\n\n- $LITE pretty negative now given the valuation overhang from $MRVL acquisition. Operationally very opsitive. \n\n- $AAOI has extreme demand visibility (likely $6-$9B in new LTAs from just 1 quarter), but credible execution uncertainty. \n\nThey've also been focusing on pluggables + bottlenecked by DSPs, rather focusing on UHP CPO laser merchant markets. \n\nBut I think if markets see a new $5B-$7B LTA that they're in late stage discussion for... and see the $4.4B MC. Pretty sure that's a catalyst for recovery. \n\nThe demand doesn't disappear but timeline shifts back a few months. \n\nAOI also signaled DSP as the main bottleneck, last quarter it was TIAs, so other different component players that are interesting. \n\n- $SIVE has extreme capacity expansion (300m laser capacity targeted in total). \n\nThe economic implications that they won't disclose are likely enormous relative to their MC, even if they sell $3 70mW lasers to China pluggable players. \n\nBut there's a qualification uncertainty to fill the gap, \nthat markets have punished the company for. Especially when management communication amplifies uncertainty, despite the ongoing shortage. \n\nRight now entire AI trade is going up and down together though.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 655,
+      "retweets": 46,
+      "replies": 64,
+      "quotes": 16,
+      "views": 186911,
+      "bookmarks": 185
+    },
+    "createdAt": "Tue Nov 10 08:43:20 +0000 2026",
+    "media": [],
+    "urls": [
+      "https://twitter.com/HabeshaTechBro/status/2120039468170133699"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2120074819878449605",
+    "quotedTweet": {
+      "id": "2120039468170133699"
+    },
+    "createdAtISO": "2026-11-10T08:43:20Z",
+    "createdAtLocal": "2026-11-10 16:43"
+  },
+  {
     "id": "2119874063132995880",
     "text": "Anthropic Fable 5.2 and Mythos 5.2 is out! \n\nDoesn't quite look like AI progress is slowing down anytime soon https://t.co/fMEIN2FdTH",
     "author": {
