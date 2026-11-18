@@ -222,3 +222,7 @@ a market pullback create a current buying window.
 - **No-position idea posts carry lower weight.** If he frames a stock comment as
   exploratory, for fun, or explicitly says he has no position, treat it as a
   process example rather than a high-conviction call.
+
+## Public-repository privacy boundary
+
+Keep this repository limited to public source material and reusable analysis. Never commit a user's personal holdings, orders, quantities, entry prices, account details, private conversations, contact details, or local user-specific paths. Keep individualized analysis outside the repository. Before each commit, review the diff and author metadata for personal information; use a non-personal repository-maintainer identity. Do not restore private context from old clones or history.

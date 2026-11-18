@@ -98,3 +98,7 @@ Supported path is **Grok Bot only** (no GitHub Actions / Codex heartbeat):
 See `scripts/github-workflows/README.md` for why CI is not the supported path.
 Public-profile / Jina remain an optional offline fallback inside `update.py`
 only.
+
+## Public-repository privacy boundary
+
+Keep this repository limited to public source material and reusable analysis. Never commit a user's personal holdings, orders, quantities, entry prices, account details, private conversations, contact details, or local user-specific paths. Keep individualized analysis outside the repository. Before each commit, review the diff and author metadata for personal information; use a non-personal repository-maintainer identity. Do not restore private context from old clones or history.
