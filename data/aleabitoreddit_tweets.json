@@ -1,5 +1,781 @@
 [
   {
+    "id": "2123173088598938033",
+    "text": "$GOOGL releases benchmarks for  Gemini 4 Neon, ahead of $ANT IPO. https://t.co/S1qsTA3Qug",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 596,
+      "retweets": 27,
+      "replies": 42,
+      "quotes": 6,
+      "views": 97984,
+      "bookmarks": 43
+    },
+    "createdAt": "Wed Nov 18 21:54:45 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2123173088598938033",
+    "createdAtISO": "2026-11-18T21:54:45Z",
+    "createdAtLocal": "2026-11-19 05:54"
+  },
+  {
+    "id": "2123152181134234071",
+    "text": "Woah, the charts mapping the recent AI crash is insane. \n\nNet momentum exposure went from ~60% of hedge fund equity at the peak down to 8%.\n\nThe weeks before Nov 13 also saw the heaviest net selling of global tech stocks in the past 9 years.\n\nPer Goldman Sachs prime data. https://t.co/omwdGvF0MN",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 934,
+      "retweets": 80,
+      "replies": 69,
+      "quotes": 14,
+      "views": 144298,
+      "bookmarks": 269
+    },
+    "createdAt": "Wed Nov 18 20:31:40 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2123152181134234071",
+    "createdAtISO": "2026-11-18T20:31:40Z",
+    "createdAtLocal": "2026-11-19 04:31"
+  },
+  {
+    "id": "2123145041837527085",
+    "text": "@Jaime21129601 Most of my commentary recently has been thematic since AI names are just indiscriminately moving up and down together now. \n\nFoci is heavily tied to CPO which hasn't reached volume yet. And they've been named to be a $TSM COUPE supplier now last month with exposure to $NVDA CPO programs.  \n\nLast month, Largan cited fiber arrays as facing the greatest shortages for CPO expansion. \n\nH2 2027 from Goldman Sachs flagged accelerated CPO FAU revenue growth.  \n\nBut we're entering 2027 soon, so I hope we see earnings inflection with Foci similar to $SOI today with their commitments. I have a tendency to be a bit early.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 29,
+      "retweets": 0,
+      "replies": 3,
+      "quotes": 0,
+      "views": 7176,
+      "bookmarks": 6
+    },
+    "createdAt": "Wed Nov 18 20:03:18 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2123137705597120613",
+    "inReplyToTweetId": "2123139269753475170",
+    "createdAtISO": "2026-11-18T20:03:18Z",
+    "createdAtLocal": "2026-11-19 04:03"
+  },
+  {
+    "id": "2123141884034134132",
+    "text": "@praneeshkhanna As much as I'd like to reply to these types of comments during a sector crash, I'm not in a position to tell anyone how to trade, how to position their portfolios, or when to sell. \n\nEveryone has their own risk profile. Some do indexes with 10% allocated to high-beta, others run more concentrated portfolios.  \n\nIn terms of my own portfolio, I'm long and can tolerate volatility. I reduced exposure earlier from 1.3x margin -> 90% long 10% cash, not using any leverage.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 33,
+      "retweets": 1,
+      "replies": 2,
+      "quotes": 0,
+      "views": 6680,
+      "bookmarks": 2
+    },
+    "createdAt": "Wed Nov 18 19:50:45 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2123137705597120613",
+    "inReplyToTweetId": "2123139082108969024",
+    "createdAtISO": "2026-11-18T19:50:45Z",
+    "createdAtLocal": "2026-11-19 03:50"
+  },
+  {
+    "id": "2123137705597120613",
+    "text": "Situational Awareness 2.0 is coming. \n\nI think Leopold's early ideas were directionally right from $SNDK to $BE. \n\nEven his recent ones like Taiyo Yuden, I do see MLCCs becoming a bottleneck in 2027. \n\nUnfortunately, due to excessive leverage and crowded longs... Positioning left him vulnerable to liquidation before he got to see longer horizon ideas play out. \n\nI think it's fun to see fund managers actually have unique ideas in similar sectors. So hope he can make a comeback.\n\nI learned a lot of lessons myself to in terms of being more narrow with long selections, so very excited for 2027.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 646,
+      "retweets": 29,
+      "replies": 49,
+      "quotes": 3,
+      "views": 122131,
+      "bookmarks": 122
+    },
+    "createdAt": "Wed Nov 18 19:34:09 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2123137705597120613",
+    "createdAtISO": "2026-11-18T19:34:09Z",
+    "createdAtLocal": "2026-11-19 03:34"
+  },
+  {
+    "id": "2123135584621539471",
+    "text": "@piyush1337 I still don't think I'm wrong on $AAOI in terms of revenue acceleration entering H2 2027. I'm sure others see how compelling their manufacturing ramp is too. \n\nBut in terms of shareholder returns, I personally misjudged management commentary vs. actions in how they do financing.\n\nI do think approaching 2028 operations outweigh equity dilution, but it's a ways away...\n\nNobody wants to fund further capacity buildout in these market conditions, so near-medium term there's a material overhang.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 48,
+      "retweets": 3,
+      "replies": 5,
+      "quotes": 0,
+      "views": 6737,
+      "bookmarks": 5
+    },
+    "createdAt": "Wed Nov 18 19:25:43 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2123126925908742463",
+    "inReplyToTweetId": "2123129444638642261",
+    "createdAtISO": "2026-11-18T19:25:43Z",
+    "createdAtLocal": "2026-11-19 03:25"
+  },
+  {
+    "id": "2123131526644891687",
+    "text": "@Angellara124144 I got a little too excited in this post my bad. \n\nBut a company going from no photonics-SOI revenue guidance when I wrote a thesis into $1.2B in allocations is just super exciting to me. \n\nThe recent market crash makes me second guess myself and if I was wrong on a lot of these optical names... \n\nSo having an earnings validate my thought process gives me a sigh of relief.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 42,
+      "retweets": 1,
+      "replies": 5,
+      "quotes": 0,
+      "views": 5752,
+      "bookmarks": 5
+    },
+    "createdAt": "Wed Nov 18 19:09:36 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2123126925908742463",
+    "inReplyToTweetId": "2123128759117025396",
+    "createdAtISO": "2026-11-18T19:09:36Z",
+    "createdAtLocal": "2026-11-19 03:09"
+  },
+  {
+    "id": "2123130570008060023",
+    "text": "@BAreadude I hope $SIVE management proves everyone wrong around revenue growth expectations as well. \n\nSivers has large laser allocations, lasers for CPO/NPO/pluggables, and sit inside an industry bottleneck. \n\nSo I hope they can execute and convert those into commitments (no promises though)",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 71,
+      "retweets": 3,
+      "replies": 10,
+      "quotes": 0,
+      "views": 7356,
+      "bookmarks": 8
+    },
+    "createdAt": "Wed Nov 18 19:05:48 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2123126925908742463",
+    "inReplyToTweetId": "2123128676560593193",
+    "createdAtISO": "2026-11-18T19:05:48Z",
+    "createdAtLocal": "2026-11-19 03:05"
+  },
+  {
+    "id": "2123128124628140034",
+    "text": "@deepstocktrends I'm just joking with the language lol. But it's fun to see a thesis earlier in the year get validated with $1.2B commitments. \n\nI thought $SOI would probably see acceleration into 2027, rather than everyone do supply procurement so early.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 25,
+      "retweets": 0,
+      "replies": 4,
+      "quotes": 0,
+      "views": 6197,
+      "bookmarks": 2
+    },
+    "createdAt": "Wed Nov 18 18:56:05 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2123126925908742463",
+    "inReplyToTweetId": "2123127588046684205",
+    "createdAtISO": "2026-11-18T18:56:05Z",
+    "createdAtLocal": "2026-11-19 02:56"
+  },
+  {
+    "id": "2123126925908742463",
+    "text": "Did you listen Citibank?\n\nWhen I first took positions in $SOI, Citi reacted to my analysis and warned: \"investor expectations for Photonics-SOI growth might be excessive\"\n\nSoitec back then had:\n-> $25M in Photonics-SOI revenue, with no guidance... when Citi published their note. \n\nnow? \n\n->  $1.2 BILLION in long term customer capacity commitments, driven by OPTICAL GROWTH (w/ cash deposits)\n\nIn just 8 months. \n\n$25M -> $1.2B LTAs... Vindicated. \n\nThis is clear acceleration in underlying OPTICAL DEMAND, despite markets pricing in AI demand destruction.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 379,
+      "retweets": 15,
+      "replies": 27,
+      "quotes": 2,
+      "views": 96112,
+      "bookmarks": 66
+    },
+    "createdAt": "Wed Nov 18 18:51:19 +0000 2026",
+    "media": [],
+    "urls": [
+      "https://twitter.com/VENTOUXBLEU/status/2123117252824182957"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2123126925908742463",
+    "quotedTweet": {
+      "id": "2123117252824182957"
+    },
+    "createdAtISO": "2026-11-18T18:51:19Z",
+    "createdAtLocal": "2026-11-19 02:51"
+  },
+  {
+    "id": "2123120890582012141",
+    "text": "@StormDirac Probably around here if I had to guess, I think large cap names have a lot more room to drop relative to high-beta if we actually see future demand collapse. \n\nIt doesn't look like there is one yet, but markets are pricing it in anyway... \n\nSo maybe more strong earnings reports and maybe even something like seasonality (like December) might be a sentiment trigger for reversal.  \n\nShort term is always unpredictable.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 74,
+      "retweets": 1,
+      "replies": 3,
+      "quotes": 1,
+      "views": 9313,
+      "bookmarks": 12
+    },
+    "createdAt": "Wed Nov 18 18:27:20 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2123080934362845437",
+    "inReplyToTweetId": "2123119352358580662",
+    "createdAtISO": "2026-11-18T18:27:20Z",
+    "createdAtLocal": "2026-11-19 02:27"
+  },
+  {
+    "id": "2123119673864778076",
+    "text": "@VENTOUXBLEU Bullish $SOI, I need to wait for management commentary to shed more light. So far on most material disclosures:  \n\n-> $1.2B new multi-year photonics SOI wafer reservations, which is probably what to focus on. \n\nConsidering they were doing like $100m revenue from that earlier... that's a very very large jump. \n\nAlready €86M in prepayments, committed through 2028. \n\n-> Net cash now €169m from -€56m in March. \n\nRest of the business still kinda weak, but their optical growth is hard carrying.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 45,
+      "retweets": 0,
+      "replies": 3,
+      "quotes": 0,
+      "views": 6964,
+      "bookmarks": 9
+    },
+    "createdAt": "Wed Nov 18 18:22:30 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2123116246183088517",
+    "inReplyToTweetId": "2123117252824182957",
+    "createdAtISO": "2026-11-18T18:22:30Z",
+    "createdAtLocal": "2026-11-19 02:22"
+  },
+  {
+    "id": "2123116246183088517",
+    "text": "On the bright side, capital flowing from other sectors + semis to a successful $ANT IPO...\n\nwill eventually flow back into semi balance sheets over the long run. Circle of life. but for semis.\n\nIf we look at Anthropic's $900.9B of eventual purchase agreements:\n\n- $AVGO + financing partners: $161.2B in Google TPU leases\n- Google Cloud: at least $121.3B\n- SpaceX: Up to $120.5B (ceiling, can be cut)\n- Amazon: at least $110B\n- Microsoft: $47.2B-$49.2B\n- Nscale:  up to $44.6B\n- Lambda: ~$41.3BN ($34.9B can be cut)\n\nWith other identifiable counterparty deals such as:\n\n- $MU (undisclosed), but supply agreement\n- $RIOT: ~$28B+ $9.1B\n- $WULF: ~$19B\n- Akami: ~$11.6B (CPU cloud)\n- Volta: ~$10B\n- OnePWR: ~$3.4B\n- $CRWV (undisclosed)\n- Everwind (undisclosed)\n- Likely $IREN (undisclosed)\n- Zerra DC (undisclosed)\n\nOutside the $900.9B, there's another:\n\n- Additional Google TPU capacity: $125B-$150B estimated\n\n- $AMD: over $20B if Anthropic takes the full initial tranche of Helios capacity\n\nI'm actually personally longer term bearish on frontier lab valuations (I like OpenAI more if I had to pick one due to consumer stickiness). But raising a lot from IPO does help raise their counterparty status.\n\nRegardless of how they utilize it, that's a lot of GPUs, TPUs, HBM, optical networking, and compute needed for the next 5+ years.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 388,
+      "retweets": 21,
+      "replies": 43,
+      "quotes": 4,
+      "views": 106198,
+      "bookmarks": 92
+    },
+    "createdAt": "Wed Nov 18 18:08:53 +0000 2026",
+    "media": [],
+    "urls": [
+      "https://twitter.com/GSmiley247/status/2123081736607457776"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2123116246183088517",
+    "quotedTweet": {
+      "id": "2123081736607457776"
+    },
+    "createdAtISO": "2026-11-18T18:08:53Z",
+    "createdAtLocal": "2026-11-19 02:08"
+  },
+  {
+    "id": "2123100162616951229",
+    "text": "A faction of $NVDA board are now pushing for Jensen Huang to return as CEO per Semafor.\n\nI hope the market’s reaction, even after record earnings…\n\nsends a message to the rest of the board. https://t.co/aEve8LRHnv",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1214,
+      "retweets": 59,
+      "replies": 78,
+      "quotes": 7,
+      "views": 145141,
+      "bookmarks": 50
+    },
+    "createdAt": "Wed Nov 18 17:04:58 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2123100162616951229",
+    "createdAtISO": "2026-11-18T17:04:58Z",
+    "createdAtLocal": "2026-11-19 01:04"
+  },
+  {
+    "id": "2123084154757873815",
+    "text": "@wockjones Just enough time for memory names to print operationally then do buybacks I guess.\n\nCompanies like $SNDK or Samsung can probably buy back a material part of their float over the next 2 years from earnings.\n\nEveryone is competing for capital rn and Anthropic IPO + upsizing just eats up more. Some HFs as you’ve seen sold off $NVDA and others to put capital into this IPO.\n\nThat same capital rotates back into these players eventually from Anthropic’s massive commitments tho.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 86,
+      "retweets": 2,
+      "replies": 5,
+      "quotes": 0,
+      "views": 15961,
+      "bookmarks": 8
+    },
+    "createdAt": "Wed Nov 18 16:01:22 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2123080934362845437",
+    "inReplyToTweetId": "2123081337686892680",
+    "createdAtISO": "2026-11-18T16:01:22Z",
+    "createdAtLocal": "2026-11-19 00:01"
+  },
+  {
+    "id": "2123080934362845437",
+    "text": "Does anyone remember the days…\n\nWhen $NVDA disclosing an additional $111B+ in primarily memory procurement in a single quarter…\n\nwas good news for memory names like $MU and SK Hynix? https://t.co/oVZauK6LEn",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 962,
+      "retweets": 31,
+      "replies": 114,
+      "quotes": 7,
+      "views": 193410,
+      "bookmarks": 62
+    },
+    "createdAt": "Wed Nov 18 15:48:34 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2123080934362845437",
+    "createdAtISO": "2026-11-18T15:48:34Z",
+    "createdAtLocal": "2026-11-18 23:48"
+  },
+  {
+    "id": "2123067177905643769",
+    "text": "Now that we're close to 2027 it's a good idea to stress test downside scenarios where you have:\n\n1. Capex cuts past 2028 \n2. Stranded Compute / DC Slowdowns \n3. Finance deterioration (base case)\n4. 2x+ rate hikes\n\nWorking in parallel and see what happens with valuations of AI longs. \n\nIf you see acceleration despite all 4, I'd argue that's an opportunity. \n\n> Next-gen of photonics is one of the rare segments with an extreme rise in optical content and ASPs that can offset aggregate capex cuts. \n\nEveryone’s moving into that space, including Elon Musk doing M&A, Marvell, Samsung and others with M&A… and we haven’t seen economic impact on emerging architectures even hit players from Celestial to Ayar + their suppliers yet. \n\nIf we look at a scenario where there's excess GPUs but power constraints:\n\nWe might see slowdown in aggregate accelerator/GPU/ASIC procurement, but your optical engines + light sources + switches players see acceleration.\n\nEspecially as incentive to replace power inefficient networking... since different (cheap BOM) optical architectures improves GPU utilization or even HBM requirements.  \n\nSo value migrates to players more high-beta to architectural shifts. \n\nIf Celestial projections are $500m -> $1B, and we expect -30% aggregate capex cuts, I'd argue we'd still see upward revisions from Celestial over the next 2 years.\n\nBut financing with #3 matters a lot as seen with $AAOI dropping off of a $550M, vs. $COHR getting prepayments for capacity expansion from their customers. \n\nCompanies that rely on external foundries might be less sensitive to #3 since they're not as capex intensive. \n\nOn the other hand, companies in sectors have a lot of floating interest like certain Neoclouds, and require further financing might be the most impacted. \n\n> Legacy and specialty memory is a different cycle that markets conflate with AI capex.\n\nIf consumer demand weakens but at the same time, players like Windbond exits DDR2, pricing durability is longer than markets expect. \n\n> Wafer/substrate procurement such as ABF, SOI, InP are low cost but large downstream destruction if not secured, so we’ll likely see acceleration here as seen with $NVDA earnings call. \n\n> qualification cycle players within bottlenecks remain very compelling, since first revenue in a large TAM, relative to MC is material to that company. \n\nIf a company is valued at $400m then they get a $200m of orders, it's more asymmetrical to a certain company than a rounding error to a $50B incumbent revenue. \n_\n\nThere’s period of times where prices are dislocated from fundamentals from leveraged players getting wiped. I’d argue that time is now. \n\nI disagree with a lot of the stupid \"it's over takes\" but I agree it's a good idea to haircut future capex expectations and forward valuations due to financing tightening + macro. \n\nIt's also good idea to see the nuances and stress test downside cases. \n\nBut TLDR: I'd argue next phase of AI infrastructure is going to be increasingly disconnected from aggregate AI capex growth. \n\nI just personally wrote 4 things I'm using to stress test jointly some of the names I'm looking at, so I'm more comfortable waiting things out... despite seeing hedge funds getting liquidated left and right and overwhelming short positioning. \n\nI personally see acceleration in more narrow parts of the supply chain, while markets treat the entire AI trade as one.  \n\nWe'll see how things play out on longer horizons.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 798,
+      "retweets": 45,
+      "replies": 104,
+      "quotes": 7,
+      "views": 199011,
+      "bookmarks": 410
+    },
+    "createdAt": "Wed Nov 18 14:53:54 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2123067177905643769",
+    "createdAtISO": "2026-11-18T14:53:54Z",
+    "createdAtLocal": "2026-11-18 22:53"
+  },
+  {
+    "id": "2122835908596846950",
+    "text": "$NVDA earnings transcript + industry read through. To sum it up: \"Demand far exceeds supply\".  \n\n- Good news for the $MU / Samsung memory longs: \n\n\"Our supply commitments increased from $279B last quarter to $390B, primarily related to the multi-year procurement of memory supply\". (from SEC filings, not call)\n\nThis is a a major leap Q/Q in supply procurement.  \n\n- \"We expect revenue to grow approximately 75% year-over-year, up from 70%.\" (upward revision, likely due to capacity constraints easing)\n\n(new agreements with Kinsus and Samsung Electro-Mechanics support additional ABF substrate capacity)\n\n- NVIDIA said industry cloud backlog increased from $2 trillion to $2.5 trillion in a single quarter. While GPU rental pricing is continuing to rise dramatically:\n\nHopper GPUs: 2x their original pricing\nB300 GPUs: +60% since introduction\nUtilization: NVIDIA says its own compute is fully utilized across the hyperscalers and neoclouds it serves.\n\n- \"Our co-packaged optics roadmap remains on track\"\n\nOptical networking keeps growing rapidly ($21B+ in quarterly networking), CPO scale out switches has entered volume production. With Lambda earlier announcing production deployment of Nvidia photonics CPO switches. \n\n- \"Under these agreements, we will earn revenue on the upfront sale of our infrastructure\" So there's additional recurring economics coming from Neoclouds. \n\nBut just points to industry acceleration from memory to CPO to neoclouds, relative to markets pricing in collapse.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1117,
+      "retweets": 74,
+      "replies": 90,
+      "quotes": 21,
+      "views": 226789,
+      "bookmarks": 211
+    },
+    "createdAt": "Tue Nov 17 23:34:55 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2122835908596846950",
+    "createdAtISO": "2026-11-17T23:34:55Z",
+    "createdAtLocal": "2026-11-18 07:34"
+  },
+  {
+    "id": "2122826811667263749",
+    "text": "@MO1465424922353 I'll leave it up to your judgement. From my point of view, there's $956M in commitments vs. $605M cash so they needed more financing for their buildout. \n\nHowever two things stood out:\n\n1. Management commentary around financing: CFO said US bank financing could reach $500m, and that profits would help fund operations. CFO said share price mattered and that they'd lean more into debt. \n\nSo their actions went contrary to management commentary. \n\nIf you look at $COHR, they fund capacity expansion from upfront prepayments. There's other ways to do it too like convertible notes.\n\n2. Capital allocation issue: they spent $102M on three Texas buildings they had under lease. Which was around $5M annualized and I'm sure they're aware market financing conditions are tight. \n\n2 weeks after buying buildings when they were already relatively low on cash... AOI decided to do yet another $550M ATM. \n\nIt's just a bit hard to justify.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 235,
+      "retweets": 2,
+      "replies": 14,
+      "quotes": 0,
+      "views": 37319,
+      "bookmarks": 26
+    },
+    "createdAt": "Tue Nov 17 22:58:46 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2122814062329471182",
+    "inReplyToTweetId": "2122820997732499609",
+    "createdAtISO": "2026-11-17T22:58:46Z",
+    "createdAtLocal": "2026-11-18 06:58"
+  },
+  {
+    "id": "2122814062329471182",
+    "text": "$AAOI management lost all credibility by launching another $550M ATM.\n\nEspecially after it comes contrary to earlier commentary about other financing methods + share price caution.\n\nI still find AOI operationally compelling around their CPO program + optical transceiver ramp. \n\nEspecially as it comes to the new China optical transceiver restrictions and incoming $5B-7B LTAs.\n\nBut I misjudged management and suffered heavy losses after cost averaging up to $100+ from the initial ~$25. \n\nDefinitely did not foresee them tapping into abusive financing methods again after the sector drop.\n\nI’ll still track their progress, but I don’t see how it’s possible to support a company that serially dilutes with ATMs.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 2336,
+      "retweets": 100,
+      "replies": 349,
+      "quotes": 54,
+      "views": 459051,
+      "bookmarks": 271
+    },
+    "createdAt": "Tue Nov 17 22:08:07 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2122814062329471182",
+    "createdAtISO": "2026-11-17T22:08:07Z",
+    "createdAtLocal": "2026-11-18 06:08"
+  },
+  {
+    "id": "2122791681405997440",
+    "text": "Jensen’s first public statement since leaving $NVDA.\n\nThe support for Jensen is absolutely overwhelming.\n\nCan’t think of anyone else who is better suited to lead Nvidia and America’s future in AI https://t.co/5cHu1Uw0zE",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 2378,
+      "retweets": 90,
+      "replies": 104,
+      "quotes": 7,
+      "views": 238951,
+      "bookmarks": 57
+    },
+    "createdAt": "Tue Nov 17 20:39:11 +0000 2026",
+    "media": [],
+    "urls": [
+      "https://twitter.com/jensenhuang/status/2122726005219737649"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2122791681405997440",
+    "quotedTweet": {
+      "id": "2122726005219737649"
+    },
+    "createdAtISO": "2026-11-17T20:39:11Z",
+    "createdAtLocal": "2026-11-18 04:39"
+  },
+  {
+    "id": "2122660925488718046",
+    "text": "Just now: Trump administration to press ahead and block imports of AI DC equipment from China, such as new optical transceiver models.  \n\nDespite opposition from hyperscalers like $AMZN to solana:GooGLMvZtJZXHdNZy95RUrAMCCKxV6ghK3qE5ddBgVm5\n\nThis move benefits Western optical transceiver and laser + component supply chains.   \n\nWhile negatively impacting players like Innolight, Eoptolink, and upstream Chinese suppliers.   \n\nChina hawks in Washington were concerned Chinese transceivers could be used by Beijing to steal data, install malware, or disrupt ​US DC services.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1448,
+      "retweets": 111,
+      "replies": 216,
+      "quotes": 69,
+      "views": 455859,
+      "bookmarks": 269
+    },
+    "createdAt": "Tue Nov 17 11:59:36 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2122660925488718046",
+    "createdAtISO": "2026-11-17T11:59:36Z",
+    "createdAtLocal": "2026-11-17 19:59"
+  },
+  {
+    "id": "2122636464672383306",
+    "text": "@snmart Yeah, $IQE got backstopped by $MTSI and signed $TSEM agreements since I originally took positions!\n\nEarnings saw revenue acceleration too from 30%->40% and margins increase.\n\nFundamentals keep improving despite share prices not reflecting it, but over medium/long horizon I think things keep improving",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 73,
+      "retweets": 5,
+      "replies": 4,
+      "quotes": 1,
+      "views": 16019,
+      "bookmarks": 16
+    },
+    "createdAt": "Tue Nov 17 10:22:24 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2122628849657954454",
+    "inReplyToTweetId": "2122635039091405144",
+    "createdAtISO": "2026-11-17T10:22:24Z",
+    "createdAtLocal": "2026-11-17 18:22"
+  },
+  {
+    "id": "2122628849657954454",
+    "text": "It looks like $AAPL finally gave up on cheap memory supply with $CMXT and China. \n\nThat they've approached Samsung Electronics for DRAM supply LTAs. Contracts are expected to start H1 2027, and run 4-5 years. \n\nThis is positive on regarding memory demand visibility, no price floors enforced yet like other hyperscaler agreements.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1009,
+      "retweets": 77,
+      "replies": 75,
+      "quotes": 15,
+      "views": 214149,
+      "bookmarks": 113
+    },
+    "createdAt": "Tue Nov 17 09:52:08 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2122628849657954454",
+    "createdAtISO": "2026-11-17T09:52:08Z",
+    "createdAtLocal": "2026-11-17 17:52"
+  },
+  {
+    "id": "2122519172664209692",
+    "text": "$GOOGL Threat Intelligence Group: “The era of autonomous attacks has arrived”.\n\n- Fully autonomous vulnerability exploitation is now happening\n\n- Adversaries transitioned beyond manual prompting to deploying autonomous multi-agent offensive frameworks\n\n- AI is collapsing the window between vulnerability disclosure and exploitation\n\n- Google believes cybersecurity defense must become autonomous too\n\nby combining Gemini and other frontier models for reasoning + smaller models for continuous scanning.\n\nI’d actually argue beneficiaries of this arms race are AI compute and infra providers, regardless of the cybersecurity winners.\n\nSince cybersecurity will become a source of persistent inference consumption.\n\n$AMZN CEO Andy Jassy's also quoted estimates earlier that 20% of AI tokens could go toward cybersecurity.\n\nBelieve it or not, the rise of persistent cyberattacks from hostile state actors… is a structural driver for long term compute demand.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 973,
+      "retweets": 60,
+      "replies": 93,
+      "quotes": 24,
+      "views": 211994,
+      "bookmarks": 181
+    },
+    "createdAt": "Tue Nov 17 02:36:19 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2122519172664209692",
+    "createdAtISO": "2026-11-17T02:36:19Z",
+    "createdAtLocal": "2026-11-17 10:36"
+  },
+  {
     "id": "2122046823934407066",
     "text": "It’s time for Jensen’s redemption arc at $NVDA.\n\nFT: Jensen Huang discusses comeback as Nvidia CEO. https://t.co/h1cTjTlx6G https://t.co/9oGjxu1gvr",
     "author": {
