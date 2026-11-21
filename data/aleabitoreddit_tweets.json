@@ -1,5 +1,791 @@
 [
   {
+    "id": "2123878986686333308",
+    "text": "$NVDA drops over -12%+, from a new report that the SEC is probing potential accounting issues at Nvidia.\n\nAt this point, the collateral damage is starting to hit major indexes and retirement portfolios.\n\nIt's just wild to witness a $5T+ company crash -46%+ in weeks. https://t.co/pb32leFCIB",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1326,
+      "retweets": 56,
+      "replies": 111,
+      "quotes": 16,
+      "views": 173311,
+      "bookmarks": 113
+    },
+    "createdAt": "Fri Nov 20 20:39:44 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2123878986686333308",
+    "createdAtISO": "2026-11-20T20:39:44Z",
+    "createdAtLocal": "2026-11-21 04:39"
+  },
+  {
+    "id": "2123859267560304947",
+    "text": "@user1777xi32921 Thanks, I'll try to make more higher signal fundamental posts. I tend to post more random stuff when I'm stressed (especially with the broader market crash)\n\nBut it is pretty wild to see the disconnect between supply procurement patterns and valuations during this deleveraging period.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 40,
+      "retweets": 0,
+      "replies": 4,
+      "quotes": 0,
+      "views": 6373,
+      "bookmarks": 3
+    },
+    "createdAt": "Fri Nov 20 19:21:23 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2123851594811011470",
+    "inReplyToTweetId": "2123853302769045747",
+    "createdAtISO": "2026-11-20T19:21:23Z",
+    "createdAtLocal": "2026-11-21 03:21"
+  },
+  {
+    "id": "2123851594811011470",
+    "text": "I covered this earlier in Jan regarding PCB bottlenecks with photonics + $AMZN Kuiper / $SPCX starlink supply chains.\n\nBut as an update, it like other industries outside of AI are really starting to feel the pain now too.  \n\nGlobal Electronics Association: \"Is issuing this Industry Alert on escalating shortages across the printed circuit board (PCB) supply chain. \n\nCompanies in automotive, industrial, medical, defense, and telecommunications report longer lead times and difficulty securing supply as AI absorbs scarce capacity, effectively putting production at risk\"\n\nThe association meaningful relief unlikely before mid-2028. The association urged buyers to plan ahead for supply constraints and manufacturers.\n\nHyperscalers like $AMZN already planned ahead of time taking stakes in Gold Circuit Electronics (2368) for supply procurement... \n\nBut can't say the same about other industries procurement (medical industry is probably not used to competing with hyperscalers over the same supply lol). \n\nThe resulting shortages of critical materials, including CCLs and fibreglass cloth, are squeezing supplies for consumer electronics.\n\nTLDR: same bottleneck, same timeline for 2028. It's just interesting to see association warnings about it impacting medical to defense industries. \n\nSo there's incremental information that it's become an industry wide allocation issue. \n\nI also think it's helpful to see escalating shortages + broadening... so it might show the selloff is starting to look very disconnected with fundamental demand.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 272,
+      "retweets": 11,
+      "replies": 31,
+      "quotes": 0,
+      "views": 95411,
+      "bookmarks": 68
+    },
+    "createdAt": "Fri Nov 20 18:50:54 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2123851594811011470",
+    "createdAtISO": "2026-11-20T18:50:54Z",
+    "createdAtLocal": "2026-11-21 02:50"
+  },
+  {
+    "id": "2123842606820135371",
+    "text": "@Linkinthedark It's much more nuanced than that, I'm just making a joke. DC developers will find ways to get it done.\n\nIt's just statements from Trump like this introduce unnecessary uncertainty.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 43,
+      "retweets": 0,
+      "replies": 5,
+      "quotes": 0,
+      "views": 13259,
+      "bookmarks": 2
+    },
+    "createdAt": "Fri Nov 20 18:15:11 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2123841418577973727",
+    "inReplyToTweetId": "2123841630222614837",
+    "createdAtISO": "2026-11-20T18:15:11Z",
+    "createdAtLocal": "2026-11-21 02:15"
+  },
+  {
+    "id": "2123841418577973727",
+    "text": "&gt; Democrats: \"Let's ban new datacenters in the US\"\n&gt; Trump: \"Let's ban new datacenters overseas\"\n&gt; $CRWV: ??? https://t.co/2sOPrHkl9J",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 935,
+      "retweets": 33,
+      "replies": 85,
+      "quotes": 15,
+      "views": 160871,
+      "bookmarks": 63
+    },
+    "createdAt": "Fri Nov 20 18:10:27 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2123841418577973727",
+    "createdAtISO": "2026-11-20T18:10:27Z",
+    "createdAtLocal": "2026-11-21 02:10"
+  },
+  {
+    "id": "2123820597465776460",
+    "text": "https://t.co/WnjrVcXuMv https://t.co/8LQCOnFhBS",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 883,
+      "retweets": 35,
+      "replies": 37,
+      "quotes": 4,
+      "views": 186993,
+      "bookmarks": 134
+    },
+    "createdAt": "Fri Nov 20 16:47:43 +0000 2026",
+    "media": [],
+    "urls": [
+      "https://twitter.com/yifanzhang_/status/2123789252756414577"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zxx",
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2123820597465776460",
+    "quotedTweet": {
+      "id": "2123789252756414577"
+    },
+    "createdAtISO": "2026-11-20T16:47:43Z",
+    "createdAtLocal": "2026-11-21 00:47"
+  },
+  {
+    "id": "2123805601411277149",
+    "text": "Feels like every growth equity, even outside of AI, from $HOOD to $NBIS has fallen off a cliff.\n\nMeanwhile bubbles are forming in consumer staples, with valuations not seen since 1999.\n\nDo you guys think markets are right... that premiums given to rocket or AI companies, should be given to towel resellers like Walmart instead?",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1406,
+      "retweets": 64,
+      "replies": 186,
+      "quotes": 18,
+      "views": 245156,
+      "bookmarks": 165
+    },
+    "createdAt": "Fri Nov 20 15:48:08 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2123805601411277149",
+    "createdAtISO": "2026-11-20T15:48:08Z",
+    "createdAtLocal": "2026-11-20 23:48"
+  },
+  {
+    "id": "2123770443337543965",
+    "text": "@Crypto__Broski I'm primarily looking forward to $SIVE earnings in 6 days! \n\nThe $P qualification comment I made was referring to Sivers, even if I don't directly mention the name. \n\nIf they scale to 300m laser capacity, but MC is $400m, even 25% utilization at like $6 blended would be more revenue a year than their current valuation. \n\nThe main thing is showing enough customer qualifications to fill up capacity and I think they have potential to cook. \n\nI am disappointed though with management execution earlier in the year though from not IPOing on NASDAQ, not going through with M&A using their equity valuation. \n\nBut at this point valuation is just spare change now and I see them getting bought by $SMTC, $MTSI, $JBL, or others.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 84,
+      "retweets": 0,
+      "replies": 21,
+      "quotes": 0,
+      "views": 12696,
+      "bookmarks": 17
+    },
+    "createdAt": "Fri Nov 20 13:28:26 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2123762482280055255",
+    "inReplyToTweetId": "2123765713936548332",
+    "createdAtISO": "2026-11-20T13:28:26Z",
+    "createdAtLocal": "2026-11-20 21:28"
+  },
+  {
+    "id": "2123762482280055255",
+    "text": "$P earnings were actually interesting, not really in terms actionable investments. \n\nBut more on AI capex broadening, where deployments are happening, and what Jensen at $NVDA might envisioned with open weight model + GPU demand. \n\n- Everpure CEO stated that enterprises are increasingly building on-premises AI factories, stating: \n\n\"The ROI for companies to buy their own GPU environments and run their own models is starting to come to the forefront.\"\n\n- \"I'm talking about standard enterprises, regular finance organizations. A wide variety of organizations are starting to buy these AI factories for the purpose of running their own open weight models\n\nFrom \"regular insurance companies, et cetera\"\n\n- \"One is they're starting to see that these open weight models are actually being able to provide good results, and they're doing so at a fraction of the cost of using the cloud for these workloads\"\n\n\"that the ROI for companies to buy their own GPU environments and run their own models is starting to come to the forefront\"\n\nThis type of broad industry transition would be heavily bearish as it threatens $ANT, OpenAI and frontier labs over the long term... \n\nAnd probably what Jensen saw things heading with $NVDA + additional GPU demand regardless of what frontier lab wins. \n\nHowever, I expect more of the open weight effort to collapse or see heavier regulation with how Washington + frontier labs were lobbying. \n\n- In regards to NAND prices dropping: \"If prices come down slowly, I expect to see demand come up along with that\" (Jevon) \n\n- LOL this part was hilarious and the same argument I was using for why qualification cycle players like in optics were so interesting. \n\nOn data center slowdown potential:\n\n\"So on the first part of it, remember, I mean, really, the thing that insulates us is we have such a small share going into the hyperscale market\"\n\n\"even in a down market, they’re going to spend a lot more than our current share amounts to\", and their market capture goes up over time relative to overall TAM.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 226,
+      "retweets": 11,
+      "replies": 35,
+      "quotes": 0,
+      "views": 138576,
+      "bookmarks": 50
+    },
+    "createdAt": "Fri Nov 20 12:56:48 +0000 2026",
+    "media": [],
+    "urls": [
+      "https://twitter.com/InvEnProceso_/status/2123638424414409168"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2123762482280055255",
+    "quotedTweet": {
+      "id": "2123638424414409168"
+    },
+    "createdAtISO": "2026-11-20T12:56:48Z",
+    "createdAtLocal": "2026-11-20 20:56"
+  },
+  {
+    "id": "2123749426019868932",
+    "text": "When the world needed him most, he vanished https://t.co/6igDsoOPBd https://t.co/nATkMEC1Pg",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 4181,
+      "retweets": 242,
+      "replies": 100,
+      "quotes": 32,
+      "views": 223466,
+      "bookmarks": 121
+    },
+    "createdAt": "Fri Nov 20 12:04:55 +0000 2026",
+    "media": [],
+    "urls": [
+      "https://twitter.com/TLEROY5/status/2123603161311265138"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2123749426019868932",
+    "quotedTweet": {
+      "id": "2123603161311265138"
+    },
+    "createdAtISO": "2026-11-20T12:04:55Z",
+    "createdAtLocal": "2026-11-20 20:04"
+  },
+  {
+    "id": "2123658899509375175",
+    "text": "@Tanjid59 Entire AI trade got sold off. I don't own $SNDK but just as a reminder to what they've projected:\n\n- Sandisk's pipeline \"exceeds our supply through the end of the decade\" from October's investor presentations\n- minimum contracted revenue is $93.9B at contractual floor prices (baseline)\n- Management also targeted ~75% operating margins + ~50% adjusted FCF margins to 2030.\n\nSo it's ultimately up to you to decide whether they meet those projections or not.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 52,
+      "retweets": 3,
+      "replies": 2,
+      "quotes": 0,
+      "views": 11915,
+      "bookmarks": 7
+    },
+    "createdAt": "Fri Nov 20 06:05:11 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2123633356969775107",
+    "inReplyToTweetId": "2123650747954860247",
+    "createdAtISO": "2026-11-20T06:05:11Z",
+    "createdAtLocal": "2026-11-20 14:05"
+  },
+  {
+    "id": "2123647139385684060",
+    "text": "@eleswarapu I don't have active positions in $SNDK or Kioxia, but I did see a lot of people panicking unfortunately. \n\nSo I'm just providing nuances regarding GPU bottlenecks and spot market volatility that markets might have overreacted to regarding pricing/demand collapse fears. \n\nThe pair's contract visibility and likely share buybacks over next year or two look pretty compelling if they hold, but lot of uncertainty in markets right now.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 44,
+      "retweets": 2,
+      "replies": 5,
+      "quotes": 0,
+      "views": 11330,
+      "bookmarks": 5
+    },
+    "createdAt": "Fri Nov 20 05:18:28 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2123633356969775107",
+    "inReplyToTweetId": "2123644785156325387",
+    "createdAtISO": "2026-11-20T05:18:28Z",
+    "createdAtLocal": "2026-11-20 13:18"
+  },
+  {
+    "id": "2123642092861915497",
+    "text": "@wworkaccount @hezhishui I mean been through the Bitcoin $2k -> $18K -> $4k -> $100k rally and this feels eerily similar. Since the set of liquidations kinda reminds me of what happened with Crypto back then. \n\nBut... it was more like how much Bitcoin can you stack, rather than the USD value at the time. \n\nAnd a similar thought process should be applied to company ownership %? \n\nThis time though you have get more confidence from demand visiblity + hyperscalers counterparties + tangible earnings. \n\nAnd probably a faster recovery window too, since it only takes like 2 quarters for some companies like legacy memory to show earnings durability.\n\nThat being said, it's definitely stressful but I do see compelling opportunities.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 62,
+      "retweets": 0,
+      "replies": 3,
+      "quotes": 0,
+      "views": 9628,
+      "bookmarks": 9
+    },
+    "createdAt": "Fri Nov 20 04:58:24 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2123633356969775107",
+    "inReplyToTweetId": "2123638869660733755",
+    "createdAtISO": "2026-11-20T04:58:24Z",
+    "createdAtLocal": "2026-11-20 12:58"
+  },
+  {
+    "id": "2123636594511122533",
+    "text": "@hezhishui I mean, I'd say it's generally a good idea to focus on things over a longer horizon where fundamentals + earnings ultimately outweigh short term sector liquidations. \n\nRetail investors are the biggest victims of buy high, sell low sentiment trading.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 77,
+      "retweets": 1,
+      "replies": 6,
+      "quotes": 0,
+      "views": 12728,
+      "bookmarks": 8
+    },
+    "createdAt": "Fri Nov 20 04:36:34 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2123633356969775107",
+    "inReplyToTweetId": "2123635073685885163",
+    "createdAtISO": "2026-11-20T04:36:34Z",
+    "createdAtLocal": "2026-11-20 12:36"
+  },
+  {
+    "id": "2123633356969775107",
+    "text": "Markets appear to be wrongly interpreting Chinese eSSD cuts as deteriorating demand and NAND oversupply.\n\nPhison CEO commentary today + more context behind $SNDK / Kioxia selloff regarding Trendforce revisions: \n\n- \"Pua attributed China's recent enterprise SSD demand slowdown to GPU shortages since November 2026\"\n\n- \"Without GPUs, additional purchases offer little value, prompting some companies to sell server components on the spot market to recover cash\" \n\n(for context enterprise SSDs are growth driver for NAND)\n\n- \"Chinese cloud giants nevertheless plan substantial GPU prepayments, temporarily tying up capital and delaying procurement of other components.\"\n\n- \"the principal challenge in 2027 would be insufficient supply rather than weakening demand, with persistent AI shortages potentially prompting further procurement and inventory accumulation.\"\n\nMarkets seemed to have wrongly interpreted this as demand destruction + pricing collapse. \n\nWhen Phison CEO attributed it to \n-> GPU shortages \n-> causing procurement timing mismatch \n-> Chinese CSPs needed capital for GPU prepayments, so liquidation in inventory (causing spot price volatility)\n-> timeline shift in order procurement \n\nTLDR: delayed procurement from GPU shortages. there were actual order cuts, but this is deferred procurement not structural demand weakening. \n\nChinese CSPs needed capital for GPU prepayments so they liquidated other inventories in the meantime. \n\nPhison says its inventories are insufficient for anticipated 2027 demand and it's sees this as an opportunity for NAND accumulation. \n\nIt's interesting the bottleneck in China migrated back to GPUs though.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 569,
+      "retweets": 46,
+      "replies": 75,
+      "quotes": 14,
+      "views": 192698,
+      "bookmarks": 146
+    },
+    "createdAt": "Fri Nov 20 04:23:42 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2123633356969775107",
+    "createdAtISO": "2026-11-20T04:23:42Z",
+    "createdAtLocal": "2026-11-20 12:23"
+  },
+  {
+    "id": "2123607088773628330",
+    "text": "@excelmonkey016 Recent Trendforce pricing revisions downward were for NAND, not DDR2/DDR3.\n\nTrendforce actually still expects upward revision on legacy DRAM in 2027, despite spot prices falling in line or slightly than current prices q4.\n\nLegacy memory is for consumers, not AI DC spend and are a different cycle than aggregate ai capex. But it’s a result of players allocating toward AI capacity reallocation, that’s happening now and continues into 2027",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 37,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0,
+      "views": 9068,
+      "bookmarks": 6
+    },
+    "createdAt": "Fri Nov 20 02:39:19 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2123598186065559858",
+    "inReplyToTweetId": "2123600876723916927",
+    "createdAtISO": "2026-11-20T02:39:19Z",
+    "createdAtLocal": "2026-11-20 10:39"
+  },
+  {
+    "id": "2123598186065559858",
+    "text": "I'm actually very impressed with market-chan. If we look at ESMT numbers today: \n\n> $1.58B MC\n> $747M net cash, $274.7M net inventory from Q3\n> $349.5M in Q3 free cash flow\nAdjusted EV: $559.3M\n\n> Q3 net income: $327M (1.2x annualized P/E)\n> October net income (likely another +$96M added to balance sheet)\n\n- \"DDR2/DDR3 supply to remain constrained into 2027\" \n- \"ASPs to rise Q4\" (consumer demand weakening)\n- \"2027 dividend payout ratio could be 30–50% of earnings\"\n\nSo you're valuing the adj. operating business at $559M, despite them making ~$300m net income a quarter. \n\nEven the AI models I've double checked it with looked at these numbers with disbelief.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 344,
+      "retweets": 12,
+      "replies": 39,
+      "quotes": 3,
+      "views": 150395,
+      "bookmarks": 92
+    },
+    "createdAt": "Fri Nov 20 02:03:56 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2123598186065559858",
+    "createdAtISO": "2026-11-20T02:03:56Z",
+    "createdAtLocal": "2026-11-20 10:03"
+  },
+  {
+    "id": "2123588783753048553",
+    "text": "True, I've looked at biotech, physical AI, cybersecurity, space, and others... But I still have conviction that optics is the most compelling opportunity. \n\nIf you look at Elon Musk $SPCX (Mesh acquisition), $MRVL (Lumentum acqusition), Samsung Electronics photonics foundry push... \n\nSK Hynix CPO push + PIC IP acqusitions... it's endless. \n\nPrivate VCs are still heavily pouring funds into upcoming optical companies.\n\nSupply procurement is accelerating... from $SOI selling $1.2B in agreements, in a single quarter (from $25M revenue/quarter). To $COHR signing $20B in LTAs, to $LITE selling out of 2029 capacity. \n\nActions about where the industry is heading is the biggest signal over valuations crashing.\n\nEven if you stress test aggregate capex slowdown or accelerator flood vs. grid constraint/permitting downside:\n\n- There's an economic incentive to improve GPU efficiency and power utilization. (eg. Lambda's CPO data suggests enough power savings to support ~4.5% more GPUs)... for power constrained DCs. \n\n- There's an economic incentive to reduce expensive HBM4 requirements in certain cases (eg. $MRVL estimating up to 30% savings through optical memory pooling)... for memory constrained inference. \n\nWhile for economic upside in these companies:\n\n-> Optical networking, and their upstream materials like substrates and lasers represent a relatively small fraction of total AI cluster BOM.\n\n-> At the same time, optical content goes up...while selling prices of that content rise nonlinearly as well (lasers 10x+ selling price from pluggable to CPO.)\n\nIn terms of the future winners: \n\n- Many low end players eg. 400G/800G, module assemblers etc. don't capture the same scale in economics from the NPO/CPO transitions... compared to laser suppliers, fiber array suppliers, modulator suppliers, or companies in the ELS/optical engine stacks. \n\n- Tracking capacity expansion is also important... but US/China supply chain birufration will improve scarcity economics of Western players (eg. China optical transceiver bans past 3.2T)\n\nBut even if aggregate AI capex slows, there's a strong economic incentive to accelerate optical deployments and to make every iota of compute more economically valuable. \n\nVisibility keeps increasing, demand keeps increasing, strategic value keeps increasing, while valuations crashed. NFA, but I'd personally, argue this is an opportunity. \n\nExtremely bullish on industry transition to light.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1000,
+      "retweets": 60,
+      "replies": 111,
+      "quotes": 19,
+      "views": 223582,
+      "bookmarks": 451
+    },
+    "createdAt": "Fri Nov 20 01:26:35 +0000 2026",
+    "media": [],
+    "urls": [
+      "https://twitter.com/ste11aaaa_/status/2123407664629883004"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2123588783753048553",
+    "quotedTweet": {
+      "id": "2123407664629883004"
+    },
+    "createdAtISO": "2026-11-20T01:26:35Z",
+    "createdAtLocal": "2026-11-20 09:26"
+  },
+  {
+    "id": "2123571428712931811",
+    "text": "@UlricaW_ It also doesn’t help Nvidia has credit downgrades because Jensen left… \n\nNot saying it’s all over for $NVDA but there’s extreme uncertainty crowding around the company now https://t.co/32RiChQVfY",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 112,
+      "retweets": 1,
+      "replies": 6,
+      "quotes": 0,
+      "views": 30002,
+      "bookmarks": 7
+    },
+    "createdAt": "Fri Nov 20 00:17:37 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2123565807653552458",
+    "inReplyToTweetId": "2123567392844607848",
+    "createdAtISO": "2026-11-20T00:17:37Z",
+    "createdAtLocal": "2026-11-20 08:17"
+  },
+  {
+    "id": "2123565807653552458",
+    "text": "I'm hearing multiple things from industry executives:\n\n1. Potential $NVDA employee exodus if Jensen doesn't come back soon.\n\nMany senior management and engineers can easily retire after Nvidia stock appreciation over the years.\n\nThey don't need to continue working sitting on millions in equity. But they continued to work because Jensen was a visionary leader.\n\nUnder new interim CFO (former CFO), it gives an excuse for that lot of people to finally quit soon. A pay bump or hiring $ARM CEO isn't going to change that.\n\nSo you have generational talent leaving.\n\n2. Loss of confidence in $NVDA future growth (Jensen was the moat).\n\nWhat I'm hearing is that Jensen understands heavily top-down architectures, and it's this magical discretionary element that doesn't get covered in media.\n\nWhen cuda, network, and $NVDA internal teams are arguing, Jensen made the final choices around heavily nuanced discretionary decision about where Nvidia + AI ecosystem ends up going:\n\nThen everyone followed. The supply chain, capital, agreements, and faith.\n\nYou also can't suddenly replace the trust that local Taiwanese factories build with Jensen over the years if you bring in external CEOs, or even internal executives.\n\nIt was transformational bet after bet after bet after bet that Jensen made until Nvidia became a former $5T+ company.\n\n3. $NVDA is not that technologically far ahead of others. It's not a 5 year lead, but months ahead to a year in different areas.\n\nJensen was accelerating all of that. Longer Jensen is gone, the longer Nvidia and its competitive ecosystem decays, beyond the current near-term roadmaps.\n\nNvidia's greatest moat was Jensen Huang making high-stake architectural decisions and accelerating capital, suppliers, + the industry to rally around his vision.\n\nThere's a massive loss of confidence in $NVDA with Jensen gone.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 6064,
+      "retweets": 495,
+      "replies": 300,
+      "quotes": 92,
+      "views": 754198,
+      "bookmarks": 884
+    },
+    "createdAt": "Thu Nov 19 23:55:17 +0000 2026",
+    "media": [],
+    "urls": [
+      "https://twitter.com/bingbro619809/status/2123130933318717529"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2123565807653552458",
+    "quotedTweet": {
+      "id": "2123130933318717529"
+    },
+    "createdAtISO": "2026-11-19T23:55:17Z",
+    "createdAtLocal": "2026-11-20 07:55"
+  },
+  {
+    "id": "2123547462376022017",
+    "text": "@HodlSloths I don't know how markets perform short term. Anyone who claims they can give you a clear answer is BSing. \n\nBut, especially since tech is getting sold off from record develeraging + degrossing... short interest is record highs on many names... and we're now seeing a bubble in staples from AI L/S pods being blown up. \n\nIt can snap back faster than people think from a catalyst. \n\nThat being said out of any investment theme from biotech, space, physical AI, cybersecurity: I still believe photonics is the most compelling opportunity.  \n\n+ that many other names in AI have been sold off way beyond what fundamentals suggest.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 73,
+      "retweets": 2,
+      "replies": 2,
+      "quotes": 1,
+      "views": 10171,
+      "bookmarks": 14
+    },
+    "createdAt": "Thu Nov 19 22:42:23 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2123543880780132572",
+    "inReplyToTweetId": "2123545976732344370",
+    "createdAtISO": "2026-11-19T22:42:23Z",
+    "createdAtLocal": "2026-11-20 06:42"
+  },
+  {
+    "id": "2123546035217928409",
+    "text": "@RalphSardor John Ternus is a lot proactive than Tim Cook, so we'll see how he does. \n\nApparently he's the one that pressured $AAPL software team to accelerate Apple's AI roadmap.\n\nEspecially since Apple is currently using $GOOGL cloud (Nvidia/TPUs) for their own bottlenecks + other LLMs like Gemini for Siri. \n\nI don't think Apple is comfortable being dependent on third parties for something that should be in-house.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 43,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0,
+      "views": 8839,
+      "bookmarks": 3
+    },
+    "createdAt": "Thu Nov 19 22:36:43 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": true,
+    "conversationId": "2123543880780132572",
+    "inReplyToTweetId": "2123544133402767867",
+    "createdAtISO": "2026-11-19T22:36:43Z",
+    "createdAtLocal": "2026-11-20 06:36"
+  },
+  {
+    "id": "2123543880780132572",
+    "text": "$AAPL is now developing its own AI agent offerings to compete vs. $ANT, Meta Muse, Google Gemini, and OpenAI. \n\nGiven on-device inference isn't quite ready yet for complex workflows...\n\n+ Apple isn't really known for doing much in the AI race\n\nThis is pretty positive for aggregate inference demand + infra capex implications (as seen with Meta Muse supply procurement). \n\nIt also kinda follows rumors they were looking to acquire private accelerator companies for their own inference buildout.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 583,
+      "retweets": 27,
+      "replies": 85,
+      "quotes": 14,
+      "views": 169358,
+      "bookmarks": 63
+    },
+    "createdAt": "Thu Nov 19 22:28:09 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2123543880780132572",
+    "createdAtISO": "2026-11-19T22:28:09Z",
+    "createdAtLocal": "2026-11-20 06:28"
+  },
+  {
+    "id": "2123488317425820130",
+    "text": "Wow $ANT at a $1.74T valuation…\n\nis now worth hundreds of billions more than $META.\n\nDid anyone end up investing? https://t.co/qwMEVzFOli",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 760,
+      "retweets": 18,
+      "replies": 150,
+      "quotes": 8,
+      "views": 217559,
+      "bookmarks": 38
+    },
+    "createdAt": "Thu Nov 19 18:47:22 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2123488317425820130",
+    "createdAtISO": "2026-11-19T18:47:22Z",
+    "createdAtLocal": "2026-11-20 02:47"
+  },
+  {
+    "id": "2123401652782923980",
+    "text": "That’s the signal of confidence I like to see: $COHR issues a new $2B share buyback, through open market purchases.\n\nOptical industry looks very undervalued right now, especially as it reaches the inflection of the next supercycle.\n\nWe’re already seeing photonics-SOI substrate players go from $25M revenue -> $1.2B LTAs signed in a quarter.\n\nOr $100M backlog -> $500M in a quarter with InP substrates.\n\nAnd we’ll see acceleration for lasers, modules, and the optical supply chain next.\n\nI’m sure Coherent finds its own valuation very low now too, especially after signing $20B LTAs recently.",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1257,
+      "retweets": 72,
+      "replies": 98,
+      "quotes": 19,
+      "views": 229129,
+      "bookmarks": 201
+    },
+    "createdAt": "Thu Nov 19 13:02:59 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2123401652782923980",
+    "createdAtISO": "2026-11-19T13:02:59Z",
+    "createdAtLocal": "2026-11-19 21:02"
+  },
+  {
     "id": "2123173088598938033",
     "text": "$GOOGL releases benchmarks for  Gemini 4 Neon, ahead of $ANT IPO. https://t.co/S1qsTA3Qug",
     "author": {

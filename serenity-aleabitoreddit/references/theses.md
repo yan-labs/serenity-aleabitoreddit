@@ -28,6 +28,8 @@ his latest known stance (as of June 8, 2026). **Stance reversals are flagged wit
 
 ## Recent incremental updates after June 8, 2026
 
+- **Nov 19–20 optical-demand resilience / broader PCB allocation:** [2123401652782923980](https://x.com/aleabitoreddit/status/2123401652782923980) reads COHR’s announced `$2B` buyback alongside its reported `$20B` LTAs and sold-out capacity as management confidence in photonics demand; [2123588783753048553](https://x.com/aleabitoreddit/status/2123588783753048553) reiterates the optical thesis across LITE/COHR/MRVL, with procurement commitments, laser/CPO economics, and power- or memory-efficiency incentives supporting deployment even if aggregate AI capex slows. This is an optical-sector reaffirmation, not fresh AAOI order evidence. [2123851594811011470](https://x.com/aleabitoreddit/status/2123851594811011470) adds a broader PCB/CCL/fiberglass allocation warning affecting automotive, medical, defense and telecom, with industry relief not expected before mid-2028; this is adjacent infrastructure context rather than a direct AAOI catalyst. For AAOI, the posts are indirectly supportive of persistent optical demand and infrastructure constraints, while adding no company-specific order, shipment, valuation, or execution confirmation. Treat buyback/LTA and supply-timing claims as reported evidence to verify.
+
 The restored taxonomy below remains the full merged thesis base. This section
 preserves newer incremental live-feed updates that landed on `main` after the
 restore branch split.
