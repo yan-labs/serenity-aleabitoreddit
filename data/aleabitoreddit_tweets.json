@@ -1,5 +1,70 @@
 [
   {
+    "id": "2124865722342085117",
+    "text": "THE AI TRADE IS BACK \n\n$NVDA Board Reinstates Jensen Huang as CEO https://t.co/8s5s4AdkL2",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 3614,
+      "retweets": 209,
+      "replies": 177,
+      "quotes": 76,
+      "views": 318974,
+      "bookmarks": 89
+    },
+    "createdAt": "Mon Nov 23 14:00:40 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2124865722342085117",
+    "createdAtISO": "2026-11-23T14:00:40Z",
+    "createdAtLocal": "2026-11-23 22:00"
+  },
+  {
+    "id": "2124715837533859857",
+    "text": "President Trump: \"I hope the Board of Nvidia rehires Jensen Huang\"\n\nJensen's return to $NVDA is looking a lot more likely. \n\nEspecially with the support from the US president. https://t.co/0J9GEmGSJD https://t.co/1Of4Tn1R5J",
+    "author": {
+      "id": "1940360837547565056",
+      "name": "Serenity",
+      "screenName": "aleabitoreddit",
+      "profileImageUrl": null,
+      "verified": false
+    },
+    "metrics": {
+      "likes": 1720,
+      "retweets": 83,
+      "replies": 136,
+      "quotes": 27,
+      "views": 247518,
+      "bookmarks": 68
+    },
+    "createdAt": "Mon Nov 23 04:05:05 +0000 2026",
+    "media": [],
+    "urls": [
+      "https://twitter.com/aleabitoreddit/status/2124582975455318147"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2124715837533859857",
+    "quotedTweet": {
+      "id": "2124582975455318147"
+    },
+    "createdAtISO": "2026-11-23T04:05:05Z",
+    "createdAtLocal": "2026-11-23 12:05"
+  },
+  {
     "id": "2124582975455318147",
     "text": "Treasury Secretary Bessent on $NVDA, AI crash, and circular financing:\n\nQ: On Trump wanting Jensen Huang back.\nA: \"Well, I said they should go to the outside, but he's on the outside now\"\n\nQ: On AI market crash:\nA: \"The Democratic position on the SI buildout has spooked a lot of investors in terms of slowing\"\n\" hawkish remarks from the Federal Reserve... people believe they may be making a policy mistake if they over-tighten\"\n\"substantial tightening in financial conditions over the past few months\"\n\nQ: On circular financing:\nA: \"No, as Nvidia continues to be fantastically profitable, and there is near unlimited demand for their chips worldwide.\"\n\nLooks like the chances of Jensen returning and improving AI sentiment... have gone up materially with more support from Washington.",
     "author": {
